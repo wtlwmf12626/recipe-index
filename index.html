@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<title>My Recipe Index</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --accent: #B8613F;
+  --accent-light: #F3E4DB;
+  --accent-dark: #8B3E1F;
+  --sage: #6B8F71;
+  --sage-light: #E3EDE4;
+  --sage-dark: #4A6B4F;
+  --bg: #FAF7F2;
+  --card: #FFFFFF;
+  --text: #2C2926;
+  --text-secondary: #7A7167;
+  --text-hint: #A89F94;
+  --border: #E8E2D9;
+  --border-light: #F0ECE5;
+  --danger: #C44B4B;
+  --danger-light: #FCEAEA;
+  --warning: #B87A2E;
+  --warning-light: #FFF3E0;
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --nav-height: 64px;
+  --header-height: 56px;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* ── Header ── */
+.app-header {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  height: var(--header-height);
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center;
+  padding: 0 20px;
+}
+.app-header h1 {
+  font-family: var(--font-display);
+  font-size: 22px; font-weight: 400;
+  color: var(--accent);
+}
+
+/* ── Bottom Nav ── */
+.bottom-nav {
+  position: fixed; bottom: 0; left: 0; right: 0; z-index: 100;
+  height: var(--nav-height);
+  background: var(--card);
+  border-top: 1px solid var(--border);
+  display: flex; align-items: stretch;
+  padding-bottom: env(safe-area-inset-bottom, 0);
+}
+.nav-item {
+  flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 4px; cursor: pointer; border: none; background: none;
+  color: var(--text-hint); font-size: 11px; font-family: var(--font-body);
+  font-weight: 500; transition: color 0.2s;
+}
+.nav-item.active { color: var(--accent); }
+.nav-item svg { width: 22px; height: 22px; }
+.nav-item.active svg { stroke-width: 2.2; }
+
+/* ── Main Content ── */
+.main-content {
+  padding-top: var(--header-height);
+  padding-bottom: calc(var(--nav-height) + 16px);
+  min-height: 100vh;
+}
+.view { display: none; padding: 20px 16px; }
+.view.active { display: block; }
+
+/* ── Search + Filters ── */
+.search-bar {
+  display: flex; align-items: center; gap: 10px;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 10px 14px;
+  margin-bottom: 14px;
+}
+.search-bar svg { width: 18px; height: 18px; color: var(--text-hint); flex-shrink: 0; }
+.search-bar input {
+  flex: 1; border: none; outline: none; background: none;
+  font-size: 15px; font-family: var(--font-body); color: var(--text);
+}
+.search-bar input::placeholder { color: var(--text-hint); }
+
+.filter-row {
+  display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px;
+  margin-bottom: 18px; -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.filter-row::-webkit-scrollbar { display: none; }
+.chip {
+  flex-shrink: 0; padding: 6px 14px; border-radius: 99px;
+  font-size: 13px; font-weight: 500; cursor: pointer;
+  border: 1px solid var(--border); background: var(--card);
+  color: var(--text-secondary); transition: all 0.2s;
+  font-family: var(--font-body); white-space: nowrap;
+}
+.chip.active {
+  background: var(--accent); color: #fff; border-color: var(--accent);
+}
+
+/* ── Recipe Cards ── */
+.recipe-card {
+  background: var(--card); border: 1px solid var(--border-light);
+  border-radius: var(--radius); padding: 14px 16px;
+  margin-bottom: 10px; cursor: pointer; transition: border-color 0.2s;
+}
+.recipe-card:hover { border-color: var(--border); }
+.recipe-card-header {
+  display: flex; justify-content: space-between; align-items: flex-start; gap: 8px;
+}
+.recipe-card h3 {
+  font-family: var(--font-display); font-size: 17px; font-weight: 400;
+  line-height: 1.3;
+}
+.recipe-badge {
+  flex-shrink: 0; font-size: 11px; font-weight: 600; padding: 3px 10px;
+  border-radius: 99px; text-transform: uppercase; letter-spacing: 0.3px;
+}
+.badge-made { background: var(--sage-light); color: var(--sage-dark); }
+.badge-to-try { background: var(--warning-light); color: var(--warning); }
+.recipe-card-meta {
+  font-size: 13px; color: var(--text-hint); margin-top: 6px;
+}
+.fav-star { color: var(--accent); margin-left: 4px; }
+
+/* ── Recipe Detail View ── */
+.detail-back {
+  display: inline-flex; align-items: center; gap: 6px;
+  color: var(--accent); font-size: 14px; font-weight: 500;
+  cursor: pointer; background: none; border: none;
+  font-family: var(--font-body); margin-bottom: 16px;
+}
+.detail-back svg { width: 18px; height: 18px; }
+.detail-title {
+  font-family: var(--font-display); font-size: 26px; font-weight: 400;
+  line-height: 1.2; margin-bottom: 8px;
+}
+.detail-meta-row {
+  display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 6px;
+}
+.detail-pill {
+  font-size: 12px; font-weight: 500; padding: 4px 12px;
+  border-radius: 99px; background: var(--border-light); color: var(--text-secondary);
+}
+.detail-times {
+  font-size: 14px; color: var(--text-secondary); margin: 12px 0 20px;
+  display: flex; gap: 16px;
+}
+.detail-times span { display: flex; align-items: center; gap: 4px; }
+.detail-times svg { width: 16px; height: 16px; }
+
+.detail-section-title {
+  font-family: var(--font-display); font-size: 19px; font-weight: 400;
+  margin: 24px 0 12px; color: var(--accent-dark);
+}
+.ingredient-list { list-style: none; }
+.ingredient-list li {
+  padding: 8px 0; border-bottom: 1px solid var(--border-light);
+  font-size: 15px; display: flex; align-items: center; gap: 10px;
+}
+.ingredient-list li:last-child { border-bottom: none; }
+.ing-dot {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--accent); flex-shrink: 0;
+}
+.ing-qty { font-weight: 600; color: var(--accent-dark); }
+
+.instruction-list { list-style: none; counter-reset: steps; }
+.instruction-list li {
+  padding: 12px 0; border-bottom: 1px solid var(--border-light);
+  font-size: 15px; line-height: 1.6; display: flex; gap: 14px;
+}
+.instruction-list li:last-child { border-bottom: none; }
+.step-num {
+  counter-increment: steps;
+  flex-shrink: 0; width: 28px; height: 28px;
+  border-radius: 50%; background: var(--accent-light); color: var(--accent-dark);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 13px; font-weight: 600; margin-top: 2px;
+}
+.detail-notes {
+  background: var(--accent-light); border-radius: var(--radius);
+  padding: 14px 16px; font-size: 14px; line-height: 1.6;
+  color: var(--accent-dark); margin-top: 12px;
+}
+.detail-source {
+  font-size: 13px; color: var(--text-hint); margin-top: 20px;
+  padding-top: 16px; border-top: 1px solid var(--border-light);
+}
+.detail-source a { color: var(--accent); }
+
+/* ── Pantry View ── */
+.pantry-category-title {
+  font-size: 12px; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.8px; color: var(--text-hint);
+  margin: 20px 0 10px; padding-left: 2px;
+}
+.pantry-category-title:first-child { margin-top: 4px; }
+.pantry-item {
+  display: flex; align-items: center; gap: 12px;
+  padding: 11px 14px; background: var(--card);
+  border: 1px solid var(--border-light); border-radius: var(--radius-sm);
+  margin-bottom: 6px; cursor: pointer; transition: all 0.15s;
+  -webkit-user-select: none; user-select: none;
+}
+.pantry-item:active { transform: scale(0.98); }
+.pantry-checkbox {
+  width: 22px; height: 22px; border-radius: 6px; flex-shrink: 0;
+  border: 2px solid var(--border); display: flex;
+  align-items: center; justify-content: center; transition: all 0.15s;
+}
+.pantry-item.in-stock .pantry-checkbox {
+  background: var(--sage); border-color: var(--sage);
+}
+.pantry-item.in-stock .pantry-checkbox svg { display: block; }
+.pantry-checkbox svg { display: none; width: 14px; height: 14px; color: #fff; }
+.pantry-item-name { font-size: 15px; flex: 1; }
+.pantry-item.out-of-stock .pantry-item-name { color: var(--text-hint); }
+
+.pantry-stats {
+  display: flex; gap: 12px; margin-bottom: 18px;
+}
+.pantry-stat {
+  flex: 1; background: var(--card); border: 1px solid var(--border-light);
+  border-radius: var(--radius); padding: 12px 14px; text-align: center;
+}
+.pantry-stat-num {
+  font-family: var(--font-display); font-size: 24px; color: var(--accent);
+}
+.pantry-stat-label {
+  font-size: 12px; color: var(--text-hint); margin-top: 2px;
+}
+
+/* ── Cook Now View ── */
+.cook-section-title {
+  font-size: 13px; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.8px; margin: 20px 0 12px; display: flex;
+  align-items: center; gap: 8px;
+}
+.cook-section-title:first-child { margin-top: 4px; }
+.section-ready { color: var(--sage-dark); }
+.section-almost { color: var(--warning); }
+.section-needs-more { color: var(--text-hint); }
+
+.cook-card {
+  background: var(--card); border: 1px solid var(--border-light);
+  border-radius: var(--radius); padding: 14px 16px;
+  margin-bottom: 10px; cursor: pointer; transition: border-color 0.2s;
+}
+.cook-card:hover { border-color: var(--border); }
+.cook-card.ready { border-left: 4px solid var(--sage); }
+.cook-card.almost { border-left: 4px solid var(--warning); }
+.cook-card h3 {
+  font-family: var(--font-display); font-size: 17px; font-weight: 400;
+}
+.cook-match {
+  font-size: 13px; margin-top: 4px; color: var(--text-secondary);
+}
+.cook-match-bar {
+  height: 4px; border-radius: 2px; background: var(--border-light);
+  margin-top: 8px; overflow: hidden;
+}
+.cook-match-fill {
+  height: 100%; border-radius: 2px; transition: width 0.3s;
+}
+.cook-match-fill.full { background: var(--sage); }
+.cook-match-fill.partial { background: var(--warning); }
+.cook-match-fill.low { background: var(--border); }
+
+.missing-tags {
+  display: flex; flex-wrap: wrap; gap: 4px; margin-top: 8px;
+}
+.missing-tag {
+  font-size: 11px; font-weight: 500; padding: 3px 10px;
+  border-radius: 99px; background: var(--danger-light); color: var(--danger);
+}
+
+.empty-state {
+  text-align: center; padding: 48px 24px; color: var(--text-hint);
+}
+.empty-state p { font-size: 15px; line-height: 1.6; }
+
+/* ── Animations ── */
+@keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+.recipe-card, .pantry-item, .cook-card {
+  animation: fadeIn 0.3s ease both;
+}
+
+/* ── Responsive ── */
+@media (min-width: 600px) {
+  .view { padding: 24px; max-width: 540px; margin: 0 auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header class="app-header">
+  <h1>My Recipe Index</h1>
+</header>
+
+<!-- Main Content -->
+<main class="main-content">
+
+  <!-- Recipes View -->
+  <section id="view-recipes" class="view active">
+    <div class="search-bar">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="text" id="recipe-search" placeholder="Search recipes...">
+    </div>
+    <div class="filter-row" id="filter-row"></div>
+    <div id="recipe-list"></div>
+  </section>
+
+  <!-- Recipe Detail View -->
+  <section id="view-detail" class="view">
+    <button class="detail-back" id="detail-back">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="m15 18-6-6 6-6"/></svg>
+      Back
+    </button>
+    <div id="detail-content"></div>
+  </section>
+
+  <!-- Pantry View -->
+  <section id="view-pantry" class="view">
+    <div class="pantry-stats" id="pantry-stats"></div>
+    <div class="search-bar">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="text" id="pantry-search" placeholder="Search pantry items...">
+    </div>
+    <div id="pantry-list"></div>
+  </section>
+
+  <!-- Cook Now View -->
+  <section id="view-cook" class="view">
+    <div id="cook-list"></div>
+  </section>
+
+</main>
+
+<!-- Bottom Nav -->
+<nav class="bottom-nav">
+  <button class="nav-item active" data-view="recipes">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+    Recipes
+  </button>
+  <button class="nav-item" data-view="pantry">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 01-8 0"/></svg>
+    Pantry
+  </button>
+  <button class="nav-item" data-view="cook">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a5 5 0 015 5c0 2-1.5 3.5-3 4.5V13H10v-1.5C8.5 10.5 7 9 7 7a5 5 0 015-5z"/><path d="M10 13v3a2 2 0 004 0v-3"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="8" y1="22" x2="16" y2="22"/></svg>
+    Cook now
+  </button>
+</nav>
+
+<script>
+// ── State ──
+let recipes = [];
+let pantryItems = [];
+let pantryState = {}; // { key: true/false }
+let activeFilters = { category: 'all' };
+let currentView = 'recipes';
+let returnView = 'recipes';
+
+// ── Data Loading ──
+async function loadData() {
+  try {
+    const resp = await fetch('data.json');
+    const data = await resp.json();
+    recipes = data.recipes || [];
+    pantryItems = data.pantryItems || [];
+    loadPantryState();
+    renderAll();
+  } catch (e) {
+    console.error('Failed to load data.json:', e);
+    document.getElementById('recipe-list').innerHTML =
+      '<div class="empty-state"><p>Could not load recipes. Make sure data.json is in the same folder.</p></div>';
+  }
+}
+
+// ── Pantry localStorage ──
+function loadPantryState() {
+  try {
+    const saved = localStorage.getItem('recipebox-pantry');
+    if (saved) {
+      pantryState = JSON.parse(saved);
+    } else {
+      // Default: everything out of stock
+      pantryItems.forEach(item => { pantryState[item.key] = false; });
+    }
+  } catch (e) {
+    pantryItems.forEach(item => { pantryState[item.key] = false; });
+  }
+}
+
+function savePantryState() {
+  localStorage.setItem('recipebox-pantry', JSON.stringify(pantryState));
+}
+
+function togglePantryItem(key) {
+  pantryState[key] = !pantryState[key];
+  savePantryState();
+  renderPantry();
+  renderCookNow();
+}
+
+// ── Navigation ──
+document.querySelectorAll('.nav-item').forEach(btn => {
+  btn.addEventListener('click', () => switchView(btn.dataset.view));
+});
+
+function switchView(view) {
+  currentView = view;
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.getElementById('view-' + view).classList.add('active');
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+  document.querySelector(`.nav-item[data-view="${view}"]`).classList.add('active');
+  window.scrollTo(0, 0);
+}
+
+function showDetail(recipeId, from) {
+  returnView = from || 'recipes';
+  const recipe = recipes.find(r => r.id === recipeId);
+  if (!recipe) return;
+  renderDetail(recipe);
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.getElementById('view-detail').classList.add('active');
+  window.scrollTo(0, 0);
+}
+
+document.getElementById('detail-back').addEventListener('click', () => {
+  switchView(returnView);
+});
+
+// ── Filters ──
+function buildFilters() {
+  const filters = [
+    { label: 'All', value: 'all' },
+    { label: 'Favorites', value: 'favorite' },
+    { label: 'To-try', value: 'to-try' },
+    { label: 'Made', value: 'made' },
+    { label: 'Quick', value: 'quick' },
+    { label: 'Moderate', value: 'moderate' },
+    { label: 'Dinner', value: 'dinner' },
+    { label: 'Breakfast', value: 'breakfast' },
+    { label: 'Dessert', value: 'dessert' },
+    { label: 'Chicken', value: 'chicken' },
+    { label: 'Fish', value: 'fish' },
+    { label: 'Vegetarian', value: 'vegetarian' },
+    { label: 'Italian', value: 'italian' },
+    { label: 'Asian', value: 'asian' },
+    { label: 'American', value: 'american' },
+  ];
+  const row = document.getElementById('filter-row');
+  row.innerHTML = filters.map(f =>
+    `<button class="chip ${f.value === activeFilters.category ? 'active' : ''}" data-filter="${f.value}">${f.label}</button>`
+  ).join('');
+  row.querySelectorAll('.chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      activeFilters.category = chip.dataset.filter;
+      row.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      renderRecipeList();
+    });
+  });
+}
+
+function filterRecipes() {
+  let filtered = [...recipes];
+  const search = document.getElementById('recipe-search').value.toLowerCase().trim();
+  const cat = activeFilters.category;
+
+  if (search) {
+    filtered = filtered.filter(r =>
+      r.name.toLowerCase().includes(search) ||
+      r.ingredients.some(i => i.name.toLowerCase().includes(search)) ||
+      r.cuisine.some(c => c.toLowerCase().includes(search)) ||
+      r.protein.some(p => p.toLowerCase().includes(search))
+    );
+  }
+
+  if (cat !== 'all') {
+    filtered = filtered.filter(r => {
+      if (cat === 'favorite') return r.favorite;
+      if (cat === 'to-try') return r.status === 'to-try';
+      if (cat === 'made') return r.status === 'made';
+      if (cat === 'quick' || cat === 'moderate' || cat === 'project') return r.effort === cat;
+      if (r.mealType.some(m => m.toLowerCase() === cat)) return true;
+      if (r.cuisine.some(c => c.toLowerCase() === cat)) return true;
+      if (r.protein.some(p => p.toLowerCase() === cat)) return true;
+      return false;
+    });
+  }
+
+  return filtered;
+}
+
+// ── Rendering ──
+function renderAll() {
+  buildFilters();
+  renderRecipeList();
+  renderPantry();
+  renderCookNow();
+}
+
+function renderRecipeList() {
+  const filtered = filterRecipes();
+  const container = document.getElementById('recipe-list');
+
+  if (filtered.length === 0) {
+    container.innerHTML = '<div class="empty-state"><p>No recipes match your search or filter.</p></div>';
+    return;
+  }
+
+  container.innerHTML = filtered.map((r, i) => {
+    const tags = [...r.cuisine, ...r.protein.filter(p => p !== 'vegetarian' ? true : true), r.effort].filter(Boolean);
+    const tagStr = tags.map(t => t.charAt(0).toUpperCase() + t.slice(1)).join(' · ');
+    const badgeClass = r.status === 'made' ? 'badge-made' : 'badge-to-try';
+    const badgeLabel = r.status === 'made' ? 'Made' : 'To-try';
+    const star = r.favorite ? '<span class="fav-star">★</span>' : '';
+    return `
+      <div class="recipe-card" onclick="showDetail('${r.id}','recipes')" style="animation-delay: ${i * 0.04}s">
+        <div class="recipe-card-header">
+          <h3>${r.name}${star}</h3>
+          <span class="recipe-badge ${badgeClass}">${badgeLabel}</span>
+        </div>
+        <div class="recipe-card-meta">${tagStr}</div>
+      </div>`;
+  }).join('');
+}
+
+function renderDetail(recipe) {
+  const badgeClass = recipe.status === 'made' ? 'badge-made' : 'badge-to-try';
+  const badgeLabel = recipe.status === 'made' ? 'Made' : 'To-try';
+  const tags = [...recipe.mealType, ...recipe.cuisine, ...recipe.protein];
+  const star = recipe.favorite ? ' ★' : '';
+
+  let sourceHtml = `<div class="detail-source">Source: ${recipe.source}`;
+  if (recipe.sourceUrl) {
+    sourceHtml += ` — <a href="${recipe.sourceUrl}" target="_blank" rel="noopener">View original</a>`;
+  }
+  sourceHtml += '</div>';
+
+  let notesHtml = '';
+  if (recipe.notes) {
+    notesHtml = `<div class="detail-notes">${recipe.notes}</div>`;
+  }
+
+  document.getElementById('detail-content').innerHTML = `
+    <h2 class="detail-title">${recipe.name}${star}</h2>
+    <div class="detail-meta-row">
+      <span class="recipe-badge ${badgeClass}">${badgeLabel}</span>
+      ${tags.map(t => `<span class="detail-pill">${t}</span>`).join('')}
+      <span class="detail-pill">${recipe.effort}</span>
+    </div>
+    <div class="detail-times">
+      <span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        Prep: ${recipe.prepTime}
+      </span>
+      <span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        Cook: ${recipe.cookTime}
+      </span>
+      <span>Serves ${recipe.servings}</span>
+    </div>
+
+    <h3 class="detail-section-title">Ingredients</h3>
+    <ul class="ingredient-list">
+      ${recipe.ingredients.map(ing => {
+        const qtyStr = ing.qty ? `<span class="ing-qty">${formatQty(ing.qty)} ${ing.unit}</span>` : '';
+        const inStock = pantryState[ing.pantryKey];
+        return `<li>
+          <span class="ing-dot" style="background: ${inStock ? 'var(--sage)' : 'var(--accent)'}"></span>
+          ${qtyStr} ${ing.name}
+        </li>`;
+      }).join('')}
+    </ul>
+
+    <h3 class="detail-section-title">Instructions</h3>
+    <ol class="instruction-list">
+      ${recipe.instructions.map((step, i) => `
+        <li>
+          <span class="step-num">${i + 1}</span>
+          <span>${step}</span>
+        </li>
+      `).join('')}
+    </ol>
+
+    ${notesHtml}
+    ${sourceHtml}
+  `;
+}
+
+function formatQty(qty) {
+  if (qty === 0.25) return '¼';
+  if (qty === 0.33) return '⅓';
+  if (qty === 0.5) return '½';
+  if (qty === 0.75) return '¾';
+  if (qty % 1 === 0) return qty.toString();
+  return qty.toString();
+}
+
+function renderPantry() {
+  const search = document.getElementById('pantry-search')?.value.toLowerCase().trim() || '';
+  const categories = {
+    'protein': 'Proteins',
+    'dairy': 'Dairy',
+    'produce': 'Produce',
+    'grain': 'Grains & pasta',
+    'pantry-staple': 'Pantry staples',
+    'spice': 'Spices & seasonings'
+  };
+
+  // Stats
+  const inStockCount = pantryItems.filter(i => pantryState[i.key]).length;
+  document.getElementById('pantry-stats').innerHTML = `
+    <div class="pantry-stat">
+      <div class="pantry-stat-num">${inStockCount}</div>
+      <div class="pantry-stat-label">In stock</div>
+    </div>
+    <div class="pantry-stat">
+      <div class="pantry-stat-num">${pantryItems.length - inStockCount}</div>
+      <div class="pantry-stat-label">Out of stock</div>
+    </div>
+    <div class="pantry-stat">
+      <div class="pantry-stat-num">${pantryItems.length}</div>
+      <div class="pantry-stat-label">Total items</div>
+    </div>
+  `;
+
+  let html = '';
+  let itemIndex = 0;
+  for (const [cat, label] of Object.entries(categories)) {
+    let items = pantryItems.filter(i => i.category === cat);
+    if (search) {
+      items = items.filter(i => i.name.toLowerCase().includes(search));
+    }
+    if (items.length === 0) continue;
+
+    html += `<div class="pantry-category-title">${label}</div>`;
+    items.forEach(item => {
+      const inStock = pantryState[item.key];
+      const cls = inStock ? 'in-stock' : 'out-of-stock';
+      html += `
+        <div class="pantry-item ${cls}" onclick="togglePantryItem('${item.key}')" style="animation-delay: ${itemIndex * 0.03}s">
+          <div class="pantry-checkbox">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          </div>
+          <span class="pantry-item-name">${item.name}</span>
+        </div>`;
+      itemIndex++;
+    });
+  }
+
+  document.getElementById('pantry-list').innerHTML = html || '<div class="empty-state"><p>No items match your search.</p></div>';
+}
+
+function renderCookNow() {
+  const scored = recipes.map(r => {
+    const uniqueKeys = [...new Set(r.ingredients.map(i => i.pantryKey))];
+    const total = uniqueKeys.length;
+    const inStock = uniqueKeys.filter(k => pantryState[k]).length;
+    const missing = uniqueKeys.filter(k => !pantryState[k]);
+    const missingNames = missing.map(k => {
+      const item = pantryItems.find(p => p.key === k);
+      return item ? item.name : k;
+    });
+    const pct = total > 0 ? Math.round((inStock / total) * 100) : 0;
+    return { ...r, total, inStock, missing, missingNames, pct };
+  }).sort((a, b) => b.pct - a.pct);
+
+  const ready = scored.filter(r => r.pct === 100);
+  const almost = scored.filter(r => r.pct >= 60 && r.pct < 100);
+  const needsMore = scored.filter(r => r.pct < 60);
+
+  let html = '';
+
+  if (ready.length === 0 && almost.length === 0 && needsMore.length === 0) {
+    html = '<div class="empty-state"><p>Add some items to your pantry to see what you can cook.</p></div>';
+  } else {
+    if (ready.length > 0) {
+      html += `<div class="cook-section-title section-ready">Ready to cook (${ready.length})</div>`;
+      html += ready.map((r, i) => cookCard(r, 'ready', i)).join('');
+    }
+    if (almost.length > 0) {
+      html += `<div class="cook-section-title section-almost">Almost there (${almost.length})</div>`;
+      html += almost.map((r, i) => cookCard(r, 'almost', i)).join('');
+    }
+    if (needsMore.length > 0) {
+      html += `<div class="cook-section-title section-needs-more">Needs shopping (${needsMore.length})</div>`;
+      html += needsMore.map((r, i) => cookCard(r, 'needs', i)).join('');
+    }
+  }
+
+  document.getElementById('cook-list').innerHTML = html;
+}
+
+function cookCard(r, tier, i) {
+  const fillClass = tier === 'ready' ? 'full' : tier === 'almost' ? 'partial' : 'low';
+  const cardClass = tier === 'ready' ? 'ready' : tier === 'almost' ? 'almost' : '';
+  const missingHtml = r.missingNames.length > 0
+    ? `<div class="missing-tags">${r.missingNames.map(n => `<span class="missing-tag">${n}</span>`).join('')}</div>`
+    : '';
+
+  return `
+    <div class="cook-card ${cardClass}" onclick="showDetail('${r.id}','cook')" style="animation-delay: ${i * 0.04}s">
+      <h3>${r.name}</h3>
+      <div class="cook-match">${r.inStock}/${r.total} ingredients in stock</div>
+      <div class="cook-match-bar"><div class="cook-match-fill ${fillClass}" style="width: ${r.pct}%"></div></div>
+      ${missingHtml}
+    </div>`;
+}
+
+// ── Search Listeners ──
+document.getElementById('recipe-search').addEventListener('input', renderRecipeList);
+document.getElementById('pantry-search').addEventListener('input', renderPantry);
+
+// ── Init ──
+loadData();
+</script>
+</body>
+</html>
