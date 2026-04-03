@@ -7,42 +7,99 @@
     {
       "id": "r001",
       "name": "Beef Stroganoff 1",
-      "source": "Community cookbook — Mrs. Mac Pike (Tish)",
+      "source": "Community cookbook \u2014 Mrs. Mac Pike (Tish)",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
-      "mealType": ["dinner"],
-      "cuisine": ["American", "Russian"],
-      "protein": ["beef"],
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American",
+        "Russian"
+      ],
+      "protein": [
+        "beef"
+      ],
       "effort": "project",
-      "status": "to-try",
+      "status": "made",
       "favorite": false,
       "servings": 20,
       "prepTime": "30 min",
       "cookTime": "1 hr 30 min",
       "ingredients": [
-        { "name": "sirloin tip", "qty": 8, "unit": "lbs", "pantryKey": "sirloin-tip" },
-        { "name": "Adolph's meat tenderizer", "qty": 1, "unit": "", "pantryKey": "meat-tenderizer" },
-        { "name": "fresh mushrooms", "qty": 4, "unit": "lbs", "pantryKey": "mushrooms" },
-        { "name": "large onions, chopped", "qty": 5, "unit": "", "pantryKey": "onion" },
-        { "name": "butter", "qty": 0.5, "unit": "lb", "pantryKey": "butter" },
-        { "name": "beef bouillon (10½ oz cans)", "qty": 4, "unit": "", "pantryKey": "beef-bouillon" },
-        { "name": "flour", "qty": 0.75, "unit": "cup", "pantryKey": "flour" },
-        { "name": "sour cream", "qty": 3, "unit": "cups", "pantryKey": "sour-cream" },
-        { "name": "tomato juice", "qty": 2, "unit": "cups", "pantryKey": "tomato-juice" },
-        { "name": "Rhine wine", "qty": 1, "unit": "cup", "pantryKey": "white-wine" }
+        {
+          "name": "sirloin tip",
+          "qty": 8,
+          "unit": "lbs",
+          "pantryKey": "sirloin-tip"
+        },
+        {
+          "name": "Adolph's meat tenderizer",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "meat-tenderizer"
+        },
+        {
+          "name": "fresh mushrooms",
+          "qty": 4,
+          "unit": "lbs",
+          "pantryKey": "mushrooms"
+        },
+        {
+          "name": "large onions, chopped",
+          "qty": 5,
+          "unit": "",
+          "pantryKey": "onion"
+        },
+        {
+          "name": "butter",
+          "qty": 0.5,
+          "unit": "lb",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "beef bouillon (10\u00bd oz cans)",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "beef-bouillon"
+        },
+        {
+          "name": "flour",
+          "qty": 0.75,
+          "unit": "cup",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "sour cream",
+          "qty": 3,
+          "unit": "cups",
+          "pantryKey": "sour-cream"
+        },
+        {
+          "name": "tomato juice",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "tomato-juice"
+        },
+        {
+          "name": "Rhine wine",
+          "qty": 1,
+          "unit": "cup",
+          "pantryKey": "white-wine"
+        }
       ],
       "instructions": [
-        "Slice meat into thin strips about 1½ inches wide and 2-3 inches long. Sprinkle lightly with tenderizer, toss and refrigerate.",
-        "Cut off mushroom stems even with the caps and slice mushrooms. Sauté ¼ of the onions in 3 Tbs. butter until almost clear, but not brown. Add ¼ of the mushrooms and sauté until just tender. Remove to a 12 quart enamel roasting pan.",
-        "Sauté remaining onions and mushrooms in same manner, i.e., in four batches. You may need to add a little butter each time.",
+        "Slice meat into thin strips about 1\u00bd inches wide and 2-3 inches long. Sprinkle lightly with tenderizer, toss and refrigerate.",
+        "Cut off mushroom stems even with the caps and slice mushrooms. Saut\u00e9 \u00bc of the onions in 3 Tbs. butter until almost clear, but not brown. Add \u00bc of the mushrooms and saut\u00e9 until just tender. Remove to a 12 quart enamel roasting pan.",
+        "Saut\u00e9 remaining onions and mushrooms in same manner, i.e., in four batches. You may need to add a little butter each time.",
         "In same skillet in which vegetables have been cooked, brown meat a little at a time with a minimum of butter, removing it to the roasting pan as it browns.",
         "Put in 2 cans of bouillon and the flour in a blender and blend until smooth. Set aside.",
         "Pour remaining cans of bouillon into skillet and stir and scrape to deglaze the pan. Add bouillon and flour mixture, stirring as you add to keep smooth.",
         "Add tomato juice and Rhine wine. Pour over the meat and vegetables in roasting pan. Season to taste.",
-        "About 1½ hours before serving, place in a 375 degree oven and bring to a simmer, stirring occasionally.",
+        "About 1\u00bd hours before serving, place in a 375 degree oven and bring to a simmer, stirring occasionally.",
         "Just before serving, add sour cream and a splash of Rhine wine. Serve with buttered noodles or long grain and wild rice."
       ],
-      "notes": "Can easily be halved. Great recipe for a crowd. 375°F oven, 12 quart enamel roasting pan."
+      "notes": "Can easily be halved. Great recipe for a crowd. 375\u00b0F oven, 12 quart enamel roasting pan."
     },
     {
       "id": "r002",
@@ -50,32 +107,74 @@
       "source": "Vintage cookbook (red headers)",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
-      "mealType": ["dinner"],
-      "cuisine": ["American", "Russian"],
-      "protein": ["beef"],
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American",
+        "Russian"
+      ],
+      "protein": [
+        "beef"
+      ],
       "effort": "moderate",
-      "status": "to-try",
+      "status": "made",
       "favorite": false,
       "servings": 6,
       "prepTime": "15 min",
       "cookTime": "1 hr 15 min",
       "ingredients": [
-        { "name": "fresh mushrooms, sliced", "qty": 0.5, "unit": "lb", "pantryKey": "mushrooms" },
-        { "name": "large onion, chopped", "qty": 1, "unit": "", "pantryKey": "onion" },
-        { "name": "butter", "qty": 0.25, "unit": "cup", "pantryKey": "butter" },
-        { "name": "round steak (¼ to ½\" thick)", "qty": 2, "unit": "lbs", "pantryKey": "round-steak" },
-        { "name": "salt", "qty": 1, "unit": "tsp", "pantryKey": "salt" },
-        { "name": "bouillon or consommé (10½ oz can), diluted to make 2 cups", "qty": 1, "unit": "", "pantryKey": "beef-bouillon" },
-        { "name": "sour cream", "qty": 1, "unit": "cup", "pantryKey": "sour-cream" }
+        {
+          "name": "fresh mushrooms, sliced",
+          "qty": 0.5,
+          "unit": "lb",
+          "pantryKey": "mushrooms"
+        },
+        {
+          "name": "large onion, chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onion"
+        },
+        {
+          "name": "butter",
+          "qty": 0.25,
+          "unit": "cup",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "round steak (\u00bc to \u00bd\" thick)",
+          "qty": 2,
+          "unit": "lbs",
+          "pantryKey": "round-steak"
+        },
+        {
+          "name": "salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "bouillon or consomm\u00e9 (10\u00bd oz can), diluted to make 2 cups",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "beef-bouillon"
+        },
+        {
+          "name": "sour cream",
+          "qty": 1,
+          "unit": "cup",
+          "pantryKey": "sour-cream"
+        }
       ],
       "instructions": [
-        "Sauté mushrooms and onion in 2 tbsp. butter and remove from pan.",
-        "Remove fat and bone from steak. Cut into strips 2½\" long and ¾\" wide.",
+        "Saut\u00e9 mushrooms and onion in 2 tbsp. butter and remove from pan.",
+        "Remove fat and bone from steak. Cut into strips 2\u00bd\" long and \u00be\" wide.",
         "Melt additional 2 tbsp. butter in pan. Toss strips of meat in flour, coating thoroughly. Brown meat in butter.",
-        "Add salt and bouillon-water mixture. Simmer, stirring occasionally, until meat is tender, about 1¼ hours.",
+        "Add salt and bouillon-water mixture. Simmer, stirring occasionally, until meat is tender, about 1\u00bc hours.",
         "Add mushrooms, onions and sour cream; heat. Serve over noodles or rice."
       ],
-      "notes": "Uses round steak — more economical cut. Simple, classic version."
+      "notes": "Uses round steak \u2014 more economical cut. Simple, classic version."
     },
     {
       "id": "r003",
@@ -83,9 +182,16 @@
       "source": "Ring binder cookbook",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
-      "mealType": ["dinner"],
-      "cuisine": ["American", "Russian"],
-      "protein": ["beef"],
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American",
+        "Russian"
+      ],
+      "protein": [
+        "beef"
+      ],
       "effort": "moderate",
       "status": "to-try",
       "favorite": false,
@@ -93,21 +199,71 @@
       "prepTime": "20 min",
       "cookTime": "30 min",
       "ingredients": [
-        { "name": "beef tenderloin or boneless top loin steak (½ inch thick)", "qty": 1.5, "unit": "lbs", "pantryKey": "beef-tenderloin" },
-        { "name": "margarine or butter", "qty": 2, "unit": "tbsp", "pantryKey": "butter" },
-        { "name": "beef broth", "qty": 1.5, "unit": "cups", "pantryKey": "beef-broth" },
-        { "name": "ketchup", "qty": 2, "unit": "tbsp", "pantryKey": "ketchup" },
-        { "name": "salt", "qty": 1, "unit": "tsp", "pantryKey": "salt" },
-        { "name": "garlic clove, finely chopped", "qty": 1, "unit": "", "pantryKey": "garlic" },
-        { "name": "sliced mushrooms (8 oz)", "qty": 3, "unit": "cups", "pantryKey": "mushrooms" },
-        { "name": "medium onion, chopped (½ cup)", "qty": 1, "unit": "", "pantryKey": "onion" },
-        { "name": "all-purpose flour", "qty": 3, "unit": "tbsp", "pantryKey": "flour" },
-        { "name": "sour cream or plain yogurt", "qty": 1, "unit": "cup", "pantryKey": "sour-cream" }
+        {
+          "name": "beef tenderloin or boneless top loin steak (\u00bd inch thick)",
+          "qty": 1.5,
+          "unit": "lbs",
+          "pantryKey": "beef-tenderloin"
+        },
+        {
+          "name": "margarine or butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "beef broth",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": "beef-broth"
+        },
+        {
+          "name": "ketchup",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "ketchup"
+        },
+        {
+          "name": "salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "garlic clove, finely chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "sliced mushrooms (8 oz)",
+          "qty": 3,
+          "unit": "cups",
+          "pantryKey": "mushrooms"
+        },
+        {
+          "name": "medium onion, chopped (\u00bd cup)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onion"
+        },
+        {
+          "name": "all-purpose flour",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "sour cream or plain yogurt",
+          "qty": 1,
+          "unit": "cup",
+          "pantryKey": "sour-cream"
+        }
       ],
       "instructions": [
-        "Cut beef across grain into about 1½ x ½ inch strips. (Beef is easier to cut if partially frozen, about 1 hour.)",
+        "Cut beef across grain into about 1\u00bd x \u00bd inch strips. (Beef is easier to cut if partially frozen, about 1 hour.)",
         "Melt margarine in 10-inch skillet over medium-high heat. Cook beef in margarine, stirring occasionally, until brown.",
-        "Reserve ⅓ cup of the broth. Stir remaining broth, the ketchup, salt and garlic into skillet. Heat to boiling; reduce heat to low. Cover and simmer about 10 minutes or until beef is tender.",
+        "Reserve \u2153 cup of the broth. Stir remaining broth, the ketchup, salt and garlic into skillet. Heat to boiling; reduce heat to low. Cover and simmer about 10 minutes or until beef is tender.",
         "Stir in mushrooms and onion. Cover and simmer about 5 minutes or until onion is tender.",
         "Shake reserved broth and the flour in tightly covered container; gradually stir into beef mixture. Heat to boiling, stirring constantly. Boil and stir 1 minute; reduce heat to low.",
         "Stir in sour cream; cook until hot. Serve over noodles."
@@ -117,12 +273,18 @@
     {
       "id": "r004",
       "name": "Beef and Beer Stew",
-      "source": "Community cookbook — Mrs. Morgan Talbot (Jane)",
+      "source": "Community cookbook \u2014 Mrs. Morgan Talbot (Jane)",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
-      "mealType": ["dinner"],
-      "cuisine": ["American"],
-      "protein": ["beef"],
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "beef"
+      ],
       "effort": "project",
       "status": "to-try",
       "favorite": false,
@@ -130,32 +292,107 @@
       "prepTime": "20 min",
       "cookTime": "2 hrs",
       "ingredients": [
-        { "name": "flour, unsifted", "qty": 0.25, "unit": "cup", "pantryKey": "flour" },
-        { "name": "salt", "qty": 3.5, "unit": "tsp", "pantryKey": "salt" },
-        { "name": "pepper", "qty": 0.5, "unit": "tsp", "pantryKey": "pepper" },
-        { "name": "chuck, cut in 1-inch cubes", "qty": 2, "unit": "lbs", "pantryKey": "beef-chuck" },
-        { "name": "salad oil", "qty": 0.5, "unit": "cup", "pantryKey": "vegetable-oil" },
-        { "name": "onions, peeled and sliced", "qty": 2, "unit": "lbs", "pantryKey": "onion" },
-        { "name": "garlic clove, crushed", "qty": 1, "unit": "", "pantryKey": "garlic" },
-        { "name": "light beer (12 oz can)", "qty": 1, "unit": "", "pantryKey": "beer" },
-        { "name": "soy sauce", "qty": 1, "unit": "tbsp", "pantryKey": "soy-sauce" },
-        { "name": "Worcestershire sauce", "qty": 1, "unit": "tbsp", "pantryKey": "worcestershire" },
-        { "name": "steak sauce", "qty": 1, "unit": "tbsp", "pantryKey": "steak-sauce" },
-        { "name": "bay leaves", "qty": 2, "unit": "", "pantryKey": "bay-leaves" },
-        { "name": "dried thyme leaves", "qty": 1, "unit": "tsp", "pantryKey": "thyme" },
-        { "name": "potatoes", "qty": 2, "unit": "lbs", "pantryKey": "potatoes" },
-        { "name": "parsley, chopped", "qty": 2, "unit": "tbsp", "pantryKey": "parsley" }
+        {
+          "name": "flour, unsifted",
+          "qty": 0.25,
+          "unit": "cup",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "salt",
+          "qty": 3.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "pepper",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "pepper"
+        },
+        {
+          "name": "chuck, cut in 1-inch cubes",
+          "qty": 2,
+          "unit": "lbs",
+          "pantryKey": "beef-chuck"
+        },
+        {
+          "name": "salad oil",
+          "qty": 0.5,
+          "unit": "cup",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "onions, peeled and sliced",
+          "qty": 2,
+          "unit": "lbs",
+          "pantryKey": "onion"
+        },
+        {
+          "name": "garlic clove, crushed",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "light beer (12 oz can)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "beer"
+        },
+        {
+          "name": "soy sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "soy-sauce"
+        },
+        {
+          "name": "Worcestershire sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "worcestershire"
+        },
+        {
+          "name": "steak sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "steak-sauce"
+        },
+        {
+          "name": "bay leaves",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "dried thyme leaves",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "potatoes",
+          "qty": 2,
+          "unit": "lbs",
+          "pantryKey": "potatoes"
+        },
+        {
+          "name": "parsley, chopped",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "parsley"
+        }
       ],
       "instructions": [
-        "In large bowl combine flour, 2½ tsp. salt, and pepper. Add chuck, tossing to coat. Set aside.",
-        "Heat ¼ cup oil in 4 quart Dutch oven or kettle. In oil, sauté onion and garlic until tender, 8 to 10 minutes. Remove from Dutch oven.",
+        "In large bowl combine flour, 2\u00bd tsp. salt, and pepper. Add chuck, tossing to coat. Set aside.",
+        "Heat \u00bc cup oil in 4 quart Dutch oven or kettle. In oil, saut\u00e9 onion and garlic until tender, 8 to 10 minutes. Remove from Dutch oven.",
         "Heat remaining oil. Add chuck, brown well on all sides.",
         "Return onion and garlic to Dutch oven, along with beer, soy sauce, Worcestershire sauce, steak sauce, bay leaves, and thyme. Mix well. Bring mixture to boiling.",
         "Reduce heat; simmer, covered 2 hours or until meat is tender.",
         "Meanwhile, pare potatoes, cut into quarters. Add potatoes and 1 tsp. salt to 1 inch boiling water; simmer, covered 20 minutes or until potatoes are tender.",
         "Drain potatoes well. Toss with parsley. To serve, turn stew mixture into serving dish. Surround the stew with potatoes."
       ],
-      "notes": "Dutch oven recipe. Low and slow — hearty and rich."
+      "notes": "Dutch oven recipe. Low and slow \u2014 hearty and rich."
     },
     {
       "id": "r005",
@@ -163,9 +400,15 @@
       "source": "Community cookbook",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
-      "mealType": ["dinner"],
-      "cuisine": ["American"],
-      "protein": ["beef"],
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "beef"
+      ],
       "effort": "quick",
       "status": "to-try",
       "favorite": false,
@@ -173,55 +416,147 @@
       "prepTime": "10 min",
       "cookTime": "5 hrs",
       "ingredients": [
-        { "name": "beef stew meat, cubed", "qty": 2, "unit": "lbs", "pantryKey": "beef-stew-meat" },
-        { "name": "tiny peas (17 oz can)", "qty": 1, "unit": "", "pantryKey": "canned-peas" },
-        { "name": "carrots, sliced", "qty": 1, "unit": "cup", "pantryKey": "carrots" },
-        { "name": "onions, chopped", "qty": 2, "unit": "", "pantryKey": "onion" },
-        { "name": "salt", "qty": 1, "unit": "tsp", "pantryKey": "salt" },
-        { "name": "pepper", "qty": 1, "unit": "dash", "pantryKey": "pepper" },
-        { "name": "cream of tomato soup (10¾ oz can)", "qty": 1, "unit": "", "pantryKey": "cream-of-tomato-soup" },
-        { "name": "water (½ soup can)", "qty": 0.5, "unit": "cup", "pantryKey": "water" },
-        { "name": "big raw potato, sliced", "qty": 1, "unit": "", "pantryKey": "potatoes" }
+        {
+          "name": "beef stew meat, cubed",
+          "qty": 2,
+          "unit": "lbs",
+          "pantryKey": "beef-stew-meat"
+        },
+        {
+          "name": "tiny peas (17 oz can)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "canned-peas"
+        },
+        {
+          "name": "carrots, sliced",
+          "qty": 1,
+          "unit": "cup",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "onions, chopped",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "onion"
+        },
+        {
+          "name": "salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "pepper",
+          "qty": 1,
+          "unit": "dash",
+          "pantryKey": "pepper"
+        },
+        {
+          "name": "cream of tomato soup (10\u00be oz can)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "cream-of-tomato-soup"
+        },
+        {
+          "name": "water (\u00bd soup can)",
+          "qty": 0.5,
+          "unit": "cup",
+          "pantryKey": "water"
+        },
+        {
+          "name": "big raw potato, sliced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "potatoes"
+        }
       ],
       "instructions": [
         "Mix all ingredients together in a large casserole dish and cover tightly.",
         "Put casserole in 275 degree oven. Let cook for 5 hours, without checking."
       ],
-      "notes": "Can also be cooked in a crock pot. 275°F, 2-3 quart casserole dish, covered. True set-it-and-forget-it."
+      "notes": "Can also be cooked in a crock pot. 275\u00b0F, 2-3 quart casserole dish, covered. True set-it-and-forget-it."
     },
     {
       "id": "r006",
       "name": "Jordan Marsh's Blueberry Muffins",
-      "source": "Cookbook — adapted from Marion Cunningham / Bridge Creek Restaurant, Berkeley, CA (1987)",
+      "source": "Cookbook \u2014 adapted from Marion Cunningham / Bridge Creek Restaurant, Berkeley, CA (1987)",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
-      "mealType": ["breakfast", "snack"],
-      "cuisine": ["American"],
-      "protein": ["vegetarian"],
+      "mealType": [
+        "breakfast",
+        "snack"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
       "effort": "moderate",
-      "status": "to-try",
+      "status": "made",
       "favorite": false,
       "servings": 12,
       "prepTime": "15 min",
       "cookTime": "30 min",
       "ingredients": [
-        { "name": "all-purpose flour", "qty": 2, "unit": "cups", "pantryKey": "flour" },
-        { "name": "salt", "qty": 0.5, "unit": "tsp", "pantryKey": "salt" },
-        { "name": "baking powder", "qty": 2, "unit": "tsp", "pantryKey": "baking-powder" },
-        { "name": "unsalted butter, softened", "qty": 8, "unit": "tbsp", "pantryKey": "butter" },
-        { "name": "sugar (1¼ cups plus 1 tablespoon)", "qty": 1.3, "unit": "cups", "pantryKey": "sugar" },
-        { "name": "large eggs", "qty": 2, "unit": "", "pantryKey": "eggs" },
-        { "name": "whole milk", "qty": 0.5, "unit": "cup", "pantryKey": "milk" },
-        { "name": "blueberries, rinsed and picked over", "qty": 2, "unit": "cups", "pantryKey": "blueberries" }
+        {
+          "name": "all-purpose flour",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "baking powder",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "baking-powder"
+        },
+        {
+          "name": "unsalted butter, softened",
+          "qty": 8,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "sugar (1\u00bc cups plus 1 tablespoon)",
+          "qty": 1.3,
+          "unit": "cups",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "large eggs",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "whole milk",
+          "qty": 0.5,
+          "unit": "cup",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "blueberries, rinsed and picked over",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "blueberries"
+        }
       ],
       "instructions": [
         "Heat the oven to 375 degrees. Grease 12 large muffin cups. Sift together the flour, salt, and baking powder.",
-        "Cream the butter and 1¼ cups sugar in a large bowl until light. Add the eggs one at a time, beating well after each addition. Add to the flour mixture alternately with the milk, beating just until smooth.",
-        "Crush ½ cup blueberries with a fork, and mix into the batter. Fold in the remaining whole berries.",
+        "Cream the butter and 1\u00bc cups sugar in a large bowl until light. Add the eggs one at a time, beating well after each addition. Add to the flour mixture alternately with the milk, beating just until smooth.",
+        "Crush \u00bd cup blueberries with a fork, and mix into the batter. Fold in the remaining whole berries.",
         "Fill the muffin cups with batter. Sprinkle the remaining tablespoon of sugar over the tops of the muffins. Bake until a toothpick inserted in the center comes out clean, about 30 minutes. Cool for 30 minutes before removing from the pan.",
-        "Store uncovered, or the muffins will be too moist the second day — if they last that long."
+        "Store uncovered, or the muffins will be too moist the second day \u2014 if they last that long."
       ],
-      "notes": "The trick is crushing some of the blueberries and folding them in — distributes blueberry flavor throughout. Legendary department store recipe from Jordan Marsh in Boston."
+      "notes": "The trick is crushing some of the blueberries and folding them in \u2014 distributes blueberry flavor throughout. Legendary department store recipe from Jordan Marsh in Boston."
     },
     {
       "id": "r007",
@@ -229,50 +564,123 @@
       "source": "Joy of Cooking",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
-      "mealType": ["dessert", "breakfast"],
-      "cuisine": ["American"],
-      "protein": ["vegetarian"],
+      "mealType": [
+        "dessert",
+        "breakfast"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
       "effort": "moderate",
-      "status": "to-try",
+      "status": "made",
       "favorite": false,
       "servings": 9,
       "prepTime": "20 min",
       "cookTime": "25 min",
       "ingredients": [
-        { "name": "all-purpose flour (sifted before measuring)", "qty": 1, "unit": "cup", "pantryKey": "flour" },
-        { "name": "double-acting baking powder", "qty": 1, "unit": "tsp", "pantryKey": "baking-powder" },
-        { "name": "salt", "qty": 0.25, "unit": "tsp", "pantryKey": "salt" },
-        { "name": "sugar (for dough)", "qty": 2, "unit": "tbsp", "pantryKey": "sugar" },
-        { "name": "butter (for dough)", "qty": 2, "unit": "tbsp", "pantryKey": "butter" },
-        { "name": "egg", "qty": 1, "unit": "", "pantryKey": "eggs" },
-        { "name": "vanilla", "qty": 0.5, "unit": "tsp", "pantryKey": "vanilla" },
-        { "name": "milk (enough to make ½ cup with egg and vanilla)", "qty": 0.33, "unit": "cup", "pantryKey": "milk" },
-        { "name": "sliced pared apples, peaches, or unpared plums", "qty": 4, "unit": "cups", "pantryKey": "apples" },
-        { "name": "sugar (for topping)", "qty": 1, "unit": "cup", "pantryKey": "sugar" },
-        { "name": "cinnamon (for topping)", "qty": 2, "unit": "tsp", "pantryKey": "cinnamon" },
-        { "name": "melted butter (for topping)", "qty": 3, "unit": "tbsp", "pantryKey": "butter" }
+        {
+          "name": "all-purpose flour (sifted before measuring)",
+          "qty": 1,
+          "unit": "cup",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "double-acting baking powder",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "baking-powder"
+        },
+        {
+          "name": "salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "sugar (for dough)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "butter (for dough)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "egg",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "vanilla",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "vanilla"
+        },
+        {
+          "name": "milk (enough to make \u00bd cup with egg and vanilla)",
+          "qty": 0.33,
+          "unit": "cup",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "sliced pared apples, peaches, or unpared plums",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "apples"
+        },
+        {
+          "name": "sugar (for topping)",
+          "qty": 1,
+          "unit": "cup",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "cinnamon (for topping)",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "cinnamon"
+        },
+        {
+          "name": "melted butter (for topping)",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        }
       ],
       "instructions": [
-        "Preheat oven to 425°. If the fruit used is very juicy, reduce the liquid in the dough by at least 1 tablespoon.",
-        "Sift before measuring: 1 cup all-purpose flour. Resift with baking powder, ¼ tsp salt, and 2 tbsp sugar.",
-        "Add 1½ to 3 tablespoons butter. Work these ingredients like pastry.",
-        "Beat well in a measuring cup: 1 egg and ½ tsp vanilla. Add enough milk to make a ½-cup mixture.",
+        "Preheat oven to 425\u00b0. If the fruit used is very juicy, reduce the liquid in the dough by at least 1 tablespoon.",
+        "Sift before measuring: 1 cup all-purpose flour. Resift with baking powder, \u00bc tsp salt, and 2 tbsp sugar.",
+        "Add 1\u00bd to 3 tablespoons butter. Work these ingredients like pastry.",
+        "Beat well in a measuring cup: 1 egg and \u00bd tsp vanilla. Add enough milk to make a \u00bd-cup mixture.",
         "Combine with the flour and butter to make a stiff dough. Pat the dough into the pan with a floured palm or spread with a spoon, then distribute evenly by pushing with the fruit sections as you place them closely in overlapping rows.",
         "Arrange 3 to 4 cups sliced fruit in overlapping rows on the dough.",
         "Sprinkle with a mixture of about 1 cup sugar, 2 teaspoons cinnamon, and 3 tablespoons melted butter.",
         "Bake about 25 minutes."
       ],
-      "notes": "Joy of Cooking classic — 'Cockaigne' denotes a personal favorite of the authors. Works with apples, peaches, or plums. 9x9x2½ inch pan."
+      "notes": "Joy of Cooking classic \u2014 'Cockaigne' denotes a personal favorite of the authors. Works with apples, peaches, or plums. 9x9x2\u00bd inch pan."
     },
     {
       "id": "r008",
       "name": "Swedish Meatballs",
-      "source": "Social media — Swedish grandma's recipe",
+      "source": "Social media \u2014 Swedish grandma's recipe",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
-      "mealType": ["dinner"],
-      "cuisine": ["Swedish"],
-      "protein": ["beef"],
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Swedish"
+      ],
+      "protein": [
+        "beef"
+      ],
       "effort": "moderate",
       "status": "to-try",
       "favorite": false,
@@ -280,57 +688,144 @@
       "prepTime": "20 min",
       "cookTime": "15 min",
       "ingredients": [
-        { "name": "ground beef", "qty": 1.1, "unit": "lbs", "pantryKey": "ground-beef" },
-        { "name": "crispbread", "qty": 2, "unit": "", "pantryKey": "crispbread" },
-        { "name": "milk (small amount to soften crispbread)", "qty": 2, "unit": "tbsp", "pantryKey": "milk" },
-        { "name": "egg", "qty": 1, "unit": "", "pantryKey": "eggs" },
-        { "name": "yellow onion, shredded", "qty": 1, "unit": "", "pantryKey": "onion" },
-        { "name": "salt", "qty": 1, "unit": "to taste", "pantryKey": "salt" },
-        { "name": "white pepper", "qty": 1, "unit": "to taste", "pantryKey": "white-pepper" },
-        { "name": "allspice", "qty": 1, "unit": "to taste", "pantryKey": "allspice" }
+        {
+          "name": "ground beef",
+          "qty": 1.1,
+          "unit": "lbs",
+          "pantryKey": "ground-beef"
+        },
+        {
+          "name": "crispbread",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "crispbread"
+        },
+        {
+          "name": "milk (small amount to soften crispbread)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "egg",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "yellow onion, shredded",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onion"
+        },
+        {
+          "name": "salt",
+          "qty": 1,
+          "unit": "to taste",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "white pepper",
+          "qty": 1,
+          "unit": "to taste",
+          "pantryKey": "white-pepper"
+        },
+        {
+          "name": "allspice",
+          "qty": 1,
+          "unit": "to taste",
+          "pantryKey": "allspice"
+        }
       ],
       "instructions": [
         "Put everything in a bowl together and mix it to an even batter (it should NOT be runny!).",
         "Grab a pinch of the mixture and roll it until it resembles a meatball. Repeat until you've used all the mixture.",
         "Put them in a frying pan on medium heat, fry evenly until cooked through."
       ],
-      "notes": "Grandma didn't write down spice measurements — start small, make one and taste it, adjust from there. Tip: wet your hands when rolling and they won't stick. 500g ≈ 1.1 lbs."
+      "notes": "Grandma didn't write down spice measurements \u2014 start small, make one and taste it, adjust from there. Tip: wet your hands when rolling and they won't stick. 500g \u2248 1.1 lbs."
     },
     {
       "id": "r009",
       "name": "Elizabeth Frink's Roast Lemon Chicken",
-      "source": "NYT Cookbook — from The Artists' and Writers' Cookbook",
+      "source": "NYT Cookbook \u2014 from The Artists' and Writers' Cookbook",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
-      "mealType": ["dinner"],
-      "cuisine": ["American", "French"],
-      "protein": ["chicken"],
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American",
+        "French"
+      ],
+      "protein": [
+        "chicken"
+      ],
       "effort": "moderate",
-      "status": "to-try",
+      "status": "made",
       "favorite": false,
       "servings": 4,
       "prepTime": "15 min",
       "cookTime": "1 hr 30 min",
       "ingredients": [
-        { "name": "whole chicken (3 lb)", "qty": 1, "unit": "", "pantryKey": "whole-chicken" },
-        { "name": "salt", "qty": 0.5, "unit": "tsp", "pantryKey": "salt" },
-        { "name": "freshly ground black pepper", "qty": 0.25, "unit": "tsp", "pantryKey": "pepper" },
-        { "name": "lemons", "qty": 2, "unit": "", "pantryKey": "lemon" },
-        { "name": "garlic cloves", "qty": 6, "unit": "", "pantryKey": "garlic" },
-        { "name": "unsalted butter", "qty": 2, "unit": "tbsp", "pantryKey": "butter" },
-        { "name": "olive oil", "qty": 2, "unit": "tbsp", "pantryKey": "olive-oil" },
-        { "name": "flat-leaf parsley, coarsely chopped", "qty": 1, "unit": "tbsp", "pantryKey": "parsley" }
+        {
+          "name": "whole chicken (3 lb)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "whole-chicken"
+        },
+        {
+          "name": "salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "freshly ground black pepper",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "pepper"
+        },
+        {
+          "name": "lemons",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lemon"
+        },
+        {
+          "name": "garlic cloves",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "unsalted butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "flat-leaf parsley, coarsely chopped",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "parsley"
+        }
       ],
       "instructions": [
         "Heat the oven to 325 degrees. Place the chicken in a large baking dish and season inside and out with salt and pepper.",
         "Remove the skin from 1 lemon in strips with a vegetable peeler, and rub the skin over the outside of the chicken. Quarter the lemon and squeeze the juice over and into the chicken. Put the lemon pieces and garlic cloves inside the cavity.",
         "Melt the butter with the olive oil in a small pan. Pour about one-third of the butter mixture inside the chicken. Tie the legs together with kitchen string. Pour the remaining butter and oil over the chicken. Re-season the top.",
-        "Roast the chicken for 1½ hours, or until an instant-read thermometer in the thickest part of the leg registers 165 degrees, basting every 15 minutes with the pan juices.",
+        "Roast the chicken for 1\u00bd hours, or until an instant-read thermometer in the thickest part of the leg registers 165 degrees, basting every 15 minutes with the pan juices.",
         "Half an hour before the chicken is done, pour the juice from the second lemon over the chicken and sprinkle with the parsley.",
-        "Transfer the chicken to a cutting board to sit for 15 minutes before carving. Pour ½ cup water or broth into the roasting pan and place it over high heat. Scrape up the pan drippings with a wooden spoon. Reduce the pan juices to the desired consistency, and season to taste.",
+        "Transfer the chicken to a cutting board to sit for 15 minutes before carving. Pour \u00bd cup water or broth into the roasting pan and place it over high heat. Scrape up the pan drippings with a wooden spoon. Reduce the pan juices to the desired consistency, and season to taste.",
         "Carve and serve the chicken, passing the sauce on the side."
       ],
-      "notes": "The technique is all about repetitions of lemon — peel on skin, juice over, pieces in cavity, second lemon 30 min before done. Great cold too — makes excellent sandwiches on brioche."
+      "notes": "The technique is all about repetitions of lemon \u2014 peel on skin, juice over, pieces in cavity, second lemon 30 min before done. Great cold too \u2014 makes excellent sandwiches on brioche."
     },
     {
       "id": "r010",
@@ -338,9 +833,16 @@
       "source": "NYT Cooking",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
-      "mealType": ["dinner", "snack"],
-      "cuisine": ["American"],
-      "protein": ["vegetarian"],
+      "mealType": [
+        "dinner",
+        "snack"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
       "effort": "quick",
       "status": "to-try",
       "favorite": false,
@@ -348,12 +850,42 @@
       "prepTime": "10 min",
       "cookTime": "20 min",
       "ingredients": [
-        { "name": "broccoli, cut into 1½ to 2-inch florets, stems sliced ¼-inch thick", "qty": 1.5, "unit": "lbs", "pantryKey": "broccoli" },
-        { "name": "extra-virgin olive oil", "qty": 3, "unit": "tbsp", "pantryKey": "olive-oil" },
-        { "name": "kosher salt and black pepper", "qty": 1, "unit": "", "pantryKey": "salt" },
-        { "name": "unsalted butter", "qty": 1, "unit": "tbsp", "pantryKey": "butter" },
-        { "name": "sherry or red wine vinegar", "qty": 1, "unit": "tbsp", "pantryKey": "vinegar" },
-        { "name": "Dijon mustard", "qty": 1, "unit": "tsp", "pantryKey": "dijon-mustard" }
+        {
+          "name": "broccoli, cut into 1\u00bd to 2-inch florets, stems sliced \u00bc-inch thick",
+          "qty": 1.5,
+          "unit": "lbs",
+          "pantryKey": "broccoli"
+        },
+        {
+          "name": "extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "kosher salt and black pepper",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "unsalted butter",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "sherry or red wine vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "vinegar"
+        },
+        {
+          "name": "Dijon mustard",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "dijon-mustard"
+        }
       ],
       "instructions": [
         "Heat the oven to 450 degrees. On a baking sheet, toss the broccoli with the olive oil, salt and pepper. Arrange in a single layer, cut-sides down, and roast, without flipping, until browned and crisp-tender, 15 to 20 minutes.",
@@ -363,59 +895,250 @@
     }
   ],
   "pantryItems": [
-    { "key": "sirloin-tip", "name": "Sirloin tip", "category": "protein" },
-    { "key": "round-steak", "name": "Round steak", "category": "protein" },
-    { "key": "beef-tenderloin", "name": "Beef tenderloin/top loin", "category": "protein" },
-    { "key": "beef-chuck", "name": "Beef chuck", "category": "protein" },
-    { "key": "beef-stew-meat", "name": "Beef stew meat", "category": "protein" },
-    { "key": "ground-beef", "name": "Ground beef", "category": "protein" },
-    { "key": "whole-chicken", "name": "Whole chicken", "category": "protein" },
-    { "key": "eggs", "name": "Eggs", "category": "protein" },
-
-    { "key": "sour-cream", "name": "Sour cream", "category": "dairy" },
-    { "key": "butter", "name": "Butter", "category": "dairy" },
-    { "key": "milk", "name": "Milk", "category": "dairy" },
-
-    { "key": "onion", "name": "Onions", "category": "produce" },
-    { "key": "garlic", "name": "Garlic", "category": "produce" },
-    { "key": "mushrooms", "name": "Mushrooms", "category": "produce" },
-    { "key": "potatoes", "name": "Potatoes", "category": "produce" },
-    { "key": "carrots", "name": "Carrots", "category": "produce" },
-    { "key": "lemon", "name": "Lemons", "category": "produce" },
-    { "key": "parsley", "name": "Fresh parsley", "category": "produce" },
-    { "key": "blueberries", "name": "Blueberries", "category": "produce" },
-    { "key": "apples", "name": "Apples (or peaches/plums)", "category": "produce" },
-    { "key": "broccoli", "name": "Broccoli", "category": "produce" },
-
-    { "key": "flour", "name": "All-purpose flour", "category": "grain" },
-    { "key": "crispbread", "name": "Crispbread", "category": "grain" },
-
-    { "key": "olive-oil", "name": "Olive oil", "category": "pantry-staple" },
-    { "key": "vegetable-oil", "name": "Vegetable/salad oil", "category": "pantry-staple" },
-    { "key": "sugar", "name": "Sugar", "category": "pantry-staple" },
-    { "key": "vanilla", "name": "Vanilla extract", "category": "pantry-staple" },
-    { "key": "beef-bouillon", "name": "Beef bouillon/consommé", "category": "pantry-staple" },
-    { "key": "beef-broth", "name": "Beef broth", "category": "pantry-staple" },
-    { "key": "tomato-juice", "name": "Tomato juice", "category": "pantry-staple" },
-    { "key": "cream-of-tomato-soup", "name": "Cream of tomato soup (canned)", "category": "pantry-staple" },
-    { "key": "canned-peas", "name": "Canned tiny peas", "category": "pantry-staple" },
-    { "key": "ketchup", "name": "Ketchup", "category": "pantry-staple" },
-    { "key": "soy-sauce", "name": "Soy sauce", "category": "pantry-staple" },
-    { "key": "worcestershire", "name": "Worcestershire sauce", "category": "pantry-staple" },
-    { "key": "steak-sauce", "name": "Steak sauce", "category": "pantry-staple" },
-    { "key": "dijon-mustard", "name": "Dijon mustard", "category": "pantry-staple" },
-    { "key": "vinegar", "name": "Sherry/red wine vinegar", "category": "pantry-staple" },
-    { "key": "white-wine", "name": "White/Rhine wine", "category": "pantry-staple" },
-    { "key": "beer", "name": "Beer (light)", "category": "pantry-staple" },
-    { "key": "meat-tenderizer", "name": "Meat tenderizer", "category": "pantry-staple" },
-
-    { "key": "salt", "name": "Salt", "category": "spice" },
-    { "key": "pepper", "name": "Black pepper", "category": "spice" },
-    { "key": "white-pepper", "name": "White pepper", "category": "spice" },
-    { "key": "allspice", "name": "Allspice", "category": "spice" },
-    { "key": "cinnamon", "name": "Cinnamon", "category": "spice" },
-    { "key": "baking-powder", "name": "Baking powder", "category": "spice" },
-    { "key": "bay-leaves", "name": "Bay leaves", "category": "spice" },
-    { "key": "thyme", "name": "Dried thyme", "category": "spice" }
+    {
+      "key": "sirloin-tip",
+      "name": "Sirloin tip",
+      "category": "protein"
+    },
+    {
+      "key": "round-steak",
+      "name": "Round steak",
+      "category": "protein"
+    },
+    {
+      "key": "beef-tenderloin",
+      "name": "Beef tenderloin/top loin",
+      "category": "protein"
+    },
+    {
+      "key": "beef-chuck",
+      "name": "Beef chuck",
+      "category": "protein"
+    },
+    {
+      "key": "beef-stew-meat",
+      "name": "Beef stew meat",
+      "category": "protein"
+    },
+    {
+      "key": "ground-beef",
+      "name": "Ground beef",
+      "category": "protein"
+    },
+    {
+      "key": "whole-chicken",
+      "name": "Whole chicken",
+      "category": "protein"
+    },
+    {
+      "key": "eggs",
+      "name": "Eggs",
+      "category": "protein"
+    },
+    {
+      "key": "sour-cream",
+      "name": "Sour cream",
+      "category": "dairy"
+    },
+    {
+      "key": "butter",
+      "name": "Butter",
+      "category": "dairy"
+    },
+    {
+      "key": "milk",
+      "name": "Milk",
+      "category": "dairy"
+    },
+    {
+      "key": "onion",
+      "name": "Onions",
+      "category": "produce"
+    },
+    {
+      "key": "garlic",
+      "name": "Garlic",
+      "category": "produce"
+    },
+    {
+      "key": "mushrooms",
+      "name": "Mushrooms",
+      "category": "produce"
+    },
+    {
+      "key": "potatoes",
+      "name": "Potatoes",
+      "category": "produce"
+    },
+    {
+      "key": "carrots",
+      "name": "Carrots",
+      "category": "produce"
+    },
+    {
+      "key": "lemon",
+      "name": "Lemons",
+      "category": "produce"
+    },
+    {
+      "key": "parsley",
+      "name": "Fresh parsley",
+      "category": "produce"
+    },
+    {
+      "key": "blueberries",
+      "name": "Blueberries",
+      "category": "produce"
+    },
+    {
+      "key": "apples",
+      "name": "Apples (or peaches/plums)",
+      "category": "produce"
+    },
+    {
+      "key": "broccoli",
+      "name": "Broccoli",
+      "category": "produce"
+    },
+    {
+      "key": "flour",
+      "name": "All-purpose flour",
+      "category": "grain"
+    },
+    {
+      "key": "crispbread",
+      "name": "Crispbread",
+      "category": "grain"
+    },
+    {
+      "key": "olive-oil",
+      "name": "Olive oil",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "vegetable-oil",
+      "name": "Vegetable/salad oil",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "sugar",
+      "name": "Sugar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "vanilla",
+      "name": "Vanilla extract",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "beef-bouillon",
+      "name": "Beef bouillon/consomm\u00e9",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "beef-broth",
+      "name": "Beef broth",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "tomato-juice",
+      "name": "Tomato juice",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "cream-of-tomato-soup",
+      "name": "Cream of tomato soup (canned)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "canned-peas",
+      "name": "Canned tiny peas",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "ketchup",
+      "name": "Ketchup",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "soy-sauce",
+      "name": "Soy sauce",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "worcestershire",
+      "name": "Worcestershire sauce",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "steak-sauce",
+      "name": "Steak sauce",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "dijon-mustard",
+      "name": "Dijon mustard",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "vinegar",
+      "name": "Sherry/red wine vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "white-wine",
+      "name": "White/Rhine wine",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "beer",
+      "name": "Beer (light)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "meat-tenderizer",
+      "name": "Meat tenderizer",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "salt",
+      "name": "Salt",
+      "category": "spice"
+    },
+    {
+      "key": "pepper",
+      "name": "Black pepper",
+      "category": "spice"
+    },
+    {
+      "key": "white-pepper",
+      "name": "White pepper",
+      "category": "spice"
+    },
+    {
+      "key": "allspice",
+      "name": "Allspice",
+      "category": "spice"
+    },
+    {
+      "key": "cinnamon",
+      "name": "Cinnamon",
+      "category": "spice"
+    },
+    {
+      "key": "baking-powder",
+      "name": "Baking powder",
+      "category": "spice"
+    },
+    {
+      "key": "bay-leaves",
+      "name": "Bay leaves",
+      "category": "spice"
+    },
+    {
+      "key": "thyme",
+      "name": "Dried thyme",
+      "category": "spice"
+    }
   ]
 }
