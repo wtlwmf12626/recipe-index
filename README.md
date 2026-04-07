@@ -1,2 +1,2 @@
-# recipe-index
-Personal recipe index
+# Recipe Index
+Personal recipe collection.
