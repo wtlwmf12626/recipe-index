@@ -307,6 +307,77 @@ body {
   animation: fadeIn 0.3s ease both;
 }
 
+/* ── Sync Status Dot ── */
+.sync-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  position: absolute; right: 16px; top: 50%; transform: translateY(-50%);
+  background: var(--border); transition: background 0.3s;
+}
+.sync-dot.connected    { background: var(--sage); }
+.sync-dot.syncing      { background: var(--warning); animation: pulse 1s infinite; }
+.sync-dot.error        { background: var(--danger); }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+
+/* ── Settings Button ── */
+.settings-btn {
+  position: absolute; left: 16px; top: 50%; transform: translateY(-50%);
+  background: none; border: none; cursor: pointer; padding: 4px;
+  color: var(--text-hint); transition: color 0.2s;
+}
+.settings-btn:hover { color: var(--accent); }
+.settings-btn svg { width: 20px; height: 20px; }
+
+/* ── Settings Modal ── */
+.modal-backdrop {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.4);
+  z-index: 300; display: flex; align-items: flex-end;
+  opacity: 0; pointer-events: none; transition: opacity 0.25s;
+}
+.modal-backdrop.open { opacity: 1; pointer-events: all; }
+.modal-sheet {
+  width: 100%; background: var(--card); border-radius: 20px 20px 0 0;
+  padding: 24px 20px calc(24px + env(safe-area-inset-bottom, 0));
+  transform: translateY(100%); transition: transform 0.3s cubic-bezier(0.32,0.72,0,1);
+}
+.modal-backdrop.open .modal-sheet { transform: translateY(0); }
+.modal-handle {
+  width: 36px; height: 4px; border-radius: 2px;
+  background: var(--border); margin: 0 auto 20px;
+}
+.modal-title {
+  font-family: var(--font-display); font-size: 20px;
+  font-weight: 400; margin-bottom: 6px; color: var(--text);
+}
+.modal-subtitle {
+  font-size: 13px; color: var(--text-hint); line-height: 1.5; margin-bottom: 18px;
+}
+.modal-subtitle a { color: var(--accent); }
+.token-input {
+  width: 100%; border: 1px solid var(--border); border-radius: var(--radius-sm);
+  padding: 12px 14px; font-size: 14px; font-family: var(--font-body);
+  color: var(--text); background: var(--bg); outline: none;
+  margin-bottom: 12px; transition: border-color 0.15s;
+  font-family: monospace;
+}
+.token-input:focus { border-color: var(--accent); }
+.modal-actions { display: flex; gap: 10px; }
+.btn-primary {
+  flex: 1; padding: 13px; background: var(--accent); color: #fff;
+  border: none; border-radius: var(--radius-sm); font-size: 15px;
+  font-weight: 600; cursor: pointer; font-family: var(--font-body);
+}
+.btn-secondary {
+  padding: 13px 18px; background: var(--border-light); color: var(--text-secondary);
+  border: none; border-radius: var(--radius-sm); font-size: 15px;
+  font-weight: 500; cursor: pointer; font-family: var(--font-body);
+}
+.token-status {
+  font-size: 13px; margin-bottom: 14px; padding: 8px 12px;
+  border-radius: var(--radius-sm);
+}
+.token-status.ok  { background: var(--sage-light); color: var(--sage-dark); }
+.token-status.bad { background: var(--danger-light); color: var(--danger); }
+
 /* ── Responsive ── */
 @media (min-width: 600px) {
   .view { padding: 24px; max-width: 540px; margin: 0 auto; }
@@ -377,8 +448,33 @@ body {
 
 <!-- Header -->
 <header class="app-header">
+  <button class="settings-btn" onclick="openSettings()" title="GitHub sync settings">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+  </button>
   <h1>My Recipe Index</h1>
+  <div class="sync-dot" id="sync-dot" title="GitHub sync status"></div>
 </header>
+
+<!-- Settings Modal -->
+<div class="modal-backdrop" id="settings-modal" onclick="handleModalBackdropClick(event)">
+  <div class="modal-sheet">
+    <div class="modal-handle"></div>
+    <div class="modal-title">GitHub Sync</div>
+    <p class="modal-subtitle">
+      Enter a GitHub Personal Access Token with <strong>repo</strong> write access.
+      Your token is stored only in this browser — never in the app code.<br><br>
+      <a href="https://github.com/settings/tokens/new?scopes=repo&description=Recipe+Index" target="_blank" rel="noopener">Generate a token ↗</a>
+    </p>
+    <div class="token-status" id="token-status" style="display:none"></div>
+    <input class="token-input" id="token-input" type="password"
+           placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"
+           autocomplete="off" spellcheck="false">
+    <div class="modal-actions">
+      <button class="btn-primary" onclick="saveToken()">Save & Connect</button>
+      <button class="btn-secondary" onclick="closeSettings()">Cancel</button>
+    </div>
+  </div>
+</div>
 
 <!-- Main Content -->
 <main class="main-content">
@@ -438,29 +534,111 @@ body {
 </nav>
 
 <script>
+// ── GitHub Config (token stored in localStorage — never in source) ──
+const GH_API = 'https://api.github.com/repos/wtlwmf12626/recipe-index/contents/data.json';
+let   GH_TOKEN = localStorage.getItem('recipebox-gh-token') || '';
+
 // ── State ──
 let recipes = [];
 let pantryItems = [];
-let pantryState = {}; // { key: true/false }
-let localOverrides = {}; // { recipeId: { status?, notes? } }
+let pantryState = {};
+let localOverrides = {};
+let dataCache = null;   // full data object, kept in sync
+let dataSha   = null;   // current file SHA — required for GitHub PUT
+let isSyncing = false;  // prevent concurrent pushes
 let activeFilters = { category: 'all' };
 let currentView = 'recipes';
-let returnView = 'recipes';
+let returnView  = 'recipes';
 
-// ── Data Loading ──
+// ── Data Loading (via GitHub API to capture SHA) ──
 async function loadData() {
+  if (!GH_TOKEN) {
+    setSyncDot('error');
+    try {
+      const resp = await fetch('data.json');
+      dataCache = await resp.json();
+      recipes     = dataCache.recipes    || [];
+      pantryItems = dataCache.pantryItems || [];
+      loadPantryState();
+      loadLocalOverrides();
+      renderAll();
+    } catch(e) {
+      document.getElementById('recipe-list').innerHTML =
+        '<div class="empty-state"><p>Could not load recipes.</p></div>';
+    }
+    setTimeout(() => showToast('⚙ Tap the gear icon to enable GitHub sync'), 1200);
+    return;
+  }
+
+  setSyncDot('syncing');
   try {
-    const resp = await fetch('data.json');
-    const data = await resp.json();
-    recipes = data.recipes || [];
-    pantryItems = data.pantryItems || [];
+    const resp = await fetch(GH_API, {
+      headers: { 'Authorization': `token ${GH_TOKEN}`, 'Accept': 'application/vnd.github.v3+json' }
+    });
+    if (!resp.ok) throw new Error('GitHub API ' + resp.status);
+    const meta = await resp.json();
+    dataSha   = meta.sha;
+    dataCache = JSON.parse(decodeURIComponent(escape(atob(meta.content.replace(/\n/g, '')))));
+    recipes      = dataCache.recipes    || [];
+    pantryItems  = dataCache.pantryItems || [];
     loadPantryState();
     loadLocalOverrides();
     renderAll();
+    setSyncDot('connected');
   } catch (e) {
-    console.error('Failed to load data.json:', e);
-    document.getElementById('recipe-list').innerHTML =
-      '<div class="empty-state"><p>Could not load recipes. Make sure data.json is in the same folder.</p></div>';
+    console.warn('GitHub load failed, falling back to data.json:', e);
+    setSyncDot('error');
+    try {
+      const resp = await fetch('data.json');
+      dataCache = await resp.json();
+      recipes     = dataCache.recipes    || [];
+      pantryItems = dataCache.pantryItems || [];
+      loadPantryState();
+      loadLocalOverrides();
+      renderAll();
+      showToast('⚠ Offline mode — changes won\'t sync');
+    } catch (e2) {
+      document.getElementById('recipe-list').innerHTML =
+        '<div class="empty-state"><p>Could not load recipes.</p></div>';
+    }
+  }
+}
+
+// ── GitHub Push ──
+async function pushToGitHub(commitMsg, onSuccess, onError) {
+  if (!GH_TOKEN)              { showToast('⚙ No token — tap gear to connect'); onError && onError(); return; }
+  if (!dataSha || !dataCache) { showToast('⚠ No GitHub connection'); onError && onError(); return; }
+  if (isSyncing) return;
+  isSyncing = true;
+  setSyncDot('syncing');
+  try {
+    dataCache.recipes          = recipes;
+    dataCache.meta.lastUpdated = new Date().toISOString().split('T')[0];
+    const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(dataCache, null, 2))));
+    const resp = await fetch(GH_API, {
+      method: 'PUT',
+      headers: {
+        'Authorization': `token ${GH_TOKEN}`,
+        'Content-Type':  'application/json',
+        'Accept':        'application/vnd.github.v3+json'
+      },
+      body: JSON.stringify({ message: commitMsg, content: encoded, sha: dataSha })
+    });
+    if (!resp.ok) {
+      const err = await resp.json();
+      throw new Error(err.message || 'Push failed');
+    }
+    const result = await resp.json();
+    dataSha = result.content.sha;
+    setSyncDot('connected');
+    onSuccess && onSuccess();
+  } catch (e) {
+    console.error('GitHub push failed:', e);
+    setSyncDot('error');
+    showToast('⚠ Sync failed — saved locally only');
+    onError && onError();
+  } finally {
+    isSyncing = false;
   }
 }
 
@@ -490,74 +668,171 @@ function togglePantryItem(key) {
   renderCookNow();
 }
 
-// ── Local Overrides (status + notes, stored per device) ──
+// ── Local Overrides (optimistic cache — localStorage mirrors GitHub) ──
 function loadLocalOverrides() {
   try {
     const saved = localStorage.getItem('recipebox-overrides');
-    if (saved) localOverrides = JSON.parse(saved);
+    if (saved) {
+      // Apply any locally cached overrides onto the recipes we just loaded,
+      // so the UI reflects changes even before they sync.
+      localOverrides = JSON.parse(saved);
+      recipes.forEach(r => {
+        const ov = localOverrides[r.id];
+        if (!ov) return;
+        if (ov.status !== undefined) r.status = ov.status;
+        if (ov.notes  !== undefined) r.notes  = ov.notes;
+      });
+    }
   } catch(e) { localOverrides = {}; }
 }
 
-function saveLocalOverrides() {
+function cacheOverride(recipeId, key, value) {
+  if (!localOverrides[recipeId]) localOverrides[recipeId] = {};
+  localOverrides[recipeId][key] = value;
   localStorage.setItem('recipebox-overrides', JSON.stringify(localOverrides));
 }
 
-function getEffectiveStatus(recipe) {
-  return (localOverrides[recipe.id] && localOverrides[recipe.id].status !== undefined)
-    ? localOverrides[recipe.id].status
-    : recipe.status;
-}
+// status and notes live directly on the recipe object — no indirection needed
+function getEffectiveStatus(recipe) { return recipe.status; }
+function getEffectiveNotes(recipe)  { return recipe.notes || ''; }
 
-function getEffectiveNotes(recipe) {
-  return (localOverrides[recipe.id] && localOverrides[recipe.id].notes !== undefined)
-    ? localOverrides[recipe.id].notes
-    : (recipe.notes || '');
-}
-
+// ── Status Toggle ──
 function toggleStatus(recipeId) {
   const recipe = recipes.find(r => r.id === recipeId);
   if (!recipe) return;
-  const current = getEffectiveStatus(recipe);
-  const newStatus = current === 'made' ? 'to-try' : 'made';
-  if (!localOverrides[recipeId]) localOverrides[recipeId] = {};
-  localOverrides[recipeId].status = newStatus;
-  saveLocalOverrides();
-  // Re-render the toggle button and badge in place (no full page reload)
-  const btn = document.getElementById('toggle-btn-' + recipeId);
+  const newStatus = recipe.status === 'made' ? 'to-try' : 'made';
+  recipe.status = newStatus;
+  cacheOverride(recipeId, 'status', newStatus);
+
+  // Instant UI update — no re-render needed
+  const btn   = document.getElementById('toggle-btn-'   + recipeId);
   const badge = document.getElementById('detail-badge-' + recipeId);
   if (btn) {
     btn.className = 'btn-toggle-made ' + (newStatus === 'made' ? 'is-made' : 'is-to-try');
     btn.innerHTML = newStatus === 'made'
-      ? '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="width:18px;height:18px"><polyline points="20 6 9 17 4 12"/></svg> Made it!'
-      : '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:18px;height:18px"><circle cx="12" cy="12" r="10"/></svg> Mark as Made';
+      ? `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="width:18px;height:18px"><polyline points="20 6 9 17 4 12"/></svg> Made it!`
+      : `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:18px;height:18px"><circle cx="12" cy="12" r="10"/></svg> Mark as Made`;
+    btn.disabled = true;
   }
   if (badge) {
-    badge.className = 'recipe-badge ' + (newStatus === 'made' ? 'badge-made' : 'badge-to-try');
+    badge.className   = 'recipe-badge ' + (newStatus === 'made' ? 'badge-made' : 'badge-to-try');
     badge.textContent = newStatus === 'made' ? 'Made' : 'To-try';
   }
   renderRecipeList();
-  showToast(newStatus === 'made' ? '✓ Marked as made!' : 'Moved back to to-try');
+
+  const label = newStatus === 'made' ? 'Mark as made' : 'Mark as to-try';
+  pushToGitHub(
+    `${label}: ${recipe.name}`,
+    () => {
+      showToast(newStatus === 'made' ? '✓ Marked as made — synced!' : '✓ Moved to to-try — synced!');
+      if (btn) btn.disabled = false;
+    },
+    () => {
+      showToast('Saved locally — sync failed');
+      if (btn) btn.disabled = false;
+    }
+  );
 }
 
+// ── Save Notes ──
 function saveNotes(recipeId) {
   const textarea = document.getElementById('notes-ta-' + recipeId);
+  const fb       = document.getElementById('notes-fb-' + recipeId);
+  const btn      = document.querySelector(`[onclick="saveNotes('${recipeId}')"]`);
   if (!textarea) return;
-  if (!localOverrides[recipeId]) localOverrides[recipeId] = {};
-  localOverrides[recipeId].notes = textarea.value;
-  saveLocalOverrides();
-  const fb = document.getElementById('notes-fb-' + recipeId);
-  if (fb) {
-    fb.textContent = 'Saved ✓';
-    fb.classList.add('visible');
-    setTimeout(() => fb.classList.remove('visible'), 2000);
-  }
+
+  const newNotes = textarea.value;
+  const recipe   = recipes.find(r => r.id === recipeId);
+  if (recipe) recipe.notes = newNotes;
+  cacheOverride(recipeId, 'notes', newNotes);
+
+  if (fb)  { fb.textContent = 'Syncing…'; fb.classList.add('visible'); }
+  if (btn) btn.disabled = true;
+
+  pushToGitHub(
+    `Update notes: ${recipe ? recipe.name : recipeId}`,
+    () => {
+      if (fb)  { fb.textContent = 'Saved to GitHub ✓'; setTimeout(() => fb.classList.remove('visible'), 2500); }
+      if (btn) btn.disabled = false;
+    },
+    () => {
+      if (fb)  { fb.textContent = 'Saved locally only'; setTimeout(() => fb.classList.remove('visible'), 2500); }
+      if (btn) btn.disabled = false;
+    }
+  );
 }
 
 function showToast(msg) {
   const t = document.getElementById('toast');
   t.textContent = msg;
   t.classList.add('show');
-  setTimeout(() => t.classList.remove('show'), 2200);
+  setTimeout(() => t.classList.remove('show'), 2500);
+}
+
+// ── Settings Modal ──
+function openSettings() {
+  const input = document.getElementById('token-input');
+  const status = document.getElementById('token-status');
+  input.value = GH_TOKEN ? '••••••••••••••••' + GH_TOKEN.slice(-4) : '';
+  if (GH_TOKEN) {
+    status.style.display = 'block';
+    status.className = 'token-status ok';
+    status.textContent = '✓ Token saved — syncing is active';
+  } else {
+    status.style.display = 'none';
+  }
+  document.getElementById('settings-modal').classList.add('open');
+}
+
+function closeSettings() {
+  document.getElementById('settings-modal').classList.remove('open');
+}
+
+function handleModalBackdropClick(e) {
+  if (e.target === document.getElementById('settings-modal')) closeSettings();
+}
+
+async function saveToken() {
+  const input  = document.getElementById('token-input');
+  const status = document.getElementById('token-status');
+  const raw    = input.value.trim();
+  // If it looks like the masked placeholder, keep existing token
+  const token  = (raw.startsWith('•') || raw === '') ? GH_TOKEN : raw;
+
+  if (!token) {
+    status.style.display = 'block';
+    status.className = 'token-status bad';
+    status.textContent = '✗ Please enter a token';
+    return;
+  }
+
+  // Quick validation — try fetching the file metadata
+  status.style.display = 'block';
+  status.className = 'token-status';
+  status.textContent = 'Verifying…';
+
+  try {
+    const resp = await fetch(GH_API, {
+      headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json' }
+    });
+    if (!resp.ok) throw new Error('Status ' + resp.status);
+    GH_TOKEN = token;
+    localStorage.setItem('recipebox-gh-token', token);
+    status.className = 'token-status ok';
+    status.textContent = '✓ Connected! Token saved to this browser.';
+    setSyncDot('connected');
+    setTimeout(closeSettings, 1200);
+    // Reload data with the new token to capture SHA
+    loadData();
+  } catch (e) {
+    status.className = 'token-status bad';
+    status.textContent = '✗ Could not connect — check the token and try again';
+  }
+}
+
+function setSyncDot(state) {
+  const dot = document.getElementById('sync-dot');
+  if (dot) dot.className = 'sync-dot ' + (state || '');
 }
 
 // ── Navigation ──
