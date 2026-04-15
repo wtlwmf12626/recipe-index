@@ -311,6 +311,66 @@ body {
 @media (min-width: 600px) {
   .view { padding: 24px; max-width: 540px; margin: 0 auto; }
 }
+
+/* ── Detail Action Buttons ── */
+.detail-actions {
+  display: flex; gap: 10px; margin: 16px 0 4px;
+}
+.btn-toggle-made {
+  flex: 1; padding: 13px 16px; border-radius: var(--radius);
+  font-size: 15px; font-weight: 600; cursor: pointer;
+  border: none; font-family: var(--font-body);
+  transition: all 0.18s; display: flex; align-items: center;
+  justify-content: center; gap: 8px;
+}
+.btn-toggle-made.is-to-try {
+  background: var(--accent); color: #fff;
+}
+.btn-toggle-made.is-to-try:active { background: var(--accent-dark); }
+.btn-toggle-made.is-made {
+  background: var(--sage-light); color: var(--sage-dark);
+  border: 1.5px solid var(--sage);
+}
+.btn-toggle-made.is-made:active { background: #c8deca; }
+
+/* ── Notes Editor ── */
+.notes-editor-wrap { margin-top: 12px; }
+.notes-textarea {
+  width: 100%; border: 1px solid var(--border);
+  border-radius: var(--radius-sm); padding: 12px 14px;
+  font-size: 14px; font-family: var(--font-body);
+  color: var(--text); background: var(--card);
+  resize: vertical; min-height: 90px; outline: none;
+  line-height: 1.6; transition: border-color 0.15s;
+}
+.notes-textarea:focus { border-color: var(--accent); }
+.notes-textarea::placeholder { color: var(--text-hint); }
+.notes-save-row {
+  display: flex; align-items: center; gap: 10px; margin-top: 8px;
+}
+.btn-save-notes {
+  padding: 9px 20px; background: var(--accent); color: #fff;
+  border: none; border-radius: var(--radius-sm);
+  font-size: 14px; font-weight: 600; cursor: pointer;
+  font-family: var(--font-body); transition: opacity 0.15s;
+}
+.btn-save-notes:active { opacity: 0.8; }
+.save-feedback {
+  font-size: 13px; color: var(--sage-dark); font-weight: 500;
+  opacity: 0; transition: opacity 0.3s;
+}
+.save-feedback.visible { opacity: 1; }
+
+/* ── Toast ── */
+.toast {
+  position: fixed; bottom: calc(var(--nav-height) + 16px); left: 50%;
+  transform: translateX(-50%) translateY(16px);
+  background: var(--text); color: #fff; padding: 10px 20px;
+  border-radius: 99px; font-size: 14px; font-weight: 500;
+  opacity: 0; transition: opacity 0.25s, transform 0.25s;
+  pointer-events: none; white-space: nowrap; z-index: 200;
+}
+.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 </style>
 </head>
 <body>
@@ -359,6 +419,8 @@ body {
 
 </main>
 
+<div class="toast" id="toast"></div>
+
 <!-- Bottom Nav -->
 <nav class="bottom-nav">
   <button class="nav-item active" data-view="recipes">
@@ -380,6 +442,7 @@ body {
 let recipes = [];
 let pantryItems = [];
 let pantryState = {}; // { key: true/false }
+let localOverrides = {}; // { recipeId: { status?, notes? } }
 let activeFilters = { category: 'all' };
 let currentView = 'recipes';
 let returnView = 'recipes';
@@ -392,6 +455,7 @@ async function loadData() {
     recipes = data.recipes || [];
     pantryItems = data.pantryItems || [];
     loadPantryState();
+    loadLocalOverrides();
     renderAll();
   } catch (e) {
     console.error('Failed to load data.json:', e);
@@ -424,6 +488,76 @@ function togglePantryItem(key) {
   savePantryState();
   renderPantry();
   renderCookNow();
+}
+
+// ── Local Overrides (status + notes, stored per device) ──
+function loadLocalOverrides() {
+  try {
+    const saved = localStorage.getItem('recipebox-overrides');
+    if (saved) localOverrides = JSON.parse(saved);
+  } catch(e) { localOverrides = {}; }
+}
+
+function saveLocalOverrides() {
+  localStorage.setItem('recipebox-overrides', JSON.stringify(localOverrides));
+}
+
+function getEffectiveStatus(recipe) {
+  return (localOverrides[recipe.id] && localOverrides[recipe.id].status !== undefined)
+    ? localOverrides[recipe.id].status
+    : recipe.status;
+}
+
+function getEffectiveNotes(recipe) {
+  return (localOverrides[recipe.id] && localOverrides[recipe.id].notes !== undefined)
+    ? localOverrides[recipe.id].notes
+    : (recipe.notes || '');
+}
+
+function toggleStatus(recipeId) {
+  const recipe = recipes.find(r => r.id === recipeId);
+  if (!recipe) return;
+  const current = getEffectiveStatus(recipe);
+  const newStatus = current === 'made' ? 'to-try' : 'made';
+  if (!localOverrides[recipeId]) localOverrides[recipeId] = {};
+  localOverrides[recipeId].status = newStatus;
+  saveLocalOverrides();
+  // Re-render the toggle button and badge in place (no full page reload)
+  const btn = document.getElementById('toggle-btn-' + recipeId);
+  const badge = document.getElementById('detail-badge-' + recipeId);
+  if (btn) {
+    btn.className = 'btn-toggle-made ' + (newStatus === 'made' ? 'is-made' : 'is-to-try');
+    btn.innerHTML = newStatus === 'made'
+      ? '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="width:18px;height:18px"><polyline points="20 6 9 17 4 12"/></svg> Made it!'
+      : '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:18px;height:18px"><circle cx="12" cy="12" r="10"/></svg> Mark as Made';
+  }
+  if (badge) {
+    badge.className = 'recipe-badge ' + (newStatus === 'made' ? 'badge-made' : 'badge-to-try');
+    badge.textContent = newStatus === 'made' ? 'Made' : 'To-try';
+  }
+  renderRecipeList();
+  showToast(newStatus === 'made' ? '✓ Marked as made!' : 'Moved back to to-try');
+}
+
+function saveNotes(recipeId) {
+  const textarea = document.getElementById('notes-ta-' + recipeId);
+  if (!textarea) return;
+  if (!localOverrides[recipeId]) localOverrides[recipeId] = {};
+  localOverrides[recipeId].notes = textarea.value;
+  saveLocalOverrides();
+  const fb = document.getElementById('notes-fb-' + recipeId);
+  if (fb) {
+    fb.textContent = 'Saved ✓';
+    fb.classList.add('visible');
+    setTimeout(() => fb.classList.remove('visible'), 2000);
+  }
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
 }
 
 // ── Navigation ──
@@ -504,8 +638,8 @@ function filterRecipes() {
   if (cat !== 'all') {
     filtered = filtered.filter(r => {
       if (cat === 'favorite') return r.favorite;
-      if (cat === 'to-try') return r.status === 'to-try';
-      if (cat === 'made') return r.status === 'made';
+      if (cat === 'to-try') return getEffectiveStatus(r) === 'to-try';
+      if (cat === 'made') return getEffectiveStatus(r) === 'made';
       if (cat === 'quick' || cat === 'moderate' || cat === 'project') return r.effort === cat;
       if (r.mealType.some(m => m.toLowerCase() === cat)) return true;
       if (r.cuisine.some(c => c.toLowerCase() === cat)) return true;
@@ -537,8 +671,9 @@ function renderRecipeList() {
   container.innerHTML = filtered.map((r, i) => {
     const tags = [...r.cuisine, ...r.protein.filter(p => p !== 'vegetarian' ? true : true), r.effort].filter(Boolean);
     const tagStr = tags.map(t => t.charAt(0).toUpperCase() + t.slice(1)).join(' · ');
-    const badgeClass = r.status === 'made' ? 'badge-made' : 'badge-to-try';
-    const badgeLabel = r.status === 'made' ? 'Made' : 'To-try';
+    const status = getEffectiveStatus(r);
+    const badgeClass = status === 'made' ? 'badge-made' : 'badge-to-try';
+    const badgeLabel = status === 'made' ? 'Made' : 'To-try';
     const star = r.favorite ? '<span class="fav-star">★</span>' : '';
     return `
       <div class="recipe-card" onclick="showDetail('${r.id}','recipes')" style="animation-delay: ${i * 0.04}s">
@@ -552,10 +687,22 @@ function renderRecipeList() {
 }
 
 function renderDetail(recipe) {
-  const badgeClass = recipe.status === 'made' ? 'badge-made' : 'badge-to-try';
-  const badgeLabel = recipe.status === 'made' ? 'Made' : 'To-try';
+  const status = getEffectiveStatus(recipe);
+  const badgeClass = status === 'made' ? 'badge-made' : 'badge-to-try';
+  const badgeLabel = status === 'made' ? 'Made' : 'To-try';
   const tags = [...recipe.mealType, ...recipe.cuisine, ...recipe.protein];
   const star = recipe.favorite ? ' ★' : '';
+  const effectiveNotes = getEffectiveNotes(recipe);
+
+  const toggleBtnHtml = status === 'made'
+    ? `<button class="btn-toggle-made is-made" id="toggle-btn-${recipe.id}" onclick="toggleStatus('${recipe.id}')">
+         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="width:18px;height:18px"><polyline points="20 6 9 17 4 12"/></svg>
+         Made it!
+       </button>`
+    : `<button class="btn-toggle-made is-to-try" id="toggle-btn-${recipe.id}" onclick="toggleStatus('${recipe.id}')">
+         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:18px;height:18px"><circle cx="12" cy="12" r="10"/></svg>
+         Mark as Made
+       </button>`;
 
   let sourceHtml = `<div class="detail-source">Source: ${recipe.source}`;
   if (recipe.sourceUrl) {
@@ -563,18 +710,31 @@ function renderDetail(recipe) {
   }
   sourceHtml += '</div>';
 
-  let notesHtml = '';
-  if (recipe.notes) {
-    notesHtml = `<div class="detail-notes">${recipe.notes}</div>`;
-  }
+  // Show base notes (from data.json) read-only if they exist, then the editable notes section
+  const baseNotesHtml = recipe.notes
+    ? `<div class="detail-notes" style="margin-bottom:12px">${recipe.notes}</div>`
+    : '';
+
+  const notesEditorHtml = `
+    <h3 class="detail-section-title">My Notes</h3>
+    <div class="notes-editor-wrap">
+      <textarea class="notes-textarea" id="notes-ta-${recipe.id}" placeholder="Add personal notes, tweaks, substitutions, ratings…">${effectiveNotes !== recipe.notes ? effectiveNotes : ''}</textarea>
+      <div class="notes-save-row">
+        <button class="btn-save-notes" onclick="saveNotes('${recipe.id}')">Save</button>
+        <span class="save-feedback" id="notes-fb-${recipe.id}"></span>
+      </div>
+    </div>`;
 
   document.getElementById('detail-content').innerHTML = `
     <h2 class="detail-title">${recipe.name}${star}</h2>
     <div class="detail-meta-row">
-      <span class="recipe-badge ${badgeClass}">${badgeLabel}</span>
+      <span class="recipe-badge ${badgeClass}" id="detail-badge-${recipe.id}">${badgeLabel}</span>
       ${tags.map(t => `<span class="detail-pill">${t}</span>`).join('')}
       <span class="detail-pill">${recipe.effort}</span>
     </div>
+
+    <div class="detail-actions">${toggleBtnHtml}</div>
+
     <div class="detail-times">
       <span>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
@@ -609,7 +769,8 @@ function renderDetail(recipe) {
       `).join('')}
     </ol>
 
-    ${notesHtml}
+    ${baseNotesHtml}
+    ${notesEditorHtml}
     ${sourceHtml}
   `;
 }
