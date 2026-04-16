@@ -403,6 +403,19 @@ body {
   border: 1.5px solid var(--sage);
 }
 .btn-toggle-made.is-made:active { background: #c8deca; }
+.btn-toggle-fav {
+  padding: 13px 16px; border-radius: var(--radius);
+  font-size: 15px; font-weight: 600; cursor: pointer;
+  border: 1.5px solid var(--border); background: transparent;
+  color: var(--text-hint); font-family: var(--font-body);
+  transition: all 0.18s; display: flex; align-items: center;
+  justify-content: center; gap: 7px; white-space: nowrap;
+}
+.btn-toggle-fav:active { opacity: 0.75; }
+.btn-toggle-fav.is-fav {
+  background: #fff8e1; border-color: #f5c518; color: #b8860b;
+}
+.btn-toggle-fav:disabled { opacity: 0.6; pointer-events: none; }
 
 /* ── Notes Editor ── */
 .notes-editor-wrap { margin-top: 12px; }
@@ -536,6 +549,7 @@ body {
 <script>
 // ── GitHub Config (token stored in localStorage — never in source) ──
 const GH_API = 'https://api.github.com/repos/wtlwmf12626/recipe-index/contents/data.json';
+const GH_PANTRY_API = 'https://api.github.com/repos/wtlwmf12626/recipe-index/contents/pantry-state.json';
 let   GH_TOKEN = localStorage.getItem('recipebox-gh-token') || '';
 
 // ── State ──
@@ -545,7 +559,10 @@ let pantryState = {};
 let localOverrides = {};
 let dataCache = null;   // full data object, kept in sync
 let dataSha   = null;   // current file SHA — required for GitHub PUT
+let pantrySha = null;   // SHA for pantry-state.json
 let isSyncing = false;  // prevent concurrent pushes
+let isPantrySyncing = false;
+let pantryPushTimer = null;
 let activeFilters = { category: 'all' };
 let currentView = 'recipes';
 let returnView  = 'recipes';
@@ -572,6 +589,7 @@ async function loadData() {
 
   setSyncDot('syncing');
   try {
+    // Load recipe data
     const resp = await fetch(GH_API, {
       headers: { 'Authorization': `token ${GH_TOKEN}`, 'Accept': 'application/vnd.github.v3+json' }
     });
@@ -581,8 +599,11 @@ async function loadData() {
     dataCache = JSON.parse(decodeURIComponent(escape(atob(meta.content.replace(/\n/g, '')))));
     recipes      = dataCache.recipes    || [];
     pantryItems  = dataCache.pantryItems || [];
-    loadPantryState();
     loadLocalOverrides();
+
+    // Load pantry state from separate file
+    await loadPantryStateFromGitHub();
+
     renderAll();
     setSyncDot('connected');
   } catch (e) {
@@ -642,14 +663,36 @@ async function pushToGitHub(commitMsg, onSuccess, onError) {
   }
 }
 
-// ── Pantry localStorage ──
+// ── Pantry State — localStorage (offline) + GitHub pantry-state.json (when connected) ──
+async function loadPantryStateFromGitHub() {
+  try {
+    const resp = await fetch(GH_PANTRY_API, {
+      headers: { 'Authorization': `token ${GH_TOKEN}`, 'Accept': 'application/vnd.github.v3+json' }
+    });
+    if (resp.status === 404) {
+      // File doesn't exist yet — start from localStorage or blank
+      loadPantryState();
+      return;
+    }
+    if (!resp.ok) throw new Error('Pantry API ' + resp.status);
+    const meta = await resp.json();
+    pantrySha = meta.sha;
+    const loaded = JSON.parse(decodeURIComponent(escape(atob(meta.content.replace(/\n/g, '')))));
+    pantryState = loaded;
+    // Mirror to localStorage so offline access reflects last known state
+    localStorage.setItem('recipebox-pantry', JSON.stringify(pantryState));
+  } catch (e) {
+    console.warn('Could not load pantry-state.json, using localStorage:', e);
+    loadPantryState();
+  }
+}
+
 function loadPantryState() {
   try {
     const saved = localStorage.getItem('recipebox-pantry');
     if (saved) {
       pantryState = JSON.parse(saved);
     } else {
-      // Default: everything out of stock
       pantryItems.forEach(item => { pantryState[item.key] = false; });
     }
   } catch (e) {
@@ -658,7 +701,55 @@ function loadPantryState() {
 }
 
 function savePantryState() {
+  // Always persist locally immediately
   localStorage.setItem('recipebox-pantry', JSON.stringify(pantryState));
+  // Debounce GitHub push — batch rapid toggles into one commit
+  if (GH_TOKEN) {
+    if (pantryPushTimer) clearTimeout(pantryPushTimer);
+    pantryPushTimer = setTimeout(pushPantryToGitHub, 3000);
+  }
+}
+
+async function pushPantryToGitHub() {
+  if (!GH_TOKEN || isPantrySyncing) return;
+  isPantrySyncing = true;
+  try {
+    const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(pantryState, null, 2))));
+    const body = { message: 'Update pantry inventory', content: encoded };
+    if (pantrySha) body.sha = pantrySha;
+    const resp = await fetch(GH_PANTRY_API, {
+      method: 'PUT',
+      headers: {
+        'Authorization': `token ${GH_TOKEN}`,
+        'Content-Type':  'application/json',
+        'Accept':        'application/vnd.github.v3+json'
+      },
+      body: JSON.stringify(body)
+    });
+    if (!resp.ok) {
+      const err = await resp.json();
+      // If SHA conflict (file was updated elsewhere), re-fetch and retry
+      if (resp.status === 409) {
+        const refetch = await fetch(GH_PANTRY_API, {
+          headers: { 'Authorization': `token ${GH_TOKEN}`, 'Accept': 'application/vnd.github.v3+json' }
+        });
+        if (refetch.ok) {
+          const meta = await refetch.json();
+          pantrySha = meta.sha;
+          isPantrySyncing = false;
+          pushPantryToGitHub();
+          return;
+        }
+      }
+      throw new Error(err.message || 'Pantry push failed');
+    }
+    const result = await resp.json();
+    pantrySha = result.content.sha;
+  } catch (e) {
+    console.warn('Pantry sync failed:', e);
+  } finally {
+    isPantrySyncing = false;
+  }
 }
 
 function togglePantryItem(key) {
@@ -729,6 +820,39 @@ function toggleStatus(recipeId) {
     },
     () => {
       showToast('Saved locally — sync failed');
+      if (btn) btn.disabled = false;
+    }
+  );
+}
+
+// ── Favorite Toggle ──
+function toggleFavorite(recipeId) {
+  const recipe = recipes.find(r => r.id === recipeId);
+  if (!recipe) return;
+  recipe.favorite = !recipe.favorite;
+
+  const btn = document.getElementById('fav-btn-' + recipeId);
+  if (btn) {
+    btn.className = 'btn-toggle-fav' + (recipe.favorite ? ' is-fav' : '');
+    btn.innerHTML = recipe.favorite
+      ? '<svg viewBox="0 0 24 24" fill="currentColor" stroke="none" style="width:16px;height:16px"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg> Favorited'
+      : '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:16px;height:16px"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg> Add to Favorites';
+    btn.disabled = true;
+  }
+  const titleEl = document.querySelector('#view-detail .detail-title');
+  if (titleEl) {
+    titleEl.textContent = recipe.name + (recipe.favorite ? ' \u2605' : '');
+  }
+  renderRecipeList();
+
+  pushToGitHub(
+    (recipe.favorite ? 'Favorite' : 'Unfavorite') + ': ' + recipe.name,
+    function() {
+      showToast(recipe.favorite ? '\u2605 Added to favorites \u2014 synced!' : '\u2605 Removed from favorites \u2014 synced!');
+      if (btn) btn.disabled = false;
+    },
+    function() {
+      showToast('Saved locally \u2014 sync failed');
       if (btn) btn.disabled = false;
     }
   );
@@ -875,6 +999,8 @@ function buildFilters() {
     { label: 'Dinner', value: 'dinner' },
     { label: 'Breakfast', value: 'breakfast' },
     { label: 'Dessert', value: 'dessert' },
+    { label: 'Beef', value: 'beef' },
+    { label: 'Bread', value: 'bread' },
     { label: 'Chicken', value: 'chicken' },
     { label: 'Fish', value: 'fish' },
     { label: 'Vegetarian', value: 'vegetarian' },
@@ -979,6 +1105,16 @@ function renderDetail(recipe) {
          Mark as Made
        </button>`;
 
+  const favBtnHtml = recipe.favorite
+    ? `<button class="btn-toggle-fav is-fav" id="fav-btn-${recipe.id}" onclick="toggleFavorite('${recipe.id}')">
+         <svg viewBox="0 0 24 24" fill="currentColor" stroke="none" style="width:16px;height:16px"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+         Favorited
+       </button>`
+    : `<button class="btn-toggle-fav" id="fav-btn-${recipe.id}" onclick="toggleFavorite('${recipe.id}')">
+         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:16px;height:16px"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+         Favorite
+       </button>`;
+
   let sourceHtml = `<div class="detail-source">Source: ${recipe.source}`;
   if (recipe.sourceUrl) {
     sourceHtml += ` — <a href="${recipe.sourceUrl}" target="_blank" rel="noopener">View original</a>`;
@@ -1008,7 +1144,7 @@ function renderDetail(recipe) {
       <span class="detail-pill">${recipe.effort}</span>
     </div>
 
-    <div class="detail-actions">${toggleBtnHtml}</div>
+    <div class="detail-actions">${toggleBtnHtml}${favBtnHtml}</div>
 
     <div class="detail-times">
       <span>
@@ -1179,3 +1315,4 @@ loadData();
 </script>
 </body>
 </html>
+
