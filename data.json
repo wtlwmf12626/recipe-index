@@ -5337,6 +5337,772 @@
       "key": "thyme",
       "name": "Dried thyme",
       "category": "spice"
+    },
+    {
+      "key": "beef",
+      "name": "Beef (generic)",
+      "category": "protein"
+    },
+    {
+      "key": "chicken",
+      "name": "Chicken",
+      "category": "protein"
+    },
+    {
+      "key": "chicken-breast",
+      "name": "Chicken breast",
+      "category": "protein"
+    },
+    {
+      "key": "rotisserie-chicken",
+      "name": "Rotisserie chicken",
+      "category": "protein"
+    },
+    {
+      "key": "salmon",
+      "name": "Salmon",
+      "category": "protein"
+    },
+    {
+      "key": "turkey",
+      "name": "Turkey",
+      "category": "protein"
+    },
+    {
+      "key": "italian-sausage",
+      "name": "Italian sausage",
+      "category": "protein"
+    },
+    {
+      "key": "italian-salami",
+      "name": "Italian salami",
+      "category": "protein"
+    },
+    {
+      "key": "tofu",
+      "name": "Tofu",
+      "category": "protein"
+    },
+    {
+      "key": "buttermilk",
+      "name": "Buttermilk",
+      "category": "dairy"
+    },
+    {
+      "key": "cream-cheese",
+      "name": "Cream cheese",
+      "category": "dairy"
+    },
+    {
+      "key": "cheddar-cheese",
+      "name": "Cheddar cheese",
+      "category": "dairy"
+    },
+    {
+      "key": "mozzarella",
+      "name": "Mozzarella",
+      "category": "dairy"
+    },
+    {
+      "key": "parmesan",
+      "name": "Parmesan",
+      "category": "dairy"
+    },
+    {
+      "key": "pecorino-romano",
+      "name": "Pecorino Romano",
+      "category": "dairy"
+    },
+    {
+      "key": "pepper-jack",
+      "name": "Pepper Jack cheese",
+      "category": "dairy"
+    },
+    {
+      "key": "heavy-cream",
+      "name": "Heavy cream",
+      "category": "dairy"
+    },
+    {
+      "key": "light-cream",
+      "name": "Light cream",
+      "category": "dairy"
+    },
+    {
+      "key": "greek-yogurt",
+      "name": "Greek yogurt",
+      "category": "dairy"
+    },
+    {
+      "key": "mascarpone",
+      "name": "Mascarpone",
+      "category": "dairy"
+    },
+    {
+      "key": "apple",
+      "name": "Apple",
+      "category": "produce"
+    },
+    {
+      "key": "avocado",
+      "name": "Avocado",
+      "category": "produce"
+    },
+    {
+      "key": "arugula",
+      "name": "Arugula",
+      "category": "produce"
+    },
+    {
+      "key": "artichoke-hearts",
+      "name": "Artichoke hearts",
+      "category": "produce"
+    },
+    {
+      "key": "bell-pepper",
+      "name": "Bell pepper",
+      "category": "produce"
+    },
+    {
+      "key": "berries",
+      "name": "Mixed berries",
+      "category": "produce"
+    },
+    {
+      "key": "cauliflower",
+      "name": "Cauliflower",
+      "category": "produce"
+    },
+    {
+      "key": "celery",
+      "name": "Celery",
+      "category": "produce"
+    },
+    {
+      "key": "chives",
+      "name": "Chives",
+      "category": "produce"
+    },
+    {
+      "key": "cilantro",
+      "name": "Cilantro",
+      "category": "produce"
+    },
+    {
+      "key": "cucumber",
+      "name": "Cucumber",
+      "category": "produce"
+    },
+    {
+      "key": "cucumbers",
+      "name": "Cucumbers",
+      "category": "produce"
+    },
+    {
+      "key": "green-onions",
+      "name": "Green onions/scallions",
+      "category": "produce"
+    },
+    {
+      "key": "iceberg-lettuce",
+      "name": "Iceberg lettuce",
+      "category": "produce"
+    },
+    {
+      "key": "jalapeno",
+      "name": "Jalapeño",
+      "category": "produce"
+    },
+    {
+      "key": "kale",
+      "name": "Kale",
+      "category": "produce"
+    },
+    {
+      "key": "lemons",
+      "name": "Lemons",
+      "category": "produce"
+    },
+    {
+      "key": "lime",
+      "name": "Lime",
+      "category": "produce"
+    },
+    {
+      "key": "onions",
+      "name": "Onions",
+      "category": "produce"
+    },
+    {
+      "key": "red-cabbage",
+      "name": "Red cabbage",
+      "category": "produce"
+    },
+    {
+      "key": "red-onion",
+      "name": "Red onion",
+      "category": "produce"
+    },
+    {
+      "key": "romaine-lettuce",
+      "name": "Romaine lettuce",
+      "category": "produce"
+    },
+    {
+      "key": "shallots",
+      "name": "Shallots",
+      "category": "produce"
+    },
+    {
+      "key": "spaghetti-squash",
+      "name": "Spaghetti squash",
+      "category": "produce"
+    },
+    {
+      "key": "spinach",
+      "name": "Spinach",
+      "category": "produce"
+    },
+    {
+      "key": "sweet-potato",
+      "name": "Sweet potato",
+      "category": "produce"
+    },
+    {
+      "key": "yellow-onion",
+      "name": "Yellow onion",
+      "category": "produce"
+    },
+    {
+      "key": "zucchini",
+      "name": "Zucchini",
+      "category": "produce"
+    },
+    {
+      "key": "lemon-zest",
+      "name": "Lemon zest",
+      "category": "produce"
+    },
+    {
+      "key": "orange-zest",
+      "name": "Orange zest",
+      "category": "produce"
+    },
+    {
+      "key": "all-purpose-flour",
+      "name": "All-purpose flour",
+      "category": "grain"
+    },
+    {
+      "key": "bread",
+      "name": "Bread (loaf)",
+      "category": "grain"
+    },
+    {
+      "key": "bread-flour",
+      "name": "Bread flour",
+      "category": "grain"
+    },
+    {
+      "key": "biscuits",
+      "name": "Biscuits",
+      "category": "grain"
+    },
+    {
+      "key": "cake-flour",
+      "name": "Cake flour",
+      "category": "grain"
+    },
+    {
+      "key": "cake-mix",
+      "name": "Cake mix",
+      "category": "grain"
+    },
+    {
+      "key": "corn-tortillas",
+      "name": "Corn tortillas",
+      "category": "grain"
+    },
+    {
+      "key": "cornmeal",
+      "name": "Cornmeal",
+      "category": "grain"
+    },
+    {
+      "key": "egg-noodles",
+      "name": "Egg noodles",
+      "category": "grain"
+    },
+    {
+      "key": "graham-crackers",
+      "name": "Graham crackers",
+      "category": "grain"
+    },
+    {
+      "key": "jasmine-rice",
+      "name": "Jasmine rice",
+      "category": "grain"
+    },
+    {
+      "key": "oats",
+      "name": "Oats",
+      "category": "grain"
+    },
+    {
+      "key": "quinoa",
+      "name": "Quinoa",
+      "category": "grain"
+    },
+    {
+      "key": "rolled-oats",
+      "name": "Rolled oats",
+      "category": "grain"
+    },
+    {
+      "key": "sourdough-starter",
+      "name": "Sourdough starter",
+      "category": "grain"
+    },
+    {
+      "key": "tortellini",
+      "name": "Tortellini",
+      "category": "grain"
+    },
+    {
+      "key": "yeast",
+      "name": "Yeast",
+      "category": "grain"
+    },
+    {
+      "key": "basil",
+      "name": "Basil (dried)",
+      "category": "spice"
+    },
+    {
+      "key": "black-pepper",
+      "name": "Black pepper",
+      "category": "spice"
+    },
+    {
+      "key": "caraway-seed",
+      "name": "Caraway seed",
+      "category": "spice"
+    },
+    {
+      "key": "coarse-salt",
+      "name": "Coarse salt",
+      "category": "spice"
+    },
+    {
+      "key": "cumin",
+      "name": "Cumin",
+      "category": "spice"
+    },
+    {
+      "key": "dill",
+      "name": "Dill",
+      "category": "spice"
+    },
+    {
+      "key": "fennel-seed",
+      "name": "Fennel seed",
+      "category": "spice"
+    },
+    {
+      "key": "flaky-salt",
+      "name": "Flaky salt",
+      "category": "spice"
+    },
+    {
+      "key": "garlic-powder",
+      "name": "Garlic powder",
+      "category": "spice"
+    },
+    {
+      "key": "hungarian-paprika",
+      "name": "Hungarian paprika",
+      "category": "spice"
+    },
+    {
+      "key": "italian-seasoning",
+      "name": "Italian seasoning",
+      "category": "spice"
+    },
+    {
+      "key": "kosher-salt",
+      "name": "Kosher salt",
+      "category": "spice"
+    },
+    {
+      "key": "marjoram",
+      "name": "Marjoram",
+      "category": "spice"
+    },
+    {
+      "key": "onion-powder",
+      "name": "Onion powder",
+      "category": "spice"
+    },
+    {
+      "key": "paprika",
+      "name": "Paprika",
+      "category": "spice"
+    },
+    {
+      "key": "poultry-seasoning",
+      "name": "Poultry seasoning",
+      "category": "spice"
+    },
+    {
+      "key": "pumpkin-pie-spice",
+      "name": "Pumpkin pie spice",
+      "category": "spice"
+    },
+    {
+      "key": "rosemary",
+      "name": "Rosemary",
+      "category": "spice"
+    },
+    {
+      "key": "almonds",
+      "name": "Almonds",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "apple-cider-vinegar",
+      "name": "Apple cider vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "baking-soda",
+      "name": "Baking soda",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "barley-malt-syrup",
+      "name": "Barley malt syrup",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "brown-sugar",
+      "name": "Brown sugar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "butter-beans",
+      "name": "Butter beans",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "canola-oil",
+      "name": "Canola oil",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "cashew-butter",
+      "name": "Cashew butter",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "chickpeas",
+      "name": "Chickpeas",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "chocolate-bar",
+      "name": "Chocolate bar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "chocolate-chips",
+      "name": "Chocolate chips",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "chocolate-ganache",
+      "name": "Chocolate ganache",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "chocolate-pudding-mix",
+      "name": "Chocolate pudding mix",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "cocoa",
+      "name": "Cocoa powder",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "coconut-milk",
+      "name": "Coconut milk",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "cornstarch",
+      "name": "Cornstarch",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "cream-of-chicken-soup",
+      "name": "Cream of chicken soup (canned)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "cream-of-mushroom-soup",
+      "name": "Cream of mushroom soup (canned)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "dark-beer",
+      "name": "Dark beer",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "elderflower-liqueur",
+      "name": "Elderflower liqueur",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "espresso-powder",
+      "name": "Espresso powder",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "evaporated-milk",
+      "name": "Evaporated milk",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "gin",
+      "name": "Gin",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "granulated-sugar",
+      "name": "Granulated sugar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "honey",
+      "name": "Honey",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "lemon-extract",
+      "name": "Lemon extract",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "lemon-juice",
+      "name": "Lemon juice",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "lentils",
+      "name": "Lentils",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "lime-juice",
+      "name": "Lime juice",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "maple-syrup",
+      "name": "Maple syrup",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "margarine",
+      "name": "Margarine",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "mayo",
+      "name": "Mayonnaise",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "nutritional-yeast",
+      "name": "Nutritional yeast",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "orange-juice",
+      "name": "Orange juice",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "pale-lager",
+      "name": "Pale lager",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "peanuts",
+      "name": "Peanuts",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "pecans",
+      "name": "Pecans",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "pepitas",
+      "name": "Pepitas",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "pistachios",
+      "name": "Pistachios",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "poppy-seeds",
+      "name": "Poppy seeds",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "powdered-sugar",
+      "name": "Powdered sugar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "ranch-mix",
+      "name": "Ranch mix (dry)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "red-food-coloring",
+      "name": "Red food coloring",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "red-wine-vinegar",
+      "name": "Red wine vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "rice-vinegar",
+      "name": "Rice vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "rotel",
+      "name": "Rotel (canned tomatoes & chiles)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "sesame-oil",
+      "name": "Sesame oil",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "shortening",
+      "name": "Shortening",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "simple-syrup",
+      "name": "Simple syrup",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "soda-water",
+      "name": "Soda water",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "stock",
+      "name": "Stock (generic)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "sun-dried-tomatoes",
+      "name": "Sun-dried tomatoes",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "tahini",
+      "name": "Tahini",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "tart-shell",
+      "name": "Tart shell",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "teriyaki-sauce",
+      "name": "Teriyaki sauce",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "tomato-paste",
+      "name": "Tomato paste",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "tomato-sauce",
+      "name": "Tomato sauce",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "vanilla-extract",
+      "name": "Vanilla extract",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "walnuts",
+      "name": "Walnuts",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "water",
+      "name": "Water",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "white-beans",
+      "name": "White beans",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "white-miso",
+      "name": "White miso",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "white-vinegar",
+      "name": "White vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "chicken-broth",
+      "name": "Chicken broth",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "chicken-stock",
+      "name": "Chicken stock",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "beef-base",
+      "name": "Beef base/Better than Bouillon",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "canned-pumpkin",
+      "name": "Canned pumpkin",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "ginger",
+      "name": "Ginger (fresh or dried)",
+      "category": "spice"
     }
-  ]
+  ],
+  "pantryState": {}
 }
