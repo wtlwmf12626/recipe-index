@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-04-16",
     "recipeCount": 54
   },
   "recipes": [
@@ -1621,7 +1621,7 @@
         "vegetarian"
       ],
       "effort": "project",
-      "status": "to-try",
+      "status": "made",
       "favorite": false,
       "servings": 112,
       "prepTime": "30 min",
@@ -2294,7 +2294,7 @@
         "beef"
       ],
       "effort": "project",
-      "status": "to-try",
+      "status": "made",
       "favorite": false,
       "servings": null,
       "prepTime": "20 min",
@@ -2463,7 +2463,7 @@
         "chicken"
       ],
       "effort": "weeknight",
-      "status": "to-try",
+      "status": "made",
       "favorite": false,
       "servings": null,
       "prepTime": "20 min",
@@ -3810,7 +3810,7 @@
         "chicken"
       ],
       "effort": "weeknight",
-      "status": "to-try",
+      "status": "made",
       "favorite": false,
       "servings": 6,
       "prepTime": "20 min",
@@ -3938,7 +3938,7 @@
         "Chop/slice all salad ingredients and add to a large bowl.",
         "Add shredded chicken and crispy rice on top. Pour dressing over the salad, toss, and enjoy. Store in refrigerator up to 5 days."
       ],
-      "notes": "Handwritten notes on recipe: substitute green cabbage and carrots for some items. Also add +2 tbsp Ponzu to dressing and use Tahini instead of cashew butter. Double the ginger and add 1/2 lemon."
+      "notes": ""
     },
     {
       "id": "r043",
@@ -4148,7 +4148,7 @@
         "pork"
       ],
       "effort": "weeknight",
-      "status": "to-try",
+      "status": "made",
       "favorite": false,
       "servings": 7,
       "prepTime": "10 min",
