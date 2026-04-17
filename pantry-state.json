@@ -58,5 +58,6 @@
   "celery": true,
   "kale": true,
   "bread-flour": true,
-  "sourdough-starter": true
+  "sourdough-starter": true,
+  "rolled-oats": true
 }
