@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastUpdated": "2026-06-13",
-    "recipeCount": 295
+    "recipeCount": 336
   },
   "recipes": [
     {
@@ -28780,6 +28780,2924 @@
       "notes": "Frozen raspberry pur\u00e9e (Boiron brand) is a fine substitute. Try other fruit pur\u00e9es like apricot or banana.",
       "id": "r295",
       "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Roast Delicata Squash",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": "40 min",
+      "ingredients": [
+        {
+          "name": "Delicata squash",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "delicata-squash"
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Kaffir lime leaves, torn (or sage)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kaffir-lime-leaves"
+        }
+      ],
+      "instructions": [
+        "Cut off the ends of the Delicata squash and peel the skin (skin is edible).",
+        "Cut in half lengthwise, scrape out seeds, then slice into 1-inch half moons.",
+        "Toss with olive oil, salt and pepper, and torn Kaffir lime leaves.",
+        "Spread evenly on a baking sheet and roast at 375\u00b0F for 40 minutes, until tender and lightly browned, stirring occasionally."
+      ],
+      "notes": "From Chez Panisse Vegetables. Other vegetables to roast: winter squash, summer squash, potatoes, carrots, cabbage, cauliflower, fennel, Brussels sprouts, asparagus, onions, parsnips.",
+      "id": "r296",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Steamed Tokyo Turnips",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": "8 min",
+      "ingredients": [
+        {
+          "name": "Tokyo turnips with greens",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "tokyo-turnips"
+        },
+        {
+          "name": "Salt and butter (or olive oil)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Vinegar, soy sauce, or lemon juice (optional)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "lemon-juice"
+        }
+      ],
+      "instructions": [
+        "Separate the turnips and greens, leaving an inch of pale green stalks at the top.",
+        "Rinse the turnips well to remove grit, leave whole or cut into halves or quarters.",
+        "Wash the greens and discard any yellow or damaged leaves.",
+        "Place a steamer basket in a saucepan with a tight-fitting lid, add water to a depth of half an inch, and bring to a boil.",
+        "Add the turnips and greens to the basket, cover, and cook until just tender, 5 to 8 minutes depending on size.",
+        "Serve with salt and butter, drizzle of olive oil, dash of vinegar or soy sauce, or squeeze of lemon."
+      ],
+      "notes": "From In the Green Kitchen. Other vegetables to steam: spinach, asparagus, mustard greens, corn, broccolini, baby bok choy.",
+      "id": "r297",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Julienned Carrot Salad with Cumin Salt",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "lunch"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "15 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Carrots",
+          "qty": 1,
+          "unit": "lbs",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "Garlic, peeled",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Cumin salt (large pinch)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Red wine vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "red-wine-vinegar"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 6,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Chopped parsley",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "parsley"
+        }
+      ],
+      "instructions": [
+        "Peel the carrots and julienne (a Japanese mandoline works quickly).",
+        "Mash the garlic clove with the cumin salt to a smooth paste and mix with the red wine vinegar.",
+        "Whisk in olive oil. Taste for seasoning and add more vinegar or salt if needed.",
+        "Toss with the carrots and add the chopped parsley."
+      ],
+      "notes": "From Chez Panisse Vegetables. Variation: add cayenne and chopped cilantro.",
+      "id": "r298",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Yogurt Raita",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "5 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Organic whole-milk yogurt",
+          "qty": 0.75,
+          "unit": "cups",
+          "pantryKey": "greek-yogurt"
+        },
+        {
+          "name": "Small garlic clove, pounded to puree",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Salt (pinch)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Dried chile flakes",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "dried-chile-flakes"
+        }
+      ],
+      "instructions": [
+        "In a small bowl, whisk together all the ingredients.",
+        "Taste for salt and adjust."
+      ],
+      "notes": "Variations: add grated cucumber; instead of chile flakes use pounded nigella, cumin or coriander; grate in ginger and carrot.",
+      "id": "r299",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Brown Rice with Cilantro",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "5 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "Cooked brown rice",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Chopped cilantro",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "cilantro"
+        }
+      ],
+      "instructions": [
+        "Heat olive oil in a cast-iron pan and saut\u00e9 cooked brown rice.",
+        "Season with salt and add chopped cilantro just before serving.",
+        "Taste for salt, and adjust if needed."
+      ],
+      "notes": "Variations: mix with saut\u00e9ed greens and serve with egg; add saut\u00e9ed onion, garlic, almonds, currants for jeweled rice; or roll with avocado/cucumber/sesame in nori for a sushi-style cone.",
+      "id": "r300",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Garlic Vinaigrette",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "15 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Small garlic clove",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Red wine vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "red-wine-vinegar"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Fresh-ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Pound peeled garlic clove with 2 big pinches of salt in mortar and pestle into a very smooth paste.",
+        "Add the vinegar, grind in black pepper, and taste for the balance of salt and vinegar.",
+        "Allow to macerate for 10 to 15 minutes.",
+        "Whisk in olive oil. Taste with a leaf of lettuce; it should taste bright and lively without being too acidic or too oily. Adjust salt, vinegar, or oil as needed."
+      ],
+      "notes": "Adapted from In the Green Kitchen.",
+      "id": "r301",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Cumin Salt",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "5 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "Cumin seeds",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "cumin-seeds"
+        },
+        {
+          "name": "Sea salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Toast the cumin seeds in a hot cast-iron skillet, shaking the pan for even toasting until they pop and lightly brown.",
+        "Transfer the seeds to a mortar and pestle and pound with the salt until coarsely ground."
+      ],
+      "notes": "From My Pantry.",
+      "id": "r302",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Mexican Tortilla Soup",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner",
+        "lunch"
+      ],
+      "cuisine": [
+        "Mexican"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "20 min",
+      "cookTime": "60 min",
+      "ingredients": [
+        {
+          "name": "Chicken broth",
+          "qty": 1.5,
+          "unit": "l",
+          "pantryKey": "chicken-broth"
+        },
+        {
+          "name": "Chicken breast half (with skin and bones)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "chicken-breast"
+        },
+        {
+          "name": "Peanut or vegetable oil",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "Corn tortillas, cut into strips",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "corn-tortillas"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Anaheim green pepper, seeded and thinly sliced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "anaheim-pepper"
+        },
+        {
+          "name": "Medium yellow onion, thinly sliced",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "yellow-onion"
+        },
+        {
+          "name": "Garlic cloves, thinly sliced",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Tomatoes, peeled, seeded, diced",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "Dried chipotle chile, seeds removed",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "dried-chipotle"
+        },
+        {
+          "name": "Dried oregano",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "oregano"
+        },
+        {
+          "name": "Chopped cilantro (garnish)",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "Lime wedges (garnish)",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "lime-wedges"
+        },
+        {
+          "name": "Crumbled queso fresco or grated Monterey Jack",
+          "qty": 4,
+          "unit": "oz",
+          "pantryKey": "queso-fresco"
+        },
+        {
+          "name": "Peeled and shredded jicama",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "jicama"
+        },
+        {
+          "name": "Julienned radish",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "radishes"
+        },
+        {
+          "name": "Cubed avocado",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "avocado"
+        }
+      ],
+      "instructions": [
+        "Heat the chicken broth to a simmer, then add the chicken breast. Simmer until cooked, about 20 minutes. Transfer to a plate, cool, then discard skin and bones and shred the meat.",
+        "Heat peanut or vegetable oil in a heavy skillet over medium-high heat and fry tortilla strips in small batches until golden brown and crispy. Drain on paper towels and season with salt.",
+        "In a large heavy pot, heat the olive oil and add green pepper, onion, garlic, and salt. Cook until soft, about 5 minutes.",
+        "Pour in the hot broth, then add tomatoes, chipotle chile, and additional salt. Bring to a boil and simmer 30 minutes.",
+        "Add shredded chicken and oregano and heat through without boiling. Adjust salt.",
+        "Serve with crispy tortilla strips and small bowls of garnishes."
+      ],
+      "notes": "From The Art of Simple Food.",
+      "id": "r303",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Moroccan-Style Braised Vegetables",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Moroccan"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "30 min",
+      "cookTime": "75 min",
+      "ingredients": [
+        {
+          "name": "Dried chickpeas, soaked overnight",
+          "qty": 0.5,
+          "unit": "lbs",
+          "pantryKey": "chickpeas"
+        },
+        {
+          "name": "Small onion, peeled and halved",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "Cinnamon stick",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "cinnamon-stick"
+        },
+        {
+          "name": "Small dried red chile",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "dried-chile-flakes"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Carrots",
+          "qty": 0.5,
+          "unit": "lbs",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "Baby turnips",
+          "qty": 1,
+          "unit": "lbs",
+          "pantryKey": "turnips"
+        },
+        {
+          "name": "Butternut squash",
+          "qty": 1.5,
+          "unit": "lbs",
+          "pantryKey": "butternut-squash"
+        },
+        {
+          "name": "Olive oil (for vegetables)",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Cumin seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cumin-seeds"
+        },
+        {
+          "name": "Coriander seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "coriander-seeds"
+        },
+        {
+          "name": "Saffron threads (pinch)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "saffron"
+        },
+        {
+          "name": "Ground turmeric",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "Cayenne pepper",
+          "qty": 0.125,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "Large onion, diced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "Celery stalks, diced",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "Whole canned tomatoes",
+          "qty": 14,
+          "unit": "oz",
+          "pantryKey": "canned-whole-tomatoes"
+        },
+        {
+          "name": "Garlic, peeled and chopped",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Finely grated fresh ginger",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "ginger"
+        }
+      ],
+      "instructions": [
+        "Drain the chickpeas and place in a medium pot with water to cover by 1.5 inches. Add onion, cinnamon stick, chile, 2 tbsp olive oil, and salt. Simmer until tender, about 45 minutes. Cool in liquid.",
+        "Preheat oven to 400\u00b0F. Bring a large pot of salted water to a boil. Peel and halve carrots and cut into quarters. Cook carrots and turnips separately until just tender, about 5 minutes.",
+        "Peel and seed squash, cut into 1-inch chunks. Toss with oil and salt on a baking sheet, roast until tender, 15 to 20 minutes.",
+        "Lightly toast cumin, coriander, and saffron, then grind. Stir in turmeric and cayenne.",
+        "In a large skillet, warm olive oil. Add onion, celery, salt. Cook 5 minutes. Drain and dice tomatoes, add and cook 2 minutes.",
+        "Add spices, garlic, and ginger. Cook 2 minutes more. Add chickpeas with cooking liquid, simmer. Add squash, carrots, and turnips. Add water if needed.",
+        "Taste for salt and simmer 5 minutes. Serve with buttered couscous or saffron rice and harissa."
+      ],
+      "notes": "From In the Green Kitchen. Pair with harissa.",
+      "id": "r304",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Harissa",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Moroccan"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "25 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "Dried ancho chiles",
+          "qty": 5,
+          "unit": "",
+          "pantryKey": "dried-ancho-chiles"
+        },
+        {
+          "name": "Large red bell pepper, roasted/peeled/seeded",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "red-bell-pepper"
+        },
+        {
+          "name": "Garlic cloves, peeled",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 0.75,
+          "unit": "cups",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Red wine vinegar",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "red-wine-vinegar"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Toast 5 dried ancho chiles on a hot griddle until puffed and fragrant.",
+        "Cover with boiling water, soak for 20 minutes, drain.",
+        "Roast, peel, and seed 1 large red bell pepper.",
+        "In a blender or food processor, pur\u00e9e the drained chiles and peeled pepper with garlic, olive oil, red wine vinegar, and salt.",
+        "Thin with water if desired."
+      ],
+      "notes": "From In the Green Kitchen.",
+      "id": "r305",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Spicy Indian Cauliflower Stems",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "15 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "name": "Large cauliflower cores and stems",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "cauliflower"
+        },
+        {
+          "name": "Black peppercorns",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "peppercorns"
+        },
+        {
+          "name": "Seeds from brown cardamom pod",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "cardamom-pod"
+        },
+        {
+          "name": "Cassia, 2-inch piece",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "cassia"
+        },
+        {
+          "name": "Whole cloves",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "cloves"
+        },
+        {
+          "name": "Olive, coconut, or vegetable oil",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Cumin seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cumin-seeds"
+        },
+        {
+          "name": "Dried mango powder (amchoor)",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "dried-mango-powder"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Toast peppercorns, cardamom seeds, cassia, and cloves in a heavy skillet over medium-high heat until fragrant. Cool and grind to a powder.",
+        "Peel woody outer parts from cauliflower cores and stems, cut into large dice or thick slices.",
+        "Heat oil and cumin seeds in a large skillet over medium-high heat. Cook until cumin crackles, then add the stems.",
+        "Season with salt, toss, then cover tightly, reduce heat to low, and cook until tender.",
+        "Check and stir, letting condensation from the lid run back into the pan.",
+        "As cauliflower turns tender, season with ground spice mixture and mango powder. Stir to coat. Taste for salt."
+      ],
+      "notes": "From The Art of Simple Food II.",
+      "id": "r306",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Spiced Pears",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "20 min",
+      "cookTime": "50 min",
+      "ingredients": [
+        {
+          "name": "Dry white wine (one bottle)",
+          "qty": 3,
+          "unit": "cups",
+          "pantryKey": "white-wine"
+        },
+        {
+          "name": "Sugar",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "Water",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "Zest and juice of lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Vanilla bean, split lengthwise",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "vanilla-bean"
+        },
+        {
+          "name": "Firm Bosc, Bartlett or d'Anjou pears",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "pears"
+        },
+        {
+          "name": "Heavy cream",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "heavy-cream"
+        },
+        {
+          "name": "Cinnamon sticks, 3-inch pieces",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "cinnamon-stick"
+        },
+        {
+          "name": "Whole cloves",
+          "qty": 10,
+          "unit": "",
+          "pantryKey": "cloves"
+        },
+        {
+          "name": "Star anise",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "star-anise"
+        },
+        {
+          "name": "Peppercorns",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "peppercorns"
+        },
+        {
+          "name": "Honey",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "honey"
+        },
+        {
+          "name": "Unsalted butter",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        }
+      ],
+      "instructions": [
+        "Pour wine, sugar, and water into a saucepan and stir over low heat until sugar is dissolved.",
+        "Remove lemon zest, cut into julienne, and add to syrup with lemon juice.",
+        "Scrape vanilla bean seeds into syrup and add the bean. Add pears and simmer gently until tender, about 30 minutes.",
+        "Remove pears. Over high heat, reduce poaching liquid to about 1 cup. Add cream, lower heat, simmer 5 minutes. Strain and keep warm.",
+        "Crush the cinnamon sticks, cloves, star anise, and peppercorns coarsely.",
+        "Melt honey and butter together in a large saut\u00e9 pan. Add pear pieces, sprinkle with spice mixture, and saut\u00e9 over high heat until browned.",
+        "Arrange pears on plates and drizzle with sauce. Serve warm with vanilla ice cream."
+      ],
+      "notes": "From Chez Panisse Fruit.",
+      "id": "r307",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Coming Home Pasta",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "5 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "Hot spaghetti",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "spaghetti"
+        },
+        {
+          "name": "Minced garlic",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Dried chile flakes",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "dried-chile-flakes"
+        },
+        {
+          "name": "Salted anchovy",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "anchovy"
+        },
+        {
+          "name": "Chopped parsley",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Toss hot spaghetti with a heap of minced garlic saut\u00e9ed gently in olive oil.",
+        "Add dried chile flakes, a salted anchovy or two, a handful of chopped parsley, and salt to taste.",
+        "Enjoy with a glass of red wine."
+      ],
+      "notes": "Alice and her daughter Fanny call this 'coming home pasta'.",
+      "id": "r308",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Quick Pickling Brine",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "White wine vinegar",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "white-wine-vinegar"
+        },
+        {
+          "name": "Water",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "Sugar",
+          "qty": 2.5,
+          "unit": "tbsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "Bay leaf",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "Thyme sprigs",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "Dried chile flakes (pinch)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "dried-chile-flakes"
+        },
+        {
+          "name": "Coriander seeds",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "coriander-seeds"
+        },
+        {
+          "name": "Whole cloves",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "cloves"
+        },
+        {
+          "name": "Garlic, halved",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Sea salt",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Combine all the ingredients in a saucepan and bring to a boil.",
+        "Add small or chopped vegetables to the brine, cooking each type separately and removing when cooked but still slightly crisp.",
+        "Set vegetables aside to cool to room temperature. Allow brine to cool.",
+        "Gently stir vegetables together, transfer to jars, cover with cooled brine, and refrigerate."
+      ],
+      "notes": "From My Pantry. Makes about 3 cups.",
+      "id": "r309",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Broccoli Rabe with Garlic and Hot Pepper",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": "12 min",
+      "ingredients": [
+        {
+          "name": "Broccoli rabe",
+          "qty": 1.25,
+          "unit": "lbs",
+          "pantryKey": "broccoli-rabe"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Extra-virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Dried cayenne pepper or pinch of chile flakes",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "dried-chile-flakes"
+        },
+        {
+          "name": "Garlic cloves, coarsely chopped",
+          "qty": 3,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Stem the broccoli rabe; cut off and discard woody parts. Cut stems into pieces; slice leaves into ribbons.",
+        "Wash greens in cold water and drain.",
+        "Add olive oil to a wide saut\u00e9 pan over medium heat. When hot, add pepper or chile flakes and garlic. Stir once, then toss in broccoli rabe and salt.",
+        "Cook 4 to 12 minutes, adding water if pan gets too dry.",
+        "Just before serving, stir in extra-virgin olive oil."
+      ],
+      "notes": "From The Art of Simple Food.",
+      "id": "r310",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Ricotta, Honey, and Hazelnut Dessert",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "5 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "Tender ricotta",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "ricotta"
+        },
+        {
+          "name": "Honey, warmed",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "honey"
+        },
+        {
+          "name": "Toasted chopped hazelnuts",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "hazelnuts"
+        }
+      ],
+      "instructions": [
+        "Cut a wedge of tender ricotta and layer a spoonful of just-warmed honey on top.",
+        "Finish with a sprinkle of toasted chopped hazelnuts."
+      ],
+      "notes": "An opportunity to showcase a special honey.",
+      "id": "r311",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Homemade Ricotta",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "name": "Organic whole milk (not ultra-pasteurized)",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "whole-milk"
+        },
+        {
+          "name": "Distilled white vinegar",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "distilled-vinegar"
+        },
+        {
+          "name": "Sea salt",
+          "qty": 0.75,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Heat the milk in a heavy-bottomed nonreactive pot over medium heat until 190\u00b0F, stirring now and then.",
+        "Pour in vinegar, stir briefly, bring back up to 190\u00b0F.",
+        "Turn off heat and let sit undisturbed for 10 minutes.",
+        "Place a sieve over a large bowl, line with cheesecloth, gently ladle curds into cloth-lined sieve.",
+        "Slowly stir in salt. Drain a few minutes.",
+        "Eat right away or refrigerate up to 4 days."
+      ],
+      "notes": "From My Pantry. Makes about 1.5 cups.",
+      "id": "r312",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Oat Pancakes",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "breakfast"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "Rolled oats",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "rolled-oats"
+        },
+        {
+          "name": "Milk or almond milk",
+          "qty": 0.75,
+          "unit": "cups",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "Large egg",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Ghee, coconut oil, or butter, melted",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Sea salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Baking soda",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "baking-soda"
+        },
+        {
+          "name": "Baking powder",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "baking-powder"
+        }
+      ],
+      "instructions": [
+        "Blend the oats in a blender to a fine powder. You'll have about 3/4 cup oat flour.",
+        "Beat milk and egg together in a medium bowl. Stir in melted butter.",
+        "Add oat flour, salt, baking soda, and baking powder. Stir until just combined. Let batter rest 10 minutes.",
+        "Heat a skillet over medium-high heat, grease lightly. Spoon in batter, about 1/4 cup per pancake.",
+        "Cook until bubbles on top break, flip, cook until golden on both sides."
+      ],
+      "notes": "From My Pantry. Makes 8 pancakes.",
+      "id": "r313",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Chicken Stock",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "15 min",
+      "cookTime": "240 min",
+      "ingredients": [
+        {
+          "name": "Meaty chicken parts or whole chicken",
+          "qty": 4,
+          "unit": "lbs",
+          "pantryKey": "whole-chicken"
+        },
+        {
+          "name": "Carrot, peeled",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "Onion, peeled and halved",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "Celery stalk",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "Head garlic, halved",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Leek, halved and rinsed",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "Sea salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Black peppercorns",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "peppercorns"
+        },
+        {
+          "name": "Parsley sprigs",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "Thyme sprigs",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "Bay leaves",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        }
+      ],
+      "instructions": [
+        "Put chicken in a large pot and add 1.5 gallons cold water. Bring to a boil over high heat, then lower so broth is barely simmering.",
+        "Skim foam that rises to the top but leave some fat.",
+        "After skimming, add vegetables, salt, peppercorns, and herbs. Simmer 3 to 4 hours.",
+        "Turn off heat, let cool a bit, strain, and discard solids.",
+        "Ladle stock through a fine-mesh sieve into containers."
+      ],
+      "notes": "From My Pantry. Makes about 5 quarts.",
+      "id": "r314",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Hummus with Preserved Lemon",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "snack"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "15 min",
+      "cookTime": "120 min",
+      "ingredients": [
+        {
+          "name": "Dried chickpeas, soaked overnight",
+          "qty": 0.75,
+          "unit": "cups",
+          "pantryKey": "chickpeas"
+        },
+        {
+          "name": "Onion, halved",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "Carrot, peeled and halved",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "Garlic cloves, peeled but whole",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Sea salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Dried chile (optional)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "dried-chile-flakes"
+        },
+        {
+          "name": "Preserved lemon rind, finely chopped",
+          "qty": 0.25,
+          "unit": "",
+          "pantryKey": "preserved-lemon"
+        },
+        {
+          "name": "Tahini",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "tahini"
+        },
+        {
+          "name": "Extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Fresh lemon juice",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "Cumin seeds, toasted and ground",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "cumin-seeds"
+        },
+        {
+          "name": "Cayenne pepper (large pinch)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "cayenne"
+        }
+      ],
+      "instructions": [
+        "Drain and rinse chickpeas. Place in a pot with onion, carrot, all but one garlic clove, salt, dried chile, and water to cover by an inch.",
+        "Bring to a boil and simmer until tender, 1 to 2 hours. Cool in cooking liquid. Discard onion, carrot, chile.",
+        "Reserve some cooking liquid and drain chickpeas.",
+        "Pound remaining garlic clove and salt to smooth paste. Add preserved lemon and pound until combined.",
+        "Add chickpeas and mash. Add tahini, olive oil, lemon juice, cumin, and cayenne. Mix to smooth, adding reserved liquid as needed.",
+        "Adjust salt. Garnish with olive oil and cumin or cayenne."
+      ],
+      "notes": "From My Pantry. Makes about 2 cups.",
+      "id": "r315",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Homemade Yogurt",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "breakfast"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "20 min",
+      "cookTime": "720 min",
+      "ingredients": [
+        {
+          "name": "Goat, sheep, or cow milk (organic)",
+          "qty": 8,
+          "unit": "cups",
+          "pantryKey": "whole-milk"
+        },
+        {
+          "name": "Yogurt starter",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "yogurt-starter"
+        }
+      ],
+      "instructions": [
+        "Warm milk in a heavy-bottomed nonreactive pot over low heat, stirring often, until 185\u00b0F.",
+        "Remove from heat and cool to 112\u00b0F, whisking to speed cooling.",
+        "Locate a warm spot (around 110\u00b0F).",
+        "Sprinkle starter over milk, let sit 2 minutes, stir gently to dissolve.",
+        "Cover pot with a lid and wrap in a thick towel. Place in warm spot for 6 to 12 hours until thick. Longer = tangier.",
+        "Refrigerate."
+      ],
+      "notes": "From My Pantry. Makes 6 to 8 cups.",
+      "id": "r316",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Whole-Wheat Flatbreads",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "45 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "name": "Whole-wheat flour",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "whole-wheat-flour"
+        },
+        {
+          "name": "Sea salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Baking powder",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "baking-powder"
+        },
+        {
+          "name": "Warm water",
+          "qty": 0.75,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "Extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "In a large bowl, whisk together flour, salt, and baking powder.",
+        "Stir in water and oil. Knead briefly to form a soft, moist dough.",
+        "Cover with kitchen towel and rest 30 minutes.",
+        "Divide dough into 16 balls. Roll each ball into a 6-by-3-inch oval.",
+        "Heat cast-iron skillet over medium heat. Cook two flatbreads at a time until browning, about 2 minutes per side.",
+        "Wrap in a clean kitchen towel while warm.",
+        "Before serving, hold each flatbread briefly over an open flame, turning until lightly charred."
+      ],
+      "notes": "From My Pantry. Makes 16 flatbreads.",
+      "id": "r317",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Candied Citrus Peel",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "30 min",
+      "cookTime": "90 min",
+      "ingredients": [
+        {
+          "name": "Oranges",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "oranges"
+        },
+        {
+          "name": "Sugar",
+          "qty": 4.5,
+          "unit": "cups",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "Water",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Wash citrus and cut in half. Juice fruit and reserve for another use.",
+        "Put peels in a saucepan, cover with cold water, bring to boil, simmer 10 minutes.",
+        "Drain, cover again with cold water, boil and simmer 10 minutes more. Repeat if not tender.",
+        "Scrape out most of the white pith with a spoon. Slice peel into long 1/4-inch strips.",
+        "Return to saucepan with 4 cups sugar. Add 2 cups water and heat over low heat, stirring to dissolve sugar.",
+        "Cook slowly until peel is translucent. Turn up heat and cook syrup to thread stage (230\u00b0 to 234\u00b0F).",
+        "Turn off heat and let peel sit in syrup 30 minutes. Scoop strips onto wire rack to dry overnight.",
+        "Toss strips with remaining sugar."
+      ],
+      "notes": "From My Pantry. Makes about 4 cups.",
+      "id": "r318",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Tisane",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "snack"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "2 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "Fresh herbs (lemon verbena, mint, lemon thyme, hyssop, chamomile, ginger)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "fresh-herbs"
+        },
+        {
+          "name": "Boiling water",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Rinse several branches of fresh herbs.",
+        "Put them in a teapot or saucepan.",
+        "Pour boiling water over them.",
+        "Let steep for several minutes and serve."
+      ],
+      "notes": "From The Art of Simple Food.",
+      "id": "r319",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Fried Rosemary",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "2 min",
+      "cookTime": "3 min",
+      "ingredients": [
+        {
+          "name": "Medium sprig rosemary, leaves only",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "rosemary"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Cayenne (pinch, optional)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "cayenne"
+        }
+      ],
+      "instructions": [
+        "Heat a small pan over medium-high heat with about 1/2 inch olive oil.",
+        "When oil is hot, add the leaves.",
+        "Fry for 1 minute, then scoop out with a slotted spoon.",
+        "Drain on absorbent paper. Sprinkle with salt and a pinch of cayenne if desired."
+      ],
+      "notes": "From The Art of Simple Food II.",
+      "id": "r320",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Bay Leaf Panna Cotta",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "20 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "Almond or vegetable oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "Water",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "water"
+        },
+        {
+          "name": "Gelatin",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "gelatin"
+        },
+        {
+          "name": "Heavy cream",
+          "qty": 3,
+          "unit": "cups",
+          "pantryKey": "heavy-cream"
+        },
+        {
+          "name": "Milk",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "Sugar",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "Strips lemon zest",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "lemon-zest"
+        },
+        {
+          "name": "Bay leaves",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "Vanilla bean",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "vanilla-bean"
+        }
+      ],
+      "instructions": [
+        "Brush eight 4-ounce ramekins lightly with oil. Chill until ready.",
+        "Sprinkle gelatin over 3 tablespoons water in a small bowl. Set aside.",
+        "Combine cream, milk, sugar, lemon zest, and bay leaves in a heavy saucepan. Scrape vanilla seeds in, add bean.",
+        "Heat just to a simmer; do not boil. Remove from heat.",
+        "Pour 1 cup of hot cream over gelatin and stir to dissolve. Pour back into cream mixture and cool until just warm (110\u00b0F).",
+        "Remove vanilla bean. Strain and pour into ramekins. Cover and chill at least 6 hours.",
+        "To serve: run a small knife around inside of each ramekin, turn over onto a plate.",
+        "Serve with fresh berries or fruit compote."
+      ],
+      "notes": "Adapted from The Art of Simple Food.",
+      "id": "r321",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Salsa Verde (Alice Waters)",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Coarsely chopped parsley",
+          "qty": 0.33,
+          "unit": "cups",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "Grated zest of lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemon-zest"
+        },
+        {
+          "name": "Capers, rinsed, drained, and coarsely chopped",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "capers"
+        },
+        {
+          "name": "Salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Fresh-ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Combine all ingredients in a small bowl. Mix well and taste for salt.",
+        "Let sauce sit a while to develop flavors.",
+        "Optional: add diced shallot macerated in vinegar or 1 small garlic clove chopped fine."
+      ],
+      "notes": "Adapted from The Art of Simple Food.",
+      "id": "r322",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Mesclun Salad",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "lunch"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "15 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Mesclun mix",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "mesclun"
+        },
+        {
+          "name": "Vinaigrette",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "Sea salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Fresh-ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        }
+      ],
+      "instructions": [
+        "When ready to serve, put lettuce in a wide salad bowl.",
+        "Pour half of the vinaigrette over the leaves and toss gently.",
+        "Taste. Add more dressing if needed, plus salt and pepper.",
+        "Eat immediately."
+      ],
+      "notes": "Adapted from Fanny in France.",
+      "id": "r323",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Galette Dough",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "30 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Unbleached all-purpose flour",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "Sugar",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "Salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Unsalted butter, chilled",
+          "qty": 12,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Ice water",
+          "qty": 7,
+          "unit": "tbsp",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Combine flour, sugar, and salt in a large bowl.",
+        "Cut 4 tablespoons of butter into the flour until mixture resembles coarse cornmeal.",
+        "Cut in remaining 8 tablespoons butter just until biggest pieces are size of large peas.",
+        "Dribble in ice water in stages until dough just holds together.",
+        "Divide dough in half, press into balls, wrap in plastic, flatten into disks.",
+        "Refrigerate at least 30 minutes before rolling.",
+        "On a lightly floured surface, roll into a 14-inch circle about 1/8 inch thick.",
+        "Transfer to parchment-lined baking sheet and refrigerate at least 30 minutes before using."
+      ],
+      "notes": "From Chez Panisse Fruit.",
+      "id": "r324",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Apple and Frangipane Galette",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "30 min",
+      "cookTime": "70 min",
+      "ingredients": [
+        {
+          "name": "Galette dough, rolled into 14-inch circle",
+          "qty": 10,
+          "unit": "oz",
+          "pantryKey": null
+        },
+        {
+          "name": "Frangipane",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "Flavorful apples",
+          "qty": 2.5,
+          "unit": "lbs",
+          "pantryKey": "apples"
+        },
+        {
+          "name": "Unsalted butter, melted",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Sugar",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "Sugar (additional)",
+          "qty": 5,
+          "unit": "tbsp",
+          "pantryKey": "sugar"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 400\u00b0F.",
+        "Place galette dough on parchment-lined baking sheet. Spread frangipane in thin layer, leaving 1-inch border.",
+        "Slice apples 1/4-inch thick. Arrange in concentric circles to the center.",
+        "Fold the overhanging dough over the apples, crimping at intervals.",
+        "Brush melted butter over apple slices and onto dough border. Sprinkle sugar over pastry and apples.",
+        "Bake in center of oven. Rotate after 15 to 20 minutes. Bake about 45 minutes total.",
+        "Cool at least 15 minutes.",
+        "Make glaze: simmer reserved apple peels/cores with 1/2 cup sugar in water 25 minutes. Strain and brush over tart."
+      ],
+      "notes": "Adapted from Chez Panisse Fruit.",
+      "id": "r325",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Frangipane",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Almond paste",
+          "qty": 3,
+          "unit": "oz",
+          "pantryKey": "almond-paste"
+        },
+        {
+          "name": "Sugar",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "Unsalted butter, room temperature",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Flour",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "Egg",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Kirsch",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "kirsch"
+        },
+        {
+          "name": "Salt (pinch)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Blend together the almond paste and sugar.",
+        "Beat in the butter.",
+        "Mix in the flour, egg, kirsch, and salt and beat until fluffy."
+      ],
+      "notes": "From Chez Panisse Fruit. Makes 1/2 cup.",
+      "id": "r326",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Fresh Pasta",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "75 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "Whole eggs",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Large egg yolks",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Sift flour onto a wooden cutting board.",
+        "Make a well in flour and crack in eggs and yolks. Mix with a fork.",
+        "Add olive oil and continue mixing. Finish by hand, kneading until smooth and elastic.",
+        "Shape into a disk, wrap in plastic, rest at least an hour.",
+        "Roll out by hand or pasta machine to desired thickness."
+      ],
+      "notes": "Adapted from The Art of Simple Food.",
+      "id": "r327",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Ricotta Ravioli with Wild Mushroom Sauce",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "60 min",
+      "cookTime": "25 min",
+      "ingredients": [
+        {
+          "name": "Ricotta cheese",
+          "qty": 12,
+          "unit": "oz",
+          "pantryKey": "ricotta"
+        },
+        {
+          "name": "Green garlic stalk or 2 garlic cloves",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "green-garlic"
+        },
+        {
+          "name": "Thyme sprig leaves, chopped",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Fresh-ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Fresh Pasta (1 recipe)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "Wild mushrooms",
+          "qty": 1,
+          "unit": "lbs",
+          "pantryKey": "wild-mushrooms"
+        },
+        {
+          "name": "Onion, chopped",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "Bay leaf",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "Thyme sprigs",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "Butter",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Chicken stock (optional)",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": "chicken-broth"
+        },
+        {
+          "name": "Lemon juice (optional)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "Chopped parsley (gremolata)",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "Grated lemon zest (gremolata)",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "lemon-zest"
+        },
+        {
+          "name": "Garlic cloves, finely chopped (gremolata)",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Parmesan cheese",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "parmesan"
+        }
+      ],
+      "instructions": [
+        "Combine ricotta, green garlic, thyme, salt, and pepper.",
+        "Roll out pasta thin, cut into 14-inch sheets.",
+        "Pipe or spoon 1 tablespoon of filling along lower third of a sheet, 1.5 inches between blobs.",
+        "Mist with water. Fold upper half over lower. Press out air and seal.",
+        "Cut between portions. Separate onto floured sheet pan.",
+        "Cover and refrigerate.",
+        "For sauce: clean mushrooms, tear into quarters.",
+        "Make mushroom broth: simmer trimmings with onion, bay, thyme in water 10 minutes. Strain.",
+        "Saut\u00e9 mushrooms with butter over low heat until golden. Season.",
+        "Add broth or stock, simmer briefly. Swirl in cold butter. Taste.",
+        "Cook ravioli in salted simmering water 5-6 minutes. Drain and add to sauce.",
+        "Serve with gremolata and Parmesan."
+      ],
+      "notes": "Adapted from The Art of Simple Food.",
+      "id": "r328",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Roasted Almonds with Rosemary",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "snack"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "5 min",
+      "cookTime": "35 min",
+      "ingredients": [
+        {
+          "name": "Almonds",
+          "qty": 3,
+          "unit": "cups",
+          "pantryKey": "almonds"
+        },
+        {
+          "name": "Loosely packed rosemary leaves",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "rosemary"
+        },
+        {
+          "name": "Extra-virgin olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Sea salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 275\u00b0F. Line a rimmed baking sheet with parchment.",
+        "Mix nuts and rosemary. Add oil and salt, toss to coat.",
+        "Spread on baking sheet and bake 20 minutes.",
+        "Stir and return for 10 more minutes. Check; about 35 minutes total."
+      ],
+      "notes": "Adapted from My Pantry.",
+      "id": "r329",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Saut\u00e9ed Olives",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "5 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "Olives",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "olives"
+        },
+        {
+          "name": "Long strips of lemon zest",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "lemon-zest"
+        },
+        {
+          "name": "Fennel seeds",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "fennel-seed"
+        },
+        {
+          "name": "Bay leaves",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Take olives out of brine and rinse.",
+        "Put olives into a saut\u00e9 pan and toss with lemon zest, fennel seeds, bay leaves, and olive oil.",
+        "Add a little water and warm gently over low heat for 3 minutes.",
+        "Spoon into a bowl."
+      ],
+      "notes": "Adapted from Fanny in France.",
+      "id": "r330",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "A\u00efoli (Garlic Mayonnaise)",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "15 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Small garlic cloves",
+          "qty": 3,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Salt (pinch)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Egg yolk, room temperature",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Water",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "water"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Pound garlic with salt in a mortar to a very smooth pur\u00e9e. Reserve half.",
+        "Separate egg yolk into a mixing bowl, add about half the garlic and water. Mix with a whisk.",
+        "Slowly dribble oil into yolk mixture, whisking constantly.",
+        "As yolk absorbs oil, sauce thickens. Then add oil a little faster, whisking.",
+        "Thin with a few drops of water if too thick. Taste and adjust."
+      ],
+      "notes": "Adapted from The Art of Simple Food. Makes 1 cup.",
+      "id": "r331",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Pear Compote with Crab Apple Jelly",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "15 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "Crab apple jelly",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "crab-apple-jelly"
+        },
+        {
+          "name": "Juice of orange",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "orange-juice"
+        },
+        {
+          "name": "Ripe pears",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "pears"
+        },
+        {
+          "name": "Basket raspberries",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "raspberries"
+        }
+      ],
+      "instructions": [
+        "Put jelly into a small saucepan and gently warm to melt.",
+        "Remove from heat and squeeze in juice of orange. Whisk together.",
+        "Peel and slice pears, put into a bowl with raspberries.",
+        "Pour jelly sauce over fruit and gently mix.",
+        "Let soak 30 minutes. Chill and let macerate until ready to serve."
+      ],
+      "notes": "Any jam can be used.",
+      "id": "r332",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Grilled Chicken (Alice Waters)",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "60 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "Chicken breasts (boneless, skin on)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "chicken-breast"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Thyme",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Season chicken breasts with salt, pepper, and thyme. Drizzle with olive oil. Pull from fridge 1 hour before cooking.",
+        "Prepare bed of coals; let them burn to medium-hot. Clean grate and set 5-6 inches above coals.",
+        "Place chicken skin side down. Cook 7 minutes until skin is brown and crispy.",
+        "Turn and cook 3-5 minutes more. Check doneness.",
+        "Rest 5 minutes before cutting."
+      ],
+      "notes": "Adapted from The Art of Simple Food.",
+      "id": "r333",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Chicken Cooked Under a Brick",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "10 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "Chicken breasts (boneless, skin on)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "chicken-breast"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Thyme",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "Olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Season chicken with salt, pepper, and thyme. Drizzle with olive oil.",
+        "Heat cast-iron skillet over medium heat. Add oil, then place chicken skin side down.",
+        "Wrap another skillet in foil to use as a weight. Place on top of the chicken.",
+        "Cook at medium 10 to 12 minutes.",
+        "Remove weight, flip chicken. Pour off rendered fat. Cook a few more minutes."
+      ],
+      "notes": "Adapted from The Art of Simple Food. Classic pollo al mattone.",
+      "id": "r334",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Crispy Fingerling Potatoes",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "10 min",
+      "cookTime": "25 min",
+      "ingredients": [
+        {
+          "name": "Fingerling or small new potatoes",
+          "qty": 1.5,
+          "unit": "lbs",
+          "pantryKey": "potatoes"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Start potatoes in cold, salted water.",
+        "Boil until tender; test with a knife.",
+        "Cut parboiled fingerlings in half lengthwise. Drizzle with olive oil and salt.",
+        "Finish on hot grill flat side down to brown, or in a hot pan 5 minutes after removing chicken."
+      ],
+      "notes": "Parboil ahead.",
+      "id": "r335",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Alice's Egg in a Spoon",
+      "source": "Alice Waters MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "breakfast"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 1,
+      "prepTime": "45 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "Egg",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Olive oil to coat",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Marash pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "marash-pepper"
+        },
+        {
+          "name": "Piece toast, grilled and rubbed with garlic",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "bread"
+        }
+      ],
+      "instructions": [
+        "Build a fire with heat from top and bottom. Let logs cook down about 40 minutes.",
+        "Crack egg into a bowl without breaking the yolk. Season with salt and marash pepper.",
+        "Coat a long fireplace spoon with olive oil. Pour egg into spoon and lift into the fire.",
+        "Whites will puff up. Pull off any ash.",
+        "Egg is ready when top browns. Slide onto toast.",
+        "Top with more marash pepper. Serve with a green salad."
+      ],
+      "notes": "Cooked in a fireplace on a long spoon.",
+      "id": "r336",
+      "dateAdded": "2026-06-13"
     }
   ],
   "pantryItems": [
@@ -31302,6 +34220,196 @@
       "key": "dark-chocolate",
       "name": "Dark Chocolate",
       "category": "pantry-staple"
+    },
+    {
+      "key": "kaffir-lime-leaves",
+      "name": "Kaffir Lime Leaves",
+      "category": "produce"
+    },
+    {
+      "key": "delicata-squash",
+      "name": "Delicata Squash",
+      "category": "produce"
+    },
+    {
+      "key": "tokyo-turnips",
+      "name": "Tokyo Turnips",
+      "category": "produce"
+    },
+    {
+      "key": "anaheim-pepper",
+      "name": "Anaheim Pepper",
+      "category": "produce"
+    },
+    {
+      "key": "dried-chipotle",
+      "name": "Dried Chipotle Chile",
+      "category": "spice"
+    },
+    {
+      "key": "lime-wedges",
+      "name": "Lime Wedges",
+      "category": "produce"
+    },
+    {
+      "key": "jicama",
+      "name": "Jicama",
+      "category": "produce"
+    },
+    {
+      "key": "canned-whole-tomatoes",
+      "name": "Canned Whole Tomatoes",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "dried-ancho-chiles",
+      "name": "Dried Ancho Chiles",
+      "category": "spice"
+    },
+    {
+      "key": "red-bell-pepper",
+      "name": "Red Bell Pepper",
+      "category": "produce"
+    },
+    {
+      "key": "dried-mango-powder",
+      "name": "Dried Mango Powder (Amchoor)",
+      "category": "spice"
+    },
+    {
+      "key": "cardamom-pod",
+      "name": "Cardamom Pod",
+      "category": "spice"
+    },
+    {
+      "key": "cassia",
+      "name": "Cassia Bark",
+      "category": "spice"
+    },
+    {
+      "key": "coconut-oil",
+      "name": "Coconut Oil",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "pears",
+      "name": "Pears",
+      "category": "produce"
+    },
+    {
+      "key": "dried-chile-flakes",
+      "name": "Dried Chile Flakes",
+      "category": "spice"
+    },
+    {
+      "key": "anchovy",
+      "name": "Anchovy",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "thyme-sprigs",
+      "name": "Thyme Sprigs",
+      "category": "produce"
+    },
+    {
+      "key": "broccoli-rabe",
+      "name": "Broccoli Rabe",
+      "category": "produce"
+    },
+    {
+      "key": "ricotta",
+      "name": "Ricotta",
+      "category": "dairy"
+    },
+    {
+      "key": "distilled-vinegar",
+      "name": "Distilled White Vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "rolled-oats",
+      "name": "Rolled Oats",
+      "category": "grain"
+    },
+    {
+      "key": "almond-milk",
+      "name": "Almond Milk",
+      "category": "dairy"
+    },
+    {
+      "key": "ghee",
+      "name": "Ghee",
+      "category": "dairy"
+    },
+    {
+      "key": "preserved-lemon",
+      "name": "Preserved Lemon",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "yogurt-starter",
+      "name": "Yogurt Starter",
+      "category": "dairy"
+    },
+    {
+      "key": "tangerines",
+      "name": "Tangerines",
+      "category": "produce"
+    },
+    {
+      "key": "grapefruit",
+      "name": "Grapefruit",
+      "category": "produce"
+    },
+    {
+      "key": "gelatin",
+      "name": "Gelatin",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "green-garlic",
+      "name": "Green Garlic",
+      "category": "produce"
+    },
+    {
+      "key": "wild-mushrooms",
+      "name": "Wild Mushrooms",
+      "category": "produce"
+    },
+    {
+      "key": "almond-paste",
+      "name": "Almond Paste",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "kirsch",
+      "name": "Kirsch",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "crab-apple-jelly",
+      "name": "Crab Apple Jelly",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "marash-pepper",
+      "name": "Marash Pepper",
+      "category": "spice"
+    },
+    {
+      "key": "fennel-bulb",
+      "name": "Fennel Bulb",
+      "category": "produce"
+    },
+    {
+      "key": "fresh-herbs",
+      "name": "Fresh Herbs",
+      "category": "produce"
+    },
+    {
+      "key": "lettuce",
+      "name": "Lettuce",
+      "category": "produce"
     }
   ],
   "pantryState": {}
