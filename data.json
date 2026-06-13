@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastUpdated": "2026-06-13",
-    "recipeCount": 115
+    "recipeCount": 128
   },
   "recipes": [
     {
@@ -10266,6 +10266,1458 @@
         "Remove from heat and top with torn basil. Spoon gnocchi and sauce onto a serving dish; finish with microplaned Parmesan."
       ],
       "notes": "Pomodoro = fresh, quick sauce. Use canned San Marzanos when tomatoes are out of season. Pairs with frozen gnocchi without thawing."
+    },
+    {
+      "id": "r116",
+      "name": "Tuna Sashimi with Fennel Apple Salad",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "appetizer"
+      ],
+      "cuisine": [
+        "Asian",
+        "American"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "sushi grade tuna",
+          "qty": 8,
+          "unit": "oz",
+          "pantryKey": "sushi-tuna"
+        },
+        {
+          "name": "pickled ginger, julienned",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "pickled-ginger"
+        },
+        {
+          "name": "ripe avocado",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "avocado"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "ají paste",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "aji-paste"
+        },
+        {
+          "name": "orange juice",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "orange-juice"
+        },
+        {
+          "name": "soy sauce",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "soy-sauce"
+        },
+        {
+          "name": "ginger, peeled and grated",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "fennel bulb",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "fennel"
+        },
+        {
+          "name": "fuji apple",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "apples"
+        },
+        {
+          "name": "mesclun salad mix",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "mesclun"
+        },
+        {
+          "name": "Vietnamese rice paper rolls, broiled until crispy",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "rice-paper"
+        },
+        {
+          "name": "radish slices",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "radishes"
+        },
+        {
+          "name": "daikon sprouts",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "daikon-sprouts"
+        },
+        {
+          "name": "fennel pollen",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "Fresno chili pepper slices",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "fresno-chili"
+        },
+        {
+          "name": "red jalapeño slices",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "jalapeno"
+        },
+        {
+          "name": "edible flowers or sprouts",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        }
+      ],
+      "instructions": [
+        "Start with the avocado puree. Cut the avocado in quarters. Take out the pit and use a spoon to scrape out the contents. Pass it through a tamis, or blend it in a small blender. Squeeze in the lemon juice and season with salt.",
+        "Make the vinaigrette. Combine the chili paste and orange juice in a small bowl. Stir well. Season with salt.",
+        "Make the ponzu sauce. In another small bowl, add the soy sauce. Grate in ginger using a microplane. Squeeze in lemon juice. Mix together.",
+        "Salad: slice fennel bulb and apple on a mandolin. Julienne the slices and place in a bowl. Cut mesclun greens and add. Season with salt. Immediately dress with the ají chili vinaigrette to prevent browning.",
+        "Cut the tuna on an angle into pieces about 1/8 inch thick. Put 1/2 tsp ginger on each slice of tuna and roll up.",
+        "To plate: spread avocado puree across half the plate. Place 5 tuna pieces on the puree, drizzle ponzu. Pile salad in the center. Scatter radishes, jalapeños, daikon sprouts, edible flowers. Garnish by breaking pieces of broiled rice paper around the salad. Drizzle vinaigrette."
+      ],
+      "notes": "Wolfgang suggests yellowtail, bigeye, or farm-raised bluefin as alternatives."
+    },
+    {
+      "id": "r117",
+      "name": "Veal Stock and Demi-Glace",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "beef"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": null,
+      "cookTime": "6 hours",
+      "ingredients": [
+        {
+          "name": "veal bones",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "veal-bones"
+        },
+        {
+          "name": "carrots, roughly chopped",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "celery stalks, roughly chopped",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "onion, roughly chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "garlic cloves",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "black peppercorns",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "bunch thyme",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "sprig rosemary",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "rosemary"
+        },
+        {
+          "name": "bay leaves",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "red wine",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "red-wine"
+        },
+        {
+          "name": "tomato paste",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "tomato-paste"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 500°F. Roast veal bones on a roasting pan for 45 min. Add celery, carrots, onions, garlic, peppercorns, thyme, rosemary, bay leaves; roast another 20 min.",
+        "Deglaze pan with red wine; add tomato paste. Transfer everything (including wine and pan scrapings) to stockpot.",
+        "Pressure cooker: add 4 qt water; lock and cook 1 hr 30 min, let sit 20 min.",
+        "Stockpot: add 4 qt water; simmer on low 5–6 hrs.",
+        "Demi-glace: strain stock into saucepot. Simmer uncovered over medium-high until reduced by half. Transfer to containers or ice cube trays."
+      ],
+      "notes": "Yields ~2 qt stock, 1 qt demi-glace. Foundation for many sauces."
+    },
+    {
+      "id": "r118",
+      "name": "Pepper Steak with Red Wine Raisin Sauce",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "French",
+        "American"
+      ],
+      "protein": [
+        "beef"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "New York strip steaks",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "ny-strip-steak"
+        },
+        {
+          "name": "salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "green peppercorns",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "green-peppercorns"
+        },
+        {
+          "name": "white peppercorns",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "white-pepper"
+        },
+        {
+          "name": "black peppercorns",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "red wine",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "red-wine"
+        },
+        {
+          "name": "raisins",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "raisins"
+        },
+        {
+          "name": "demi-glace",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "heavy cream",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "heavy-cream"
+        },
+        {
+          "name": "watercress",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "watercress"
+        }
+      ],
+      "instructions": [
+        "Combine raisins and red wine in a sauté pan over medium heat to plump the raisins.",
+        "Crush all peppercorns in a ziplock bag. Pour onto a plate.",
+        "Cut steaks (thicker for rare, thinner for well-done). Season both sides with salt; coat with crushed peppercorns.",
+        "Heat large sauté pan on high; add olive oil and bring to light smoke. Sear steaks 3–4 min per side. Rest on baking rack in warm oven.",
+        "Pan sauce: pour the wine-raisin mixture into the hot pan, reduce. Add demi-glace, whisk. Lower heat; add heavy cream, whisk and reduce until it coats the back of a spoon. Season with salt.",
+        "To plate: slice steak into 8 pieces, fan onto plate. Watercress alongside; drizzle with olive oil and spoon sauce over and around."
+      ],
+      "notes": "Uses demi-glace from prior chapter."
+    },
+    {
+      "id": "r119",
+      "name": "Farro Salad with Roasted Carrots",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "lunch",
+        "side"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "40 min",
+      "ingredients": [
+        {
+          "name": "farro",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": "farro"
+        },
+        {
+          "name": "water",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "salt",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "greek yogurt",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "greek-yogurt"
+        },
+        {
+          "name": "shallot, minced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "blood orange peel, grated",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "blood-orange"
+        },
+        {
+          "name": "carrot tops, chopped (or mint)",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "juice of blood oranges",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "blood-orange"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "heirloom carrots",
+          "qty": 12,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "garlic clove",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "lemon, cut in half",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "blood orange segments",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "blood-orange"
+        },
+        {
+          "name": "orange segments",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "oranges"
+        },
+        {
+          "name": "edible flowers",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "watercress, stems trimmed",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "watercress"
+        }
+      ],
+      "instructions": [
+        "Farro: combine water, farro, 2 tsp salt in a saucepan. Boil, then reduce and simmer covered 15–20 min until tender. Drain and cool in a bowl.",
+        "Carrots: preheat oven to 450°F. Heat olive oil in sauté pan, add shallot and garlic. Add carrots; squeeze lemon over. Toss. Roast 15–18 min. Cool, then halve or third.",
+        "Vinaigrette: in a bowl combine greek yogurt, shallot, blood orange peel, carrot tops (or mint). Add blood orange juice and lemon juice. Season; thin with more juice if needed. Pour into farro.",
+        "To plate: spoon farro down center. Top with roasted carrots, blood orange and orange segments, watercress, edible flowers, carrot ribbons."
+      ],
+      "notes": "Highlights natural sweetness of carrots through heavy roasting."
+    },
+    {
+      "id": "r120",
+      "name": "Roasted Chicken with Mustard Port Sauce",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "boneless chickens",
+          "qty": 2.5,
+          "unit": "",
+          "pantryKey": "whole-chicken"
+        },
+        {
+          "name": "salt and pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "garlic cloves",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "sprig thyme",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "port wine",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "port-wine"
+        },
+        {
+          "name": "veal demi-glace",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "whole grain mustard",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "whole-grain-mustard"
+        },
+        {
+          "name": "Dijon mustard",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "dijon-mustard"
+        },
+        {
+          "name": "dandelion greens, torn",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "dandelion-greens"
+        },
+        {
+          "name": "broccolini flowers",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "broccolini"
+        },
+        {
+          "name": "parsley leaves",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 500°F. Season chicken with salt and pepper. Heat sauté pan over medium-high, coat with olive oil. Sear chicken skin-side down 3–4 min.",
+        "When skin is golden, transfer pan to oven 8–12 min, until internal temp hits 165°F.",
+        "Back on stovetop, flip chicken. Add garlic and thyme. Baste until skin is golden and temp confirms 165°F. Rest on rack; remove thyme and garlic.",
+        "Sauce: deglaze pan with port wine. Reduce. Add veal demi-glace, whisk, reduce ~1 min. Off heat, whisk in whole grain and Dijon mustards. Season.",
+        "Salad: combine dandelion greens, broccolini, parsley. Drizzle lemon juice and olive oil. Toss; season.",
+        "Plate chicken skin-side up; sauce on top and around; salad alongside."
+      ],
+      "notes": "Demi-glace from prior chapter. Substitute mushroom or garlic-butter sauce per Wolfgang's suggestion."
+    },
+    {
+      "id": "r121",
+      "name": "Béchamel Sauce, Mac & Cheese, and Creamed Spinach",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner",
+        "side"
+      ],
+      "cuisine": [
+        "French",
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "unsalted butter (béchamel)",
+          "qty": 5,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "all purpose flour",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "whole milk",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "egg yolks",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "kosher salt",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "nutmeg",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "nutmeg"
+        },
+        {
+          "name": "package elbow pasta, cooked",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "elbow-pasta"
+        },
+        {
+          "name": "white cheddar cheese",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "cheddar-cheese"
+        },
+        {
+          "name": "fresh mozzarella",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "mozzarella"
+        },
+        {
+          "name": "béchamel",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "breadcrumbs",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "breadcrumbs"
+        },
+        {
+          "name": "spinach, stems removed",
+          "qty": 2,
+          "unit": "lbs",
+          "pantryKey": "spinach"
+        },
+        {
+          "name": "olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "black pepper",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "eggs",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "eggs"
+        }
+      ],
+      "instructions": [
+        "Béchamel: melt butter in saucepot over medium. Add flour gradually, stir smooth; cook 2–3 min. Heat milk separately just below boil. Add hot milk to butter-flour 1/2 cup at a time, whisking constantly. Cook 12 min, stirring. Off heat, whisk in egg yolks one at a time. Season with salt and nutmeg.",
+        "Mac and Cheese: preheat oven to 500°F. Coat cooked macaroni with béchamel (don't drown). Add cheddar and mozzarella, toss. Season.",
+        "Transfer to cast iron skillet. Top with breadcrumbs and dots of butter. Bake 8–12 min until golden.",
+        "Creamed Spinach: sauté spinach in olive oil in batches until just wilted. Shock in ice bath, wring out, chop finely.",
+        "Warm béchamel; fold spinach in to taste, thinning with milk if needed. Season.",
+        "Fry eggs in butter; season. Place one on top of each portion of creamed spinach."
+      ],
+      "notes": "Béchamel is one of the five French mother sauces; becomes Mornay when cheese is added."
+    },
+    {
+      "id": "r122",
+      "name": "Roasted Herb Branzino with Caper Herb Beurre Blanc",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "French",
+        "Italian"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "branzino fillets",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "branzino"
+        },
+        {
+          "name": "salt and pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "breadcrumbs",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "breadcrumbs"
+        },
+        {
+          "name": "parsley leaves",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "sprig rosemary",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "rosemary"
+        },
+        {
+          "name": "sprigs thyme",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "sprigs tarragon",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "tarragon"
+        },
+        {
+          "name": "chives, chopped",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "chives"
+        },
+        {
+          "name": "shallots",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "white wine",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "white-wine"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "unsalted butter, cubed",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "capers",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "capers"
+        },
+        {
+          "name": "small tomatoes",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "lemon segments, chopped",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "lemons"
+        }
+      ],
+      "instructions": [
+        "Herb crust: pulse breadcrumbs, parsley, rosemary, thyme, tarragon, chives in food processor until herbs are minced and breadcrumbs are green. Transfer to baking sheet.",
+        "Preheat oven to 550°F or broil. Oil a baking sheet. Brush fillets with olive oil, season. Press meat-side into the breadcrumbs to coat. Lay skin-side down; cook 5–8 min.",
+        "Beurre blanc: olive oil in sauté pan over medium. Sauté shallots until translucent. Deglaze with white wine; add tarragon. Reduce. Add lemon juice (thin with water if over-reduced). Whisk in butter gradually. Season. Add capers, tomatoes, parsley, lemon segments; whisk to combine.",
+        "Plate fillet skin-side down; spoon sauce around."
+      ],
+      "notes": "Branzino is Mediterranean sea bass. Wolfgang loves tarragon for fish."
+    },
+    {
+      "id": "r123",
+      "name": "Oatmeal Risotto with Morels and Pea Puree",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Italian",
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "leek, roughly chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "carrots, roughly chopped",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "celery stalks, roughly chopped",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "sprigs thyme",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "water",
+          "qty": 2,
+          "unit": "l",
+          "pantryKey": "water"
+        },
+        {
+          "name": "steel cut oats",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "steel-cut-oats"
+        },
+        {
+          "name": "shallots, finely chopped",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "garlic clove, finely chopped",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "white wine",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "white-wine"
+        },
+        {
+          "name": "vegetable stock",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "stock"
+        },
+        {
+          "name": "salt and pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "pea puree",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "english peas",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "english-peas"
+        },
+        {
+          "name": "morel mushrooms",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "morels"
+        },
+        {
+          "name": "snap peas, cut at a 45° angle",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "snap-peas"
+        },
+        {
+          "name": "pea tendrils",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "pea-tendrils"
+        },
+        {
+          "name": "mint leaves",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "mint"
+        }
+      ],
+      "instructions": [
+        "Vegetable stock: in stockpot over medium-high, sauté leek, carrots, celery in olive oil. Add thyme and cover with water. Simmer 1 hr. Strain through chinois. Keep hot.",
+        "Risotto: coat saucepot with olive oil over medium-high. Sauté shallots and garlic without browning. Add oats; coat in fat. Deglaze with white wine. Slowly add hot stock one ladle at a time, stirring constantly, until creamy with slight firmness. Season.",
+        "Pea puree: boil 4 cups salted water; add peas until they float. Blanch in ice water for color. Puree in blender (add blanching liquid as needed) until smooth.",
+        "Vegetables: quarter morels; submerge in water, lift out by hand to leave grit. Heat olive oil in sauté pan, add morels, salt, pepper, thyme, shallots, garlic. Cook until water evaporates. Add snap peas briefly to keep crunch. Season.",
+        "Fold a small amount of pea puree into the risotto just before serving for color. Freeze the rest.",
+        "Plate: scoop risotto into the center, shake to spread. Spoon morels in the center. Top with pea tendrils, mint, a squeeze of lemon, drizzle of olive oil."
+      ],
+      "notes": "Vegan if no parmesan added. Wolfgang suggests sausage or chicken for non-vegetarians."
+    },
+    {
+      "id": "r124",
+      "name": "Seafood Gazpacho",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "lunch",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Spanish"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "clams, washed and rinsed",
+          "qty": 3,
+          "unit": "lbs",
+          "pantryKey": "clams"
+        },
+        {
+          "name": "olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "fennel bulb, thinly sliced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "fennel"
+        },
+        {
+          "name": "leek, sliced in rings",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "shallots",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "cloves of garlic",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "white wine",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "white-wine"
+        },
+        {
+          "name": "heirloom tomatoes, quartered",
+          "qty": 8,
+          "unit": "cups",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "paprika",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "paprika"
+        },
+        {
+          "name": "cayenne",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "sherry vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sherry-vinegar"
+        },
+        {
+          "name": "salt",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "lobster tails, halved",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lobster"
+        },
+        {
+          "name": "celery, brunoise",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "thin slices of cucumber",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "cucumbers"
+        },
+        {
+          "name": "cherry tomato slices",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "kumquats, thinly sliced",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "kumquats"
+        },
+        {
+          "name": "celery leaves",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "gooseberries",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "gooseberries"
+        },
+        {
+          "name": "sliced green grapes",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "grapes"
+        }
+      ],
+      "instructions": [
+        "Clam stock: in stockpot over medium-high, heat olive oil. Add vegetables and tarragon. Deglaze with ~2 cups white wine. Reduce by half, add washed clams, cover. Steam until clams open, 8–12 min. Strain juice through fine sieve over ice. Remove clams.",
+        "Tomato broth: in a bowl combine tomatoes, paprika, cayenne, sherry vinegar, olive oil, salt (can marinate overnight). Pass through food mill or blend and sieve. Add 2 cups clam juice; whisk. Taste.",
+        "Plate: arrange lobster pieces in the center of the bowl with cucumber slices. Pour ~1 cup soup. Place a shelled clam in the center. Garnish with cherry tomato slices, kumquats, gooseberries, grape slices, clam meat, diced celery, celery leaves. Squeeze lemon. Drizzle olive oil."
+      ],
+      "notes": "Yields 6 cups. Oregano or thyme can substitute for tarragon."
+    },
+    {
+      "id": "r125",
+      "name": "Berry Margarita",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "snack"
+      ],
+      "cuisine": [
+        "Mexican"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "5 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "blackberries",
+          "qty": 12,
+          "unit": "",
+          "pantryKey": "berries"
+        },
+        {
+          "name": "raspberries",
+          "qty": 12,
+          "unit": "",
+          "pantryKey": "berries"
+        },
+        {
+          "name": "strips lime rind",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "tequila",
+          "qty": 4,
+          "unit": "oz",
+          "pantryKey": "tequila"
+        },
+        {
+          "name": "lime juice",
+          "qty": 1.5,
+          "unit": "oz",
+          "pantryKey": "lime-juice"
+        },
+        {
+          "name": "simple syrup",
+          "qty": 1.5,
+          "unit": "oz",
+          "pantryKey": "simple-syrup"
+        },
+        {
+          "name": "lime twists",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lime"
+        }
+      ],
+      "instructions": [
+        "In cocktail shaker, combine berries and lime rind. Mash to puree.",
+        "Add tequila, lime juice, simple syrup. Fill with ice. Shake.",
+        "Large ice cube in each glass. Strain in. Garnish with a skewer of berries and a lime twist."
+      ],
+      "notes": "Use large ice cubes to avoid watering down. Substitute berries by season."
+    },
+    {
+      "id": "r126",
+      "name": "Negroni Cocktail",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "snack"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "5 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "gin",
+          "qty": 3,
+          "unit": "oz",
+          "pantryKey": "gin"
+        },
+        {
+          "name": "vermouth",
+          "qty": 1.5,
+          "unit": "oz",
+          "pantryKey": "vermouth"
+        },
+        {
+          "name": "Campari",
+          "qty": 1.5,
+          "unit": "oz",
+          "pantryKey": "campari"
+        },
+        {
+          "name": "champagne",
+          "qty": 3,
+          "unit": "oz",
+          "pantryKey": "champagne"
+        },
+        {
+          "name": "Angostura bitters",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "angostura-bitters"
+        },
+        {
+          "name": "dashes of lemon bitters",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lemon-bitters"
+        },
+        {
+          "name": "lemon twists",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "lime twists",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lime"
+        }
+      ],
+      "instructions": [
+        "3 large ice cubes in a pitcher.",
+        "Pour gin, vermouth, Campari; stir. Add champagne. Stir. Dash in Angostura and lemon bitters. Taste.",
+        "Strain into glasses. Garnish with lemon and lime twists."
+      ],
+      "notes": "Italian aperitivo."
+    },
+    {
+      "id": "r127",
+      "name": "Bellini Cocktail",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "brunch",
+        "snack"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "white peach puree",
+          "qty": 4,
+          "unit": "oz",
+          "pantryKey": null
+        },
+        {
+          "name": "champagne or sparkling wine",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "champagne"
+        },
+        {
+          "name": "very ripe peaches (~6)",
+          "qty": 1.5,
+          "unit": "lbs",
+          "pantryKey": "peaches"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "sugar",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "lemon twists",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "lime twists",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lime"
+        }
+      ],
+      "instructions": [
+        "Pour peach puree into a pitcher with ice. Slowly pour in champagne, stir gently. Taste.",
+        "Strain into glasses; top with more sparkling wine if desired.",
+        "Peach puree: blanch peaches 15–20 sec, shock, peel. Halve, pit, chop. Combine with lemon juice and sugar; blend; pass through a fine sieve."
+      ],
+      "notes": "Veneto-region summer cocktail."
+    },
+    {
+      "id": "r128",
+      "name": "Bloody Mary",
+      "source": "Wolfgang Puck MasterClass",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "brunch",
+        "snack"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "heirloom tomatoes, quartered",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "jalapeño slices",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "jalapeno"
+        },
+        {
+          "name": "simple syrup",
+          "qty": 1,
+          "unit": "oz",
+          "pantryKey": "simple-syrup"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 1.5,
+          "unit": "oz",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "horseradish, grated",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "horseradish"
+        },
+        {
+          "name": "vodka",
+          "qty": 4,
+          "unit": "oz",
+          "pantryKey": "vodka"
+        },
+        {
+          "name": "salt and pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "celery stalks",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "cherry tomatoes",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "lemon wedges",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lemons"
+        }
+      ],
+      "instructions": [
+        "Place tomatoes and jalapeño slices in a shaker. Salt and pepper. Add simple syrup, lemon juice, horseradish. Muddle.",
+        "Add vodka and ice. Shake.",
+        "Ice in glass; top with strained Bloody Mary. Garnish with celery stalk and a skewered lemon wedge + cherry tomato."
+      ],
+      "notes": "Inspired by farmers' market tomatoes."
     }
   ],
   "pantryItems": [
@@ -11348,6 +12800,241 @@
       "key": "bacon",
       "name": "Bacon",
       "category": "protein"
+    },
+    {
+      "key": "sushi-tuna",
+      "name": "Sushi-grade tuna",
+      "category": "protein"
+    },
+    {
+      "key": "pickled-ginger",
+      "name": "Pickled ginger",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "aji-paste",
+      "name": "Ají paste",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "mesclun",
+      "name": "Mesclun salad mix",
+      "category": "produce"
+    },
+    {
+      "key": "rice-paper",
+      "name": "Vietnamese rice paper rolls",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "daikon-sprouts",
+      "name": "Daikon sprouts",
+      "category": "produce"
+    },
+    {
+      "key": "fresno-chili",
+      "name": "Fresno chili pepper",
+      "category": "produce"
+    },
+    {
+      "key": "veal-bones",
+      "name": "Veal bones",
+      "category": "protein"
+    },
+    {
+      "key": "red-wine",
+      "name": "Red wine",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "ny-strip-steak",
+      "name": "New York strip steak",
+      "category": "protein"
+    },
+    {
+      "key": "green-peppercorns",
+      "name": "Green peppercorns",
+      "category": "spice"
+    },
+    {
+      "key": "raisins",
+      "name": "Raisins",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "watercress",
+      "name": "Watercress",
+      "category": "produce"
+    },
+    {
+      "key": "farro",
+      "name": "Farro",
+      "category": "grain"
+    },
+    {
+      "key": "blood-orange",
+      "name": "Blood oranges",
+      "category": "produce"
+    },
+    {
+      "key": "oranges",
+      "name": "Oranges",
+      "category": "produce"
+    },
+    {
+      "key": "port-wine",
+      "name": "Port wine",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "whole-grain-mustard",
+      "name": "Whole grain mustard",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "dandelion-greens",
+      "name": "Dandelion greens",
+      "category": "produce"
+    },
+    {
+      "key": "broccolini",
+      "name": "Broccolini",
+      "category": "produce"
+    },
+    {
+      "key": "nutmeg",
+      "name": "Nutmeg",
+      "category": "spice"
+    },
+    {
+      "key": "elbow-pasta",
+      "name": "Elbow pasta",
+      "category": "grain"
+    },
+    {
+      "key": "breadcrumbs",
+      "name": "Breadcrumbs",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "branzino",
+      "name": "Branzino fillets",
+      "category": "protein"
+    },
+    {
+      "key": "steel-cut-oats",
+      "name": "Steel cut oats",
+      "category": "grain"
+    },
+    {
+      "key": "english-peas",
+      "name": "English peas",
+      "category": "produce"
+    },
+    {
+      "key": "morels",
+      "name": "Morel mushrooms",
+      "category": "produce"
+    },
+    {
+      "key": "snap-peas",
+      "name": "Snap peas",
+      "category": "produce"
+    },
+    {
+      "key": "pea-tendrils",
+      "name": "Pea tendrils",
+      "category": "produce"
+    },
+    {
+      "key": "mint",
+      "name": "Mint",
+      "category": "produce"
+    },
+    {
+      "key": "clams",
+      "name": "Clams",
+      "category": "protein"
+    },
+    {
+      "key": "sherry-vinegar",
+      "name": "Sherry vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "cayenne",
+      "name": "Cayenne pepper",
+      "category": "spice"
+    },
+    {
+      "key": "lobster",
+      "name": "Lobster tails",
+      "category": "protein"
+    },
+    {
+      "key": "kumquats",
+      "name": "Kumquats",
+      "category": "produce"
+    },
+    {
+      "key": "gooseberries",
+      "name": "Gooseberries",
+      "category": "produce"
+    },
+    {
+      "key": "grapes",
+      "name": "Grapes",
+      "category": "produce"
+    },
+    {
+      "key": "tequila",
+      "name": "Tequila",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "vermouth",
+      "name": "Vermouth",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "campari",
+      "name": "Campari",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "champagne",
+      "name": "Champagne / sparkling wine",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "angostura-bitters",
+      "name": "Angostura bitters",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "lemon-bitters",
+      "name": "Lemon bitters",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "peaches",
+      "name": "Peaches",
+      "category": "produce"
+    },
+    {
+      "key": "vodka",
+      "name": "Vodka",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "horseradish",
+      "name": "Horseradish",
+      "category": "produce"
+    },
+    {
+      "key": "leeks",
+      "name": "Leeks",
+      "category": "produce"
     }
   ],
   "pantryState": {}
