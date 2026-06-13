@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastUpdated": "2026-06-13",
-    "recipeCount": 133
+    "recipeCount": 151
   },
   "recipes": [
     {
@@ -12107,6 +12107,1763 @@
       "notes": "Look for prime > choice > select grading and good marbling. A thick hard fat cap can signal industrial raising. Trim cold; rub at room temp; smoke at 255\u00b0F \u2192 260-265\u00b0F \u2192 280-285\u00b0F. Butcher paper > foil for breathability and bark. Aaron's preferred slicing knife is an inexpensive 12-inch serrated bread knife.",
       "id": "r133",
       "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Salsa Verde (Roy Choi)",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Mexican"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": null,
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "1 tbsp cooking oil, plus more as needed",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "2 large tomatillos, peeled and rinsed",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "tomatillos"
+        },
+        {
+          "name": "3 garlic cloves, peeled",
+          "qty": 3,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "6 scallions",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "2 jalape\u00f1os",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "jalapeno"
+        },
+        {
+          "name": "2 serrano chilies",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "serrano-chili"
+        },
+        {
+          "name": "1 bunch cilantro, with stems, roughly chopped (about 1\u00bd cups)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "2 limes",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "\u00bd cup rice vinegar",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "3 large pinches kosher salt",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "2 large pinches freshly ground black pepper",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        }
+      ],
+      "instructions": [
+        "Drizzle the oil in a large skillet or on a griddle set over medium-high heat. Add the tomatillos, garlic, scallions, jalape\u00f1os, and serranos. Slowly and patiently char the vegetables on all sides, turning often, until they begin to blister and blacken in spots, about 10 to 15 minutes. Transfer the charred vegetables to a cutting board or sheet pan and let them cool slightly.",
+        "Once the chilies are cool enough to handle, remove their stems. (For a milder salsa, slice the pods open and scrape out the seeds.) Add the chilies and the rest of the charred ingredients to a clean blender jar, and pack the cilantro on top. Roll the limes against a hard surface with your palms, slice them in half, and squeeze them over the blender jar using your hands. Add the rice vinegar, salt, and pepper.",
+        "Blend the ingredients on high speed just until a smooth salsa forms, about 15 seconds. If the mixture seems too thick or chunky, add small amounts of water or oil while running the blender on low speed until the salsa is the desired consistency. Season with more salt and pepper to taste. Store in the refrigerator for up to 1 week."
+      ],
+      "notes": "Makes about 2 cups. Great on tacos, rice bowls, grilled vegetables, or in a Bloody Mary.",
+      "id": "r134",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Kalbi Marinade",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "1 large onion, peeled and roughly chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "1 cup peeled garlic cloves",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "1 bunch scallions (about 8 scallions), roughly chopped",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "5 tbsp toasted sesame seeds",
+          "qty": 5,
+          "unit": "tbsp",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "1 cup sugar",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "2 large kiwifruits",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "kiwi"
+        },
+        {
+          "name": "2 cups soy sauce",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "soy-sauce"
+        },
+        {
+          "name": "1 cup mirin, apple juice, or water",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "mirin"
+        },
+        {
+          "name": "2 cups fresh orange juice",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "orange-juice"
+        },
+        {
+          "name": "1 cup toasted sesame oil",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "sesame-oil"
+        }
+      ],
+      "instructions": [
+        "Add the onion, garlic, scallions, sesame seeds, and sugar to a clean blender jar. Halve the kiwifruits and use a spoon to scoop out the flesh. Add the flesh to the blender and toss out the skins.",
+        "Add the remaining ingredients and pur\u00e9e on high speed just until a smooth sauce forms, about 10 seconds. Pour the marinade into a sealable jar or container and store in the refrigerator for up to 1 week."
+      ],
+      "notes": "Makes about 8 cups. Use for BBQ Kalbi and BBQ Mixed Vegetables; also works as a braising sauce or salad dressing. Swap pears or pineapple for kiwi if needed.",
+      "id": "r135",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Scallion Dipping Sauce",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "2 tbsp crushed toasted sesame seeds",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "2 cups soy sauce",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "soy-sauce"
+        },
+        {
+          "name": "3 tbsp gochugaru (Korean chili flakes)",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "gochugaru"
+        },
+        {
+          "name": "\u00bd cup toasted sesame oil",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "sesame-oil"
+        },
+        {
+          "name": "\u00be cup rice vinegar",
+          "qty": 0.75,
+          "unit": "cups",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "2 tbsp sugar",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "1 bunch scallions (about 8 scallions), trimmed and thinly sliced",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "scallions"
+        }
+      ],
+      "instructions": [
+        "Combine all of the ingredients in a large mixing bowl. Whisk or stir until well mixed.",
+        "Adjust the seasoning to taste, and add a little water if you want the sauce mellower. Pour into a sealable jar and store in the refrigerator for up to 3 months."
+      ],
+      "notes": "Makes about 4 cups. Roy's most-used sauce \u2014 try over dumplings, pancakes, fried chicken, fried rice, potatoes, or in soup broths.",
+      "id": "r136",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Kogi Vinaigrette",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "1 2-inch knob of ginger",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "4 garlic cloves, peeled",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "3 scallions, roughly chopped",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "\u00bc cup gochugaru (Korean chili flakes)",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "gochugaru"
+        },
+        {
+          "name": "\u00bc cup sugar",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "1 tbsp kosher salt",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "2 tsp black pepper",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1 cup soy sauce",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "soy-sauce"
+        },
+        {
+          "name": "2 cups rice vinegar (unseasoned)",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "\u00bd cup toasted sesame oil",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "sesame-oil"
+        },
+        {
+          "name": "1 cup neutral oil (canola, grapeseed, etc.)",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "canola-oil"
+        }
+      ],
+      "instructions": [
+        "Use the side of a spoon to scrape the skin from the ginger, then roughly chop the knob into thin discs. Add the ginger discs to a clean blender jar, along with the rest of the ingredients.",
+        "Pur\u00e9e the ingredients on high speed until a smooth dressing forms, about 15 seconds. Pour the dressing into a sealable jar or container, and store it in the refrigerator for up to 3 months."
+      ],
+      "notes": "Makes about 6 cups. The signature Kogi truck sauce \u2014 bright, pungent, sweet, and acidic. Use on slaws, salads, vegetables, grains, or proteins.",
+      "id": "r137",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "BBQ Kalbi",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "beef"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 7,
+      "prepTime": "15 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "2 cups Kalbi Marinade (see page 17)",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "4 lb boneless or bone-in flanken short ribs, sliced \u00bd-inch thick",
+          "qty": 4,
+          "unit": "lbs",
+          "pantryKey": "flanken-short-ribs"
+        },
+        {
+          "name": "1 large white onion, thinly sliced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        }
+      ],
+      "instructions": [
+        "Prepare the Kalbi Marinade. Add the ribs to a large container and cover them with the marinade. Gently massage the marinade into the meat. Refrigerate and marinate for at least 2 hours and up to 1 day.",
+        "When marinated, prepare a grill or grill pan for medium-high heat. Let the grill heat up for 5 to 10 minutes, then brush or spray the grates with oil.",
+        "Remove the ribs from the marinade. Grill the ribs, turning once, until charred all over, about 4 minutes on each side, glistening with char marks.",
+        "Arrange the sliced onions in a heated cast-iron pan, then stack the grilled ribs on top of the onions. Eat immediately."
+      ],
+      "notes": "Serves 6 to 8. L.A.-style Korean BBQ. Serve with panchan, savory mung bean pancakes, and plenty of rice \u2014 or use the ribs to make Kogi tacos.",
+      "id": "r138",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "BBQ Mixed Vegetables",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "dinner"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 7,
+      "prepTime": "30 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "2 cups Kalbi Marinade (see page 17), Kogi Vinaigrette (see page 18), or a mixture",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "4 lb seasonal young vegetables (asparagus, carrots, baby bok choy, fennel, onion, gem lettuce, etc.)",
+          "qty": 4,
+          "unit": "lbs",
+          "pantryKey": null
+        },
+        {
+          "name": "1 large white onion, thinly sliced (to serve)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        }
+      ],
+      "instructions": [
+        "Prepare the Kalbi Marinade and/or Kogi Vinaigrette.",
+        "Trim the vegetables and cut them into halves or quarters so they cook evenly. Toss them in a large bowl with the marinade or vinaigrette. Let sit 20 to 30 minutes while you heat the grill.",
+        "Prepare a grill or grill pan for medium-high heat. Let it heat for 5 to 10 minutes, then brush or spray the grates with high-heat oil (Roy recommends grapeseed).",
+        "Working in batches, grill the vegetables, turning once, until charred all over, about 6 minutes on each side. Veggies should be slightly tender but not soft, with distinct char marks.",
+        "Arrange the sliced onions in a heated cast-iron pan and lay the veggies on top. Eat immediately."
+      ],
+      "notes": "Serves 6 to 8. A vegetarian alternative to BBQ kalbi using the same Korean BBQ flavors.",
+      "id": "r139",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Kogi Short Rib Tacos",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Mexican",
+        "Asian"
+      ],
+      "protein": [
+        "beef"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "20 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "\u00bd medium white onion, finely chopped",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "\u00bc cup cilantro, finely chopped",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "Juice from \u00bd of a lime (about 1 tbsp)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "Kosher salt or coarse salt, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Kogi Vinaigrette (see page 18), to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "6 scallions, trimmed and sliced into thin strips on the diagonal",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "\u00bd cup thinly sliced green cabbage",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "red-cabbage"
+        },
+        {
+          "name": "\u00bd cup thinly sliced romaine lettuce",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "romaine-lettuce"
+        },
+        {
+          "name": "Salsa Verde (see page 16), to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "Neutral oil (canola, grapeseed, vegetable, etc.), to coat the pan",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "8 corn tortillas (4\u00bd inches each)",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "corn-tortillas"
+        },
+        {
+          "name": "1 lb cooked BBQ Kalbi (chopped) or BBQ Mixed Vegetables (roughly chopped)",
+          "qty": 1,
+          "unit": "lbs",
+          "pantryKey": null
+        },
+        {
+          "name": "Lime wedges, for serving",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "lime"
+        }
+      ],
+      "instructions": [
+        "Make the Cilantro-Onion Relish. Combine the onion, cilantro, and lime juice in a medium bowl. Stir, season with salt and pepper, and set aside.",
+        "Make the Scallion Slaw. Prepare the Kogi Vinaigrette. Combine scallions, cabbage, and lettuce in a medium bowl, season with salt and pepper, add a few big spoonfuls of vinaigrette, and gently toss. The slaw should be generously dressed.",
+        "Prepare the Salsa Verde and set aside.",
+        "Drizzle enough oil to lightly coat a large skillet or griddle over medium heat. Add the tortillas (work in batches), and cook about 30 seconds per side until soft, pliable, and just starting to crisp.",
+        "Arrange tortillas two-high on the edge of the skillet. Add chopped BBQ Kalbi or BBQ Mixed Vegetables to the griddle and cook for about 2 minutes until caramelized and lightly browned on the edges.",
+        "To serve, stack 2 tortillas on a plate, top with BBQ Kalbi or Mixed Vegetables, spoon Salsa Verde over the meat, layer on Cilantro-Onion Relish, and top with Scallion Slaw. Serve with lime wedges and eat immediately."
+      ],
+      "notes": "Makes 4 tacos. The World Famous Short Rib Taco \u2014 the dish that made Roy famous. For a vegetarian version swap in BBQ Mixed Veggies.",
+      "id": "r140",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "All-Purpose Kimchi Paste",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "15 garlic cloves, peeled",
+          "qty": 15,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "\u00bc cup peeled and roughly chopped ginger (from a 4-inch knob)",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "1 tbsp salted fermented shrimp (optional)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "salted-fermented-shrimp"
+        },
+        {
+          "name": "2 tbsp kosher salt or coarse sea salt",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "2 tbsp sugar",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "1 cup gochugaru (Korean chili flakes)",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "gochugaru"
+        },
+        {
+          "name": "1 large white or yellow onion, peeled and roughly chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "\u00bc cup fish sauce",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "fish-sauce"
+        },
+        {
+          "name": "1 tbsp soy sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "soy-sauce"
+        },
+        {
+          "name": "2 tbsp rice vinegar (unseasoned)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "2 tbsp oyster sauce",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "oyster-sauce"
+        },
+        {
+          "name": "\u00bd cup water",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Add all of the ingredients to a clean blender jar, and pur\u00e9e until a smooth paste forms (if the mixture is too thick to blend, add more water, a few spoonfuls at a time).",
+        "Use the All-Purpose Kimchi Paste immediately, or transfer it to a tight-sealing container; it will keep indefinitely in the refrigerator."
+      ],
+      "notes": "Makes about 4 cups. The base for all of Roy's kimchis \u2014 works on cabbage, radish, fruit, almost anything.",
+      "id": "r141",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Napa Cabbage Kimchi",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "30 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "All-Purpose Kimchi Paste, as needed",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "2 tbsp kosher salt or coarse sea salt",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "2 quarts water",
+          "qty": 2,
+          "unit": "l",
+          "pantryKey": "water"
+        },
+        {
+          "name": "1 large napa cabbage (about 3 lb), split lengthwise in quarters",
+          "qty": 3,
+          "unit": "lbs",
+          "pantryKey": "napa-cabbage"
+        },
+        {
+          "name": "\u00bd bunch fresh Asian chives or 6 scallions, trimmed and cut into 2-inch segments",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "scallions"
+        }
+      ],
+      "instructions": [
+        "Prepare the All-Purpose Kimchi Paste and set aside.",
+        "In a large plastic tub or bowl big enough to hold the cabbage, mix the salt with the water until dissolved. Add the cabbage quarters and let soak for at least 3 hours at room temperature (overnight is fine).",
+        "When the cabbage is slightly wilted, remove from the salted water and drain well.",
+        "Place cabbage quarters on a cutting board or sheet pan. Use a spoon to rub the kimchi paste inside each layer of cabbage, getting deep between the leaves. Coat completely, and massage paste all over the outside.",
+        "Tuck a few pieces of chive or scallion between each layer, then roll each quarter into a log. Place quarters stem side down into a gallon-size jar with a sealable lid, packing firmly. Leave a few inches of headroom.",
+        "Let the kimchi sit at room temperature out of direct sunlight for 2 days, then transfer to the refrigerator. Ready in 1 to 2 weeks; keeps indefinitely."
+      ],
+      "notes": "Makes 1 gallon jar. Variants in workbook: Quick Kimchi (cut cabbage into 2-inch pieces and brine 1-2 hours, then toss with ~2 cups paste \u2014 eat immediately). Radish Kimchi (substitute 1 large daikon, peeled and cubed, and prepare as Quick Kimchi).",
+      "id": "r142",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Kimchi Fried Rice",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner",
+        "lunch"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 3,
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "2 tsp All-Purpose Kimchi Paste (optional)",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": null
+        },
+        {
+          "name": "3 tbsp Scallion Dipping Sauce, plus more to taste",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "4 tbsp neutral oil (canola, grapeseed, vegetable, etc.), divided",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "1\u00bd cups roughly chopped Napa Cabbage Kimchi, divided",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "Pinch of kosher salt or coarse sea salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "\u00bc cup butter, divided, plus 2 tsp",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Large pinch of crushed toasted sesame seeds, plus more for garnish",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "\u00bc cup water, soju, sake, or dry white wine",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "soju"
+        },
+        {
+          "name": "3\u00bd cups cooked short-grain rice (day-old rice is best)",
+          "qty": 3.5,
+          "unit": "cups",
+          "pantryKey": "short-grain-rice"
+        },
+        {
+          "name": "6 scallions, cut into 2-inch segments, plus 2 scallions thinly sliced",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "4 eggs",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Furikake seasoning, for garnish",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "furikake"
+        },
+        {
+          "name": "Handful of shredded nori, for garnish",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "nori"
+        }
+      ],
+      "instructions": [
+        "Make the All-Purpose Kimchi Paste (if using) and the Scallion Dipping Sauce. Set aside.",
+        "Make the caramelized kimchi: Drizzle 1 tbsp oil in a medium skillet over medium-high heat. When shimmering, add \u00be cup of the Napa Cabbage Kimchi and a pinch of salt. Cook 1 to 2 minutes, stirring, until liquid evaporates.",
+        "Lower heat to medium, stir in 2 tbsp butter and the crushed toasted sesame seeds. Continue cooking 2 to 3 minutes more, until kimchi begins to caramelize and brown at the edges.",
+        "Add \u00bc cup or so of water, soju, sake, or dry white wine to deglaze the pan, scraping up browned bits. Once liquid has evaporated and kimchi is browned, transfer to a bowl.",
+        "Make the kimchi fried rice. In the same skillet over medium heat, add 2 tbsp oil. When shimmering, crumble the rice into the pan and spread to make an even layer. Cook without stirring for 2 to 3 minutes until a light golden crust forms. Flip and cook 1 to 2 minutes more, breaking it up, until rice is heated through with bits of crispiness.",
+        "Add caramelized kimchi to the rice, stir to combine, then add the remaining fresh kimchi as well as any leftover kimchi juice. Stir and toss until evenly mixed and liquid has evaporated. Stir in scallion segments, kimchi paste (if using), 2 tbsp butter, and the Scallion Dipping Sauce. Stir until combined; drop heat to low.",
+        "Make the eggs. Add 1 tbsp oil to a separate skillet over medium-high heat. When shimmering, add 2 tsp butter, then crack all the eggs into the pan. Sprinkle each with a pinch of salt and cook until whites are set and bottoms crispy; yolks should still be runny.",
+        "Divide rice between bowls, getting the crispy stuff from the bottom into every serving. Top with fried eggs, sliced scallions, furikake, sesame seeds, and shredded nori. Eat immediately."
+      ],
+      "notes": "Serves 2 to 4. Day-old rice is best. You can add diced Spam or hot dogs for a classic twist.",
+      "id": "r143",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Kimchi Tuna Melt",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "lunch"
+      ],
+      "cuisine": [
+        "American",
+        "Asian"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "10 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "2 cans flaked tuna in water, drained",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "canned-tuna"
+        },
+        {
+          "name": "1 stalk celery, diced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "2 scallions, thinly sliced",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "Japanese mayonnaise, to taste (non-Japanese works, too)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "japanese-mayo"
+        },
+        {
+          "name": "Yellow mustard, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "yellow-mustard"
+        },
+        {
+          "name": "Tabasco hot sauce, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "tabasco"
+        },
+        {
+          "name": "Kosher salt or coarse sea salt, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "2 large spoonfuls Napa Cabbage Kimchi, chopped",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "4 slices sourdough or white bread",
+          "qty": 4,
+          "unit": "slices",
+          "pantryKey": "bread"
+        },
+        {
+          "name": "Butter, softened, for spreading",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Neutral oil (canola, grapeseed, vegetable, etc.), to coat the pan",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "8 slices sharp cheddar cheese",
+          "qty": 8,
+          "unit": "slices",
+          "pantryKey": "cheddar-cheese"
+        }
+      ],
+      "instructions": [
+        "Make the tuna salad. Add flaked tuna, celery, and scallions to a medium mixing bowl. Add a few big spoonfuls of mayonnaise, a small squirt of mustard, and a few shakes of hot sauce. Stir well. Add more mayo as needed \u2014 it should bind everything together and look reasonably moist. Season with salt and pepper, and adjust seasonings.",
+        "Make the sandwiches. Chop the Napa Cabbage Kimchi and set aside. Generously spread one side of each slice of bread with the softened butter, coating evenly to the crust.",
+        "In a medium skillet over medium heat, drizzle just enough oil to coat the bottom. When hot, add the tuna salad. Cook, stirring, for no more than 1 minute until tuna is heated through and clumping. Add the chopped kimchi and toss. Remove from heat.",
+        "In a large skillet or nonstick griddle over medium heat, drizzle oil. Add the bread butter side down (working in batches if needed).",
+        "Top each slice with two slices of cheese, then spoon the kimchi tuna salad equally between two of the slices (about a 1-inch-thick layer). Lay the remaining slices butter side up on top to form two sandwiches. Press down gently with a spatula.",
+        "Continue cooking 1 to 2 minutes, flipping and moving so both sides develop a deep, well-browned crust. Let cool slightly, then slice diagonally with a serrated knife. Eat immediately."
+      ],
+      "notes": "Serves 2. Riff on the American diner classic \u2014 molten cheddar plus punchy kimchi. Butter corner-to-corner for that gorgeous crust.",
+      "id": "r144",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Savory Mung Bean Pancakes",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "snack"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "20 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "Scallion Dipping Sauce (see page 18)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "\u00bd cup split yellow mung beans, soaked overnight in 1\u00bd cups water (soaking water reserved)",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "mung-beans"
+        },
+        {
+          "name": "\u00bd cup thinly sliced chives",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "chives"
+        },
+        {
+          "name": "1 cup tempura flour mix or self-rising flour",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "tempura-flour"
+        },
+        {
+          "name": "1 tsp kosher salt or coarse sea salt, plus more to taste",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "\u00bd white onion, roughly chopped",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "\u00bc cup water",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "1 large russet potato, peeled and submerged in cold water",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "russet-potatoes"
+        },
+        {
+          "name": "2 scallions, thinly sliced",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "Neutral oil (canola, grapeseed, vegetable, etc.), to coat the cooking surface",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "Freshly ground black pepper, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        }
+      ],
+      "instructions": [
+        "Prepare the Scallion Dipping Sauce and set aside.",
+        "Add soaked mung beans, soaking liquid, chives, tempura or self-rising flour, salt, onion, and water to a clean blender jar. Pur\u00e9e on high until a smooth pancake batter forms, about 5 seconds.",
+        "Finely grate the potato into a large mixing bowl, then add the scallions. Pour in the pancake batter and stir until combined.",
+        "In a large skillet or nonstick griddle over medium heat, drizzle in enough oil to coat the cooking surface. When shimmering, add a small dollop of batter as a test pancake. Cook until browned on both sides, taste, and season the batter with more salt and pepper as needed.",
+        "Pour about \u2153 cup of batter per pancake into the hot pan. Cook for a few minutes until tiny bubbles appear along the edges, then flip and cook 1 to 2 minutes more until crisp and golden brown. Transfer to a paper towel-lined plate.",
+        "Repeat with the remaining batter, adjusting heat as needed. Serve with a side of Scallion Dipping Sauce and eat immediately."
+      ],
+      "notes": "Serves 4. A mutant hybrid between gamjajeon (potato pancake) and bindaetteok (mung bean pancake). Add chopped meats or vegetables to the batter to make it a one-pan meal.",
+      "id": "r145",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "3 p.m. Dumplings",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "dinner"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "pork"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": "60 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "Scallion Dipping Sauce (optional)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "\u00bd cup finely chopped napa cabbage or green cabbage (meat filling)",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "napa-cabbage"
+        },
+        {
+          "name": "1 bunch scallions, thinly sliced (meat filling)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "2 tbsp minced ginger (meat filling)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "2 tbsp minced garlic (meat filling)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "1 tsp gochugaru (meat filling)",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "gochugaru"
+        },
+        {
+          "name": "1 tbsp crushed toasted sesame seeds (meat filling)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "2 tbsp oyster sauce (meat filling)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "oyster-sauce"
+        },
+        {
+          "name": "2 tsp toasted sesame oil (meat filling)",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "sesame-oil"
+        },
+        {
+          "name": "1 tbsp soy sauce (meat filling)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "soy-sauce"
+        },
+        {
+          "name": "1 tbsp rice vinegar (unseasoned) (meat filling)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "1 egg (meat filling)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "4 oz (\u00bc lb) ground pork",
+          "qty": 4,
+          "unit": "oz",
+          "pantryKey": "ground-pork"
+        },
+        {
+          "name": "4 oz (\u00bc lb) ground beef",
+          "qty": 4,
+          "unit": "oz",
+          "pantryKey": "ground-beef"
+        },
+        {
+          "name": "4 oz firm tofu, finely crumbled",
+          "qty": 4,
+          "unit": "oz",
+          "pantryKey": "tofu"
+        },
+        {
+          "name": "Kosher salt and freshly ground black pepper, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "8 oz button mushrooms (mushroom filling)",
+          "qty": 8,
+          "unit": "oz",
+          "pantryKey": "button-mushrooms"
+        },
+        {
+          "name": "5 oz shiitake mushrooms (mushroom filling)",
+          "qty": 5,
+          "unit": "oz",
+          "pantryKey": "shiitake-mushrooms"
+        },
+        {
+          "name": "\u00bc cup neutral oil (mushroom filling)",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "1 large shallot (about 3 oz), finely chopped (mushroom filling)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "\u00bd cup dry white wine (mushroom filling)",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "white-wine"
+        },
+        {
+          "name": "2 tbsp thinly sliced chives (mushroom filling)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "chives"
+        },
+        {
+          "name": "\u00bd cup finely chopped napa or green cabbage (mushroom filling)",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "napa-cabbage"
+        },
+        {
+          "name": "Chili oil (optional), for serving",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "chili-oil"
+        },
+        {
+          "name": "1 cup all-purpose flour, for dusting",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "50 to 60 round dumpling wrappers, about 3 inches wide",
+          "qty": 55,
+          "unit": "",
+          "pantryKey": "dumpling-wrappers"
+        },
+        {
+          "name": "1 beaten egg or small dish of water (for sealing)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "2 to 3 inches neutral oil, for frying",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "vegetable-oil"
+        }
+      ],
+      "instructions": [
+        "For the meat dumplings: Prepare the Scallion Dipping Sauce if using.",
+        "In a medium mixing bowl, combine cabbage, scallions, ginger, garlic, gochugaru, sesame seeds, oyster sauce, sesame oil, soy sauce, vinegar, and egg, along with the pork, beef, and tofu. Season with salt and pepper. Mix until evenly combined.",
+        "For the mushroom dumplings (duxelles): Pulse the mushrooms in a food processor until finely chopped (or chop with a knife).",
+        "Heat oil in a medium skillet over medium heat. When shimmering, add the shallot. Cook less than 1 minute until fragrant and translucent. Add the mushrooms and cook 2 to 3 minutes more, stirring, until most moisture has cooked out and edges are slightly browned.",
+        "Add white wine and deglaze, scraping up browned bits. Season with salt and pepper. Let cool to room temperature.",
+        "In a medium mixing bowl, combine cabbage, scallions, ginger, garlic, gochugaru, sesame seeds, oyster sauce, sesame oil, soy sauce, vinegar, and egg. Season with salt and pepper. When the mushroom mixture has cooled, add it and mix evenly.",
+        "Wrap the dumplings. Dust a clean work surface with flour, spread out wrappers. Spoon a heaping teaspoon of filling into the center of each, dab edges with egg wash or water. Seal using half-folding (best for boiling), crimping, or beggar's purse (best for frying).",
+        "If not cooking immediately, cover with a damp towel or plastic wrap; freeze for several months.",
+        "To boil: Bring salted water to a simmer. Add dumplings in batches of 10, cook without stirring 3 to 5 minutes until they rise and skins become translucent. Drain.",
+        "To fry: Heat 2 to 3 inches of oil over medium-high. Fry in batches of 4 to 5 for 2 to 3 minutes, turning halfway, until crispy and golden. Drain on paper towels.",
+        "Serve drizzled with Scallion Dipping Sauce and/or chili oil, topped with sliced scallions."
+      ],
+      "notes": "Serves 4 to 6. Make these with friends and family. Recipe includes two fillings: a pork/beef/tofu meat filling and a mushroom (duxelles) vegetarian filling.",
+      "id": "r146",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Large-Format Carnitas With Pork-Fat Cilantro Rice",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Mexican"
+      ],
+      "protein": [
+        "pork"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "30 min",
+      "cookTime": "360 min",
+      "ingredients": [
+        {
+          "name": "Salsa Verde (see page 16)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "1 boneless pork shoulder (about 5 lb)",
+          "qty": 5,
+          "unit": "lbs",
+          "pantryKey": "pork-shoulder"
+        },
+        {
+          "name": "3 tbsp kosher salt or coarse sea salt",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "1\u00bd tbsp freshly ground black pepper",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "4 whole garlic cloves, peeled",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "\u00bc cup neutral oil (canola, grapeseed, vegetable, etc.)",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "3 red radishes, trimmed and quartered, for serving",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "radishes"
+        },
+        {
+          "name": "4 lime wedges, for serving",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "3 cups short-grain white rice",
+          "qty": 3,
+          "unit": "cups",
+          "pantryKey": "short-grain-rice"
+        },
+        {
+          "name": "Ice water (for blanching)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "6 medium tomatillos (about 6 oz)",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "tomatillos"
+        },
+        {
+          "name": "1 whole garlic clove, peeled",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Juice of 3 limes (about \u2153 cup)",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "1 bunch cilantro (reserve a couple of sprigs for garnish)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "1 bunch flat-leaf parsley (reserve a couple of sprigs for garnish)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "\u00bd cup water",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "1 cup rendered pork fat (reserved from the carnitas), plus more to taste",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": null
+        }
+      ],
+      "instructions": [
+        "Prepare the Salsa Verde and set aside.",
+        "Preheat the oven to 225\u00b0F. Generously sprinkle the pork shoulder with salt and pepper on all sides. Stuff the garlic cloves into the crevices of the shoulder, then drizzle with the oil. Transfer to a Dutch oven with a tight-fitting lid (or use foil to seal).",
+        "Cover the pot tightly and roast undisturbed for 5 to 6 hours, until the meat collapses easily under the weight of a spoon and a good amount of fat renders.",
+        "While the pork is roasting, make the rice. Rinse uncooked rice 5 times until water runs clear, drain, and cook in a rice cooker or pot per package instructions.",
+        "While the rice cooks, fill a medium bowl with ice water. Bring water in a saucepan to a boil. Add tomatillos and garlic clove and cook until they begin to soften and change color, 1 to 2 minutes. Transfer to ice water.",
+        "Add cooled tomatillos and garlic, lime juice, salt and pepper, most of the cilantro and parsley, and \u00bd cup cold water to a clean blender. Blend until smooth, about 20 seconds. Season to taste and refrigerate.",
+        "When the carnitas are ready, let cool 20 minutes before uncovering. Transfer cooked rice (about 6 cups) to a large bowl. Add \u00bd cup of the chilled cilantro sauce plus 1 cup of the rendered fat from the carnitas. Stir to combine; season.",
+        "To plate, spread a layer of rice on a large serving platter, top with chunks of carnitas (break with a fork), spoon the remaining cilantro sauce around the edges, drizzle Salsa Verde over that. Garnish with chopped cilantro, parsley, radishes, and lime wedges."
+      ],
+      "notes": "Serves 8 or more. Low-and-slow at 225\u00b0F for 5-6 hours yields spoon-tender pork. Don't waste the pork fat \u2014 it makes the rice spectacular. Bonus: leftovers become an epic burrito (warm flour tortilla, rice, carnitas, diced onion, shredded cheddar, salsa verde \u2014 roll up and wrap in foil).",
+      "id": "r147",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Whole Grilled Fish With Ponzu Sauce",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 3,
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "Scallion Slaw (see page 23)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "1 whole branzino, about 1\u00bd to 2 lb, scaled, gutted, and cleaned (or snapper, tilapia, or sea bass)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "branzino"
+        },
+        {
+          "name": "Kosher salt or coarse sea salt, enough for coating the fish well",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper, enough for coating the fish well",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1 lemon, halved lengthwise",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Handful of fresh herbs (basil, cilantro, thyme, chives, scallions, mint, oregano, dill, parsley, etc.), plus more for garnish",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "Neutral oil (canola, grapeseed, vegetable, etc.) or cooking spray for grilling",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "\u00bc cup soy sauce (ponzu)",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "soy-sauce"
+        },
+        {
+          "name": "\u00bc cup rice vinegar (ponzu)",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "Juice plus the zest of 1 lime (ponzu)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "1 tbsp grated ginger (ponzu)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "1 jalape\u00f1o, thinly sliced (ponzu)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "jalapeno"
+        },
+        {
+          "name": "\u00bc cup water (ponzu)",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Prepare the Scallion Slaw and set aside.",
+        "Pat the fish thoroughly with a paper towel until dry inside and out. Use a knife to make 3 long, 1-inch-deep slashes along the length of the fish at a 45-degree angle.",
+        "Season the fish generously with salt and pepper all over, inside the cavity and slashes. Thinly slice one lemon half into half-moons and stuff into the cavity along with as many sprigs of herbs as you can comfortably pack inside.",
+        "Prepare an outdoor grill (gas or charcoal), or set a grill pan on the stove over medium-high heat.",
+        "While heating, make the ponzu. In a small bowl, combine soy sauce, vinegar, lime juice, lime zest, ginger, jalape\u00f1o, and water. Stir to combine, season with salt and pepper, and set aside.",
+        "Brush or spray the grates with oil; coat the fish with oil. Place fish on the grill and cook undisturbed and uncovered until the underside is nicely charred and the fish no longer clings, about 6 to 8 minutes. Gently flip with two spatulas and cook 4 to 6 minutes more until flesh near the gills is translucent.",
+        "Serve whole on a bed of fresh herbs with lemon wedges, ponzu, and Scallion Slaw on the side; or debone the fillets with a spoon and fork and serve them skin-side up with ponzu drizzled over and slaw on top."
+      ],
+      "notes": "Serves 2 to 4. Use fresh herbs and lettuce to make wraps for dipping in ponzu. Branzino, snapper, tilapia, or sea bass all work.",
+      "id": "r148",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Asian Pear and Watermelon Kimchis",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 3,
+      "prepTime": "15 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "2 tbsp All-Purpose Kimchi Paste (see page 26), plus more to taste",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "2 large Asian pears or 1 small seedless watermelon (or a mix), peeled and cut into 1\u00bd-inch cubes",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "asian-pear"
+        },
+        {
+          "name": "Watermelon (alternative to or mixed with pears)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "watermelon"
+        },
+        {
+          "name": "Kosher salt or coarse sea salt, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Crushed toasted sesame seeds, for serving",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "sesame-seeds"
+        }
+      ],
+      "instructions": [
+        "Prepare the All-Purpose Kimchi Paste and set aside.",
+        "Add pear and/or watermelon to a large mixing bowl. Toss with the kimchi paste, tasting and adding more as needed.",
+        "Season with salt and pepper. Garnish with a sprinkle of crushed toasted sesame seeds before serving. Best eaten right away."
+      ],
+      "notes": "Serves 2 to 4. Fruit kimchi \u2014 Roy says you can swap in oranges, apples, peaches, plums, apricots, or cherries. Don't marinate fruit; serve immediately.",
+      "id": "r149",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Blanched Vegetables (Namul)",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 3,
+      "prepTime": "10 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "Ice water (for blanching)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "4 quarts water",
+          "qty": 4,
+          "unit": "l",
+          "pantryKey": "water"
+        },
+        {
+          "name": "2 big pinches of kosher salt or coarse sea salt, plus more to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "1 lb broccoli florets (about 2 cups)",
+          "qty": 1,
+          "unit": "lbs",
+          "pantryKey": "broccoli"
+        },
+        {
+          "name": "Freshly ground black pepper, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1 tbsp toasted sesame oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sesame-oil"
+        },
+        {
+          "name": "1 tsp rice vinegar",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "1 tbsp crushed toasted sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "Pinch of gochugaru (Korean chili flakes)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "gochugaru"
+        }
+      ],
+      "instructions": [
+        "Fill a large bowl with ice and cold water. Set aside.",
+        "In a large pot over high heat, bring 4 quarts of water to a boil and season with 2 big pinches of salt. Add broccoli and cook about 2 minutes, just until vibrant green and the water begins to boil again.",
+        "Working quickly, remove broccoli with a spider or slotted spoon and place in the ice water for about 1 minute. Drain well and transfer to a mixing bowl.",
+        "Season with salt and pepper, then stir in sesame oil, rice vinegar, sesame seeds, and gochugaru. Taste and adjust seasonings. Serve immediately or refrigerate until ready."
+      ],
+      "notes": "Serves 2 to 4. Variant: Bean Sprout or Spinach Namul \u2014 substitute 2 cups bean sprouts or 4 cups fresh spinach (shock for 1 minute and squeeze out water if using spinach).",
+      "id": "r150",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Quick-Pickled Cucumbers",
+      "source": "Roy Choi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "snack"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 3,
+      "prepTime": "10 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "2 dried star anise pods (optional)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "star-anise"
+        },
+        {
+          "name": "1 tbsp sesame oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sesame-oil"
+        },
+        {
+          "name": "4 Persian cucumbers, sliced into \u00bd-inch-thick rounds",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "persian-cucumbers"
+        },
+        {
+          "name": "1 tbsp crushed toasted sesame seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "2 tsp gochugaru (Korean chili flakes)",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "gochugaru"
+        },
+        {
+          "name": "2 tsp sugar",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "1 tsp freshly ground black pepper",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "2 tsp kosher salt",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "2 tbsp rice vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "\u00bc cup water",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "In a saut\u00e9 or frying pan over medium heat, add the star anise (if using) and toast for a few minutes, just until fragrant.",
+        "Add the sesame oil. Once shimmering, add the cucumbers. Stir in the crushed toasted sesame seeds, gochugaru, sugar, pepper, salt, rice vinegar, and water. Bring to a boil and continue cooking 1 to 2 minutes more, until cucumbers just start to soften and absorb the sauce.",
+        "Remove from heat and transfer to a jar or heatproof container. Chill in the refrigerator at least 30 minutes before serving. Keeps up to 2 weeks."
+      ],
+      "notes": "Serves 2 to 4. A zesty crunchy pickle that doubles as a snack, side dish, or topping.",
+      "id": "r151",
+      "dateAdded": "2026-06-13"
     }
   ],
   "pantryItems": [
@@ -13469,6 +15226,206 @@
       "key": "mustard-powder",
       "name": "Mustard powder",
       "category": "spice"
+    },
+    {
+      "key": "scallions",
+      "name": "Scallions",
+      "category": "produce"
+    },
+    {
+      "key": "gochugaru",
+      "name": "Gochugaru (Korean Chili Flakes)",
+      "category": "spice"
+    },
+    {
+      "key": "sesame-seeds",
+      "name": "Sesame Seeds",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "fish-sauce",
+      "name": "Fish Sauce",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "oyster-sauce",
+      "name": "Oyster Sauce",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "mirin",
+      "name": "Mirin",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "tomatillos",
+      "name": "Tomatillos",
+      "category": "produce"
+    },
+    {
+      "key": "nori",
+      "name": "Nori (Shredded Seaweed)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "furikake",
+      "name": "Furikake",
+      "category": "spice"
+    },
+    {
+      "key": "dumpling-wrappers",
+      "name": "Round Dumpling Wrappers",
+      "category": "grain"
+    },
+    {
+      "key": "tempura-flour",
+      "name": "Tempura Flour Mix",
+      "category": "grain"
+    },
+    {
+      "key": "short-grain-rice",
+      "name": "Short-Grain White Rice",
+      "category": "grain"
+    },
+    {
+      "key": "mung-beans",
+      "name": "Split Yellow Mung Beans",
+      "category": "grain"
+    },
+    {
+      "key": "kiwi",
+      "name": "Kiwifruit",
+      "category": "produce"
+    },
+    {
+      "key": "asian-pear",
+      "name": "Asian Pear",
+      "category": "produce"
+    },
+    {
+      "key": "watermelon",
+      "name": "Watermelon",
+      "category": "produce"
+    },
+    {
+      "key": "persian-cucumbers",
+      "name": "Persian Cucumbers",
+      "category": "produce"
+    },
+    {
+      "key": "star-anise",
+      "name": "Star Anise",
+      "category": "spice"
+    },
+    {
+      "key": "shiitake-mushrooms",
+      "name": "Shiitake Mushrooms",
+      "category": "produce"
+    },
+    {
+      "key": "button-mushrooms",
+      "name": "Button Mushrooms",
+      "category": "produce"
+    },
+    {
+      "key": "tabasco",
+      "name": "Tabasco Hot Sauce",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "pork-shoulder",
+      "name": "Pork Shoulder (Boneless)",
+      "category": "protein"
+    },
+    {
+      "key": "flanken-short-ribs",
+      "name": "Flanken-Style Short Ribs",
+      "category": "protein"
+    },
+    {
+      "key": "daikon",
+      "name": "Daikon Radish",
+      "category": "produce"
+    },
+    {
+      "key": "asian-chives",
+      "name": "Asian Chives",
+      "category": "produce"
+    },
+    {
+      "key": "napa-cabbage",
+      "name": "Napa Cabbage",
+      "category": "produce"
+    },
+    {
+      "key": "soju",
+      "name": "Soju",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "sake",
+      "name": "Sake",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "japanese-mayo",
+      "name": "Japanese Mayonnaise",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "flour-tortillas",
+      "name": "Flour Tortillas",
+      "category": "grain"
+    },
+    {
+      "key": "ground-pork",
+      "name": "Ground Pork",
+      "category": "protein"
+    },
+    {
+      "key": "canned-tuna",
+      "name": "Canned Tuna",
+      "category": "protein"
+    },
+    {
+      "key": "serrano-chili",
+      "name": "Serrano Chili",
+      "category": "produce"
+    },
+    {
+      "key": "salted-fermented-shrimp",
+      "name": "Salted Fermented Shrimp",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "asparagus",
+      "name": "Asparagus",
+      "category": "produce"
+    },
+    {
+      "key": "baby-bok-choy",
+      "name": "Baby Bok Choy",
+      "category": "produce"
+    },
+    {
+      "key": "ground-pork-beef",
+      "name": "Ground Beef",
+      "category": "protein"
+    },
+    {
+      "key": "chili-oil",
+      "name": "Chili Oil",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "bean-sprouts",
+      "name": "Bean Sprouts",
+      "category": "produce"
+    },
+    {
+      "key": "rice-cakes",
+      "name": "Korean Rice Cakes (Duk Boki)",
+      "category": "grain"
     }
   ],
   "pantryState": {}
