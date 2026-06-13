@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastUpdated": "2026-06-13",
-    "recipeCount": 193
+    "recipeCount": 208
   },
   "recipes": [
     {
@@ -18230,6 +18230,1751 @@
       "notes": "Try with raspberries in place of blackberries for a variation. Atole is a warm, traditional Mexican drink based on masa.",
       "id": "r193",
       "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Kir Breton (Nonalcoholic Buckwheat Aperitif)",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 3,
+      "prepTime": null,
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "100 g buckwheat groats (hulled kernels)",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "buckwheat-groats"
+        },
+        {
+          "name": "½ gal fresh apple juice",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "apple-juice"
+        },
+        {
+          "name": "1 lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "200 g black currant (cassis) purée",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "black-currant-puree"
+        }
+      ],
+      "instructions": [
+        "Two days before serving: Preheat oven to 250°F/120°C. Spread buckwheat groats on a baking sheet and toast 30 minutes until deep brown.",
+        "Cool the groats 10 minutes, then combine with apple juice in a large lidded container. Cover and refrigerate to steep 2 days.",
+        "Juice the lemon. In a medium saucepan over medium heat, combine lemon juice and black currant purée. Simmer until volume reduces by half, about 15 minutes.",
+        "Let the lemon–cassis mixture sit 5 minutes, then ladle through a cheesecloth-lined strainer into a container. Refrigerate until chilled, about 1 hour.",
+        "Strain the buckwheat-apple juice through cheesecloth into a container.",
+        "To serve, spoon 2 tablespoons of the lemon–cassis mixture into each champagne flute and top with buckwheat apple juice. Serve cold."
+      ],
+      "notes": "A nonalcoholic adaptation of the classic Kir Breton aperitif.",
+      "id": "r194",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Dehydrated Tomato Petals, Skins, and Powder (Tomato Enhanced)",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "90 min",
+      "ingredients": [
+        {
+          "name": "Flesh of 3 lb Early Girl tomatoes",
+          "qty": 3,
+          "unit": "lbs",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "1 shallot",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "1 clove garlic",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "2 sprigs thyme",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "Extra-virgin olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "Fresh basil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "basil"
+        },
+        {
+          "name": "Edible flowers",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "edible-flowers"
+        }
+      ],
+      "instructions": [
+        "Bring 4 quarts water to a boil. Preheat oven to 200°F/93°C.",
+        "Make an X-shaped incision on the bottom of each tomato. Blanch 15 seconds, then ice bath.",
+        "Peel tomatoes; quarter and carve away seeds.",
+        "Arrange skins and slices on parchment-lined sheets. Top with shallot, garlic, thyme, oil, salt.",
+        "Bake until skins are crisp and petals leathery dark red, about 1 hr 30 min.",
+        "Serve: lay petals on plate, grind skins to powder, sprinkle. Garnish with herbs and flowers."
+      ],
+      "notes": "The skins ground to powder become umami tomato seasoning.",
+      "id": "r195",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Tomato Confit (Tomato Illuminated)",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "75 min",
+      "ingredients": [
+        {
+          "name": "20 Sungold tomatoes, blanched and peeled",
+          "qty": 20,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "2 cloves garlic",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "1 large shallot",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "1 sprig basil",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "basil"
+        },
+        {
+          "name": "Peel of 1 lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Thyme/rosemary/marjoram",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "Kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "1 cup grapeseed oil",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "grapeseed-oil"
+        },
+        {
+          "name": "40 g sherry vinegar",
+          "qty": 40,
+          "unit": "g",
+          "pantryKey": "sherry-vinegar"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "Black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Edible flowers",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "edible-flowers"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 250°F/120°C. Blanch and peel Sungolds.",
+        "Spread in roasting pan with garlic, shallot, basil, lemon peel, aromatics, salt.",
+        "Cover with grapeseed oil. Bake about 1 hour.",
+        "Make vinaigrette: whisk 2 tbsp confit oil with 1 tbsp sherry vinegar; season.",
+        "Serve drained tomatoes with petals, drizzle vinaigrette, garnish."
+      ],
+      "notes": "Holds 4 days refrigerated.",
+      "id": "r196",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "La Tomate du Jardin: Tomato Salad with Crème Fraîche (Tomato Evolved)",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "lunch"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "120 min",
+      "ingredients": [
+        {
+          "name": "1 lb heirloom tomatoes",
+          "qty": 1,
+          "unit": "lbs",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "Kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "1 lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "1 tbsp sherry vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sherry-vinegar"
+        },
+        {
+          "name": "3 tbsp olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "2 tsp lemon juice",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "0.7 g agar-agar",
+          "qty": 0.7,
+          "unit": "g",
+          "pantryKey": "agar-agar"
+        },
+        {
+          "name": "1 pint crème fraîche",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "creme-fraiche"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        }
+      ],
+      "instructions": [
+        "Slice heirlooms; marinate with salt, lemon juice, sherry vinegar, olive oil.",
+        "Make tomato water from trim; simmer, strain through coffee filter.",
+        "Make tomato gel with agar-agar.",
+        "Season crème fraîche with lemon and fleur de sel.",
+        "Plate marinated tomatoes, vinaigrette, crème fraîche spiral, petals, confit tomatoes, gel, herbs."
+      ],
+      "notes": "The flagship tomato course at Atelier Crenn.",
+      "id": "r197",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Beet Tartare with Vadouvan Yogurt",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "120 min",
+      "ingredients": [
+        {
+          "name": "2 large whole beets",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "beets"
+        },
+        {
+          "name": "600 g kosher salt",
+          "qty": 600,
+          "unit": "g",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "400 g flour",
+          "qty": 400,
+          "unit": "g",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "40 g grapeseed oil",
+          "qty": 40,
+          "unit": "g",
+          "pantryKey": "grapeseed-oil"
+        },
+        {
+          "name": "320 g water",
+          "qty": 320,
+          "unit": "g",
+          "pantryKey": "water"
+        },
+        {
+          "name": "Lemon juice",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "Black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "100 ml grapeseed oil",
+          "qty": 100,
+          "unit": "ml",
+          "pantryKey": "grapeseed-oil"
+        },
+        {
+          "name": "25 g Vadouvan spices",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "vadouvan-spices"
+        },
+        {
+          "name": "200 g Greek yogurt",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "greek-yogurt"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "Parsley",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "4 red beets",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "beets"
+        },
+        {
+          "name": "Raspberry vinegar",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "raspberry-vinegar"
+        },
+        {
+          "name": "Banyuls vinegar",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "banyuls-vinegar"
+        },
+        {
+          "name": "Walnut oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "walnut-oil"
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Shallots",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "Edible flowers",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "edible-flowers"
+        }
+      ],
+      "instructions": [
+        "Salt-crust roast beets at 375°F/190°C for 75 minutes; peel.",
+        "Mandoline-dice beets into brunoise; season.",
+        "Make vadouvan yogurt: simmer oil with spices, strain, mix with yogurt.",
+        "Make beet juice vinaigrette: juice 4 beets, reduce, season with vinegars and oils.",
+        "Mound, divot, fill with yogurt, decorate."
+      ],
+      "notes": "Vegetarian riff on beef tartare.",
+      "id": "r198",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Marinated Honeydew Ribbons (Melon Enhanced)",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "snack"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "15 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "1 honeydew",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "honeydew"
+        },
+        {
+          "name": "½ lemon",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "½ lime",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Carve honeydew; mandoline into ⅛-inch ribbons.",
+        "Marinate with lemon, lime, fleur de sel, oil 5-10 min.",
+        "Plate overlapping; finish with oil and salt."
+      ],
+      "notes": "First of three melon recipes.",
+      "id": "r199",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Grilled and Roasted Brilliant Melon (Melon Illuminated)",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "60 min",
+      "ingredients": [
+        {
+          "name": "1 Brilliant melon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "honeydew"
+        },
+        {
+          "name": "1 shallot",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "1 clove garlic",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "30 g ginger",
+          "qty": 30,
+          "unit": "g",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "Red pepper flakes",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "fresno-chili"
+        },
+        {
+          "name": "1 Meyer lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "2 limes",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "⅛ cup applewood",
+          "qty": 0.125,
+          "unit": "cups",
+          "pantryKey": "applewood-chips"
+        },
+        {
+          "name": "Micro cilantro",
+          "qty": 20,
+          "unit": "",
+          "pantryKey": "cilantro"
+        }
+      ],
+      "instructions": [
+        "Preheat oven 375°F. Cut melon into wedges; marinate with aromatics and citrus.",
+        "Sear melon 5 min per side until caramelized.",
+        "Roast 7 min in marinade.",
+        "Cold-smoke with applewood 25 min.",
+        "Cube and serve with marinade, fleur de sel, micro cilantro."
+      ],
+      "notes": "Brilliant (Canary) melon is the showcase variety.",
+      "id": "r200",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Melon Salad (Melon Evolved)",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "180 min",
+      "ingredients": [
+        {
+          "name": "2 cloves garlic",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "1 piece ginger",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "2 shallots",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "½ jalapeño",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "jalapeno"
+        },
+        {
+          "name": "2 cantaloupes",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "cantaloupe"
+        },
+        {
+          "name": "1 Brilliant melon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "honeydew"
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "1 tsp lime zest",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "1 tbsp champagne vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "champagne-vinegar"
+        },
+        {
+          "name": "2 tbsp lemon juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "2 tbsp lime juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "lime-juice"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "0.7 g agar-agar",
+          "qty": 0.7,
+          "unit": "g",
+          "pantryKey": "agar-agar"
+        },
+        {
+          "name": "¼ cup applewood",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "applewood-chips"
+        },
+        {
+          "name": "Edible flowers",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "edible-flowers"
+        },
+        {
+          "name": "1 lime wedge",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lime"
+        }
+      ],
+      "instructions": [
+        "Make melon balls from cantaloupe.",
+        "Make melon water; strain overnight.",
+        "Grill Brilliant melon, cube, marinate with aromatics.",
+        "Cold-smoke 25 min.",
+        "Make melon gel with agar.",
+        "Plate with honeydew ribbons, balls, gel, herbs."
+      ],
+      "notes": "Combines three melon techniques.",
+      "id": "r201",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Confit Leeks with Béarnaise Sauce",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "appetizer"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "90 min",
+      "ingredients": [
+        {
+          "name": "4 leeks",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "200 g olive oil",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "1 clove garlic",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "1 bay leaf",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "2 sprigs thyme",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "100 g champagne vinegar",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "champagne-vinegar"
+        },
+        {
+          "name": "100 g water",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "water"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "Black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1 shallot",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "5 tbsp white wine",
+          "qty": 5,
+          "unit": "tbsp",
+          "pantryKey": "white-wine"
+        },
+        {
+          "name": "5 tbsp vermouth",
+          "qty": 5,
+          "unit": "tbsp",
+          "pantryKey": "vermouth"
+        },
+        {
+          "name": "3 tbsp white wine vinegar",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "white-wine-vinegar"
+        },
+        {
+          "name": "Tarragon",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "tarragon"
+        },
+        {
+          "name": "2 egg yolks",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "4 tbsp butter",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Lemon juice",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "Sherry vinegar",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "sherry-vinegar"
+        },
+        {
+          "name": "Chives",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "chives"
+        },
+        {
+          "name": "Parsley/chervil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "parsley"
+        }
+      ],
+      "instructions": [
+        "Preheat oven 325°F. Trim and clean leeks.",
+        "Warm oil with garlic, bay, thyme; add vinegar and water.",
+        "Confit leeks 30 min until tender.",
+        "Make béarnaise base: reduce wine, vermouth, vinegar, shallot, herbs.",
+        "Whisk over bain-marie with yolks and butter; season.",
+        "Plate leeks vertically, drizzle confit liquid, drape béarnaise, garnish."
+      ],
+      "notes": "Bain-marie technique for the béarnaise.",
+      "id": "r202",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Essence of Mushroom",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "120 min",
+      "ingredients": [
+        {
+          "name": "3 L water",
+          "qty": 3,
+          "unit": "l",
+          "pantryKey": "water"
+        },
+        {
+          "name": "2 tbsp olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "½ onion",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "90 g leek",
+          "qty": 90,
+          "unit": "g",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "15 g thyme",
+          "qty": 15,
+          "unit": "g",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "2 heads garlic",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "5 lb cremini mushrooms",
+          "qty": 5,
+          "unit": "lbs",
+          "pantryKey": "cremini-mushrooms"
+        },
+        {
+          "name": "0.4 g agar-agar",
+          "qty": 0.4,
+          "unit": "g",
+          "pantryKey": "agar-agar"
+        },
+        {
+          "name": "5 egg yolks",
+          "qty": 5,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "44 g milk",
+          "qty": 44,
+          "unit": "g",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "1 tsp lecithin",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "lecithin"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "¼ cup applewood",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "applewood-chips"
+        },
+        {
+          "name": "Edible flowers",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "edible-flowers"
+        }
+      ],
+      "instructions": [
+        "Make mushroom stock: char onion, simmer with leek, thyme, garlic, cremini stems 1 hour.",
+        "Make gel with agar-agar; chill.",
+        "Confit egg yolks at 200°F, 20 min; cold-smoke with applewood.",
+        "Make foam: simmer stock and milk with lecithin; aerate.",
+        "Plate gel, yolk, sliced caps, foam, herbs."
+      ],
+      "notes": "Cremini stems make stock; caps garnish.",
+      "id": "r203",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Pommes Purée with Leeks and Beurre Blanc",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "dinner"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "90 min",
+      "ingredients": [
+        {
+          "name": "30 g salted butter",
+          "qty": 30,
+          "unit": "g",
+          "pantryKey": "salted-butter"
+        },
+        {
+          "name": "600 g leek",
+          "qty": 600,
+          "unit": "g",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "1 tbsp Dijon",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "dijon-mustard"
+        },
+        {
+          "name": "2 tbsp crème fraîche",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "creme-fraiche"
+        },
+        {
+          "name": "2 tbsp lemon juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "Black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1 leek (fried)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "2 cups canola oil",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "canola-oil"
+        },
+        {
+          "name": "1 leek (powder)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "500 g Yukon Gold potatoes",
+          "qty": 500,
+          "unit": "g",
+          "pantryKey": "yukon-gold-potatoes"
+        },
+        {
+          "name": "100 g crème fraîche",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "creme-fraiche"
+        },
+        {
+          "name": "100 g butter",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "200 g white wine",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "white-wine"
+        },
+        {
+          "name": "25 g shallot",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "10 g garlic",
+          "qty": 10,
+          "unit": "g",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "5 sprigs tarragon",
+          "qty": 5,
+          "unit": "",
+          "pantryKey": "tarragon"
+        },
+        {
+          "name": "2 bay leaves",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "175 g butter",
+          "qty": 175,
+          "unit": "g",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "10 g lemon juice",
+          "qty": 10,
+          "unit": "g",
+          "pantryKey": "lemon-juice"
+        }
+      ],
+      "instructions": [
+        "Make leek fondue with butter and crème fraîche.",
+        "Fry leek matchsticks at 330°F 4 min.",
+        "Roast leek rounds at 350°F 30 min; grind to powder.",
+        "Make mashed potatoes in blender with butter and crème fraîche.",
+        "Make beurre blanc: reduce wine with aromatics, whisk in butter.",
+        "Plate fondue, dollops of potato, beurre blanc, fried leeks, powder dust."
+      ],
+      "notes": "Highlights Brittany salted butter.",
+      "id": "r204",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Grilled Asparagus with Crème Fraîche",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "appetizer"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "90 min",
+      "ingredients": [
+        {
+          "name": "6 quarts water",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "water"
+        },
+        {
+          "name": "1 leek",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "1 carrot",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "1 yellow onion",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "yellow-onion"
+        },
+        {
+          "name": "Celery",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "2 cloves garlic",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "½ bunch parsley",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "5 sprigs thyme",
+          "qty": 5,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "2 lemon slices",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "8 asparagus",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "asparagus"
+        },
+        {
+          "name": "4 tbsp kosher salt",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "150 g crème fraîche",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "creme-fraiche"
+        },
+        {
+          "name": "1 lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "Black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1 tbsp olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Chives",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "chives"
+        }
+      ],
+      "instructions": [
+        "Make court bouillon: simmer water with vegetables, herbs, lemon 25 min; strain.",
+        "Peel and trim asparagus; blanch in seasoned stock 30 sec to 2 min; ice bath.",
+        "Whisk crème fraîche with lemon, zest, fleur de sel, pepper.",
+        "Grill blanched spears 1 min per side; finish with lemon, oil, salt.",
+        "Shave raw asparagus into ribbons; ice bath to curl.",
+        "Plate crème fraîche bed, alternate grilled and blanched, curls on edge, garnish."
+      ],
+      "notes": "Bonus court bouillon recipe included.",
+      "id": "r205",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Vegetable Parmentier",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "120 min",
+      "ingredients": [
+        {
+          "name": "6 quarts water",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "water"
+        },
+        {
+          "name": "1 leek",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "2 cloves garlic",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "½ bunch parsley",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "1 carrot",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "1 yellow onion",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "yellow-onion"
+        },
+        {
+          "name": "2 ribs celery",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "½ bunch thyme",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "2 tbsp peppercorns",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1 bay leaf",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "1 kg Yukon Gold potatoes",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "yukon-gold-potatoes"
+        },
+        {
+          "name": "⅔ cup milk",
+          "qty": 0.66,
+          "unit": "cups",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "100 g butter",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "3 tbsp olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "2 carrots",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "1 onion",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "yellow-onion"
+        },
+        {
+          "name": "4 cups zucchini and squash",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "zucchini"
+        },
+        {
+          "name": "Butter",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "200 g comté cheese",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "comte-cheese"
+        }
+      ],
+      "instructions": [
+        "Make vegetable stock; strain.",
+        "Boil potatoes; rice and combine with milk and butter.",
+        "Glaze diced carrots, onion, and zucchini separately, then combine with stock.",
+        "Layer in buttered dish: vegetables, mashed potatoes, comté.",
+        "Bake 375°F 20 min until bubbly."
+      ],
+      "notes": "Vegetarian Hachis Parmentier.",
+      "id": "r206",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Roasted Cabbage with Sauerkraut, Pickled Mustard Seeds, and Parsley Cream Sauce",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner",
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "120 min",
+      "ingredients": [
+        {
+          "name": "1 savoy cabbage (sauerkraut)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "savoy-cabbage"
+        },
+        {
+          "name": "Kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "1 tbsp sherry vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sherry-vinegar"
+        },
+        {
+          "name": "Lemon juice",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "Black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1 savoy cabbage (sear)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "savoy-cabbage"
+        },
+        {
+          "name": "Grapeseed oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "grapeseed-oil"
+        },
+        {
+          "name": "2 cloves garlic",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "1 bunch thyme",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "200 g grapeseed oil",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "grapeseed-oil"
+        },
+        {
+          "name": "100 g parsley",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "100 g mustard seeds",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "mustard-seeds"
+        },
+        {
+          "name": "30 g champagne vinegar",
+          "qty": 30,
+          "unit": "g",
+          "pantryKey": "champagne-vinegar"
+        },
+        {
+          "name": "30 g sherry vinegar",
+          "qty": 30,
+          "unit": "g",
+          "pantryKey": "sherry-vinegar"
+        },
+        {
+          "name": "20 g sugar",
+          "qty": 20,
+          "unit": "g",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "3 g kosher salt",
+          "qty": 3,
+          "unit": "g",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "500 g crème fraîche",
+          "qty": 500,
+          "unit": "g",
+          "pantryKey": "creme-fraiche"
+        },
+        {
+          "name": "1 lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Fleur de sel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        }
+      ],
+      "instructions": [
+        "Ferment sauerkraut 2 weeks with 2.5% salt.",
+        "Sear and roast cabbage wedges 325°F 20-30 min.",
+        "Make parsley oil; strain.",
+        "Pickle blanched mustard seeds in vinegar syrup.",
+        "Make crème fraîche sauce with cabbage juice and parsley oil.",
+        "Plate cabbage with sauerkraut, mustard seeds, sauce."
+      ],
+      "notes": "Plan 2 weeks for sauerkraut.",
+      "id": "r207",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Cheese Salad (Aerated Cheese Mousse with Lettuce Punches)",
+      "source": "Dominique Crenn MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "dessert"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": "180 min",
+      "ingredients": [
+        {
+          "name": "125 g milk",
+          "qty": 125,
+          "unit": "g",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "62.5 g heavy cream",
+          "qty": 62.5,
+          "unit": "g",
+          "pantryKey": "heavy-cream"
+        },
+        {
+          "name": "200 g feta or chèvre",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "feta"
+        },
+        {
+          "name": "2.5 g sugar",
+          "qty": 2.5,
+          "unit": "g",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "2.5 g fleur de sel",
+          "qty": 2.5,
+          "unit": "g",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "2 g black pepper",
+          "qty": 2,
+          "unit": "g",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "2 lettuces (romaine, butter)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "butter-lettuce"
+        },
+        {
+          "name": "1 head chicory",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "chicory"
+        },
+        {
+          "name": "½ shallot",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "1 tbsp sherry vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sherry-vinegar"
+        },
+        {
+          "name": "¼ cup olive oil",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "1 tbsp lemon juice",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "Kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Simmer milk and cream; whisk in cheese, sugar, salt, pepper.",
+        "Blend smooth; chill 1-2 hr.",
+        "Whisk into mousse; pastry bag.",
+        "Cut lettuce into shapes with punch/cutter.",
+        "Make vinaigrette in spray bottle.",
+        "Pipe mousse spiral, spray lettuce, arrange with tweezers."
+      ],
+      "notes": "Modernist French cheese course.",
+      "id": "r208",
+      "dateAdded": "2026-06-13"
     }
   ],
   "pantryItems": [
@@ -20087,6 +21832,121 @@
       "key": "queso-fresco",
       "name": "Queso fresco / cotija / panela",
       "category": "dairy"
+    },
+    {
+      "key": "agar-agar",
+      "name": "Agar-Agar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "creme-de-cassis",
+      "name": "Crème de Cassis",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "apple-juice",
+      "name": "Apple Juice",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "buckwheat-groats",
+      "name": "Buckwheat Groats",
+      "category": "grain"
+    },
+    {
+      "key": "black-currant-puree",
+      "name": "Black Currant Purée",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "banyuls-vinegar",
+      "name": "Banyuls Vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "raspberry-vinegar",
+      "name": "Raspberry Vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "walnut-oil",
+      "name": "Walnut Oil",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "vadouvan-spices",
+      "name": "Vadouvan Spices",
+      "category": "spice"
+    },
+    {
+      "key": "honeydew",
+      "name": "Honeydew Melon",
+      "category": "produce"
+    },
+    {
+      "key": "cantaloupe",
+      "name": "Cantaloupe",
+      "category": "produce"
+    },
+    {
+      "key": "applewood-chips",
+      "name": "Applewood (smoking)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "lecithin",
+      "name": "Lecithin",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "salted-butter",
+      "name": "Salted Butter",
+      "category": "dairy"
+    },
+    {
+      "key": "comte-cheese",
+      "name": "Comté Cheese",
+      "category": "dairy"
+    },
+    {
+      "key": "savoy-cabbage",
+      "name": "Savoy Cabbage",
+      "category": "produce"
+    },
+    {
+      "key": "chicory",
+      "name": "Chicory",
+      "category": "produce"
+    },
+    {
+      "key": "butter-lettuce",
+      "name": "Butter Lettuce",
+      "category": "produce"
+    },
+    {
+      "key": "edible-flowers",
+      "name": "Edible Flowers",
+      "category": "produce"
+    },
+    {
+      "key": "feta",
+      "name": "Feta Cheese",
+      "category": "dairy"
+    },
+    {
+      "key": "gruyere",
+      "name": "Gruyère Cheese",
+      "category": "dairy"
+    },
+    {
+      "key": "chevre",
+      "name": "Chèvre",
+      "category": "dairy"
+    },
+    {
+      "key": "cremini-mushrooms",
+      "name": "Cremini Mushrooms",
+      "category": "produce"
     }
   ],
   "pantryState": {}
