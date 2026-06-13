@@ -8329,7 +8329,7 @@
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         }
       ],
       "instructions": [
@@ -8411,7 +8411,7 @@
           "name": "lemons",
           "qty": 2,
           "unit": "",
-          "pantryKey": "lemon"
+          "pantryKey": "lemons"
         },
         {
           "name": "second-press olive oil",
@@ -8435,7 +8435,7 @@
           "name": "onions, chopped",
           "qty": 300,
           "unit": "g",
-          "pantryKey": "onion"
+          "pantryKey": "onions"
         },
         {
           "name": "shallots, minced",
@@ -8465,7 +8465,7 @@
           "name": "bouquet garni: 3 leek leaves, 5 Italian parsley sprigs, 5 thyme sprigs, 2 bay leaves (in cheesecloth)",
           "qty": 1,
           "unit": "",
-          "pantryKey": "bouquet-garni"
+          "pantryKey": null
         },
         {
           "name": "artichokes, turned and trimmed",
@@ -8483,13 +8483,13 @@
           "name": "chive blossoms (optional garnish)",
           "qty": null,
           "unit": "",
-          "pantryKey": "chive-blossoms"
+          "pantryKey": null
         },
         {
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         }
       ],
       "instructions": [
@@ -8529,7 +8529,7 @@
           "name": "cream, hot",
           "qty": 190,
           "unit": "g",
-          "pantryKey": "cream"
+          "pantryKey": "heavy-cream"
         },
         {
           "name": "cold butter, cubed",
@@ -8541,7 +8541,7 @@
           "name": "clarified butter (optional)",
           "qty": 50,
           "unit": "g",
-          "pantryKey": "clarified-butter"
+          "pantryKey": null
         },
         {
           "name": "Yukon Gold potatoes",
@@ -8559,7 +8559,7 @@
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "butter for finishing",
@@ -8571,7 +8571,7 @@
           "name": "Maldon salt for finishing",
           "qty": null,
           "unit": "",
-          "pantryKey": "maldon-salt"
+          "pantryKey": "flaky-salt"
         }
       ],
       "instructions": [
@@ -8660,7 +8660,7 @@
           "name": "cucumbers, oblique cut",
           "qty": 100,
           "unit": "g",
-          "pantryKey": "cucumber"
+          "pantryKey": "cucumbers"
         },
         {
           "name": "radishes, quartered",
@@ -8672,7 +8672,7 @@
           "name": "jingle bell peppers (or small variety)",
           "qty": 35,
           "unit": "g",
-          "pantryKey": "bell-peppers"
+          "pantryKey": "bell-pepper"
         }
       ],
       "instructions": [
@@ -8722,7 +8722,7 @@
           "name": "cream",
           "qty": 250,
           "unit": "g",
-          "pantryKey": "cream"
+          "pantryKey": "heavy-cream"
         },
         {
           "name": "water (additional may be needed)",
@@ -8734,7 +8734,7 @@
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         }
       ],
       "instructions": [
@@ -8785,13 +8785,13 @@
           "name": "neutral-flavored plant-based oil",
           "qty": 2,
           "unit": "l",
-          "pantryKey": "neutral-oil"
+          "pantryKey": "vegetable-oil"
         },
         {
           "name": "bouquet garni (see Artichokes Barigoule)",
           "qty": 1,
           "unit": "",
-          "pantryKey": "bouquet-garni"
+          "pantryKey": null
         },
         {
           "name": "aged balsamic vinegar",
@@ -8809,13 +8809,13 @@
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "Maldon sea salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "maldon-salt"
+          "pantryKey": "flaky-salt"
         }
       ],
       "instructions": [
@@ -8868,7 +8868,7 @@
           "name": "herbs (e.g., basil, parsley, tarragon)",
           "qty": null,
           "unit": "",
-          "pantryKey": "herbs"
+          "pantryKey": null
         },
         {
           "name": "garlic",
@@ -8880,19 +8880,19 @@
           "name": "tomato concassé",
           "qty": null,
           "unit": "",
-          "pantryKey": "tomato"
+          "pantryKey": "tomatoes"
         },
         {
           "name": "lemon juice or vinegar",
           "qty": null,
           "unit": "",
-          "pantryKey": "lemon"
+          "pantryKey": "lemons"
         },
         {
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         }
       ],
       "instructions": [
@@ -8935,7 +8935,7 @@
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "canola oil",
@@ -8959,7 +8959,7 @@
           "name": "Maldon sea salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "maldon-salt"
+          "pantryKey": "flaky-salt"
         },
         {
           "name": "extra virgin olive oil",
@@ -9011,7 +9011,7 @@
           "name": "egg yolk",
           "qty": 1,
           "unit": "",
-          "pantryKey": "egg-yolk"
+          "pantryKey": "eggs"
         },
         {
           "name": "Dijon mustard",
@@ -9023,7 +9023,7 @@
           "name": "neutral-flavored plant-based oil",
           "qty": 350,
           "unit": "g",
-          "pantryKey": "neutral-oil"
+          "pantryKey": "vegetable-oil"
         },
         {
           "name": "white wine vinegar",
@@ -9035,13 +9035,13 @@
           "name": "lemon juice",
           "qty": 7,
           "unit": "g",
-          "pantryKey": "lemon"
+          "pantryKey": "lemons"
         },
         {
           "name": "kosher salt to taste",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         }
       ],
       "instructions": [
@@ -9081,7 +9081,7 @@
           "name": "mayonnaise (see recipe)",
           "qty": 400,
           "unit": "g",
-          "pantryKey": "mayonnaise"
+          "pantryKey": null
         },
         {
           "name": "capers, minced",
@@ -9105,13 +9105,13 @@
           "name": "fines herbes (parsley, chives, tarragon — equal parts, minced)",
           "qty": 10,
           "unit": "g",
-          "pantryKey": "fines-herbes"
+          "pantryKey": null
         },
         {
           "name": "kosher salt",
           "qty": 4,
           "unit": "g",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         }
       ],
       "instructions": [
@@ -9154,7 +9154,7 @@
           "name": "egg yolks (~3)",
           "qty": 60,
           "unit": "g",
-          "pantryKey": "egg-yolk"
+          "pantryKey": "eggs"
         },
         {
           "name": "water",
@@ -9166,19 +9166,19 @@
           "name": "lemon juice",
           "qty": 15,
           "unit": "g",
-          "pantryKey": "lemon"
+          "pantryKey": "lemons"
         },
         {
           "name": "clarified butter, held at 165°F",
           "qty": 250,
           "unit": "g",
-          "pantryKey": "clarified-butter"
+          "pantryKey": null
         },
         {
           "name": "kosher salt to taste",
           "qty": 4,
           "unit": "g",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "poached eggs (for plating)",
@@ -9202,7 +9202,7 @@
           "name": "finishing salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "finishing-salt"
+          "pantryKey": "flaky-salt"
         }
       ],
       "instructions": [
@@ -9272,37 +9272,37 @@
           "name": "bay leaf",
           "qty": 1,
           "unit": "",
-          "pantryKey": "bay-leaf"
+          "pantryKey": "bay-leaves"
         },
         {
           "name": "egg yolks (~4)",
           "qty": 85,
           "unit": "g",
-          "pantryKey": "egg-yolk"
+          "pantryKey": "eggs"
         },
         {
           "name": "béarnaise reduction",
           "qty": 85,
           "unit": "g",
-          "pantryKey": "bearnaise-reduction"
+          "pantryKey": null
         },
         {
           "name": "heavy cream",
           "qty": 25,
           "unit": "g",
-          "pantryKey": "cream"
+          "pantryKey": "heavy-cream"
         },
         {
           "name": "clarified butter",
           "qty": 350,
           "unit": "g",
-          "pantryKey": "clarified-butter"
+          "pantryKey": null
         },
         {
           "name": "lemon juice",
           "qty": 5,
           "unit": "g",
-          "pantryKey": "lemon"
+          "pantryKey": "lemons"
         },
         {
           "name": "tarragon, minced (finish)",
@@ -9320,7 +9320,7 @@
           "name": "kosher salt",
           "qty": 5,
           "unit": "g",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         }
       ],
       "instructions": [
@@ -9363,7 +9363,7 @@
           "name": "cream",
           "qty": 500,
           "unit": "g",
-          "pantryKey": "cream"
+          "pantryKey": "heavy-cream"
         },
         {
           "name": "milk",
@@ -9381,13 +9381,13 @@
           "name": "egg yolks",
           "qty": 10,
           "unit": "",
-          "pantryKey": "egg-yolk"
+          "pantryKey": "eggs"
         },
         {
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         }
       ],
       "instructions": [
@@ -9438,13 +9438,13 @@
           "name": "lemon, juiced",
           "qty": 0.25,
           "unit": "",
-          "pantryKey": "lemon"
+          "pantryKey": "lemons"
         },
         {
           "name": "egg whites",
           "qty": 150,
           "unit": "g",
-          "pantryKey": "egg-white"
+          "pantryKey": "eggs"
         },
         {
           "name": "granulated sugar",
@@ -9462,7 +9462,7 @@
           "name": "kosher salt",
           "qty": 1,
           "unit": "g",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "vanilla bean",
@@ -9474,7 +9474,7 @@
           "name": "crème anglaise (for plating)",
           "qty": null,
           "unit": "",
-          "pantryKey": "creme-anglaise"
+          "pantryKey": null
         },
         {
           "name": "lime zest (garnish)",
@@ -9541,7 +9541,7 @@
           "name": "Maldon salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "maldon-salt"
+          "pantryKey": "flaky-salt"
         }
       ],
       "instructions": [
@@ -9610,13 +9610,13 @@
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "Maldon salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "maldon-salt"
+          "pantryKey": "flaky-salt"
         },
         {
           "name": "eggs (French style)",
@@ -9737,19 +9737,19 @@
           "name": "fines herbes (parsley, chives, tarragon, minced)",
           "qty": 2,
           "unit": "tbsp",
-          "pantryKey": "fines-herbes"
+          "pantryKey": null
         },
         {
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "Maldon sea salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "maldon-salt"
+          "pantryKey": "flaky-salt"
         }
       ],
       "instructions": [
@@ -9794,7 +9794,7 @@
           "name": "egg yolks (ideally Jidori hens)",
           "qty": 250,
           "unit": "g",
-          "pantryKey": "egg-yolk"
+          "pantryKey": "eggs"
         },
         {
           "name": "whole egg",
@@ -9857,7 +9857,7 @@
           "name": "brioche crumbs",
           "qty": 50,
           "unit": "g",
-          "pantryKey": "brioche-crumbs"
+          "pantryKey": null
         },
         {
           "name": "mascarpone cheese",
@@ -9869,13 +9869,13 @@
           "name": "kosher salt",
           "qty": 4,
           "unit": "g",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "egg pasta dough (1 recipe)",
           "qty": 1,
           "unit": "",
-          "pantryKey": "pasta-dough"
+          "pantryKey": null
         },
         {
           "name": "Tipo 00 flour for dusting",
@@ -9926,13 +9926,13 @@
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "agnolotti",
           "qty": 9,
           "unit": "",
-          "pantryKey": "agnolotti"
+          "pantryKey": null
         },
         {
           "name": "frozen peas",
@@ -10009,7 +10009,7 @@
           "name": "pasta dough, rolled to 1/16 inch",
           "qty": null,
           "unit": "",
-          "pantryKey": "pasta-dough"
+          "pantryKey": null
         },
         {
           "name": "Tipo 00 flour for dusting",
@@ -10061,13 +10061,13 @@
           "name": "garlic confit, puréed",
           "qty": 20,
           "unit": "g",
-          "pantryKey": "garlic-confit"
+          "pantryKey": null
         },
         {
           "name": "garlic confit cloves (6–8 medium)",
           "qty": 20,
           "unit": "g",
-          "pantryKey": "garlic-confit"
+          "pantryKey": null
         },
         {
           "name": "Italian parsley, émincer",
@@ -10085,7 +10085,7 @@
           "name": "lemon",
           "qty": 1,
           "unit": "",
-          "pantryKey": "lemon"
+          "pantryKey": "lemons"
         },
         {
           "name": "bottarga di muggine",
@@ -10097,7 +10097,7 @@
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         }
       ],
       "instructions": [
@@ -10144,7 +10144,7 @@
           "name": "kosher salt",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "flour",
@@ -10156,7 +10156,7 @@
           "name": "egg yolks",
           "qty": 35,
           "unit": "g",
-          "pantryKey": "egg-yolk"
+          "pantryKey": "eggs"
         }
       ],
       "instructions": [
@@ -10200,7 +10200,7 @@
           "name": "gnocchi",
           "qty": 325,
           "unit": "g",
-          "pantryKey": "gnocchi"
+          "pantryKey": null
         },
         {
           "name": "Parmesan cheese",
@@ -10224,7 +10224,7 @@
           "name": "tomato, grated",
           "qty": 200,
           "unit": "g",
-          "pantryKey": "tomato"
+          "pantryKey": "tomatoes"
         },
         {
           "name": "garlic, grated",
@@ -10248,7 +10248,7 @@
           "name": "kosher salt, to taste",
           "qty": null,
           "unit": "",
-          "pantryKey": "kosher-salt"
+          "pantryKey": "salt"
         },
         {
           "name": "champagne vinegar, to taste",
@@ -11208,6 +11208,146 @@
       "key": "ginger",
       "name": "Ginger (fresh or dried)",
       "category": "spice"
+    },
+    {
+      "key": "canola-oil",
+      "name": "Canola oil",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "russet-potatoes",
+      "name": "Russet potatoes",
+      "category": "produce"
+    },
+    {
+      "key": "yukon-gold-potatoes",
+      "name": "Yukon Gold potatoes",
+      "category": "produce"
+    },
+    {
+      "key": "tomatoes",
+      "name": "Tomatoes",
+      "category": "produce"
+    },
+    {
+      "key": "artichokes",
+      "name": "Artichokes (fresh)",
+      "category": "produce"
+    },
+    {
+      "key": "beets",
+      "name": "Beets",
+      "category": "produce"
+    },
+    {
+      "key": "eggplant",
+      "name": "Eggplant",
+      "category": "produce"
+    },
+    {
+      "key": "fennel",
+      "name": "Fennel",
+      "category": "produce"
+    },
+    {
+      "key": "parsnips",
+      "name": "Parsnips",
+      "category": "produce"
+    },
+    {
+      "key": "peas",
+      "name": "Peas (fresh/frozen)",
+      "category": "produce"
+    },
+    {
+      "key": "pearl-onions",
+      "name": "Pearl onions",
+      "category": "produce"
+    },
+    {
+      "key": "radishes",
+      "name": "Radishes",
+      "category": "produce"
+    },
+    {
+      "key": "strawberries",
+      "name": "Strawberries",
+      "category": "produce"
+    },
+    {
+      "key": "tarragon",
+      "name": "Fresh tarragon",
+      "category": "produce"
+    },
+    {
+      "key": "oregano",
+      "name": "Fresh oregano",
+      "category": "produce"
+    },
+    {
+      "key": "vanilla-bean",
+      "name": "Vanilla bean",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "balsamic-vinegar",
+      "name": "Balsamic vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "champagne-vinegar",
+      "name": "Champagne vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "white-wine-vinegar",
+      "name": "White wine vinegar",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "bottarga",
+      "name": "Bottarga di muggine",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "capers",
+      "name": "Capers",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "cornichons",
+      "name": "Cornichons",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "mustard-seeds",
+      "name": "Mustard seeds",
+      "category": "spice"
+    },
+    {
+      "key": "tipo-00-flour",
+      "name": "Tipo 00 flour",
+      "category": "grain"
+    },
+    {
+      "key": "spaghetti",
+      "name": "Spaghetti (dried)",
+      "category": "grain"
+    },
+    {
+      "key": "brioche",
+      "name": "Brioche",
+      "category": "grain"
+    },
+    {
+      "key": "creme-fraiche",
+      "name": "Crème fraîche",
+      "category": "dairy"
+    },
+    {
+      "key": "bacon",
+      "name": "Bacon",
+      "category": "protein"
     }
   ],
   "pantryState": {}
