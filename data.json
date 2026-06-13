@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastUpdated": "2026-06-13",
-    "recipeCount": 217
+    "recipeCount": 242
   },
   "recipes": [
     {
@@ -21054,6 +21054,2163 @@
       "notes": "Substitute any winter squash. A chocolate-orange variation drizzles dark chocolate, candied orange pur\u00e9e, and a blackened orange garnish over the risotto.",
       "id": "r217",
       "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Smoky Marinated Feta",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": "10 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "10 garlic cloves, peeled",
+          "qty": 10,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "1 lemon, skin peeled into 6 strips",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "4 bay leaves",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "2\u00bd tsp chipotle chili flakes",
+          "qty": 2.5,
+          "unit": "tsp",
+          "pantryKey": "chipotle-chili-flakes"
+        },
+        {
+          "name": "250 ml olive oil",
+          "qty": 250,
+          "unit": "ml",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "1 tsp flaky sea salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "flaky-salt"
+        },
+        {
+          "name": "1\u00bc tsp paprika",
+          "qty": 1.25,
+          "unit": "tsp",
+          "pantryKey": "paprika"
+        },
+        {
+          "name": "2 blocks Greek feta (360 g), cut into \u00bd-inch cubes",
+          "qty": 360,
+          "unit": "g",
+          "pantryKey": "feta"
+        }
+      ],
+      "instructions": [
+        "Heat a small saut\u00e9 pan over medium-high heat. Once hot, add the garlic and cook 3-4 minutes, turning halfway, until cloves are charred.",
+        "Add lemon strips and bay leaves; cook about 90 seconds until lightly charred.",
+        "Add chipotle chili flakes and stir 30 seconds until toasted and fragrant. Remove from heat, then add oil, salt, and paprika. Stir 30 seconds to combine.",
+        "Add feta to oil; stir gently so each cube is coated. Transfer to a shallow container. Marinate at room temp if eating soon, or refrigerate up to 5 days."
+      ],
+      "notes": "Keeps up to 5 days refrigerated; flavors deepen over time. Used in Pea Spread With Smoky Marinated Feta.",
+      "id": "r218",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Tahini Sauce",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "5 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "60 g tahini paste",
+          "qty": 60,
+          "unit": "g",
+          "pantryKey": "tahini"
+        },
+        {
+          "name": "1\u00bd tbsp lemon juice",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "1 garlic clove, crushed",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "A pinch of salt, or to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "3 tbsp water, plus 1 tsp water, or as needed",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Combine all ingredients except water in a bowl and whisk to combine.",
+        "Slowly add water while whisking until mixture is smooth and pourable. Taste and adjust seasoning.",
+        "Use immediately at room temperature or refrigerate in a sealed container up to 5 days."
+      ],
+      "notes": "Drizzle over kebabs, chopped salads, or roasted vegetables.",
+      "id": "r219",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Confit Garlic Oil",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "5 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "name": "12 garlic cloves, peeled",
+          "qty": 12,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "6 thyme sprigs",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "1 green chili",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "fresno-chili"
+        },
+        {
+          "name": "200 ml olive oil",
+          "qty": 200,
+          "unit": "ml",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Combine all ingredients in a small saucepan over medium-low heat. Cover and cook until garlic is soft and just beginning to color, 20-25 minutes.",
+        "Leave the lid on, remove from heat, and set aside for 10 minutes so garlic finishes cooking in the residual heat of the oil.",
+        "Strain oil into a clean glass jar and spoon in garlic, thyme, and chili. Once cool, transfer to a sterilized airtight jar and store at room temp for several weeks."
+      ],
+      "notes": "Drizzle over salads or dip with bread. Used in Hummus With Confit Garlic and Tahini.",
+      "id": "r220",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Labneh",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "appetizer",
+        "breakfast"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "900 g full-fat yogurt",
+          "qty": 900,
+          "unit": "g",
+          "pantryKey": "full-fat-yogurt"
+        },
+        {
+          "name": "\u00be tsp salt",
+          "qty": 0.75,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Muslin or cheesecloth",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        }
+      ],
+      "instructions": [
+        "Add yogurt and salt to a medium bowl and mix well.",
+        "Line a colander with muslin or cheesecloth large enough to hang over the sides; place colander over a bowl.",
+        "Transfer yogurt to the center of the cheesecloth and fold the overhang so yogurt is completely covered.",
+        "Weight down with cans/jars and refrigerate. Drain at least 12 and up to 48 hours.",
+        "Discard collected water. Labneh keeps in an airtight jar in the refrigerator up to 5 days, sealed with a thin layer of olive oil on top."
+      ],
+      "notes": "Avoid set Greek yogurt \u2014 it won't drain properly. Sheep's milk yields tangier labneh; cow's milk creamier.",
+      "id": "r221",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Quick-Pickled Chilies",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "5 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "2 tbsp apple cider vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "apple-cider-vinegar"
+        },
+        {
+          "name": "1 tsp granulated sugar",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "1 tsp salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "2 small mild red chilies, thinly sliced, seeds and all",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "fresno-chili"
+        }
+      ],
+      "instructions": [
+        "Add vinegar, sugar, and salt to a small bowl, stirring to dissolve the sugar.",
+        "Add chilies, stir well to combine, and leave to pickle at least 30 minutes before using.",
+        "If not using immediately, store in the refrigerator in an airtight container."
+      ],
+      "notes": "Try them on grilled vegetables or roasted chicken. Used in Roasted Eggplant Salad.",
+      "id": "r222",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Quick Lemon Paste",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "5 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "1 large lemon, end trimmed, sliced into \u00bc-inch-thin rounds, seeds removed",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "4 tbsp lemon juice",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "1 tbsp salt",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Combine all ingredients in a small saucepan over medium-high heat. Simmer until salt dissolves, 1-2 minutes.",
+        "Lower heat to medium-low, cover, and cook until lemon rinds look translucent, about 12 minutes.",
+        "Cool slightly, then transfer to a food processor and blitz until smooth and thick. Add a tablespoon of water if needed.",
+        "Transfer to an airtight container, pour a thin layer of olive oil over the top, cover, and refrigerate up to 2 weeks."
+      ],
+      "notes": "A speed-up of traditional preserved lemons (which take 2-3 weeks).",
+      "id": "r223",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Saffron Water",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 12,
+      "prepTime": "5 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "1 tsp saffron threads",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "saffron"
+        },
+        {
+          "name": "120 ml hot water",
+          "qty": 120,
+          "unit": "ml",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Soak saffron threads in hot water for at least 30 minutes (or overnight). Color intensifies as the saffron soaks.",
+        "Store in a sealed jar at room temperature for several weeks."
+      ],
+      "notes": "A little goes a long way \u2014 use in risotto, crepe batter, or rice pudding.",
+      "id": "r224",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Za'atar Oil",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "2 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "2 tbsp za'atar",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "zaatar"
+        },
+        {
+          "name": "3 tbsp olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Combine za'atar and olive oil in a small serving bowl.",
+        "If not using immediately, store in an airtight container at room temperature for several weeks. Stir before using."
+      ],
+      "notes": "Spread over pizza dough instead of tomato sauce, or spoon over roasted chicken, hummus, or butter bean mash.",
+      "id": "r225",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Dukkah",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 10,
+      "prepTime": "5 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "2 tbsp coriander seeds",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "coriander-seeds"
+        },
+        {
+          "name": "1 tsp cumin seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cumin-seeds"
+        },
+        {
+          "name": "1\u00bd tbsp black and white sesame seeds",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "30 g blanched hazelnuts, toasted",
+          "qty": 30,
+          "unit": "g",
+          "pantryKey": "hazelnuts"
+        },
+        {
+          "name": "30 g pine nuts, toasted",
+          "qty": 30,
+          "unit": "g",
+          "pantryKey": "pine-nuts"
+        },
+        {
+          "name": "1 tsp dried oregano",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "oregano"
+        },
+        {
+          "name": "\u00bd tsp paprika",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "paprika"
+        },
+        {
+          "name": "\u00bc tsp salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "In a small saucepan over medium heat, toast coriander seeds, cumin seeds, and sesame seeds, shaking the pan occasionally, until fragrant, 2-3 minutes.",
+        "Add toasted spices and all remaining ingredients to a food processor and pulse a few times until nuts and seeds are roughly chopped.",
+        "Store in an airtight container at room temperature for several weeks."
+      ],
+      "notes": "Egyptian condiment \u2014 sprinkle over fish, eggs, or roasted carrots. Variations: pistachios, walnuts, mint, za'atar.",
+      "id": "r226",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Sumac-Pickled Onions",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "5 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "1 medium red onion, thinly sliced into half-moons",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "red-onion"
+        },
+        {
+          "name": "1\u00bd tsp sumac",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "sumac"
+        },
+        {
+          "name": "2 tbsp lemon juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "1/8 tsp salt",
+          "qty": 0.125,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Add all ingredients to a small bowl and toss well to combine.",
+        "Allow to soften and pickle at least 20 minutes before serving, or refrigerate in a sealed airtight container up to 3 days."
+      ],
+      "notes": "Pairs especially well on roasted chicken, kebabs, or rice dishes. Used in Smacked Cucumber Salad.",
+      "id": "r227",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Quick Shatta",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "90 g mild red chilies, such as Fresno chilies (about 6), roughly chopped",
+          "qty": 90,
+          "unit": "g",
+          "pantryKey": "fresno-chili"
+        },
+        {
+          "name": "180 g plum tomatoes (about 2), roughly chopped",
+          "qty": 180,
+          "unit": "g",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "\u00bd tsp salt, divided",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "3 tbsp cider vinegar",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "apple-cider-vinegar"
+        },
+        {
+          "name": "8 tbsp olive oil",
+          "qty": 8,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Add chilies, tomatoes, and salt to a food processor and pulse a few times until coarsely chopped but not pur\u00e9ed.",
+        "Add vinegar and olive oil, and pulse 1-2 times more until just incorporated.",
+        "Transfer to a small bowl. If not using immediately, transfer to an airtight container and pour enough olive oil over to seal the top. Refrigerate up to 1 week."
+      ],
+      "notes": "Yotam's quick version uses cider vinegar instead of fermenting. Spoon over sandwiches, hummus, kebabs.",
+      "id": "r228",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Rose Harissa",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 12,
+      "prepTime": "20 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "40 g dried Kashmiri red chilies or guajillo chilies",
+          "qty": 40,
+          "unit": "g",
+          "pantryKey": "kashmiri-chili"
+        },
+        {
+          "name": "25 g dried ancho chilies",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "ancho-chili"
+        },
+        {
+          "name": "4 garlic cloves, peeled",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "2 tsp cumin seeds",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "cumin-seeds"
+        },
+        {
+          "name": "1 tbsp coriander seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "coriander-seeds"
+        },
+        {
+          "name": "1\u00bd tsp caraway seeds",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "caraway-seeds"
+        },
+        {
+          "name": "1 tbsp tomato paste",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "tomato-paste"
+        },
+        {
+          "name": "1 tbsp dried rose petals",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "dried-rose-petals"
+        },
+        {
+          "name": "1\u00bd tsp granulated sugar",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "1\u00bd tsp Kashmiri chili powder, or paprika",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "kashmiri-chili-powder"
+        },
+        {
+          "name": "2 tbsp lemon juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "1 tbsp rosewater, divided",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "rosewater"
+        },
+        {
+          "name": "4 tbsp cider vinegar",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "apple-cider-vinegar"
+        },
+        {
+          "name": "\u00bd cup olive oil, divided",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "1\u00bd tsp salt",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Place a large frying pan over high heat. Once hot, add dried chilies and garlic. Toast until fragrant and charred, about 2 minutes. Pick out garlic and set aside. Transfer chilies to a heat-proof bowl.",
+        "Pour boiling water over the chilies to cover, weigh down with a small plate, and soak 30 minutes. Drain and roughly chop, then add to a food processor.",
+        "Add cumin, coriander, and caraway seeds to the same pan and toast over medium-high heat until fragrant, 2-3 minutes. Transfer to a mortar and pestle and roughly crush, then add to the food processor along with garlic, tomato paste, rose petals, sugar, and chili powder. Pulse until roughly combined.",
+        "Add lemon juice, half the rosewater, vinegar, 4 tbsp olive oil, and a pinch of salt. Blitz to a coarse paste.",
+        "Transfer to a bowl and gently stir in remaining rosewater and remaining 4 tbsp olive oil.",
+        "Transfer to a sterilized airtight jar and refrigerate, covered with a layer of oil, for several weeks."
+      ],
+      "notes": "Remove stems and seeds after rehydrating to reduce heat. Used in Green Herb Shakshuka and Roasted Cauliflower.",
+      "id": "r229",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Muhammara",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "20 min",
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "5 red bell peppers, cored, seeded, and quartered",
+          "qty": 5,
+          "unit": "",
+          "pantryKey": "bell-pepper"
+        },
+        {
+          "name": "1 white onion, peeled and roughly chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "yellow-onion"
+        },
+        {
+          "name": "2 plum or Roma tomatoes, halved lengthwise, stems removed",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "1 red chili, stem removed",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "fresno-chili"
+        },
+        {
+          "name": "5 tbsp olive oil, divided",
+          "qty": 5,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1\u00bd tbsp tomato paste",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "tomato-paste"
+        },
+        {
+          "name": "2 tsp cumin seeds",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "cumin-seeds"
+        },
+        {
+          "name": "2 tsp coriander seeds",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "coriander-seeds"
+        },
+        {
+          "name": "8 garlic cloves, peeled",
+          "qty": 8,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "2 tbsp pomegranate molasses, divided",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "pomegranate-molasses"
+        },
+        {
+          "name": "100 g walnuts, toasted and roughly chopped",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "walnuts"
+        },
+        {
+          "name": "100 g pomegranate seeds, plus 1 tbsp for serving",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "pomegranate-seeds"
+        },
+        {
+          "name": "1 tbsp parsley leaves, roughly chopped, for serving",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "parsley"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 220\u00b0C/425\u00b0F.",
+        "Add peppers, onion, tomatoes, and chili to a large parchment-lined baking tray. Toss with 3 tbsp oil, \u00bd tsp salt, and plenty of black pepper. Roast 20 minutes.",
+        "Meanwhile, add tomato paste and 1 tbsp oil to a small frying pan over medium heat; cook 5-7 minutes, stirring, until tomato paste is deep red and caramelized. Set aside.",
+        "Add cumin and coriander seeds to a small pan and toast over medium heat until aromatic and popping, 1-2 minutes. Grind into a coarse powder with a mortar and pestle.",
+        "Remove vegetables from oven, add garlic, mix lightly, return to oven and roast another 20 minutes or until softened and lightly charred.",
+        "Once cool enough to handle, peel and discard tomato and pepper skins. Add roasted vegetables, tomato paste mixture, ground spices, 1 tbsp pomegranate molasses, \u00bd tsp salt, and pepper to food processor. Pulse to a coarse paste, slightly chunky. Add walnuts and pulse briefly. Stir in pomegranate seeds.",
+        "Transfer to a serving bowl with a slight well in the center. Garnish with extra pomegranate seeds and parsley, then drizzle with remaining tbsp each pomegranate molasses and olive oil."
+      ],
+      "notes": "Syrian/Lebanese roasted pepper dip. Serve with warm flatbread.",
+      "id": "r230",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Pea Spread With Smoky Marinated Feta",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "15 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "100 g Smoky Marinated Feta, plus 3-4 tbsp oil from marinade",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": null
+        },
+        {
+          "name": "600 g frozen peas, defrosted",
+          "qty": 600,
+          "unit": "g",
+          "pantryKey": "peas"
+        },
+        {
+          "name": "10 g tarragon leaves, roughly chopped",
+          "qty": 10,
+          "unit": "g",
+          "pantryKey": "tarragon"
+        },
+        {
+          "name": "15 g mint leaves, roughly chopped",
+          "qty": 15,
+          "unit": "g",
+          "pantryKey": "mint"
+        },
+        {
+          "name": "1 garlic clove, crushed",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "1 lemon; 1\u00bd tsp finely grated zest, 2 tbsp juice",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "4 tbsp olive oil",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "\u00bd tsp cumin seeds, toasted and roughly crushed",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "cumin-seeds"
+        }
+      ],
+      "instructions": [
+        "Make the Smoky Marinated Feta (see separate recipe).",
+        "Add peas, tarragon, mint, garlic, lemon zest and juice, olive oil, salt, and pepper to a food processor. Pulse to a coarse paste. Taste and adjust seasoning.",
+        "Spread pea mixture onto a plate and top with Smoky Marinated Feta, adding some garlic cloves and lemon strips from the marinade.",
+        "Spoon a generous amount of aromatic smoky feta oil (about 3-4 tbsp) over the spread. Sprinkle with cumin."
+      ],
+      "notes": "Serve with warm flatbreads or crudit\u00e9s. A dark plate maximizes visual contrast.",
+      "id": "r231",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Hummus With Confit Garlic and Tahini",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "30 min",
+      "cookTime": "60 min",
+      "ingredients": [
+        {
+          "name": "60 g Tahini Sauce (see separate recipe)",
+          "qty": 60,
+          "unit": "g",
+          "pantryKey": null
+        },
+        {
+          "name": "12 confit garlic cloves, plus 4 tbsp Confit Garlic Oil",
+          "qty": 12,
+          "unit": "cloves",
+          "pantryKey": null
+        },
+        {
+          "name": "550 g cooked chickpeas (see Basic Chickpeas, or canned)",
+          "qty": 550,
+          "unit": "g",
+          "pantryKey": "chickpeas"
+        },
+        {
+          "name": "180-210 g tahini paste (depending on brand)",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "tahini"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "\u00bc cup lemon juice",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "5 tbsp plus 2 tsp ice-cold water, plus extra",
+          "qty": 5,
+          "unit": "tbsp",
+          "pantryKey": "water"
+        },
+        {
+          "name": "1\u00bd tbsp parsley, finely chopped",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "parsley"
+        }
+      ],
+      "instructions": [
+        "Make the Tahini Sauce and Confit Garlic Oil (see separate recipes).",
+        "Set 100 g cooked chickpeas aside in a small bowl.",
+        "Add remaining chickpeas, tahini paste, 8 confit garlic cloves, \u00bd tsp salt, and lemon juice to a food processor. Blitz until smooth, 2-3 minutes. With machine running, slowly drizzle in ice water until completely smooth and aerated. Adjust seasoning.",
+        "Add parsley, 2 tbsp Confit Garlic Oil, and a pinch of salt to bowl with reserved chickpeas; stir.",
+        "Transfer hummus to a shallow platter and smooth with the back of a spoon, creating a slight well. Spread Tahini Sauce into the well. Spoon herbed chickpea mixture over the tahini. Top with remaining confit garlic cloves and aromatics. Finish with a drizzle of Confit Garlic Oil."
+      ],
+      "notes": "For Basic Chickpeas: soak 200 g dried chickpeas overnight with 1 tsp baking soda. Drain, cover with water plus \u00bd tsp baking soda, boil 30-60 min until crushable. Add 1 tsp salt last 15 min.",
+      "id": "r232",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Middle Eastern Bread Spread",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "brunch",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "20 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Za'atar Oil (see separate recipe)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "350 g (about 3) vine tomatoes",
+          "qty": 350,
+          "unit": "g",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "4 tbsp olive oil, divided",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "1 garlic clove, crushed",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "4 pita breads, lightly toasted if desired",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "pita"
+        },
+        {
+          "name": "200 g block fresh cheese, such as feta, cut into \u00bd-inch planks",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "feta"
+        },
+        {
+          "name": "1\u00bd tsp runny honey",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "honey"
+        },
+        {
+          "name": "1 small bunch radishes and fresh herbs such as mint or parsley, for serving",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "radishes"
+        }
+      ],
+      "instructions": [
+        "Make the Za'atar Oil. Set aside in a small bowl.",
+        "Grate tomatoes on the coarse side of a box grater. Transfer grated tomatoes to a fine-mesh sieve set over a bowl; drain 5-10 minutes. Discard tomato water.",
+        "Place grated tomatoes in a fresh bowl with 3 tbsp olive oil, garlic, and \u00bc tsp salt. Stir and transfer to a serving bowl.",
+        "Slice pita into quarters and arrange on a platter. Place Za'atar Oil alongside the tomato and pita.",
+        "Arrange feta on the platter and drizzle with honey and remaining tbsp olive oil. Nestle radishes and fresh herbs alongside and serve."
+      ],
+      "notes": "Dip bread in za'atar oil, spoon tomato over, eat with a nibble of cheese.",
+      "id": "r233",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Labneh With Berries",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "brunch",
+        "dessert"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "30 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "100 ml good-quality olive oil",
+          "qty": 100,
+          "unit": "ml",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "10 g lemon thyme or thyme sprigs, plus a few extra picked leaves to serve",
+          "qty": 10,
+          "unit": "g",
+          "pantryKey": "lemon-thyme"
+        },
+        {
+          "name": "1 orange; 6 strips of skin finely shaved",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "oranges"
+        },
+        {
+          "name": "450 g labneh",
+          "qty": 450,
+          "unit": "g",
+          "pantryKey": null
+        },
+        {
+          "name": "200 g fresh or frozen blackberries",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "blackberries"
+        },
+        {
+          "name": "250 g fresh or frozen raspberries",
+          "qty": 250,
+          "unit": "g",
+          "pantryKey": "raspberries"
+        },
+        {
+          "name": "300 g strawberries, hulled and halved lengthwise",
+          "qty": 300,
+          "unit": "g",
+          "pantryKey": "strawberries"
+        },
+        {
+          "name": "200 g blueberries",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "blueberries"
+        },
+        {
+          "name": "60 g granulated sugar",
+          "qty": 60,
+          "unit": "g",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "1 lime; 1 tbsp juice, 1 tsp finely grated zest",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "1\u00bd tbsp sumac, plus extra to serve",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "sumac"
+        },
+        {
+          "name": "150 g cherries, pitted",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "cherries"
+        }
+      ],
+      "instructions": [
+        "Make the labneh 12-48 hours ahead.",
+        "Make the orange oil. Place olive oil in a small saucepan over medium-low heat and warm about 7 minutes or until tiny air bubbles form. Add thyme and orange strips, remove from heat, and infuse at least 30 minutes or overnight.",
+        "Make the berry topping. Add 1/3 each of blackberries, raspberries, and strawberries to a food processor with sugar, lime juice, and sumac. Blitz smooth, 1-2 minutes. Pour into a mixing bowl.",
+        "Add all remaining berries, blueberries, and cherries to a large bowl along with the blitzed fruit; stir gently.",
+        "To serve, spread labneh onto a large platter, smoothing with back of a spoon. Spoon berry mixture over labneh. Drizzle with 2 tbsp orange oil, top with orange strips and picked thyme. Sprinkle with lime zest and a pinch of sumac."
+      ],
+      "notes": "Frozen berries work just as well. Extra orange oil keeps in a glass jar for salads.",
+      "id": "r234",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Green Herb Shakshuka",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "brunch",
+        "breakfast"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "30 min",
+      "cookTime": "60 min",
+      "ingredients": [
+        {
+          "name": "1 tbsp Rose Harissa (see separate recipe)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "8 tbsp olive oil",
+          "qty": 8,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "800 g leeks (roughly 550 g once trimmed), washed and sliced in half lengthwise, then trimmed into \u00bd-inch half-moons",
+          "qty": 800,
+          "unit": "g",
+          "pantryKey": "leeks"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "10 garlic cloves, 7 crushed and 3 thinly sliced",
+          "qty": 10,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "2 tsp cumin seeds, toasted and finely crushed",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "cumin-seeds"
+        },
+        {
+          "name": "100 g cilantro, roughly chopped in the food processor",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "60 g dill, roughly chopped in the food processor",
+          "qty": 60,
+          "unit": "g",
+          "pantryKey": "dill"
+        },
+        {
+          "name": "100 g parsley, roughly chopped in the food processor",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "150 g (about 10) scallions, trimmed and thinly sliced",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "450 g baby spinach",
+          "qty": 450,
+          "unit": "g",
+          "pantryKey": "spinach"
+        },
+        {
+          "name": "1 tsp ground turmeric",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "3 limes; juice from 2, plus 1 cut into wedges to serve",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "8 medium eggs",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "eggs"
+        }
+      ],
+      "instructions": [
+        "Make the Rose Harissa.",
+        "Add 5 tbsp olive oil to a large saut\u00e9 pan over medium heat. Add leeks and \u00bd tsp salt; cook, stirring occasionally, until soft, about 15 minutes. Add crushed garlic and cumin, stirring until aromatic, 2-3 minutes. Add cilantro, dill, parsley, and scallions. Cook, stirring often, until fragrant and deep green, about 20 minutes.",
+        "Increase heat to medium-high and add spinach in batches, cooking down between additions. Add turmeric, 1 tsp salt, and pepper. Add 300 ml water; cook until liquid has almost evaporated, about 10 minutes. Stir in lime juice.",
+        "Make 8 wells in the green base. Crack an egg into each well; sprinkle with salt and pepper. Cover and cook 3-5 minutes over low heat until whites are set and yolks runny (longer if desired firmer).",
+        "While eggs cook, add remaining 3 tbsp oil to a small frying pan over medium-high heat. Once sizzling, add sliced garlic and cook until lightly golden, 1-2 minutes. Remove from heat and stir in Rose Harissa.",
+        "Spoon crispy garlic and harissa mixture all over the eggs. Serve immediately with lime wedges."
+      ],
+      "notes": "Base can be made a day ahead. Serve with warm flatbread and labneh.",
+      "id": "r235",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Roasted Eggplant Salad With Quick Lemon Paste and Quick-Pickled Chilies",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "20 min",
+      "cookTime": "40 min",
+      "ingredients": [
+        {
+          "name": "1\u00be tbsp Quick Lemon Paste",
+          "qty": 1.75,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "2 tbsp Quick-Pickled Chilies",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "20 g pistachios, lightly toasted and roughly chopped",
+          "qty": 20,
+          "unit": "g",
+          "pantryKey": "pistachios"
+        },
+        {
+          "name": "2 lbs large Italian eggplants (about 3), trimmed and cut into 1-inch-thick rounds",
+          "qty": 2,
+          "unit": "lbs",
+          "pantryKey": "eggplant"
+        },
+        {
+          "name": "10 tbsp olive oil, divided",
+          "qty": 10,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "10 g dill, roughly chopped",
+          "qty": 10,
+          "unit": "g",
+          "pantryKey": "dill"
+        },
+        {
+          "name": "5 g parsley, roughly chopped",
+          "qty": 5,
+          "unit": "g",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "10 g basil leaves, roughly chopped",
+          "qty": 10,
+          "unit": "g",
+          "pantryKey": "basil"
+        },
+        {
+          "name": "1\u00bd tsp maple syrup",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "maple-syrup"
+        }
+      ],
+      "instructions": [
+        "Make the Quick Lemon Paste and Quick-Pickled Chilies.",
+        "Preheat oven to 180\u00b0C/350\u00b0F. Lightly toast pistachios about 6 minutes. Set aside.",
+        "Raise oven temperature to 200\u00b0C/400\u00b0F.",
+        "Toss eggplants in a large bowl with 4 tbsp oil, \u00be tsp salt, and pepper. Spread in a single layer on a parchment-lined baking tray. Roast, turning halfway, until deeply golden and cooked through, 30-35 minutes. Cool.",
+        "In a large bowl, mix dill, parsley, basil, Quick Lemon Paste, maple syrup, a pinch of salt, and remaining 6 tbsp oil. Add cooled eggplant and toss until well coated.",
+        "Arrange eggplant on a plate and top with Quick-Pickled Chilies and chopped pistachios."
+      ],
+      "notes": null,
+      "id": "r236",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Grilled Carrots With Labneh and Dukkah",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "20 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "name": "400 g labneh",
+          "qty": 400,
+          "unit": "g",
+          "pantryKey": null
+        },
+        {
+          "name": "3 tbsp dukkah",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "2 lbs carrots, with greens",
+          "qty": 2,
+          "unit": "lbs",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "40 g tarragon, roughly chopped",
+          "qty": 40,
+          "unit": "g",
+          "pantryKey": "tarragon"
+        },
+        {
+          "name": "8 tbsp olive oil, plus 2 tsp olive oil",
+          "qty": 8,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "3 tbsp runny honey",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "honey"
+        },
+        {
+          "name": "1\u00bd tbsp apple cider vinegar",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "apple-cider-vinegar"
+        }
+      ],
+      "instructions": [
+        "Make labneh 12-48 hours ahead. Make dukkah.",
+        "Wash and peel carrots; trim tops leaving 1 inch of green. Steam over boiling water until thickest part is easily pierced, about 10 minutes.",
+        "Make tarragon oil: blitz tarragon, 6 tbsp + 2 tsp oil, and a pinch of salt in a food processor until smooth, 2-3 minutes.",
+        "Toss steamed carrots with remaining 2 tbsp olive oil, \u00bd tsp salt, and pepper.",
+        "Place grill pan over high heat. Once smoking, grill carrots in batches, turning until lightly charred on all sides, 6-8 minutes.",
+        "Whisk honey and apple cider vinegar with a pinch of salt and pepper. Toss with grilled carrots.",
+        "Spread labneh onto a large platter with a well in the middle. Drizzle with tarragon oil, add carrots. Spoon dukkah over the carrots and serve more alongside. Drizzle with more tarragon oil."
+      ],
+      "notes": null,
+      "id": "r237",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Smacked Cucumber Salad With Sumac-Pickled Onions",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "30 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "\u00bd cup Sumac-Pickled Onions",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "1 tsp white sesame seeds, toasted",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "1 lb Lebanese or Persian cucumbers (about 6-8)",
+          "qty": 1,
+          "unit": "lbs",
+          "pantryKey": "persian-cucumbers"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "20 g parsley leaves",
+          "qty": 20,
+          "unit": "g",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "1 garlic clove, finely chopped",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "5 tbsp olive oil",
+          "qty": 5,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Make the Sumac-Pickled Onions.",
+        "Toast sesame seeds in a medium frying pan over medium-high heat for 3-4 minutes. Set aside.",
+        "Trim tops and bottoms of cucumbers. Smack with the side of a knife until slightly bruised and breaking apart. Scoop seeds out and discard. Roughly chop into 1-inch pieces.",
+        "Transfer cucumbers to a bowl, season with 1 tsp salt, toss, and set aside 30 minutes. Drain through a fine-mesh strainer.",
+        "Meanwhile, make parsley oil: blitz parsley, garlic, \u00bc tsp salt, and olive oil in a food processor until smooth.",
+        "Add drained cucumbers, Sumac-Pickled Onions, and a few tbsp parsley oil to a bowl; toss to combine. Transfer to a serving plate and sprinkle with sesame seeds."
+      ],
+      "notes": "Leftover parsley oil keeps refrigerated up to 3 days.",
+      "id": "r238",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Mafalda Pasta With Quick Shatta",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Middle Eastern",
+        "Mediterranean"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "20 min",
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "4 tbsp Quick Shatta, plus extra to eat alongside",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "1 butternut squash (2 lbs), peeled, seeded, cut into 1-inch cubes",
+          "qty": 2,
+          "unit": "lbs",
+          "pantryKey": "butternut-squash"
+        },
+        {
+          "name": "1 onion, peeled and roughly chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "yellow-onion"
+        },
+        {
+          "name": "7 tbsp olive oil, divided",
+          "qty": 7,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "6 garlic cloves, thinly sliced",
+          "qty": 6,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "500 g full-fat Greek yogurt, at room temperature",
+          "qty": 500,
+          "unit": "g",
+          "pantryKey": "greek-yogurt"
+        },
+        {
+          "name": "1\u00bc tsp ground cumin",
+          "qty": 1.25,
+          "unit": "tsp",
+          "pantryKey": "ground-cumin"
+        },
+        {
+          "name": "1\u00bd tsp cornstarch",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "cornstarch"
+        },
+        {
+          "name": "2 egg yolks",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "200 g mafalda or farfalle pasta",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "mafalda-pasta"
+        },
+        {
+          "name": "5 g parsley leaves, roughly chopped, plus extra for garnish",
+          "qty": 5,
+          "unit": "g",
+          "pantryKey": "parsley"
+        }
+      ],
+      "instructions": [
+        "Make the Quick Shatta.",
+        "Preheat oven to 230\u00b0C/450\u00b0F. Toss squash, onion, 3 tbsp oil, \u00be tsp salt, and pepper on a parchment-lined baking sheet. Roast, stirring halfway, until softened and charred, about 30 minutes.",
+        "Make fried garlic oil: add sliced garlic and 2 tbsp oil to a small pan off the heat, then place over medium heat. Cook gently until garlic is deeply golden and crispy, stirring occasionally, about 12 minutes. Set aside.",
+        "In a bowl, combine yogurt, cumin, cornstarch, egg yolks, 1 tbsp oil, and a pinch of salt. Pour into a large saut\u00e9 pan over medium-low heat. Cook, stirring often, until thickened and just bubbling, about 15 minutes.",
+        "Bring a large pot of salted water to a boil. Cook pasta until almost al dente, ~6 minutes. Reserve 1 cup pasta water. Transfer pasta to yogurt sauce with reserved water; stir until smooth and creamy.",
+        "Stir in half the roasted squash and onion; taste for seasoning. Spoon remaining squash over the top.",
+        "Drizzle with shatta to taste; top with fried garlic oil. Sprinkle with parsley and remaining 1 tbsp olive oil."
+      ],
+      "notes": "Don't mix cold yogurt with hot sauces too quickly or it may split \u2014 egg yolks and cornstarch stabilize.",
+      "id": "r239",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Roasted Cauliflower With Harissa Chili Oil",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner",
+        "side"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": "20 min",
+      "cookTime": "60 min",
+      "ingredients": [
+        {
+          "name": "2 large whole cauliflower with leaves (about 4 lbs)",
+          "qty": 4,
+          "unit": "lbs",
+          "pantryKey": "cauliflower"
+        },
+        {
+          "name": "360 g onion (1 large), peeled and cut into 8 wedges",
+          "qty": 360,
+          "unit": "g",
+          "pantryKey": "yellow-onion"
+        },
+        {
+          "name": "8 Fresno chilies, stems on, slit down the center",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "fresno-chili"
+        },
+        {
+          "name": "5 g picked cilantro",
+          "qty": 5,
+          "unit": "g",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "1 lemon, cut into wedges",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "90 g Rose Harissa",
+          "qty": 90,
+          "unit": "g",
+          "pantryKey": null
+        },
+        {
+          "name": "2\u00bd tsp tomato paste",
+          "qty": 2.5,
+          "unit": "tsp",
+          "pantryKey": "tomato-paste"
+        },
+        {
+          "name": "2 tsp Aleppo chili",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "aleppo-pepper"
+        },
+        {
+          "name": "1\u00bd tsp granulated sugar",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "3 garlic cloves, crushed",
+          "qty": 3,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "15 tbsp olive oil, plus 1 tsp olive oil",
+          "qty": 15,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Trim leaves at top of the cauliflower, exposing 2-3 inches of the head. Cut each cauliflower into quarters, keeping leaves attached at the base.",
+        "Fill a large pot with well-salted water; boil. Blanch cauliflower 2 minutes, weighting down with a lid. Transfer to a parchment-lined baking sheet. Add onion and Fresno chilies.",
+        "Preheat oven to 180\u00b0C/350\u00b0F. Make Rose Harissa.",
+        "Make chili oil: whisk Rose Harissa, tomato paste, Aleppo chili, sugar, garlic, salt, and olive oil.",
+        "Pour chili oil over cauliflower, onions, and Fresno chilies. Toss well (wear gloves), massaging chili oil into the crevasses.",
+        "Roast until cauliflower is golden brown and crispy, 45-60 minutes. Baste vegetables with chili oil 2-3 times during cooking.",
+        "Transfer to a serving platter, spoon over remaining chili oil and solids. Garnish with cilantro and lemon. Serve immediately."
+      ],
+      "notes": "Chili oil keeps refrigerated up to 2 weeks. Optional: add unsalted butter to the sauce for non-vegan richness.",
+      "id": "r240",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Salmon and Prawns in Spicy Tomato Sauce",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Middle Eastern"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "20 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "name": "\u00be cup Tahini Sauce",
+          "qty": 0.75,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "9 tbsp olive oil, divided, plus 1 tsp olive oil",
+          "qty": 9,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "7 garlic cloves, 6 thinly sliced and 1 crushed",
+          "qty": 7,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "25 g (about 2) Fresno chilies, thinly sliced",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "fresno-chili"
+        },
+        {
+          "name": "15 g (about 1\u00bd) dried ancho or cascabel chilies, stems and seeds removed and very roughly chopped",
+          "qty": 15,
+          "unit": "g",
+          "pantryKey": "ancho-chili"
+        },
+        {
+          "name": "2 tsp caraway seeds",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "caraway-seeds"
+        },
+        {
+          "name": "3 tbsp tomato paste",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "tomato-paste"
+        },
+        {
+          "name": "3 large plum tomatoes, diced",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "1 tsp granulated sugar",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "15 g cilantro, roughly chopped, plus 2 tbsp extra to serve",
+          "qty": 15,
+          "unit": "g",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "1 2\u00bd lb side of salmon, skin and pin bones removed",
+          "qty": 2.5,
+          "unit": "lbs",
+          "pantryKey": "salmon"
+        },
+        {
+          "name": "300 g peeled extra-large shrimp",
+          "qty": 300,
+          "unit": "g",
+          "pantryKey": "shrimp"
+        },
+        {
+          "name": "\u00bd tsp paprika",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "paprika"
+        }
+      ],
+      "instructions": [
+        "Make the Tahini Sauce.",
+        "Add 4 tbsp oil to a large saut\u00e9 pan over medium-high heat. Once hot, add sliced garlic and Fresno chilies; cook until fragrant and lightly colored, about 3 minutes. Add ancho/cascabel chilies, caraway seeds, and tomato paste. Cook, stirring, until tomato paste is deep red, about 1 minute.",
+        "Add fresh tomatoes, sugar, 1 cup water, and 1\u00bd tsp salt. Bring to a simmer, lower heat to medium-low and cook, stirring occasionally, until tomatoes break down and sauce thickens slightly, about 12 minutes. Stir in cilantro, reserving about 1 tbsp for finishing oil.",
+        "Preheat oven to 220\u00b0C/400\u00b0F.",
+        "Season salmon with 1 tbsp oil and \u00be tsp salt. Season shrimp with 1 tbsp oil and \u00bc tsp salt.",
+        "Transfer tomato sauce to a roasting tray. Place salmon skin-side down on top, tucking the tail underneath. Roast 10 minutes, then remove and nestle shrimp into the sauce, avoiding the top of the salmon. Return to oven until shrimp are just cooked, 3-5 minutes.",
+        "Make paprika oil: heat remaining 3 tbsp oil with crushed garlic and paprika in a small frying pan over medium-high until just bubbling and fragrant, 1-2 minutes. Remove from heat and stir in remaining cilantro.",
+        "Drizzle salmon generously with Tahini Sauce. Spoon paprika oil over top with a final drizzle of olive oil. Serve warm with extra tahini on the side."
+      ],
+      "notes": "Sauce inspired by Tunisian/Libyan chreime, with a nod to prawns saganaki. Salmon can be swapped for trout or cod.",
+      "id": "r241",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Celebration Rice With Saffron and Sweet Spiced Lamb",
+      "source": "Yotam Ottolenghi MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Middle Eastern",
+        "Iranian"
+      ],
+      "protein": [
+        "lamb"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 7,
+      "prepTime": "45 min",
+      "cookTime": "240 min",
+      "ingredients": [
+        {
+          "name": "2 lbs boneless lamb necks (about 4 pieces)",
+          "qty": 2,
+          "unit": "lbs",
+          "pantryKey": "lamb-neck"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "2 tbsp olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "6 garlic cloves, peeled and roughly chopped",
+          "qty": 6,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "50 g ginger, peeled and roughly chopped",
+          "qty": 50,
+          "unit": "g",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "3 vine tomatoes, roughly chopped",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "1 white onion, peeled and roughly chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "yellow-onion"
+        },
+        {
+          "name": "2 jalape\u00f1os, roughly chopped",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "jalapeno"
+        },
+        {
+          "name": "20 g cilantro leaves and stalks, plus 5 g extra, chopped",
+          "qty": 20,
+          "unit": "g",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "1 tbsp ground cumin",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "ground-cumin"
+        },
+        {
+          "name": "1 tbsp ground cinnamon",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "ground-cinnamon"
+        },
+        {
+          "name": "1\u00bd tsp ground allspice",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "allspice"
+        },
+        {
+          "name": "150 g Greek-style yogurt, at room temperature",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "greek-yogurt"
+        },
+        {
+          "name": "5 g parsley, roughly chopped",
+          "qty": 5,
+          "unit": "g",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "\u00bc tsp Saffron Water",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": null
+        },
+        {
+          "name": "30 g unsalted butter (for rice)",
+          "qty": 30,
+          "unit": "g",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "5 whole cloves",
+          "qty": 5,
+          "unit": "",
+          "pantryKey": "cloves"
+        },
+        {
+          "name": "3 whole cinnamon sticks",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "cinnamon-sticks"
+        },
+        {
+          "name": "400 g basmati rice, washed and soaked 30 minutes to overnight",
+          "qty": 400,
+          "unit": "g",
+          "pantryKey": "basmati-rice"
+        },
+        {
+          "name": "60 g golden raisins",
+          "qty": 60,
+          "unit": "g",
+          "pantryKey": "raisins"
+        },
+        {
+          "name": "20 g barberries",
+          "qty": 20,
+          "unit": "g",
+          "pantryKey": "barberries"
+        },
+        {
+          "name": "2\u00bd tbsp apple cider vinegar",
+          "qty": 2.5,
+          "unit": "tbsp",
+          "pantryKey": "apple-cider-vinegar"
+        },
+        {
+          "name": "30 g unsalted butter (for garnish)",
+          "qty": 30,
+          "unit": "g",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "80 g blanched slivered almonds",
+          "qty": 80,
+          "unit": "g",
+          "pantryKey": "almonds"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 165\u00b0C/330\u00b0F. Pat lamb dry, season with \u00bd tsp salt and pepper. Heat oil in a large ovenproof saucepan or Dutch oven over medium-high; sear lamb until golden all over, ~10 minutes.",
+        "Blitz garlic, ginger, tomatoes, onion, jalape\u00f1os, and cilantro in a food processor until finely chopped.",
+        "Transfer lamb to a plate. Add the garlic-ginger mixture to the pan; cook over medium heat until fragrant and lightly colored, about 8 minutes. Add cumin, cinnamon, and allspice; cook 30 seconds. Return lamb with 4\u00bd cups water, 1\u00bd tsp salt, and pepper. Bring to a boil, cover, transfer to oven. Cook until tender, about 3 hours.",
+        "Uncover lamb, baste with juices, return to oven 30 more minutes (baste once halfway). Remove.",
+        "Make Saffron Water. In a large saut\u00e9 pan over medium heat, melt 30 g butter with cloves and cinnamon sticks. Drain rice and add, stirring to coat. Add 3 cups boiling water and 1 tsp salt. Bring to a boil, cover tightly, lowest heat, undisturbed 15 minutes. Off heat, covered, rest 15 minutes.",
+        "Garnish: soak raisins, barberries, and cider vinegar at least 15 minutes. Melt 30 g butter in a frying pan over medium-high; add almonds and pinch of salt; cook until golden, 3-4 minutes. Off heat, stir in raisin mixture, cilantro, and parsley.",
+        "Stir saffron threads and soaking liquid gently into rice to leave streaks of yellow.",
+        "Transfer lamb and \u2154 of sauce to a bowl; shred into large pieces and remove bones. Whisk yogurt, parsley, and extra cilantro into remaining sauce in pan; transfer to a medium bowl.",
+        "Layer half the rice on a serving platter, top with half the lamb mixture. Repeat with remaining rice and lamb. Spoon nut garnish over. Serve with extra yogurt gravy alongside."
+      ],
+      "notes": "Yotam's take on Iranian jeweled rice. Lamb neck can be swapped for shoulder, or pork shoulder.",
+      "id": "r242",
+      "dateAdded": "2026-06-13"
     }
   ],
   "pantryItems": [
@@ -23116,6 +25273,176 @@
       "key": "arborio-rice",
       "name": "Risotto Rice",
       "category": "grain"
+    },
+    {
+      "key": "chipotle-chili-flakes",
+      "name": "Chipotle Chili Flakes",
+      "category": "spice"
+    },
+    {
+      "key": "coriander-seeds",
+      "name": "Coriander Seeds",
+      "category": "spice"
+    },
+    {
+      "key": "cumin-seeds",
+      "name": "Cumin Seeds",
+      "category": "spice"
+    },
+    {
+      "key": "sumac",
+      "name": "Sumac",
+      "category": "spice"
+    },
+    {
+      "key": "zaatar",
+      "name": "Za'atar",
+      "category": "spice"
+    },
+    {
+      "key": "saffron",
+      "name": "Saffron Threads",
+      "category": "spice"
+    },
+    {
+      "key": "dried-rose-petals",
+      "name": "Dried Rose Petals",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "rosewater",
+      "name": "Rosewater",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "kashmiri-chili",
+      "name": "Kashmiri Chilies (dried)",
+      "category": "spice"
+    },
+    {
+      "key": "ancho-chili",
+      "name": "Ancho Chilies (dried)",
+      "category": "spice"
+    },
+    {
+      "key": "guajillo-chili",
+      "name": "Guajillo Chilies (dried)",
+      "category": "spice"
+    },
+    {
+      "key": "cascabel-chili",
+      "name": "Cascabel Chilies (dried)",
+      "category": "spice"
+    },
+    {
+      "key": "caraway-seeds",
+      "name": "Caraway Seeds",
+      "category": "spice"
+    },
+    {
+      "key": "kashmiri-chili-powder",
+      "name": "Kashmiri Chili Powder",
+      "category": "spice"
+    },
+    {
+      "key": "pomegranate-molasses",
+      "name": "Pomegranate Molasses",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "pomegranate-seeds",
+      "name": "Pomegranate Seeds",
+      "category": "produce"
+    },
+    {
+      "key": "lebanese-cucumbers",
+      "name": "Lebanese Cucumbers",
+      "category": "produce"
+    },
+    {
+      "key": "butternut-squash",
+      "name": "Butternut Squash",
+      "category": "produce"
+    },
+    {
+      "key": "mafalda-pasta",
+      "name": "Mafalda Pasta",
+      "category": "grain"
+    },
+    {
+      "key": "aleppo-pepper",
+      "name": "Aleppo Pepper",
+      "category": "spice"
+    },
+    {
+      "key": "lamb-neck",
+      "name": "Lamb Neck",
+      "category": "protein"
+    },
+    {
+      "key": "barberries",
+      "name": "Barberries",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "basmati-rice",
+      "name": "Basmati Rice",
+      "category": "grain"
+    },
+    {
+      "key": "cloves",
+      "name": "Whole Cloves",
+      "category": "spice"
+    },
+    {
+      "key": "cinnamon-sticks",
+      "name": "Cinnamon Sticks",
+      "category": "spice"
+    },
+    {
+      "key": "ground-cinnamon",
+      "name": "Ground Cinnamon",
+      "category": "spice"
+    },
+    {
+      "key": "ground-cumin",
+      "name": "Ground Cumin",
+      "category": "spice"
+    },
+    {
+      "key": "turmeric",
+      "name": "Ground Turmeric",
+      "category": "spice"
+    },
+    {
+      "key": "pita",
+      "name": "Pita Bread",
+      "category": "grain"
+    },
+    {
+      "key": "blackberries",
+      "name": "Blackberries",
+      "category": "produce"
+    },
+    {
+      "key": "raspberries",
+      "name": "Raspberries",
+      "category": "produce"
+    },
+    {
+      "key": "cherries",
+      "name": "Cherries",
+      "category": "produce"
+    },
+    {
+      "key": "lemon-thyme",
+      "name": "Lemon Thyme",
+      "category": "produce"
+    },
+    {
+      "key": "full-fat-yogurt",
+      "name": "Full-Fat Yogurt",
+      "category": "dairy"
     }
   ],
   "pantryState": {}
