@@ -1,13 +1,13 @@
 {
   "meta": {
     "lastUpdated": "2026-06-13",
-    "recipeCount": 128
+    "recipeCount": 133
   },
   "recipes": [
     {
       "id": "r001",
       "name": "Beef Stroganoff 1",
-      "source": "Community cookbook — Mrs. Mac Pike (Tish)",
+      "source": "Community cookbook \u2014 Mrs. Mac Pike (Tish)",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
       "mealType": [
@@ -58,7 +58,7 @@
           "pantryKey": "butter"
         },
         {
-          "name": "beef bouillon (10½ oz cans)",
+          "name": "beef bouillon (10\u00bd oz cans)",
           "qty": 4,
           "unit": "",
           "pantryKey": "beef-bouillon"
@@ -89,17 +89,17 @@
         }
       ],
       "instructions": [
-        "Slice meat into thin strips about 1½ inches wide and 2-3 inches long. Sprinkle lightly with tenderizer, toss and refrigerate.",
-        "Cut off mushroom stems even with the caps and slice mushrooms. Sauté ¼ of the onions in 3 Tbs. butter until almost clear, but not brown. Add ¼ of the mushrooms and sauté until just tender. Remove to a 12 quart enamel roasting pan.",
-        "Sauté remaining onions and mushrooms in same manner, i.e., in four batches. You may need to add a little butter each time.",
+        "Slice meat into thin strips about 1\u00bd inches wide and 2-3 inches long. Sprinkle lightly with tenderizer, toss and refrigerate.",
+        "Cut off mushroom stems even with the caps and slice mushrooms. Saut\u00e9 \u00bc of the onions in 3 Tbs. butter until almost clear, but not brown. Add \u00bc of the mushrooms and saut\u00e9 until just tender. Remove to a 12 quart enamel roasting pan.",
+        "Saut\u00e9 remaining onions and mushrooms in same manner, i.e., in four batches. You may need to add a little butter each time.",
         "In same skillet in which vegetables have been cooked, brown meat a little at a time with a minimum of butter, removing it to the roasting pan as it browns.",
         "Put in 2 cans of bouillon and the flour in a blender and blend until smooth. Set aside.",
         "Pour remaining cans of bouillon into skillet and stir and scrape to deglaze the pan. Add bouillon and flour mixture, stirring as you add to keep smooth.",
         "Add tomato juice and Rhine wine. Pour over the meat and vegetables in roasting pan. Season to taste.",
-        "About 1½ hours before serving, place in a 375 degree oven and bring to a simmer, stirring occasionally.",
+        "About 1\u00bd hours before serving, place in a 375 degree oven and bring to a simmer, stirring occasionally.",
         "Just before serving, add sour cream and a splash of Rhine wine. Serve with buttered noodles or long grain and wild rice."
       ],
-      "notes": "Can easily be halved. Great recipe for a crowd. 375°F oven, 12 quart enamel roasting pan."
+      "notes": "Can easily be halved. Great recipe for a crowd. 375\u00b0F oven, 12 quart enamel roasting pan."
     },
     {
       "id": "r002",
@@ -143,7 +143,7 @@
           "pantryKey": "butter"
         },
         {
-          "name": "round steak (¼ to ½\" thick)",
+          "name": "round steak (\u00bc to \u00bd\" thick)",
           "qty": 2,
           "unit": "lbs",
           "pantryKey": "round-steak"
@@ -155,7 +155,7 @@
           "pantryKey": "salt"
         },
         {
-          "name": "bouillon or consommé (10½ oz can), diluted to make 2 cups",
+          "name": "bouillon or consomm\u00e9 (10\u00bd oz can), diluted to make 2 cups",
           "qty": 1,
           "unit": "",
           "pantryKey": "beef-bouillon"
@@ -168,13 +168,13 @@
         }
       ],
       "instructions": [
-        "Sauté mushrooms and onion in 2 tbsp. butter and remove from pan.",
-        "Remove fat and bone from steak. Cut into strips 2½\" long and ¾\" wide.",
+        "Saut\u00e9 mushrooms and onion in 2 tbsp. butter and remove from pan.",
+        "Remove fat and bone from steak. Cut into strips 2\u00bd\" long and \u00be\" wide.",
         "Melt additional 2 tbsp. butter in pan. Toss strips of meat in flour, coating thoroughly. Brown meat in butter.",
-        "Add salt and bouillon-water mixture. Simmer, stirring occasionally, until meat is tender, about 1¼ hours.",
+        "Add salt and bouillon-water mixture. Simmer, stirring occasionally, until meat is tender, about 1\u00bc hours.",
         "Add mushrooms, onions and sour cream; heat. Serve over noodles or rice."
       ],
-      "notes": "Uses round steak — more economical cut. Simple, classic version."
+      "notes": "Uses round steak \u2014 more economical cut. Simple, classic version."
     },
     {
       "id": "r003",
@@ -200,7 +200,7 @@
       "cookTime": "30 min",
       "ingredients": [
         {
-          "name": "beef tenderloin or boneless top loin steak (½ inch thick)",
+          "name": "beef tenderloin or boneless top loin steak (\u00bd inch thick)",
           "qty": 1.5,
           "unit": "lbs",
           "pantryKey": "beef-tenderloin"
@@ -242,7 +242,7 @@
           "pantryKey": "mushrooms"
         },
         {
-          "name": "medium onion, chopped (½ cup)",
+          "name": "medium onion, chopped (\u00bd cup)",
           "qty": 1,
           "unit": "",
           "pantryKey": "onions"
@@ -261,9 +261,9 @@
         }
       ],
       "instructions": [
-        "Cut beef across grain into about 1½ x ½ inch strips. (Beef is easier to cut if partially frozen, about 1 hour.)",
+        "Cut beef across grain into about 1\u00bd x \u00bd inch strips. (Beef is easier to cut if partially frozen, about 1 hour.)",
         "Melt margarine in 10-inch skillet over medium-high heat. Cook beef in margarine, stirring occasionally, until brown.",
-        "Reserve ⅓ cup of the broth. Stir remaining broth, the ketchup, salt and garlic into skillet. Heat to boiling; reduce heat to low. Cover and simmer about 10 minutes or until beef is tender.",
+        "Reserve \u2153 cup of the broth. Stir remaining broth, the ketchup, salt and garlic into skillet. Heat to boiling; reduce heat to low. Cover and simmer about 10 minutes or until beef is tender.",
         "Stir in mushrooms and onion. Cover and simmer about 5 minutes or until onion is tender.",
         "Shake reserved broth and the flour in tightly covered container; gradually stir into beef mixture. Heat to boiling, stirring constantly. Boil and stir 1 minute; reduce heat to low.",
         "Stir in sour cream; cook until hot. Serve over noodles."
@@ -273,7 +273,7 @@
     {
       "id": "r004",
       "name": "Beef and Beer Stew",
-      "source": "Community cookbook — Mrs. Morgan Talbot (Jane)",
+      "source": "Community cookbook \u2014 Mrs. Morgan Talbot (Jane)",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
       "mealType": [
@@ -384,15 +384,15 @@
         }
       ],
       "instructions": [
-        "In large bowl combine flour, 2½ tsp. salt, and pepper. Add chuck, tossing to coat. Set aside.",
-        "Heat ¼ cup oil in 4 quart Dutch oven or kettle. In oil, sauté onion and garlic until tender, 8 to 10 minutes. Remove from Dutch oven.",
+        "In large bowl combine flour, 2\u00bd tsp. salt, and pepper. Add chuck, tossing to coat. Set aside.",
+        "Heat \u00bc cup oil in 4 quart Dutch oven or kettle. In oil, saut\u00e9 onion and garlic until tender, 8 to 10 minutes. Remove from Dutch oven.",
         "Heat remaining oil. Add chuck, brown well on all sides.",
         "Return onion and garlic to Dutch oven, along with beer, soy sauce, Worcestershire sauce, steak sauce, bay leaves, and thyme. Mix well. Bring mixture to boiling.",
         "Reduce heat; simmer, covered 2 hours or until meat is tender.",
         "Meanwhile, pare potatoes, cut into quarters. Add potatoes and 1 tsp. salt to 1 inch boiling water; simmer, covered 20 minutes or until potatoes are tender.",
         "Drain potatoes well. Toss with parsley. To serve, turn stew mixture into serving dish. Surround the stew with potatoes."
       ],
-      "notes": "Dutch oven recipe. Low and slow — hearty and rich."
+      "notes": "Dutch oven recipe. Low and slow \u2014 hearty and rich."
     },
     {
       "id": "r005",
@@ -453,13 +453,13 @@
           "pantryKey": "black-pepper"
         },
         {
-          "name": "cream of tomato soup (10¾ oz can)",
+          "name": "cream of tomato soup (10\u00be oz can)",
           "qty": 1,
           "unit": "",
           "pantryKey": "cream-of-tomato-soup"
         },
         {
-          "name": "water (½ soup can)",
+          "name": "water (\u00bd soup can)",
           "qty": 0.5,
           "unit": "cup",
           "pantryKey": "water"
@@ -475,12 +475,12 @@
         "Mix all ingredients together in a large casserole dish and cover tightly.",
         "Put casserole in 275 degree oven. Let cook for 5 hours, without checking."
       ],
-      "notes": "Can also be cooked in a crock pot. 275°F, 2-3 quart casserole dish, covered. True set-it-and-forget-it."
+      "notes": "Can also be cooked in a crock pot. 275\u00b0F, 2-3 quart casserole dish, covered. True set-it-and-forget-it."
     },
     {
       "id": "r006",
       "name": "Jordan Marsh's Blueberry Muffins",
-      "source": "Cookbook — adapted from Marion Cunningham / Bridge Creek Restaurant, Berkeley, CA (1987)",
+      "source": "Cookbook \u2014 adapted from Marion Cunningham / Bridge Creek Restaurant, Berkeley, CA (1987)",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
       "mealType": [
@@ -525,7 +525,7 @@
           "pantryKey": "butter"
         },
         {
-          "name": "sugar (1¼ cups plus 1 tablespoon)",
+          "name": "sugar (1\u00bc cups plus 1 tablespoon)",
           "qty": 1.3,
           "unit": "cups",
           "pantryKey": "sugar"
@@ -551,12 +551,12 @@
       ],
       "instructions": [
         "Heat the oven to 375 degrees. Grease 12 large muffin cups. Sift together the flour, salt, and baking powder.",
-        "Cream the butter and 1¼ cups sugar in a large bowl until light. Add the eggs one at a time, beating well after each addition. Add to the flour mixture alternately with the milk, beating just until smooth.",
-        "Crush ½ cup blueberries with a fork, and mix into the batter. Fold in the remaining whole berries.",
+        "Cream the butter and 1\u00bc cups sugar in a large bowl until light. Add the eggs one at a time, beating well after each addition. Add to the flour mixture alternately with the milk, beating just until smooth.",
+        "Crush \u00bd cup blueberries with a fork, and mix into the batter. Fold in the remaining whole berries.",
         "Fill the muffin cups with batter. Sprinkle the remaining tablespoon of sugar over the tops of the muffins. Bake until a toothpick inserted in the center comes out clean, about 30 minutes. Cool for 30 minutes before removing from the pan.",
-        "Store uncovered, or the muffins will be too moist the second day — if they last that long."
+        "Store uncovered, or the muffins will be too moist the second day \u2014 if they last that long."
       ],
-      "notes": "The trick is crushing some of the blueberries and folding them in — distributes blueberry flavor throughout. Legendary department store recipe from Jordan Marsh in Boston."
+      "notes": "The trick is crushing some of the blueberries and folding them in \u2014 distributes blueberry flavor throughout. Legendary department store recipe from Jordan Marsh in Boston."
     },
     {
       "id": "r007",
@@ -624,7 +624,7 @@
           "pantryKey": "vanilla-extract"
         },
         {
-          "name": "milk (enough to make ½ cup with egg and vanilla)",
+          "name": "milk (enough to make \u00bd cup with egg and vanilla)",
           "qty": 0.33,
           "unit": "cup",
           "pantryKey": "milk"
@@ -655,21 +655,21 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 425°. If the fruit used is very juicy, reduce the liquid in the dough by at least 1 tablespoon.",
-        "Sift before measuring: 1 cup all-purpose flour. Resift with baking powder, ¼ tsp salt, and 2 tbsp sugar.",
-        "Add 1½ to 3 tablespoons butter. Work these ingredients like pastry.",
-        "Beat well in a measuring cup: 1 egg and ½ tsp vanilla. Add enough milk to make a ½-cup mixture.",
+        "Preheat oven to 425\u00b0. If the fruit used is very juicy, reduce the liquid in the dough by at least 1 tablespoon.",
+        "Sift before measuring: 1 cup all-purpose flour. Resift with baking powder, \u00bc tsp salt, and 2 tbsp sugar.",
+        "Add 1\u00bd to 3 tablespoons butter. Work these ingredients like pastry.",
+        "Beat well in a measuring cup: 1 egg and \u00bd tsp vanilla. Add enough milk to make a \u00bd-cup mixture.",
         "Combine with the flour and butter to make a stiff dough. Pat the dough into the pan with a floured palm or spread with a spoon, then distribute evenly by pushing with the fruit sections as you place them closely in overlapping rows.",
         "Arrange 3 to 4 cups sliced fruit in overlapping rows on the dough.",
         "Sprinkle with a mixture of about 1 cup sugar, 2 teaspoons cinnamon, and 3 tablespoons melted butter.",
         "Bake about 25 minutes."
       ],
-      "notes": "Joy of Cooking classic — 'Cockaigne' denotes a personal favorite of the authors. Works with apples, peaches, or plums. 9x9x2½ inch pan."
+      "notes": "Joy of Cooking classic \u2014 'Cockaigne' denotes a personal favorite of the authors. Works with apples, peaches, or plums. 9x9x2\u00bd inch pan."
     },
     {
       "id": "r008",
       "name": "Swedish Meatballs",
-      "source": "Social media — Swedish grandma's recipe",
+      "source": "Social media \u2014 Swedish grandma's recipe",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
       "mealType": [
@@ -742,12 +742,12 @@
         "Grab a pinch of the mixture and roll it until it resembles a meatball. Repeat until you've used all the mixture.",
         "Put them in a frying pan on medium heat, fry evenly until cooked through."
       ],
-      "notes": "Grandma didn't write down spice measurements — start small, make one and taste it, adjust from there. Tip: wet your hands when rolling and they won't stick. 500g ≈ 1.1 lbs."
+      "notes": "Grandma didn't write down spice measurements \u2014 start small, make one and taste it, adjust from there. Tip: wet your hands when rolling and they won't stick. 500g \u2248 1.1 lbs."
     },
     {
       "id": "r009",
       "name": "Elizabeth Frink's Roast Lemon Chicken",
-      "source": "NYT Cookbook — from The Artists' and Writers' Cookbook",
+      "source": "NYT Cookbook \u2014 from The Artists' and Writers' Cookbook",
       "sourceUrl": null,
       "dateAdded": "2026-04-02",
       "mealType": [
@@ -820,12 +820,12 @@
         "Heat the oven to 325 degrees. Place the chicken in a large baking dish and season inside and out with salt and pepper.",
         "Remove the skin from 1 lemon in strips with a vegetable peeler, and rub the skin over the outside of the chicken. Quarter the lemon and squeeze the juice over and into the chicken. Put the lemon pieces and garlic cloves inside the cavity.",
         "Melt the butter with the olive oil in a small pan. Pour about one-third of the butter mixture inside the chicken. Tie the legs together with kitchen string. Pour the remaining butter and oil over the chicken. Re-season the top.",
-        "Roast the chicken for 1½ hours, or until an instant-read thermometer in the thickest part of the leg registers 165 degrees, basting every 15 minutes with the pan juices.",
+        "Roast the chicken for 1\u00bd hours, or until an instant-read thermometer in the thickest part of the leg registers 165 degrees, basting every 15 minutes with the pan juices.",
         "Half an hour before the chicken is done, pour the juice from the second lemon over the chicken and sprinkle with the parsley.",
-        "Transfer the chicken to a cutting board to sit for 15 minutes before carving. Pour ½ cup water or broth into the roasting pan and place it over high heat. Scrape up the pan drippings with a wooden spoon. Reduce the pan juices to the desired consistency, and season to taste.",
+        "Transfer the chicken to a cutting board to sit for 15 minutes before carving. Pour \u00bd cup water or broth into the roasting pan and place it over high heat. Scrape up the pan drippings with a wooden spoon. Reduce the pan juices to the desired consistency, and season to taste.",
         "Carve and serve the chicken, passing the sauce on the side."
       ],
-      "notes": "The technique is all about repetitions of lemon — peel on skin, juice over, pieces in cavity, second lemon 30 min before done. Great cold too — makes excellent sandwiches on brioche."
+      "notes": "The technique is all about repetitions of lemon \u2014 peel on skin, juice over, pieces in cavity, second lemon 30 min before done. Great cold too \u2014 makes excellent sandwiches on brioche."
     },
     {
       "id": "r010",
@@ -851,7 +851,7 @@
       "cookTime": "20 min",
       "ingredients": [
         {
-          "name": "broccoli, cut into 1½ to 2-inch florets, stems sliced ¼-inch thick",
+          "name": "broccoli, cut into 1\u00bd to 2-inch florets, stems sliced \u00bc-inch thick",
           "qty": 1.5,
           "unit": "lbs",
           "pantryKey": "broccoli"
@@ -1108,7 +1108,7 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 375°F and line a baking sheet with parchment paper.",
+        "Preheat oven to 375\u00b0F and line a baking sheet with parchment paper.",
         "Slice sweet potatoes into small wedges and place on baking sheet. Drizzle with 1 tbsp olive oil, toss to coat. Sprinkle with cumin, Italian seasoning, salt, and pepper; toss again.",
         "Bake sweet potatoes for 45-55 minutes total.",
         "While sweet potatoes bake, cook lentils: bring 3 cups water to boil, add lentils, reduce to simmer, cook covered 4 minutes. Remove from heat and leave covered 2-3 more minutes. Drain.",
@@ -1336,15 +1336,15 @@
         }
       ],
       "instructions": [
-        "Cook spaghetti squash: pierce squash several times with a knife, place on a microwave-safe plate, and microwave on high 8-12 minutes until tender. Let cool. (Alternative: roast at 350°F for 45-60 min cut-side down.)",
-        "Season chicken with salt, pepper, and Italian seasoning. Melt 1 tbsp butter in a large skillet over medium-high heat. Add chicken and cook 5-7 minutes until golden and cooked through (165°F internal temp). Remove to a plate.",
+        "Cook spaghetti squash: pierce squash several times with a knife, place on a microwave-safe plate, and microwave on high 8-12 minutes until tender. Let cool. (Alternative: roast at 350\u00b0F for 45-60 min cut-side down.)",
+        "Season chicken with salt, pepper, and Italian seasoning. Melt 1 tbsp butter in a large skillet over medium-high heat. Add chicken and cook 5-7 minutes until golden and cooked through (165\u00b0F internal temp). Remove to a plate.",
         "Reduce heat to medium. Add remaining 1 tbsp butter to pan. Add shallot and garlic; cook until softened, about 2-3 minutes.",
         "Add sun-dried tomatoes and heavy cream. Bring to a simmer.",
         "Turn off heat. Stir in Parmesan cheese and spinach until wilted. Add chicken and any accumulated juices back to the pan.",
         "Cut cooled squash in half lengthwise, remove seeds, and scrape out strands with a fork. Stir squash into cream sauce until evenly coated.",
         "Garnish with fresh parsley if desired and serve immediately."
       ],
-      "notes": "Low carb and gluten free. Spaghetti squash can be cooked ahead of time and reheated. Look for julienne-cut sun-dried tomatoes at the store to save prep time. Recipe assembled from Punchfork and search snippets — original page had a fetch error."
+      "notes": "Low carb and gluten free. Spaghetti squash can be cooked ahead of time and reheated. Look for julienne-cut sun-dried tomatoes at the store to save prep time. Recipe assembled from Punchfork and search snippets \u2014 original page had a fetch error."
     },
     {
       "id": "r015",
@@ -1438,15 +1438,15 @@
         }
       ],
       "instructions": [
-        "Position a rack in the center of the oven and heat to 400°F.",
+        "Position a rack in the center of the oven and heat to 400\u00b0F.",
         "Trim cauliflower stem flush with the head so it sits flat.",
         "Heat a 10-inch cast-iron or heavy ovenproof skillet over medium heat. Add 1 tbsp olive oil, onions, and 1/4 tsp salt. Cook, stirring, until translucent and golden at edges, 7-10 minutes. Stir in 3/4 cup water and remove from heat.",
         "Rub cauliflower with remaining 1 tbsp oil, then pepper and remaining 1/2 tsp salt. Clear the center of the skillet and nestle the cauliflower in it. Cover pan tightly with foil and bake until a paring knife meets no resistance when inserted, 20-30 minutes.",
         "Meanwhile, make the pesto: reserve a bit of lemon zest for garnish. Place remaining zest in a food processor with the herbs, 1/4 cup olive oil, pistachios, garlic, salt, and pepper. Pulse until well combined.",
-        "Turn oven to 450°F (or 425°F convection). Uncover cauliflower and baste with pan juices. Cook, basting occasionally and adding 1/4 cup water if pan threatens to dry out, until nicely browned, 20-30 more minutes.",
+        "Turn oven to 450\u00b0F (or 425\u00b0F convection). Uncover cauliflower and baste with pan juices. Cook, basting occasionally and adding 1/4 cup water if pan threatens to dry out, until nicely browned, 20-30 more minutes.",
         "Spoon pesto over top, sprinkle with reserved lemon zest and more fresh herbs, and serve."
       ],
-      "notes": "Recipe is paywalled on NYT Cooking — assembled from multiple third-party sources. Orange cauliflower preferred but any color works. Pine nuts or almonds can substitute for pistachios. The cauliflower becomes almost custardy — serve with a spoon. Works great in a Dutch oven for the covered portion."
+      "notes": "Recipe is paywalled on NYT Cooking \u2014 assembled from multiple third-party sources. Orange cauliflower preferred but any color works. Pine nuts or almonds can substitute for pistachios. The cauliflower becomes almost custardy \u2014 serve with a spoon. Works great in a Dutch oven for the covered portion."
     },
     {
       "id": "r016",
@@ -1592,13 +1592,13 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 350°F. Butter three 9-inch round baking pans, line bottoms with parchment, butter and lightly flour.",
+        "Preheat oven to 350\u00b0F. Butter three 9-inch round baking pans, line bottoms with parchment, butter and lightly flour.",
         "Sift cake flour into a bowl, add all-purpose flour, baking powder, baking soda, and salt; whisk 30 seconds and set aside.",
         "In a stand mixer with paddle attachment, whip butter, sugar, and lemon zest until pale and fluffy.",
         "In a 2-cup measuring cup, measure milk then stir in sour cream and lemon juice; let rest 3 minutes.",
         "Mix eggs into butter mixture one at a time, then stir in lemon extract and vanilla. Toss blueberries with 3 tbsp of the flour mixture.",
         "Working in three batches beginning and ending with flour, add 1/3 flour alternating with 1/2 milk mixture, mixing just until combined after each addition. Gently fold in blueberries.",
-        "Divide evenly among pans and bake 24–27 minutes until toothpick comes out clean. Cool in pans 20–30 minutes then invert onto wire racks.",
+        "Divide evenly among pans and bake 24\u201327 minutes until toothpick comes out clean. Cool in pans 20\u201330 minutes then invert onto wire racks.",
         "For frosting: beat butter until pale and fluffy in stand mixer. Add cream cheese and mix until smooth. Add vanilla, lemon extract, and powdered sugar; blend until smooth.",
         "Frost cooled layers and decorate with blueberries and lemon slices if desired. Store in airtight container."
       ],
@@ -1712,7 +1712,7 @@
         "Combine flour, blended oats, baking powder, baking soda, and salt. Add to butter-egg mixture, blending well.",
         "Stir in chips, candy, and nuts.",
         "Roll into balls and place 2 inches apart on a cookie sheet.",
-        "Bake in a pre-heated 375°F oven for 6 to 10 minutes."
+        "Bake in a pre-heated 375\u00b0F oven for 6 to 10 minutes."
       ],
       "notes": "For Tea Room, use 3/4 cup cookie dough to make a larger cookie. Recipe can easily be cut in half. Note in margin says 2 1/2 (possibly halved quantities)."
     },
@@ -1794,8 +1794,8 @@
         }
       ],
       "instructions": [
-        "To make the crust: preheat oven to 350°F. Combine confectioners' sugar, flour, butter, salt, and lemon zest in a food processor. Process until mixture forms a ball.",
-        "Press dough into a 4.5 x 14-inch rectangular tart pan with removable bottom, pressing into the edges. Chill in the fridge for 15 minutes then bake 10–12 minutes until very light browned. Set aside to cool.",
+        "To make the crust: preheat oven to 350\u00b0F. Combine confectioners' sugar, flour, butter, salt, and lemon zest in a food processor. Process until mixture forms a ball.",
+        "Press dough into a 4.5 x 14-inch rectangular tart pan with removable bottom, pressing into the edges. Chill in the fridge for 15 minutes then bake 10\u201312 minutes until very light browned. Set aside to cool.",
         "For the mascarpone filling: in the bowl of an electric mixer with the whisk attachment, whisk heavy cream until soft peaks form. Add sugar and whisk until stiff peaks form.",
         "Switch to the paddle attachment, add mascarpone, and beat on medium-low until fully incorporated.",
         "Pour mixture into baked tart shell. Top with blueberries and refrigerate until ready to serve."
@@ -1831,7 +1831,7 @@
           "pantryKey": "yeast"
         },
         {
-          "name": "warm water (110–115°F)",
+          "name": "warm water (110\u2013115\u00b0F)",
           "qty": 1,
           "unit": "cups",
           "pantryKey": "water"
@@ -1888,10 +1888,10 @@
       "instructions": [
         "In the mixing bowl, dissolve yeast in water. Add sugar, salt, and oil; stir until dissolved.",
         "Add 2 cups of flour; beat until smooth. Add enough remaining flour to form a soft dough.",
-        "Mix on medium speed 6–8 minutes. Place in a greased bowl, turning once to grease top. Cover and let rise in a warm place until doubled, about 1 hour.",
-        "Punch dough down and divide into 12 portions. Roll each into a 10-in x 1/2-in strip. Place 1 inch apart on a greased baking sheet sprinkled with cornmeal. Let rise uncovered until doubled, about 45–60 minutes.",
+        "Mix on medium speed 6\u20138 minutes. Place in a greased bowl, turning once to grease top. Cover and let rise in a warm place until doubled, about 1 hour.",
+        "Punch dough down and divide into 12 portions. Roll each into a 10-in x 1/2-in strip. Place 1 inch apart on a greased baking sheet sprinkled with cornmeal. Let rise uncovered until doubled, about 45\u201360 minutes.",
         "Beat egg white and water; brush over breadsticks. Sprinkle with coarse salt if desired.",
-        "Place baking sheet on middle rack; place a large shallow pan filled with boiling water on the lowest rack. Bake at 400°F for 10 minutes. Brush again with egg white. Bake 5 minutes more or until golden brown."
+        "Place baking sheet on middle rack; place a large shallow pan filled with boiling water on the lowest rack. Bake at 400\u00b0F for 10 minutes. Brush again with egg white. Bake 5 minutes more or until golden brown."
       ],
       "notes": "Yield: 1 dozen. The steam from the water pan gives these a nice chewy crust."
     },
@@ -1962,14 +1962,14 @@
       ],
       "instructions": [
         "Prepare the Whipped Chocolate Ganache and chill it uncovered in the refrigerator while you prepare the cake.",
-        "Place a rack in the center of the oven and preheat to 350°F. Generously grease two 9-inch round cake pans with shortening, dust with flour, and shake out excess.",
+        "Place a rack in the center of the oven and preheat to 350\u00b0F. Generously grease two 9-inch round cake pans with shortening, dust with flour, and shake out excess.",
         "Place cake mix, milk, oil, eggs, and vanilla in a large mixing bowl. Blend on low speed 1 minute. Stop and scrape down sides. Increase to medium and beat 2 minutes more. Divide evenly between pans and smooth tops.",
-        "Bake until cakes spring back when lightly pressed, 28–32 minutes. Remove and cool on wire racks 10 minutes. Run a knife around the edges and invert; allow to cool completely, 30 minutes more.",
-        "Remove the chilled ganache from the refrigerator. Whip on high speed 2–3 minutes until it lightens in color and triples in volume.",
+        "Bake until cakes spring back when lightly pressed, 28\u201332 minutes. Remove and cool on wire racks 10 minutes. Run a knife around the edges and invert; allow to cool completely, 30 minutes more.",
+        "Remove the chilled ganache from the refrigerator. Whip on high speed 2\u20133 minutes until it lightens in color and triples in volume.",
         "Place one cake layer right side up on a serving platter. Spread top with frosting. Place second layer on top and frost top and sides with clean, smooth strokes.",
         "Store in a cake saver or under a glass dome in the refrigerator for up to 1 week."
       ],
-      "notes": "This cake contains more vegetable oil than other chocolate cakes and is better with whole milk. The added fat causes the cake to bake flatter — many cooks consider this a blessing for stacking. For a domed look try the Old-Fashioned Devil's Food Cake (p. 48)."
+      "notes": "This cake contains more vegetable oil than other chocolate cakes and is better with whole milk. The added fat causes the cake to bake flatter \u2014 many cooks consider this a blessing for stacking. For a domed look try the Old-Fashioned Devil's Food Cake (p. 48)."
     },
     {
       "id": "r021",
@@ -2033,7 +2033,7 @@
       "instructions": [
         "Proof the yeast using the oil and sugar in warm water.",
         "Mix the salt into the flour in a stand mixer bowl.",
-        "After the yeast has proofed, add the yeast mixture to the flour. Knead until a dough forms, then continue kneading for an additional 5–6 minutes until dough is elastic.",
+        "After the yeast has proofed, add the yeast mixture to the flour. Knead until a dough forms, then continue kneading for an additional 5\u20136 minutes until dough is elastic.",
         "Cover and let rise for about 10 minutes.",
         "From this point you can roll it out and use it for any recipe."
       ],
@@ -2111,16 +2111,16 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 70°C (155°F) for proving. Butter a deep 9x13 inch baking pan and line with non-stick foil.",
+        "Preheat oven to 70\u00b0C (155\u00b0F) for proving. Butter a deep 9x13 inch baking pan and line with non-stick foil.",
         "Put the milk and butter in a measuring jug. Melt in microwave for 1.5 minutes. Add sugar and salt and stir well, then add to stand mixer bowl.",
         "Measure 175ml of very hot water into the jug and add to the mixer bowl.",
         "Add about half the flour and mix with the dough hook for 1 minute. Add the yeast, mix a little, then add the rest of the flour.",
         "Allow the dough to knead for 5 minutes, scraping down if necessary. Scrape soft dough into center, cover with cling film, and allow to prove for 5 minutes.",
         "Rub a little oil onto a clean worktop and tip the dough out. Cut into quarters, then each quarter into 3 to give you 12 pieces. Roll into balls and place in the prepared pan.",
-        "Brush with beaten egg and pinch of salt. Place in the 70°C oven for 20 minutes or until buns have risen to the top of the pan.",
-        "Turn the oven to 180°C/350°F (whilst tray is still in) and bake for another 15–18 minutes until golden brown."
+        "Brush with beaten egg and pinch of salt. Place in the 70\u00b0C oven for 20 minutes or until buns have risen to the top of the pan.",
+        "Turn the oven to 180\u00b0C/350\u00b0F (whilst tray is still in) and bake for another 15\u201318 minutes until golden brown."
       ],
-      "notes": "The low oven temp trick for proving is the key to this recipe. Don't preheat — just put straight in the cool warm oven."
+      "notes": "The low oven temp trick for proving is the key to this recipe. Don't preheat \u2014 just put straight in the cool warm oven."
     },
     {
       "id": "r023",
@@ -2193,8 +2193,8 @@
         "In a small bowl, beat eggs until foamy. Add cream and sugar and beat well.",
         "Combine wet ingredients with the dry and fold gently to combine. Stir as little as possible. Add currants or desired extras.",
         "Using your hands, gather dough into a rough ball and place on a floured counter top. Pat into a disc about 3/4 inch thick. Cut into triangles with a sharp knife or use a cookie cutter.",
-        "Place in an airtight container or bag and freeze, OR bake at 450°F for 10 minutes. Serve warm.",
-        "To bake from frozen: Preheat oven to 425°F. Place frozen scones on baking tray and bake 12–16 minutes, or until slightly golden."
+        "Place in an airtight container or bag and freeze, OR bake at 450\u00b0F for 10 minutes. Serve warm.",
+        "To bake from frozen: Preheat oven to 425\u00b0F. Place frozen scones on baking tray and bake 12\u201316 minutes, or until slightly golden."
       ],
       "notes": "Variations/Extras: zest of 1 lemon/orange/lime, toasted chopped nuts, 1/4 cup dried currants, chopped candied ginger, dried cranberries, sharp cheddar cheese (grated)."
     },
@@ -2270,13 +2270,13 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 425°F. Remove turkey from refrigerator 30 minutes before roasting.",
+        "Preheat oven to 425\u00b0F. Remove turkey from refrigerator 30 minutes before roasting.",
         "Rub the cut side of 2 halves of garlic over the entire turkey and put in the cavity. Brush entire turkey with 4 tablespoons butter and sprinkle with rosemary, salt, and pepper. Put 2 lemon halves in cavity.",
         "Put the shallots, carrots, celery, remaining garlic, and lemon halves in the bottom of a roasting rack pan. Place turkey on the rack. Add 2 cups of stock to the pan.",
-        "Put remaining 4 tablespoons butter and 4 cups stock in turkey cavity. Roast approximately 3 hours 15 minutes, basting occasionally, until internal temperature reaches 165°F.",
+        "Put remaining 4 tablespoons butter and 4 cups stock in turkey cavity. Roast approximately 3 hours 15 minutes, basting occasionally, until internal temperature reaches 165\u00b0F.",
         "See full recipe at source URL for complete gravy instructions."
       ],
-      "notes": "Serves 6–8. Prep 40 min, Inactive 50 min, Cook 3 hr 15 min. Full instructions including cremini mushroom gravy available at the Food Network link."
+      "notes": "Serves 6\u20138. Prep 40 min, Inactive 50 min, Cook 3 hr 15 min. Full instructions including cremini mushroom gravy available at the Food Network link."
     },
     {
       "id": "r025",
@@ -2365,7 +2365,7 @@
         "Brown onions in melted margarine until edges are browned. Add paprika and mix. Stir in meat.",
         "Cook until meat lets out its juices. Add garlic and tomato sauce. Cover and cook, stirring occasionally, until most of the juice boils out.",
         "Sprinkle flour over mixture, stirring well. Cover completely with water, stirring until thickens.",
-        "Add caraway seed and marjoram. Cook over low heat — the longer the better. Serve over egg noodles."
+        "Add caraway seed and marjoram. Cook over low heat \u2014 the longer the better. Serve over egg noodles."
       ],
       "notes": "Recipe by Eva (Riha) Hahn. The longer this cooks over low heat, the better it gets."
     },
@@ -2436,10 +2436,10 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 375°F.",
+        "Preheat oven to 375\u00b0F.",
         "In a large bowl, whisk together flour, baking powder, and salt.",
         "Add cold butter to the flour mixture. Use a pastry cutter or fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
-        "Make a well in the center and pour in the cold buttermilk. Stir until just combined — dough will be sticky.",
+        "Make a well in the center and pour in the cold buttermilk. Stir until just combined \u2014 dough will be sticky.",
         "Turn dough out onto a floured surface and knead gently a few times until it comes together. Pat into a rectangle about 1 inch thick.",
         "Use a floured biscuit cutter to cut out biscuits. Place on a baking sheet lined with parchment paper.",
         "Brush tops with egg wash and sprinkle with flaky sea salt.",
@@ -2523,11 +2523,11 @@
         "Remove all carcass pieces and parts with a strainer or spider. Add optional fresh thyme sprigs while broth builds.",
         "For the dumplings: liberally sprinkle work surface with flour. Arrange biscuits on the flour. Sprinkle with salt, pepper, and poultry seasoning. Roll out very thin (larger than your hand). Cut with a pizza wheel into strips.",
         "Gather the dumpling pieces with flour and let rest on a plate. The more flour you pick up, the thicker your broth will be.",
-        "Bring broth to a boil and add dumplings. They'll puff up at first — don't worry, they'll thin back out. Add butter and evaporated milk and stir a few times. Cook on medium to medium-high boil for about 15 minutes.",
+        "Bring broth to a boil and add dumplings. They'll puff up at first \u2014 don't worry, they'll thin back out. Add butter and evaporated milk and stir a few times. Cook on medium to medium-high boil for about 15 minutes.",
         "Turn off heat (or low heat) and add the cooked, shredded rotisserie chicken.",
         "Note in margin: Top with pie crust and dab of butter, heat in oven to brown crust, serve over rice."
       ],
-      "notes": "The dumplings thin out and the broth thickens — it's like magic. Add chicken back at the end to keep it from overcooking. Variation: top with pie crust + butter, brown in oven, serve over rice."
+      "notes": "The dumplings thin out and the broth thickens \u2014 it's like magic. Add chicken back at the end to keep it from overcooking. Variation: top with pie crust + butter, brown in oven, serve over rice."
     },
     {
       "id": "r028",
@@ -2651,7 +2651,7 @@
       "instructions": [
         "Cream sugar and oil; add eggs and beat well. Add vinegar and food coloring; beat well.",
         "Sift dry ingredients; add alternating with buttermilk. Add vanilla; beat well. Pour into cake pan.",
-        "Bake at 350°F for 30 to 35 minutes.",
+        "Bake at 350\u00b0F for 30 to 35 minutes.",
         "For frosting: cream oleo and cream cheese; add vanilla and sifted sugar. Mix well. Add nuts; spread on cake."
       ],
       "notes": "From Jo Ann Poerner's kitchen. A classic Southern recipe on a vintage recipe card."
@@ -2735,14 +2735,14 @@
         }
       ],
       "instructions": [
-        "Using an electric mixer, cream the butter in a large bowl. Gradually beat in 1¼ cups sugar. Beat in the lemon zest, orange zest, and poppy seeds. Add egg yolks one at a time, beating thoroughly after each addition. Beat until the mixture is very light.",
-        "In a separate bowl, beat the egg whites until they form soft peaks. Gradually add ¼ cup sugar and beat until whites are stiff but not dry.",
-        "Add the flour and salt, ⅓ at a time, to the egg yolk mixture, folding it in after each addition.",
-        "Stir in ¼ of the egg whites into the flour-egg yolk mixture, then fold in the remaining whites. Pour into a 10-inch bundt pan that has been greased and floured.",
-        "Bake in a pre-heated 350°F oven for about 1 hour, or until toothpick inserted in center comes out clean. When done, let stand 5 minutes. Remove from pan and place on a wire rack.",
-        "In a small non-aluminum saucepan, combine lemon juice and remaining ¼ cup sugar. Heat just until sugar is dissolved. Slowly drizzle over warm cake. Serve with Peach Tree Lemon Sauce."
+        "Using an electric mixer, cream the butter in a large bowl. Gradually beat in 1\u00bc cups sugar. Beat in the lemon zest, orange zest, and poppy seeds. Add egg yolks one at a time, beating thoroughly after each addition. Beat until the mixture is very light.",
+        "In a separate bowl, beat the egg whites until they form soft peaks. Gradually add \u00bc cup sugar and beat until whites are stiff but not dry.",
+        "Add the flour and salt, \u2153 at a time, to the egg yolk mixture, folding it in after each addition.",
+        "Stir in \u00bc of the egg whites into the flour-egg yolk mixture, then fold in the remaining whites. Pour into a 10-inch bundt pan that has been greased and floured.",
+        "Bake in a pre-heated 350\u00b0F oven for about 1 hour, or until toothpick inserted in center comes out clean. When done, let stand 5 minutes. Remove from pan and place on a wire rack.",
+        "In a small non-aluminum saucepan, combine lemon juice and remaining \u00bc cup sugar. Heat just until sugar is dissolved. Slowly drizzle over warm cake. Serve with Peach Tree Lemon Sauce."
       ],
-      "notes": "Makes 16 servings. One of the Tea Room's first desserts — light and very tasty. Serve each slice with a dollop of lemon sauce and garnish with a mint leaf and fresh violet."
+      "notes": "Makes 16 servings. One of the Tea Room's first desserts \u2014 light and very tasty. Serve each slice with a dollop of lemon sauce and garnish with a mint leaf and fresh violet."
     },
     {
       "id": "r030",
@@ -2810,10 +2810,10 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 350°F. Line muffin tin with paper liners or spray with non-stick cooking spray.",
+        "Preheat oven to 350\u00b0F. Line muffin tin with paper liners or spray with non-stick cooking spray.",
         "In the bowl of a stand mixer (or with a hand mixer), beat together the cake mix, pudding mix, sour cream, oil, eggs, vanilla, and espresso water mixture. Beat for about 2 minutes on medium speed until well combined.",
-        "Using a large cookie scoop, distribute the batter between 24 muffin wells — about 3 tablespoons per well.",
-        "Bake 18–22 minutes or until tops spring back when lightly touched. Cool inside muffin tins about 10 minutes.",
+        "Using a large cookie scoop, distribute the batter between 24 muffin wells \u2014 about 3 tablespoons per well.",
+        "Bake 18\u201322 minutes or until tops spring back when lightly touched. Cool inside muffin tins about 10 minutes.",
         "Remove cupcakes and allow to fully cool on a wire rack. Once cool, top with your favorite buttercream."
       ],
       "notes": "The espresso granules enhance the chocolate flavor without making the cupcakes taste like coffee."
@@ -2914,14 +2914,14 @@
         }
       ],
       "instructions": [
-        "Heat oven to 350°F. Grease two 8-inch round cake pans, line bottoms with parchment paper and grease the parchment.",
+        "Heat oven to 350\u00b0F. Grease two 8-inch round cake pans, line bottoms with parchment paper and grease the parchment.",
         "Sift flour, baking powder, baking soda, and salt into a large bowl.",
         "In a small bowl, beat eggs until smooth.",
         "In a medium bowl, stir together buttermilk, honey, and vanilla.",
-        "Using an electric mixer with paddle attachment, beat butter on medium speed to break it up, then gradually beat in sugar, continuing until very light and fluffy, 2–3 minutes.",
+        "Using an electric mixer with paddle attachment, beat butter on medium speed to break it up, then gradually beat in sugar, continuing until very light and fluffy, 2\u20133 minutes.",
         "With the mixer on medium, add eggs 1 tablespoon at a time. If the mixture looks curdled, add 1 tbsp of the flour mixture to bind it.",
         "Reduce mixer to low and mix in a third of the flour mixture. Scrape down sides, then mix in half the buttermilk mixture. Mix in another third of flour, remaining buttermilk, then remaining flour. Scrape down bowl.",
-        "Scrape batter evenly into prepared pans and smooth tops. Bake until cake springs back when pressed and toothpick comes out clean, 30–40 minutes.",
+        "Scrape batter evenly into prepared pans and smooth tops. Bake until cake springs back when pressed and toothpick comes out clean, 30\u201340 minutes.",
         "Transfer to wire rack to cool 10 minutes. Run offset spatula around edges, unmold onto rack, remove parchment and cool completely.",
         "Just before serving, whip cream with a drizzle or two of honey to taste. Frost top of one cake, top with second layer, then frost the top of the stacked cake. Drizzle with additional honey and garnish with berries."
       ],
@@ -2976,13 +2976,13 @@
       ],
       "instructions": [
         "In a large bowl, stir together the flour, salt, and yeast. Stir in water using a wooden spoon until the mixture forms a shaggy but cohesive dough. Do not over-work. The less you work it, the softer the bread.",
-        "Cover bowl with plastic wrap and let rest at room temperature 12–18 hours (overnight is ideal).",
-        "Preheat oven (with Dutch oven inside) to 450°F for 30 minutes.",
+        "Cover bowl with plastic wrap and let rest at room temperature 12\u201318 hours (overnight is ideal).",
+        "Preheat oven (with Dutch oven inside) to 450\u00b0F for 30 minutes.",
         "While your Dutch oven preheats, turn dough onto a well-floured surface. With floured hands, form into a ball. Cover loosely with plastic wrap and let rest.",
         "After 30 minutes, carefully remove Dutch oven. Place bread dough into it (you can put a piece of parchment under the dough if your Dutch oven isn't enamel coated).",
-        "Replace cover and bake 30 minutes covered. Carefully remove cover and bake 7–15 minutes more, uncovered, until deep golden brown."
+        "Replace cover and bake 30 minutes covered. Carefully remove cover and bake 7\u201315 minutes more, uncovered, until deep golden brown."
       ],
-      "notes": "Special cookware needed: Dutch oven or any large oven-safe dish/bowl with lid. Over 286,000 shares — a very popular recipe!"
+      "notes": "Special cookware needed: Dutch oven or any large oven-safe dish/bowl with lid. Over 286,000 shares \u2014 a very popular recipe!"
     },
     {
       "id": "r033",
@@ -3105,11 +3105,11 @@
       ],
       "instructions": [
         "Cook on LOW in slow cooker for 8 hours.",
-        "About 20–30 minutes before serving, bring a big pot of water to a boil for egg noodles. Mix 2 tbsp flour and 3–4 tbsp beef broth until no lumps remain. Stir into beef stew in slow cooker. Increase heat to HIGH and cook uncovered 10–15 minutes.",
+        "About 20\u201330 minutes before serving, bring a big pot of water to a boil for egg noodles. Mix 2 tbsp flour and 3\u20134 tbsp beef broth until no lumps remain. Stir into beef stew in slow cooker. Increase heat to HIGH and cook uncovered 10\u201315 minutes.",
         "Add egg noodles to boiling water and cook according to package directions. Drain and toss with a bit of olive oil or butter and a pinch of minced parsley.",
         "To serve, add egg noodles to a bowl or plate. Top with beef carbonnade and sprinkle with more parsley. Alternatively, add noodles to slow cooker and ladle together."
       ],
-      "notes": "Steps 1-3 (browning beef, softening onions and garlic, adding beer and broth) cut off in image — see The Chunky Chef website for complete beginning instructions."
+      "notes": "Steps 1-3 (browning beef, softening onions and garlic, adding beer and broth) cut off in image \u2014 see The Chunky Chef website for complete beginning instructions."
     },
     {
       "id": "r034",
@@ -3194,7 +3194,7 @@
           "pantryKey": "paprika"
         },
         {
-          "name": "new potatoes (1.5–2\" diameter), quartered",
+          "name": "new potatoes (1.5\u20132\" diameter), quartered",
           "qty": 8,
           "unit": "",
           "pantryKey": "potatoes"
@@ -3223,10 +3223,10 @@
         "Add onion to pot and reduce heat to low. Cook, stirring, until softened, 3 minutes. Add garlic and cook, stirring, 1 minute.",
         "Pour in beer. Add broth, tomato paste, Worcestershire, sugar, paprika, 1/2 tsp kosher salt, and pepper to taste.",
         "Return beef to pot. Simmer until meat is tender, 1.5 to 2 hours.",
-        "Stir in potatoes and carrots. Simmer until vegetables are tender and meat is very tender, 30–40 minutes more.",
+        "Stir in potatoes and carrots. Simmer until vegetables are tender and meat is very tender, 30\u201340 minutes more.",
         "Remove 1 cup of liquid and slowly whisk in flour. Stir back into pot and bring to gentle boil. Reduce heat and simmer until thickened, 10 minutes. Season. Sprinkle with parsley and serve with bread."
       ],
-      "notes": "Serve with crusty bread. Distinct from Belgian Carbonnade (r033) — this uses pale lager, potatoes, and carrots for a more traditional stew."
+      "notes": "Serve with crusty bread. Distinct from Belgian Carbonnade (r033) \u2014 this uses pale lager, potatoes, and carrots for a more traditional stew."
     },
     {
       "id": "r035",
@@ -3295,7 +3295,7 @@
         }
       ],
       "instructions": [
-        "Pre-heat the oven to 350°F (180°C).",
+        "Pre-heat the oven to 350\u00b0F (180\u00b0C).",
         "Prepare the lemon curd by whisking the egg yolks, whole eggs, sugar, lemon juice, and lemon zest over a bain marie (a large bowl placed over a pan of simmering hot water).",
         "Once the mixture thickens, add the butter and whisk until combined. Pour into the pre-baked tart shell and bake until set.",
         "Chill before serving."
@@ -3304,7 +3304,7 @@
     },
     {
       "id": "r036",
-      "name": "Jalapeño Ranch (Chuy's Copycat)",
+      "name": "Jalape\u00f1o Ranch (Chuy's Copycat)",
       "source": "Things I Can't Say",
       "sourceUrl": "https://www.thingsicantsay.com/",
       "dateAdded": "2026-04-15",
@@ -3327,7 +3327,7 @@
       "cookTime": "0 min",
       "ingredients": [
         {
-          "name": "large jalapeño, chopped",
+          "name": "large jalape\u00f1o, chopped",
           "qty": 1,
           "unit": "",
           "pantryKey": "jalapeno"
@@ -3370,9 +3370,9 @@
         }
       ],
       "instructions": [
-        "Combine jalapeño, garlic, and cilantro in a blender or food processor. Pulse until finely chopped.",
+        "Combine jalape\u00f1o, garlic, and cilantro in a blender or food processor. Pulse until finely chopped.",
         "Add light sour cream, ranch dressing mix, and lime juice and pulse to combine.",
-        "Add milk and pulse. Add slowly to get the consistency you want — Chuy's version is pretty thin, so about 6 tablespoons.",
+        "Add milk and pulse. Add slowly to get the consistency you want \u2014 Chuy's version is pretty thin, so about 6 tablespoons.",
         "Refrigerate for a few hours to allow the flavors to combine, though it's amazing right away too."
       ],
       "notes": "Chuy's copycat. Thin it out more with extra milk for closer to the restaurant version."
@@ -3523,14 +3523,14 @@
       ],
       "instructions": [
         "Mix all dough ingredients together (except the cinnamon paste) and knead until smooth. Start with 400g bread flour and add more if dough feels too tacky.",
-        "Incorporate the cinnamon paste but don't over knead — this gives the marbling effect. Cover and proof the dough for 1–2 hours or until almost doubled in size.",
+        "Incorporate the cinnamon paste but don't over knead \u2014 this gives the marbling effect. Cover and proof the dough for 1\u20132 hours or until almost doubled in size.",
         "Divide the dough into 6 equal sections and shape into balls. Cover and let rest for 15 minutes.",
-        "Shape the bagels. Make sure to seal the edges well. Place each on individual sheets of parchment paper and proof for 30 min–1 hour until noticeably puffy (they don't need to fully double).",
-        "When bagels are almost done proofing, preheat oven to 425°F and bring a large pot of water to a gentle simmer. Add a spoonful of barley malt syrup and 1 tsp baking soda.",
+        "Shape the bagels. Make sure to seal the edges well. Place each on individual sheets of parchment paper and proof for 30 min\u20131 hour until noticeably puffy (they don't need to fully double).",
+        "When bagels are almost done proofing, preheat oven to 425\u00b0F and bring a large pot of water to a gentle simmer. Add a spoonful of barley malt syrup and 1 tsp baking soda.",
         "Working in batches, boil each bagel 30 seconds each side, then transfer to a baking sheet. Sprinkle tops with cinnamon sugar mixture.",
-        "Bake for 18–22 minutes or until deeply golden brown."
+        "Bake for 18\u201322 minutes or until deeply golden brown."
       ],
-      "notes": "Plump, soft, chewy, subtly sweet with maple, cinnamon, and brown sugar flavors. The partial cinnamon paste incorporation creates the swirl marbling effect — don't over-knead after adding it."
+      "notes": "Plump, soft, chewy, subtly sweet with maple, cinnamon, and brown sugar flavors. The partial cinnamon paste incorporation creates the swirl marbling effect \u2014 don't over-knead after adding it."
     },
     {
       "id": "r039",
@@ -3604,7 +3604,7 @@
           "pantryKey": "lime-juice"
         },
         {
-          "name": "jalapeño to taste (about 1/2 jalapeño)",
+          "name": "jalape\u00f1o to taste (about 1/2 jalape\u00f1o)",
           "qty": 0.5,
           "unit": "",
           "pantryKey": "jalapeno"
@@ -3624,9 +3624,9 @@
       ],
       "instructions": [
         "Add everything except the additional buttermilk to a jar and blend with an immersion blender. You can also throw everything into a blender.",
-        "Add additional buttermilk at the very end to get to desired consistency — usually about 1 extra tablespoon."
+        "Add additional buttermilk at the very end to get to desired consistency \u2014 usually about 1 extra tablespoon."
       ],
-      "notes": "From @chacekitchen on Instagram. Adjust jalapeño to your spice level."
+      "notes": "From @chacekitchen on Instagram. Adjust jalape\u00f1o to your spice level."
     },
     {
       "id": "r040",
@@ -3653,7 +3653,7 @@
       "cookTime": "15 min",
       "ingredients": [
         {
-          "name": "jalapeño, seeded and finely chopped",
+          "name": "jalape\u00f1o, seeded and finely chopped",
           "qty": 1,
           "unit": "",
           "pantryKey": "jalapeno"
@@ -3727,13 +3727,13 @@
       ],
       "instructions": [
         "In a bowl whisk together the cream, salt, pepper, cumin, onion powder, garlic powder, and cornstarch. Set aside. Grate the cheese and measure out the sour cream.",
-        "Chop jalapeño and onion. Sauté them in the butter on low heat until tender but not browned.",
+        "Chop jalape\u00f1o and onion. Saut\u00e9 them in the butter on low heat until tender but not browned.",
         "Add in the cream and spices mixture. Bring to a low boil, stirring constantly to prevent sticking.",
         "Add the sour cream, mix and bring back to a low boil or simmer. Turn off the heat and mix in the cheese.",
-        "Taste and add more salt if needed. The mixture will be thick yet somewhat thin — it will continue to thicken as it cools.",
+        "Taste and add more salt if needed. The mixture will be thick yet somewhat thin \u2014 it will continue to thicken as it cools.",
         "Can be served immediately. Store in the refrigerator and reheat in a skillet on low heat."
       ],
-      "notes": "For spicier queso, add two jalapeños. Mixture thickens more as it cools. Made with sour cream and pepper jack — no processed cheese needed."
+      "notes": "For spicier queso, add two jalape\u00f1os. Mixture thickens more as it cools. Made with sour cream and pepper jack \u2014 no processed cheese needed."
     },
     {
       "id": "r041",
@@ -3787,10 +3787,10 @@
         "Once all ingredients are incorporated, allow to rest for 1 hour before doing 4 rounds of stretch and folds every 30 minutes.",
         "Allow to bulk ferment at room temperature until 25% larger or doubled in size (takes about 6+ hours).",
         "Shape the dough and place into a basket to cold ferment in the fridge overnight (or up to 48 hours).",
-        "When ready to bake, preheat Dutch oven at 450°F. When fully preheated, take loaf out of fridge, lightly coat in flour, and do a quick scoring.",
+        "When ready to bake, preheat Dutch oven at 450\u00b0F. When fully preheated, take loaf out of fridge, lightly coat in flour, and do a quick scoring.",
         "Place in the oven for 30 minutes with lid on, then 15 minutes with lid off. Let loaf rest for at least 1 hour before cutting."
       ],
-      "notes": "Recipe shared via DM by @chillhaveabir (Abir Zahra). Distilled water is specified — may help with consistency."
+      "notes": "Recipe shared via DM by @chillhaveabir (Abir Zahra). Distilled water is specified \u2014 may help with consistency."
     },
     {
       "id": "r042",
@@ -3932,7 +3932,7 @@
         }
       ],
       "instructions": [
-        "Prepare the crispy rice: preheat oven to 400°F. Line a baking sheet with parchment. Add cooled rice and toss with sesame oil and teriyaki sauce, spread into an even layer. Bake 30–35 minutes, tossing halfway through.",
+        "Prepare the crispy rice: preheat oven to 400\u00b0F. Line a baking sheet with parchment. Add cooled rice and toss with sesame oil and teriyaki sauce, spread into an even layer. Bake 30\u201335 minutes, tossing halfway through.",
         "Remove bones from rotisserie chicken, shred into small pieces, and toss with teriyaki sauce. Set aside.",
         "Make the dressing: add all dressing ingredients to a blender and blend about 1 minute until smooth.",
         "Chop/slice all salad ingredients and add to a large bowl.",
@@ -4013,9 +4013,9 @@
         }
       ],
       "instructions": [
-        "Heat the oven to 375°F. Grease 12 large muffin cups. Sift together the flour, salt, and baking powder.",
-        "Cream the butter and 1¼ cups sugar in a large bowl until light. Add eggs one at a time, beating well after each addition. Add to flour mixture alternately with the milk, beating just until smooth.",
-        "Crush ½ cup blueberries with a fork and mix into the batter. Fold in the remaining whole berries.",
+        "Heat the oven to 375\u00b0F. Grease 12 large muffin cups. Sift together the flour, salt, and baking powder.",
+        "Cream the butter and 1\u00bc cups sugar in a large bowl until light. Add eggs one at a time, beating well after each addition. Add to flour mixture alternately with the milk, beating just until smooth.",
+        "Crush \u00bd cup blueberries with a fork and mix into the batter. Fold in the remaining whole berries.",
         "Fill muffin cups with batter. Sprinkle the remaining 1 tablespoon of sugar over the tops of the muffins.",
         "Bake until a toothpick inserted in the center comes out clean, about 30 minutes. Cool 30 minutes before removing from the pan.",
         "Store uncovered, or the muffins will be too moist the second day."
@@ -4129,7 +4129,7 @@
         "Turn off the heat and stir in the spinach and lime juice.",
         "Divide the rice among bowls. Top with the salmon curry, basil, and cilantro. Serve with lime wedges for squeezing on top."
       ],
-      "notes": "Light, delicate weeknight curry — comes together in less than 30 minutes. Flaky white fish, shrimp, or scallops work well too. For heat, garnish with sliced jalapeño or serrano chile."
+      "notes": "Light, delicate weeknight curry \u2014 comes together in less than 30 minutes. Flaky white fish, shrimp, or scallops work well too. For heat, garnish with sliced jalape\u00f1o or serrano chile."
     },
     {
       "id": "r045",
@@ -4258,12 +4258,12 @@
         }
       ],
       "instructions": [
-        "In a large stockpot over medium-high heat, cook the sausage, breaking up into little pieces. Once browned, add onion, celery, and carrot; sauté for 5 minutes or until vegetables are softened.",
-        "Add the garlic, spices, and tomato paste; sauté for an additional 3–5 minutes, stirring to prevent burning.",
+        "In a large stockpot over medium-high heat, cook the sausage, breaking up into little pieces. Once browned, add onion, celery, and carrot; saut\u00e9 for 5 minutes or until vegetables are softened.",
+        "Add the garlic, spices, and tomato paste; saut\u00e9 for an additional 3\u20135 minutes, stirring to prevent burning.",
         "Add wine and let it cook out for a few minutes. Stir the flour into the sausage and vegetables until dry. Gradually add chicken broth, stir to combine. Reduce heat to low and simmer for 15 minutes.",
         "Add the cream, then bring to a low simmer. Add the tortellini and spinach. Cook tortellini according to package directions. Serve with fresh parsley and Parmesan."
       ],
-      "notes": "Total time 40 minutes. Serves 6–8. Named 'Brooke's Creamy Tortellini Soup' on the original saved PDF."
+      "notes": "Total time 40 minutes. Serves 6\u20138. Named 'Brooke's Creamy Tortellini Soup' on the original saved PDF."
     },
     {
       "id": "r046",
@@ -4380,12 +4380,12 @@
       ],
       "instructions": [
         "Brown the Butter: In a medium saucepan, melt butter over medium heat. Continue cooking until butter foams, sputters, then goes quiet. Watch for brown bits to form at the bottom and a nutty aroma to develop. Pour into a heatproof bowl, scraping all the brown bits, and let cool.",
-        "Make the Crust: Preheat oven to 350°F (175°C). Mix cookie crumbs, ground pecans, powdered sugar, and ½ cup plus 1 tablespoon of the browned butter (the yellow part) until evenly combined. Press into the bottom and halfway up the sides of a greased and parchment-lined 8 or 9-inch round cake pan. Bake for 10 minutes. Remove and let cool. Reduce oven to 325°F (163°C).",
-        "Prepare the Filling: In a large bowl, beat the softened cream cheese with brown sugar, salt, vanilla, and reserved brown butter bits until smooth. Add sour cream and mix until fully incorporated. Finally, add eggs and mix just until blended — avoid overmixing to prevent cracks.",
-        "Bake the Cheesecake: Pour filling into the cooled crust. Place the cake pan into a larger roasting pan and fill the outer pan halfway with hot water (water bath). Bake 60–75 minutes until the center jiggles slightly and edges are set. Turn off the oven, crack the door open, and let cool inside for 30 minutes. Remove and cool on the counter for another 30 minutes, then chill for at least 8 hours.",
+        "Make the Crust: Preheat oven to 350\u00b0F (175\u00b0C). Mix cookie crumbs, ground pecans, powdered sugar, and \u00bd cup plus 1 tablespoon of the browned butter (the yellow part) until evenly combined. Press into the bottom and halfway up the sides of a greased and parchment-lined 8 or 9-inch round cake pan. Bake for 10 minutes. Remove and let cool. Reduce oven to 325\u00b0F (163\u00b0C).",
+        "Prepare the Filling: In a large bowl, beat the softened cream cheese with brown sugar, salt, vanilla, and reserved brown butter bits until smooth. Add sour cream and mix until fully incorporated. Finally, add eggs and mix just until blended \u2014 avoid overmixing to prevent cracks.",
+        "Bake the Cheesecake: Pour filling into the cooled crust. Place the cake pan into a larger roasting pan and fill the outer pan halfway with hot water (water bath). Bake 60\u201375 minutes until the center jiggles slightly and edges are set. Turn off the oven, crack the door open, and let cool inside for 30 minutes. Remove and cool on the counter for another 30 minutes, then chill for at least 8 hours.",
         "Whip the Topping: Combine heavy cream, brown sugar, vanilla, and a pinch of salt. Beat until soft peaks form. Spread over chilled cheesecake before serving."
       ],
-      "notes": "The reserved brown bits from the butter go into the filling for maximum nutty flavor. The water bath prevents cracking. Chill at least 8 hours — overnight is best."
+      "notes": "The reserved brown bits from the butter go into the filling for maximum nutty flavor. The water bath prevents cracking. Chill at least 8 hours \u2014 overnight is best."
     },
     {
       "id": "r047",
@@ -4497,7 +4497,7 @@
         }
       ],
       "instructions": [
-        "Make the dressing: In a food processor or blender, add the parsley, garlic, walnuts, and lemon zest. Pulse until finely chopped. Add lemon juice, olive oil, salt, and pepper. Blend on high until combined to desired consistency — leave some choppiness to the herbs and nuts. Add up to 2 tbsp water to thin.",
+        "Make the dressing: In a food processor or blender, add the parsley, garlic, walnuts, and lemon zest. Pulse until finely chopped. Add lemon juice, olive oil, salt, and pepper. Blend on high until combined to desired consistency \u2014 leave some choppiness to the herbs and nuts. Add up to 2 tbsp water to thin.",
         "Place the kale in a bowl with a squeeze of lemon juice. Massage until no longer firm.",
         "Add in the remaining salad ingredients and fold in the dressing until combined."
       ],
@@ -4600,10 +4600,10 @@
       ],
       "instructions": [
         "Thinly slice the zucchini and onion, peel and mince garlic, and cut the peel off half the lemon and slice into thin strips.",
-        "Toss zucchini in 1 tbsp olive oil and a pinch of salt and pepper. Air fry at 425°F for 15–18 minutes, flipping a couple times, or oven-roast at 400°F for 20 minutes, flipping halfway.",
+        "Toss zucchini in 1 tbsp olive oil and a pinch of salt and pepper. Air fry at 425\u00b0F for 15\u201318 minutes, flipping a couple times, or oven-roast at 400\u00b0F for 20 minutes, flipping halfway.",
         "To a non-stick pan on medium-low heat, add remaining olive oil and sliced onions, stirring often. After a few minutes, add the minced garlic and lemon strips, continuing to stir often.",
         "Drain and rinse the butter beans, setting aside 2/3 cup for the sauce.",
-        "Turn down onions to low. To a blender, add about 1/3 of the sautéed onions and lemon from the pan, 2/3 cup of butter beans, tofu, nutritional yeast, salt, juice of the entire lemon, and water. Blend until smooth and creamy.",
+        "Turn down onions to low. To a blender, add about 1/3 of the saut\u00e9ed onions and lemon from the pan, 2/3 cup of butter beans, tofu, nutritional yeast, salt, juice of the entire lemon, and water. Blend until smooth and creamy.",
         "Add remaining butter beans to the pan, then add sauce from blender and bring to a simmer.",
         "Remove from heat, dish up, top with the roasted zucchini and chopped fresh basil. Serve with toasted sourdough bread."
       ],
@@ -4692,7 +4692,7 @@
         "In a medium-size bowl: combine sugar, pumpkin, eggs, oil, and orange juice. Beat until just blended.",
         "Add pumpkin mixture to dry mixture. Stir until just moist.",
         "Spoon batter into 5 greased/floured small 5x3 disposable loaf pans OR 2 regular-sized loaf pans.",
-        "Bake at 350°F for 50–55 minutes or until toothpick comes out clean. Cool in pan 10 minutes."
+        "Bake at 350\u00b0F for 50\u201355 minutes or until toothpick comes out clean. Cool in pan 10 minutes."
       ],
       "notes": "Recipe noted on handwritten card as also having an extra 2 tsp pumpkin pie spice (written as '+ 2 tsp pie spice'). Makes 5 small or 2 regular loaves."
     },
@@ -4773,7 +4773,7 @@
         "Strain into a glass over fresh ice. Top with soda water.",
         "Garnish with a cucumber ribbon. Optional: salt spray on top."
       ],
-      "notes": "From @likeablecocktails. Can swap gin for vodka or tequila. A light, refreshing cocktail — a crushable summer drink."
+      "notes": "From @likeablecocktails. Can swap gin for vodka or tequila. A light, refreshing cocktail \u2014 a crushable summer drink."
     },
     {
       "id": "r051",
@@ -4828,7 +4828,7 @@
           "pantryKey": "salt"
         },
         {
-          "name": "bouillon or consommé, diluted to make 2 cups",
+          "name": "bouillon or consomm\u00e9, diluted to make 2 cups",
           "qty": 10.5,
           "unit": "oz",
           "pantryKey": "beef-bouillon"
@@ -4841,9 +4841,9 @@
         }
       ],
       "instructions": [
-        "Sauté mushrooms and onion in 2 tbsp butter and remove from pan. Remove fat and bone from steak. Cut into strips 2½\" long and ¾\" wide.",
+        "Saut\u00e9 mushrooms and onion in 2 tbsp butter and remove from pan. Remove fat and bone from steak. Cut into strips 2\u00bd\" long and \u00be\" wide.",
         "Melt additional 2 tbsp butter in pan. Toss strips of meat in flour, coating thoroughly. Brown meat in butter. Add salt and bouillon-water mixture.",
-        "Simmer, stirring occasionally, until meat is tender, about 1¼ hours. Add mushrooms, onions, and sour cream; heat.",
+        "Simmer, stirring occasionally, until meat is tender, about 1\u00bc hours. Add mushrooms, onions, and sour cream; heat.",
         "Serve over noodles or rice."
       ],
       "notes": "6 servings. From a classic vintage cookbook. Simple and hearty."
@@ -4910,7 +4910,7 @@
       "instructions": [
         "Cut 1 lb round steak in 4 pieces. Dip in seasoned flour, then in egg and 2 tbsp water beaten together. Dip again in flour.",
         "Brown on both sides in hot fat. Cover and cook slowly 20 to 30 minutes.",
-        "To make gravy: remove meat. Add ¼ cup seasoned flour mixed with 2 cups milk. Stir until gravy comes to a boil; boil 1 minute.",
+        "To make gravy: remove meat. Add \u00bc cup seasoned flour mixed with 2 cups milk. Stir until gravy comes to a boil; boil 1 minute.",
         "Return steak to gravy and serve."
       ],
       "notes": "4 servings. From same vintage cookbook as the Classic Beef Stroganoff."
@@ -5000,14 +5000,14 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 350°F. Grease a cookie sheet with butter or nonstick spray.",
+        "Preheat oven to 350\u00b0F. Grease a cookie sheet with butter or nonstick spray.",
         "In a large bowl, combine flour, baking soda, and salt; set aside.",
         "In a stand mixer fitted with paddle attachment, cream butter and both sugars together until fluffy.",
         "Beat in the eggs, one at a time, then the vanilla.",
         "Gradually add the dry ingredients in 4 batches, mixing in between until thoroughly blended.",
         "Stir in chocolate chips and walnuts, just until incorporated.",
         "Drop well-rounded teaspoonfuls onto the greased cookie sheet, spaced 3 inches apart.",
-        "Bake for 8–10 minutes, until set and golden at edges. Cool on wire rack."
+        "Bake for 8\u201310 minutes, until set and golden at edges. Cool on wire rack."
       ],
       "notes": "IMPORTANT: Over-baking makes crisp cookies (handwritten note on recipe). Tina Munoz's family recipe, shared through the King Ranch Kitchen for 4 generations."
     },
@@ -5041,13 +5041,13 @@
           "pantryKey": "chicken"
         },
         {
-          "name": "cream of mushroom soup (10¾ oz can)",
+          "name": "cream of mushroom soup (10\u00be oz can)",
           "qty": 1,
           "unit": "",
           "pantryKey": "cream-of-mushroom-soup"
         },
         {
-          "name": "cream of chicken soup (10¾ oz can)",
+          "name": "cream of chicken soup (10\u00be oz can)",
           "qty": 1,
           "unit": "",
           "pantryKey": "cream-of-chicken-soup"
@@ -5086,10 +5086,10 @@
       "instructions": [
         "Cook chicken in small amount of water, lightly salted, until tender. Bone and cut into pieces.",
         "To make a sauce, blend until smooth the two cans of soup, can of tomatoes and green chilies, and chicken broth.",
-        "Into a greased 2½ quart casserole, place a layer of chicken, ½ of the tortillas cut into pieces, ½ of the onion, ½ of the cheese, and ½ of the sauce. Repeat the layers, ending with grated cheese.",
-        "Bake uncovered at 350°F for 1 hour."
+        "Into a greased 2\u00bd quart casserole, place a layer of chicken, \u00bd of the tortillas cut into pieces, \u00bd of the onion, \u00bd of the cheese, and \u00bd of the sauce. Repeat the layers, ending with grated cheese.",
+        "Bake uncovered at 350\u00b0F for 1 hour."
       ],
-      "notes": "Great way to use leftover Thanksgiving or Christmas turkey. For a party, a 12-15 lb turkey works for 25-30 people — increase other ingredients accordingly and repeat layers 3-4 times in a large roasting pan, baking approximately 2 hours. Do not rinse canned chiles — much of the taste will go down the drain."
+      "notes": "Great way to use leftover Thanksgiving or Christmas turkey. For a party, a 12-15 lb turkey works for 25-30 people \u2014 increase other ingredients accordingly and repeat layers 3-4 times in a large roasting pan, baking approximately 2 hours. Do not rinse canned chiles \u2014 much of the taste will go down the drain."
     },
     {
       "id": "r055",
@@ -6147,7 +6147,7 @@
         "Heat oven to 425F. Place chicken in single layer in roasting pan.",
         "Roast 30-40 minutes turning once or twice until skin is golden brown and crisp."
       ],
-      "notes": "Also called Caramelized Honey, Butter, and Miso Chicken. Page was partially visible — check cookbook for precise details."
+      "notes": "Also called Caramelized Honey, Butter, and Miso Chicken. Page was partially visible \u2014 check cookbook for precise details."
     },
     {
       "id": "r065",
@@ -6600,7 +6600,7 @@
         "Dip cauliflower florets in batter. Fry in batches until golden brown and tender, 3-4 minutes. Drain on paper towels.",
         "Transfer to large serving bowl. Add peanut tahini and more tahini if desired. Add Bamba and toss. Serve immediately."
       ],
-      "notes": "SHUK cookbook. Serve hot — Bamba gets soggy quickly. Peanut Tahini Sauce is r074."
+      "notes": "SHUK cookbook. Serve hot \u2014 Bamba gets soggy quickly. Peanut Tahini Sauce is r074."
     },
     {
       "id": "r070",
@@ -6732,7 +6732,7 @@
       "instructions": [
         "Combine yogurt, tahini, water, lemon juice, salt, garlic, and pepper in a bowl. Whisk to combine. Adjust seasoning."
       ],
-      "notes": "SHUK cookbook, p.114. Very versatile — adjust flavors to your liking."
+      "notes": "SHUK cookbook, p.114. Very versatile \u2014 adjust flavors to your liking."
     },
     {
       "id": "r072",
@@ -7553,7 +7553,7 @@
         "Add boiling water, cover with tight-fitting lid, transfer to oven. Bake at 350F for 2.5 hours.",
         "For crispy skin: remove lid and raise temperature to 400F for last 15 minutes."
       ],
-      "notes": "SHUK cookbook. The rice will be very tender and mushy — that is part of the charm. For Shabbat, can bake at 200F for 8-10 hours."
+      "notes": "SHUK cookbook. The rice will be very tender and mushy \u2014 that is part of the charm. For Shabbat, can bake at 200F for 8-10 hours."
     },
     {
       "id": "r083",
@@ -7741,7 +7741,7 @@
         "Bring to boil, cover with tight lid, transfer to oven. Bake at 375F for 1 hour.",
         "Invert onto a large serving platter. Garnish with parsley. Serve with harissa."
       ],
-      "notes": "SHUK cookbook, p.192. Maqloubeh means 'upside down' — the dish is flipped for serving. A festive Palestinian rice casserole. Check p.192 for complete ingredient amounts."
+      "notes": "SHUK cookbook, p.192. Maqloubeh means 'upside down' \u2014 the dish is flipped for serving. A festive Palestinian rice casserole. Check p.192 for complete ingredient amounts."
     },
     {
       "id": "r085",
@@ -8269,7 +8269,7 @@
     {
       "id": "r090",
       "name": "Glazed Carrots",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -8336,7 +8336,7 @@
         "Add carrots to the pan in a single layer and swirl the pan to create even spacing.",
         "Add sugar (start with ~5 g / 1 tsp) and enough water to barely cover. Add butter, set heat to high.",
         "Move the pan throughout cooking to keep carrots evenly spaced so each is individually glazed. Listen for the boil to turn into a crackle as the water evaporates.",
-        "When reduction is nearly complete, check doneness — carrots should have very little resistance to the tooth without being mushy. If still firm, add more water and cook to desired texture.",
+        "When reduction is nearly complete, check doneness \u2014 carrots should have very little resistance to the tooth without being mushy. If still firm, add more water and cook to desired texture.",
         "Lower heat to medium and finish. You're looking for the butter to emulsify and form a shiny glaze.",
         "If caramelization begins on the bottom of the pan or the sheen disappears, add a little water and two drops of white wine vinegar and quickly reduce again.",
         "Toss carrots with chopped parsley. Plate and sprinkle with finishing salt."
@@ -8346,7 +8346,7 @@
     {
       "id": "r091",
       "name": "Blanched & Peeled Tomatoes (Concasse)",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -8376,17 +8376,17 @@
       "instructions": [
         "Fill stockpot with water and bring to a boil.",
         "Score the bottom of each tomato with a paring knife in a cross pattern. Avoid cutting deeply into the flesh. Remove the woody green stem.",
-        "Submerge tomatoes in boiling water. After ~10 seconds, remove one and check whether the skin slips easily from the flesh at the score. If still firmly attached, continue 5–10 more seconds.",
+        "Submerge tomatoes in boiling water. After ~10 seconds, remove one and check whether the skin slips easily from the flesh at the score. If still firmly attached, continue 5\u201310 more seconds.",
         "Once skins slip easily, transfer to an ice bath. A slight curl along the score lines is a sign of doneness.",
         "Peel each tomato with a paring knife.",
-        "For concassé: slice each peeled tomato on its 'equator,' gently squeeze out seeds, dice. To dry further, drain in a strainer (reserve the flavorful liquid)."
+        "For concass\u00e9: slice each peeled tomato on its 'equator,' gently squeeze out seeds, dice. To dry further, drain in a strainer (reserve the flavorful liquid)."
       ],
-      "notes": "Refinement technique — blanching is to enable peeling, not to cook. Apply to sandwiches, salads, or as the base for Tomato Tartare."
+      "notes": "Refinement technique \u2014 blanching is to enable peeling, not to cook. Apply to sandwiches, salads, or as the base for Tomato Tartare."
     },
     {
       "id": "r092",
       "name": "Artichokes Barigoule",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -8395,7 +8395,7 @@
       ],
       "cuisine": [
         "French",
-        "Provençal"
+        "Proven\u00e7al"
       ],
       "protein": [
         "vegetarian"
@@ -8505,8 +8505,8 @@
     },
     {
       "id": "r093",
-      "name": "Potato Purée (Pommes Purée)",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "name": "Potato Pur\u00e9e (Pommes Pur\u00e9e)",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -8579,16 +8579,16 @@
         "Cook until extremely tender when tested with a paring knife.",
         "One at a time, remove a potato, split in half on the tamis, and press the flesh through the screen with a stiff bowl scraper, leaving skins behind. Use parchment underneath to collect pulp.",
         "Transfer passed potato to a 4-quart saucepan over medium-low heat. Use a stiff rubber spatula to incorporate 1/3 of the hot cream, then beat in cubes of butter until emulsified.",
-        "Drizzle in a little clarified butter for more intense butter flavor. Continue adding cream, butter, and clarified butter to build a creamy purée.",
-        "Ideal pommes purée has a milky, creamy appearance. If it looks oily (emulsion breaking), add hot water periodically and regulate heat.",
+        "Drizzle in a little clarified butter for more intense butter flavor. Continue adding cream, butter, and clarified butter to build a creamy pur\u00e9e.",
+        "Ideal pommes pur\u00e9e has a milky, creamy appearance. If it looks oily (emulsion breaking), add hot water periodically and regulate heat.",
         "Season with salt, transfer to serving bowl, top with a pat of butter and a sprinkle of Maldon."
       ],
-      "notes": "La Ratte fingerlings are ideal (more refined); Yukon Gold is the readily-available stand-in. Not the same as mashed potatoes — more luxurious, more technical. Pass through tamis (finest mesh)."
+      "notes": "La Ratte fingerlings are ideal (more refined); Yukon Gold is the readily-available stand-in. Not the same as mashed potatoes \u2014 more luxurious, more technical. Pass through tamis (finest mesh)."
     },
     {
       "id": "r094",
       "name": "Quick Pickled Vegetables",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -8682,12 +8682,12 @@
         "Pour the hot pickling liquid over the vegetables to submerge. Seal the jar.",
         "Chill and store in the refrigerator."
       ],
-      "notes": "Quantities of vegetables are proportional to jar size — vary to need. Encouraged to experiment with seasonal spices/herbs."
+      "notes": "Quantities of vegetables are proportional to jar size \u2014 vary to need. Encouraged to experiment with seasonal spices/herbs."
     },
     {
       "id": "r095",
-      "name": "Parsnip Purée",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "name": "Parsnip Pur\u00e9e",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -8707,7 +8707,7 @@
       "cookTime": "20 min",
       "ingredients": [
         {
-          "name": "parsnips, peeled, ½-inch dice",
+          "name": "parsnips, peeled, \u00bd-inch dice",
           "qty": 150,
           "unit": "g",
           "pantryKey": "parsnips"
@@ -8744,12 +8744,12 @@
         "With blender running, add butter and a conservative pinch of salt. Process until extremely smooth.",
         "Check seasoning and consistency; adjust with salt and/or additional water to preference."
       ],
-      "notes": "Unlike potato purée: parsnips are cooked in the cream itself. Technique transfers to rutabaga, carrot, celeriac, and sunchokes."
+      "notes": "Unlike potato pur\u00e9e: parsnips are cooked in the cream itself. Technique transfers to rutabaga, carrot, celeriac, and sunchokes."
     },
     {
       "id": "r096",
       "name": "Eggplant & Garlic Confit",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -8820,19 +8820,19 @@
       ],
       "instructions": [
         "Remove tops and bottoms of eggplants, cut in half lengthwise.",
-        "Score flesh in a crosshatch pattern and lightly salt to draw out moisture and bitterness. Rest flesh-side down on a paper-towel–lined sheet pan for 25 minutes.",
+        "Score flesh in a crosshatch pattern and lightly salt to draw out moisture and bitterness. Rest flesh-side down on a paper-towel\u2013lined sheet pan for 25 minutes.",
         "Lay eggplants flesh-side down in a baking dish. Add garlic and bouquet garni.",
-        "Heat oil to 250°F and carefully ladle it over the eggplants. If they float, weight them with a wire cake rack to keep submerged.",
-        "Bake in a 300°F oven, check for tenderness after 45 minutes. Ideal texture is creamy with no resistance.",
+        "Heat oil to 250\u00b0F and carefully ladle it over the eggplants. If they float, weight them with a wire cake rack to keep submerged.",
+        "Bake in a 300\u00b0F oven, check for tenderness after 45 minutes. Ideal texture is creamy with no resistance.",
         "To serve immediately: drain on paper towels, arrange with confit garlic, drizzle with balsamic, finish with oregano and Maldon.",
         "To store: keep eggplant submerged in oil in an airtight container in the fridge up to 1 week."
       ],
-      "notes": "Leftover oil is great in vinaigrettes or sautéing — hasn't reached its smoke point. Try the smashed-garlic-on-toast move for a snack."
+      "notes": "Leftover oil is great in vinaigrettes or saut\u00e9ing \u2014 hasn't reached its smoke point. Try the smashed-garlic-on-toast move for a snack."
     },
     {
       "id": "r097",
       "name": "Pan-Roasted Zucchini with Vierge Sauce",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -8877,7 +8877,7 @@
           "pantryKey": "garlic"
         },
         {
-          "name": "tomato concassé",
+          "name": "tomato concass\u00e9",
           "qty": null,
           "unit": "",
           "pantryKey": "tomatoes"
@@ -8898,14 +8898,14 @@
       "instructions": [
         "Pan-roast zucchini in olive oil until golden, about 5 minutes.",
         "Add herbs or garlic and immediately remove from heat to prevent burning.",
-        "Spoon vierge sauce (warm olive oil + tomato concassé + lemon + herbs) over plated zucchini."
+        "Spoon vierge sauce (warm olive oil + tomato concass\u00e9 + lemon + herbs) over plated zucchini."
       ],
-      "notes": "Workbook ingredient list is partial — flesh out with standard ratios when cooking. Vierge sauce pairs broadly with vegetables and fish."
+      "notes": "Workbook ingredient list is partial \u2014 flesh out with standard ratios when cooking. Vierge sauce pairs broadly with vegetables and fish."
     },
     {
       "id": "r098",
       "name": "Baked Beets",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -8977,18 +8977,18 @@
       "instructions": [
         "Wash and dry trimmed beets. Place on aluminum foil, shiny side up. Drizzle with oil and season with kosher salt.",
         "Fold foil into a pouch and place in a baking dish, folded side up.",
-        "Bake at 350°F for ~45 minutes. Test with a paring knife for no resistance.",
+        "Bake at 350\u00b0F for ~45 minutes. Test with a paring knife for no resistance.",
         "Peel while still warm under running water or with gloves over parchment (beets stain).",
         "Cut into wedges or preferred shape.",
         "In a mixing bowl, combine beets, minced shallot, Maldon, balsamic, EVOO, and most of the chives. Reserve a sprinkle of chives for garnish.",
         "Spoon dressed beets into a serving bowl and finish with the reserved chives."
       ],
-      "notes": "Use true balsamic (DOP-certified Modena/Emilia-Romagna). Season while warm so beets absorb the marinade. Technique works for golden and Chioggia beets — vary the vinegar."
+      "notes": "Use true balsamic (DOP-certified Modena/Emilia-Romagna). Season while warm so beets absorb the marinade. Technique works for golden and Chioggia beets \u2014 vary the vinegar."
     },
     {
       "id": "r099",
       "name": "Mayonnaise",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9058,7 +9058,7 @@
     {
       "id": "r100",
       "name": "Remoulade",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9102,7 +9102,7 @@
           "pantryKey": "cornichons"
         },
         {
-          "name": "fines herbes (parsley, chives, tarragon — equal parts, minced)",
+          "name": "fines herbes (parsley, chives, tarragon \u2014 equal parts, minced)",
           "qty": 10,
           "unit": "g",
           "pantryKey": null
@@ -9117,14 +9117,14 @@
       "instructions": [
         "Starting with 400 g mayonnaise, add capers, cornichons, fines herbes, shallots, and salt.",
         "Stir with a rubber spatula to combine.",
-        "Capers are salty — taste before adding the full salt amount."
+        "Capers are salty \u2014 taste before adding the full salt amount."
       ],
       "notes": "Keller: would rather you skip the recipe than use dried herbs. Serve as a side sauce with fish or roast chicken."
     },
     {
       "id": "r101",
       "name": "Hollandaise",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9169,7 +9169,7 @@
           "pantryKey": "lemons"
         },
         {
-          "name": "clarified butter, held at 165°F",
+          "name": "clarified butter, held at 165\u00b0F",
           "qty": 250,
           "unit": "g",
           "pantryKey": null
@@ -9209,7 +9209,7 @@
         "Quick clarified butter: seal butter in a heavy-duty bag, set in simmering water in a stockpot until melted. Transfer to fridge with one corner of the bag at the lowest position. Once solidified, snip the bottom corner over a bowl to drain milk solids. Rinse the block briefly, dry, and reserve.",
         "Hollandaise: fill saucepot with 1 inch of water and bring to a gentle simmer.",
         "Whisk 3 egg yolks in mixing bowl with 25 g water. Place bowl over simmering water.",
-        "Whisk in a figure-eight, rotating the bowl and removing from heat as needed for gentle, constant heat. About 2½ minutes total. Look for thickened, ribbon-consistency yolks with a pale yellow color.",
+        "Whisk in a figure-eight, rotating the bowl and removing from heat as needed for gentle, constant heat. About 2\u00bd minutes total. Look for thickened, ribbon-consistency yolks with a pale yellow color.",
         "Remove from heat. While whisking, add juice of half a lemon and slowly drizzle in warmed clarified butter. Add water as needed to maintain emulsion.",
         "Season with additional lemon and salt to taste.",
         "Plate: set 2 poached eggs on toast and spoon hollandaise to envelope each egg. Finish with black pepper and finishing salt."
@@ -9218,8 +9218,8 @@
     },
     {
       "id": "r102",
-      "name": "Béarnaise",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "name": "B\u00e9arnaise",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9281,7 +9281,7 @@
           "pantryKey": "eggs"
         },
         {
-          "name": "béarnaise reduction",
+          "name": "b\u00e9arnaise reduction",
           "qty": 85,
           "unit": "g",
           "pantryKey": null
@@ -9324,17 +9324,17 @@
         }
       ],
       "instructions": [
-        "Béarnaise reduction: place shallots, wine, vinegar, peppercorn, tarragon, and bay leaf in a saucepan. Reduce the liquids by one third. Remove bay leaf. Cool and reserve.",
-        "Béarnaise: place yolks, cream, and reduction in a 2-quart saucier; whisk over low heat until yolks expand to ribbon consistency.",
-        "Apply hollandaise technique — constant whisking, regulating heat to avoid scrambling.",
+        "B\u00e9arnaise reduction: place shallots, wine, vinegar, peppercorn, tarragon, and bay leaf in a saucepan. Reduce the liquids by one third. Remove bay leaf. Cool and reserve.",
+        "B\u00e9arnaise: place yolks, cream, and reduction in a 2-quart saucier; whisk over low heat until yolks expand to ribbon consistency.",
+        "Apply hollandaise technique \u2014 constant whisking, regulating heat to avoid scrambling.",
         "Slowly drizzle in clarified butter, whisking to form an emulsion. Once incorporated, whisk in lemon juice, tarragon, shallots, and salt. Serve warm."
       ],
-      "notes": "For béarnaise mousseline: gently fold whipped cream into the béarnaise. For sauce choron: whisk ~50 g warmed tomato purée into ~500 g béarnaise. Classic pairings: béarnaise on eggs benedict; mousseline with steak and brussels sprouts."
+      "notes": "For b\u00e9arnaise mousseline: gently fold whipped cream into the b\u00e9arnaise. For sauce choron: whisk ~50 g warmed tomato pur\u00e9e into ~500 g b\u00e9arnaise. Classic pairings: b\u00e9arnaise on eggs benedict; mousseline with steak and brussels sprouts."
     },
     {
       "id": "r103",
-      "name": "Crème Anglaise (Vanilla)",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "name": "Cr\u00e8me Anglaise (Vanilla)",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9395,7 +9395,7 @@
         "Beat yolks until homogenous. Add sugar and a pinch of kosher salt; whisk to combine.",
         "Temper: gradually ladle the hot milk/cream mixture into the yolks, whisking continuously. After ~4 ladles, the yolks reach the milk's temperature.",
         "Whisk the tempered mixture back into the saucepot with the remaining vanilla cream.",
-        "Switch to a flat-bottom wooden spoon and stir as you cook to 185°F. Coat should be thick enough that a swipe across the back of the spoon remains.",
+        "Switch to a flat-bottom wooden spoon and stir as you cook to 185\u00b0F. Coat should be thick enough that a swipe across the back of the spoon remains.",
         "Strain through a chinois into a mixing bowl set in an ice bath. Remove vanilla pod for another use. Whisk to cool to room temperature."
       ],
       "notes": "If it curdles, recover by blending. Variations: chocolate (strain hot sauce over chocolate to melt); coffee (add grounds while cooking, then strain). Save the vanilla pod for vanilla sugar."
@@ -9403,7 +9403,7 @@
     {
       "id": "r104",
       "name": "Swiss Meringue with Macerated Strawberries",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9471,7 +9471,7 @@
           "pantryKey": "vanilla-bean"
         },
         {
-          "name": "crème anglaise (for plating)",
+          "name": "cr\u00e8me anglaise (for plating)",
           "qty": null,
           "unit": "",
           "pantryKey": null
@@ -9490,21 +9490,21 @@
         }
       ],
       "instructions": [
-        "Macerated strawberries & coulis: add quartered strawberries to a bowl and mix in sugar (start at 25 g, add as needed). Place half the macerated berries and lemon juice in a beaker, blend with an immersion blender, strain the purée and reserve. Set aside the other half for garnish.",
-        "Meringue: combine egg whites, granulated sugar, and vanilla in a mixing bowl. Place over simmering water and whisk to 150°F.",
-        "Transfer to stand mixer bowl. Whip low → medium-high, then add sifted powdered sugar and whip on high.",
+        "Macerated strawberries & coulis: add quartered strawberries to a bowl and mix in sugar (start at 25 g, add as needed). Place half the macerated berries and lemon juice in a beaker, blend with an immersion blender, strain the pur\u00e9e and reserve. Set aside the other half for garnish.",
+        "Meringue: combine egg whites, granulated sugar, and vanilla in a mixing bowl. Place over simmering water and whisk to 150\u00b0F.",
+        "Transfer to stand mixer bowl. Whip low \u2192 medium-high, then add sifted powdered sugar and whip on high.",
         "Whip ~15 minutes until glossy with stiff peaks.",
-        "Arrange a silpat-lined sheet pan. Keep a quenelle spoon in the hot water — sticky meringue slides off cleanly. Form 6 quenelles.",
-        "Bake at 180°F for 45 minutes. Look for a crackly exterior crust and a soft, creamy interior.",
+        "Arrange a silpat-lined sheet pan. Keep a quenelle spoon in the hot water \u2014 sticky meringue slides off cleanly. Form 6 quenelles.",
+        "Bake at 180\u00b0F for 45 minutes. Look for a crackly exterior crust and a soft, creamy interior.",
         "Lightly torch the peaks to caramelize, dust with confectioners' sugar.",
-        "Plate with macerated strawberries, strawberry purée, whole strawberries, crème anglaise, and a pop of lime zest."
+        "Plate with macerated strawberries, strawberry pur\u00e9e, whole strawberries, cr\u00e8me anglaise, and a pop of lime zest."
       ],
       "notes": "Swiss meringue technique: gently beat whites + sugar over a bain-marie before whipping. Stable, silky, ideal for buttercream too."
     },
     {
       "id": "r105",
       "name": "Soft-Boiled Eggs",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9545,18 +9545,18 @@
         }
       ],
       "instructions": [
-        "Place eggs in a saucepot, cover with cold water by at least ½ inch, bring to a gentle boil.",
+        "Place eggs in a saucepot, cover with cold water by at least \u00bd inch, bring to a gentle boil.",
         "Once boiling, lower heat to maintain the boil and start a 5-minute timer.",
         "After 5 minutes, run cold water over the eggs until just cool enough to handle (peels easier while warm).",
         "Peel in a cool water bath, removing the thin membrane under the shell.",
         "Top with EVOO and finishing salt (fleur de sel or Maldon)."
       ],
-      "notes": "Keller's daily morning ritual. Times vary with egg size, pot size, and burner — find your timing (try 4/5/6/7 min)."
+      "notes": "Keller's daily morning ritual. Times vary with egg size, pot size, and burner \u2014 find your timing (try 4/5/6/7 min)."
     },
     {
       "id": "r106",
       "name": "Scrambled Eggs (American & French Style)",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9595,7 +9595,7 @@
           "pantryKey": "butter"
         },
         {
-          "name": "crème fraîche",
+          "name": "cr\u00e8me fra\u00eeche",
           "qty": 25,
           "unit": "g",
           "pantryKey": "creme-fraiche"
@@ -9634,17 +9634,17 @@
       "instructions": [
         "Both styles: crack each egg into a small bowl first to catch shell, then transfer to mixing bowl. Season with kosher salt. Whisk. For more refinement, blend then pass through a chinois.",
         "American style: heat nonstick pan over very low heat. Add ~2 Tbsp (32 g) butter. Pour in eggs and gently scramble with rubber spatula as they set.",
-        "Remove pan before eggs are fully done — they continue cooking. Stir in 25 g crème fraîche and spoon onto a plate. Finish with parsley and Maldon.",
-        "French style (oeufs brouillés): set saucier over low heat. Add ~3 Tbsp (48 g) butter, pour in eggs. Whisk slowly and continuously to emulsify the butter and gently cook.",
+        "Remove pan before eggs are fully done \u2014 they continue cooking. Stir in 25 g cr\u00e8me fra\u00eeche and spoon onto a plate. Finish with parsley and Maldon.",
+        "French style (oeufs brouill\u00e9s): set saucier over low heat. Add ~3 Tbsp (48 g) butter, pour in eggs. Whisk slowly and continuously to emulsify the butter and gently cook.",
         "When eggs are semi-liquid but resemble porridge, turn off heat. Look for small curds pulling from the bottom and sides.",
-        "Whisk in ~½ Tbsp butter, 1 Tbsp crème fraîche, and parsley to taste. Spoon into a serving bowl, finish with Maldon, serve with brioche soldiers."
+        "Whisk in ~\u00bd Tbsp butter, 1 Tbsp cr\u00e8me fra\u00eeche, and parsley to taste. Spoon into a serving bowl, finish with Maldon, serve with brioche soldiers."
       ],
       "notes": "Slow heat is essential to both. Refinement step (blend + chinois) elevates texture."
     },
     {
       "id": "r107",
       "name": "Poached Eggs",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9686,16 +9686,16 @@
         "Bring water and vinegar to a gentle simmer (taste for slightly acidic).",
         "Crack each egg into its own small bowl.",
         "Create a vortex by swirling vigorously around the edges of the pot. Slip an egg into the center; it sets into a teardrop shape.",
-        "Reinvigorate the vortex; add the next egg. Poach only 2–3 at a time.",
+        "Reinvigorate the vortex; add the next egg. Poach only 2\u20133 at a time.",
         "After 2 minutes, gently lift with a slotted spoon and check yolk softness. Return if too soft.",
         "Drain on paper towel; trim stringy whites with kitchen scissors. Serve on sliced brioche."
       ],
-      "notes": "Vinegar helps set the white. For batch poaching: poach ahead, ice bath, then reheat in simmering water 30–45 sec."
+      "notes": "Vinegar helps set the white. For batch poaching: poach ahead, ice bath, then reheat in simmering water 30\u201345 sec."
     },
     {
       "id": "r108",
       "name": "French Omelet",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9728,7 +9728,7 @@
           "pantryKey": "butter"
         },
         {
-          "name": "crème fraîche",
+          "name": "cr\u00e8me fra\u00eeche",
           "qty": 25,
           "unit": "g",
           "pantryKey": "creme-fraiche"
@@ -9755,17 +9755,17 @@
       "instructions": [
         "Crack each egg into a small bowl, then transfer to a beaker. Blend with immersion blender and pass through a chinois.",
         "Brush nonstick pan with beurre pommade; set over lowest heat. Pour in eggs.",
-        "When eggs start to set at the edges, transfer to a 250°F oven for 3–4 minutes — eggs begin to set and thicken but are not fully set.",
-        "Spread crème fraîche down the center, sprinkle with fines herbes and finishing salt.",
+        "When eggs start to set at the edges, transfer to a 250\u00b0F oven for 3\u20134 minutes \u2014 eggs begin to set and thicken but are not fully set.",
+        "Spread cr\u00e8me fra\u00eeche down the center, sprinkle with fines herbes and finishing salt.",
         "Roll one edge to the center, continue rolling until you can slide the omelet seam-side down onto a plate.",
         "Brush lightly with beurre pommade for sheen, finish with more fines herbes and Maldon."
       ],
-      "notes": "Mantra: slow, slow, slow. Beurre pommade is butter at mayonnaise-soft texture. Fillings to try: sautéed mushrooms, melted leeks, diced bacon (warmed first)."
+      "notes": "Mantra: slow, slow, slow. Beurre pommade is butter at mayonnaise-soft texture. Fillings to try: saut\u00e9ed mushrooms, melted leeks, diced bacon (warmed first)."
     },
     {
       "id": "r109",
       "name": "Fresh Egg Pasta Dough (Tipo 00)",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9821,14 +9821,14 @@
         "With two fingers, swirl the ingredients, incorporating flour gradually until it becomes a thick paste.",
         "Use the bench scraper to fold flour over the paste and cut it in. Knead until the dough is a smooth ball.",
         "If sticky, add small amounts of reserved flour as needed.",
-        "Seal in plastic bag and refrigerate at least 4–5 hours (or overnight) to let gluten relax."
+        "Seal in plastic bag and refrigerate at least 4\u20135 hours (or overnight) to let gluten relax."
       ],
-      "notes": "Right consistency matters more than exact measurements — flour moisture and humidity vary. Italian grandmothers test the dough by feeling for the suppleness of their earlobe. Refrigerate at least 4–5 hours, or make a day ahead."
+      "notes": "Right consistency matters more than exact measurements \u2014 flour moisture and humidity vary. Italian grandmothers test the dough by feeling for the suppleness of their earlobe. Refrigerate at least 4\u20135 hours, or make a day ahead."
     },
     {
       "id": "r110",
       "name": "Pea & Mascarpone Agnolotti",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9890,20 +9890,20 @@
         "Process peas to smooth, add mascarpone and brioche crumbs, blend until homogeneous. Season with salt.",
         "Pass farce through a tamis into a shallow container. Press plastic wrap on surface to prevent skin. Chill.",
         "Pipe farce: insert 9/16-inch piping tip in bag, snip plastic to edge of tip, fill bag (don't overfill).",
-        "Shape agnolotti: cut a piece of dough slightly smaller than a stick of butter. Flatten to ~⅜ inch, run through pasta machine at widest setting. Fold in half and run through again, feeding folded edge first. Repeat 3–4 more times to develop a smooth texture.",
+        "Shape agnolotti: cut a piece of dough slightly smaller than a stick of butter. Flatten to ~\u215c inch, run through pasta machine at widest setting. Fold in half and run through again, feeding folded edge first. Repeat 3\u20134 more times to develop a smooth texture.",
         "Decrease pasta roller width to next setting, run dough through twice. Repeat, progressively reducing thickness, until the dough is very thin and translucent. Use as little flour as possible.",
         "Lightly flour the pasta board. Lay dough sheet down. Pipe a bead of farce down the length of the center. Fold dough over the top.",
-        "Use your thumb to compress dough around the farce, then again to tighten. Pinch the bead between forefingers and thumbs to compress into ~⅝-inch wide pillows. Compress once more to seal.",
-        "With fluted pasta wheel, trim along the dough leaving ⅜ inch at the edge of the pillows. Starting from one end, with a quick decisive motion, roll through the middle of the pinched area between pillows to separate.",
+        "Use your thumb to compress dough around the farce, then again to tighten. Pinch the bead between forefingers and thumbs to compress into ~\u215d-inch wide pillows. Compress once more to seal.",
+        "With fluted pasta wheel, trim along the dough leaving \u215c inch at the edge of the pillows. Starting from one end, with a quick decisive motion, roll through the middle of the pinched area between pillows to separate.",
         "Inspect each agnolotti to ensure sealed edges; pinch as needed. Line up on an offset palette knife and transfer to a parchment-lined sheet pan in evenly spaced rows.",
         "Refrigerate, or freeze on the tray and transfer to a sealed bag for storage."
       ],
-      "notes": "Work in small batches so dough doesn't dry. Piedmont-region pasta — pillows trap sauce in the rolled-over pocket. Pairs with the Agnolotti with Peas and Bacon finish (next recipe)."
+      "notes": "Work in small batches so dough doesn't dry. Piedmont-region pasta \u2014 pillows trap sauce in the rolled-over pocket. Pairs with the Agnolotti with Peas and Bacon finish (next recipe)."
     },
     {
       "id": "r111",
       "name": "Agnolotti with Peas and Bacon",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -9972,21 +9972,21 @@
         }
       ],
       "instructions": [
-        "Parmesan crisp: finely grate Parmesan. Heat nonstick pan over medium. Sprinkle Parmesan in even ⅛-inch layer across the bottom. Cook until golden and lacy. Remove with small offset palette knife and drape over a small cup while hot. Cool. (Can be made up to 1 hour ahead.)",
+        "Parmesan crisp: finely grate Parmesan. Heat nonstick pan over medium. Sprinkle Parmesan in even \u215b-inch layer across the bottom. Cook until golden and lacy. Remove with small offset palette knife and drape over a small cup while hot. Cool. (Can be made up to 1 hour ahead.)",
         "Bring a stockpot of water to a simmer, season with salt.",
-        "Heat sauté pan over medium. Add chicken stock and a splash of water; simmer.",
+        "Heat saut\u00e9 pan over medium. Add chicken stock and a splash of water; simmer.",
         "Add butter, season with salt and champagne vinegar (vinegar cuts the fat and elevates flavor).",
         "Drop agnolotti in the pasta water; stir gently to prevent sticking. Cook until they float (time depends on size and whether frozen). Pasta finishes in the sauce.",
-        "Transfer floating agnolotti to the sauté pan with a skimmer. Swirl to coat. Adjust consistency with more stock if needed; add a little more butter to tighten the emulsion.",
+        "Transfer floating agnolotti to the saut\u00e9 pan with a skimmer. Swirl to coat. Adjust consistency with more stock if needed; add a little more butter to tighten the emulsion.",
         "Add peas and bacon; cook until heated through.",
         "Spoon into a serving dish and top with the Parmesan crisp."
       ],
-      "notes": "Single portion — stock/butter don't scale linearly for larger batches and may need a wider pan. Base technique applies to any flavor combo you'd build into a butter sauce."
+      "notes": "Single portion \u2014 stock/butter don't scale linearly for larger batches and may need a wider pan. Base technique applies to any flavor combo you'd build into a butter sauce."
     },
     {
       "id": "r112",
       "name": "Spaghetti alla Chitarra & Cavatelli (Shaping)",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -10020,10 +10020,10 @@
       ],
       "instructions": [
         "Spaghetti alla chitarra: roll pasta sheet to slightly less than the thickness of a spaghetti noodle.",
-        "Trim sheet to fit over the chitarra strings. Allow the sheet to dry a few minutes — keeps strands separated.",
+        "Trim sheet to fit over the chitarra strings. Allow the sheet to dry a few minutes \u2014 keeps strands separated.",
         "Roll a rolling pin over the sheet to push it through the steel strings.",
         "Spread noodles on a parchment-lined baking sheet to dry.",
-        "Cavatelli: roll dough into 1/16-inch sheet. Cut into ⅜-inch wide ribbons. Cut ribbons into 1-inch pieces.",
+        "Cavatelli: roll dough into 1/16-inch sheet. Cut into \u215c-inch wide ribbons. Cut ribbons into 1-inch pieces.",
         "Place each rectangle on the ridged side of a gnocchi paddle. With the edge of a butter knife, press the edge closest to you. Push down with your thumb and roll forward to curl the dough into the cavatelli shape (tightly rolled 'C')."
       ],
       "notes": "Two shaping techniques. Storage: dry pasta on sheet pan or as nests (keeps up to 1 month); or freeze on sheet pan and transfer to bag (up to 2 weeks)."
@@ -10031,7 +10031,7 @@
     {
       "id": "r113",
       "name": "Spaghetti Aglio e Olio (with Garlic Confit & Bottarga)",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -10058,19 +10058,19 @@
           "pantryKey": "spaghetti"
         },
         {
-          "name": "garlic confit, puréed",
+          "name": "garlic confit, pur\u00e9ed",
           "qty": 20,
           "unit": "g",
           "pantryKey": null
         },
         {
-          "name": "garlic confit cloves (6–8 medium)",
+          "name": "garlic confit cloves (6\u20138 medium)",
           "qty": 20,
           "unit": "g",
           "pantryKey": null
         },
         {
-          "name": "Italian parsley, émincer",
+          "name": "Italian parsley, \u00e9mincer",
           "qty": 1,
           "unit": "pinch",
           "pantryKey": "parsley"
@@ -10101,21 +10101,21 @@
         }
       ],
       "instructions": [
-        "Bring water to a simmer in a pasta pentola; lightly season with salt (water will form the sauce base — don't over-season).",
+        "Bring water to a simmer in a pasta pentola; lightly season with salt (water will form the sauce base \u2014 don't over-season).",
         "Blanch dried pasta until it bends but is still very al dente.",
         "Lift pasta to a 2-quart saucier with a strainer basket. Ladle enough pasta water to cover and bring to a simmer.",
-        "Spoon in garlic confit purée and stir with pasta fork to distribute. Continue cooking to glaze in the liquid to sauce consistency.",
-        "Taste for doneness — add more pasta water and cook longer if needed.",
+        "Spoon in garlic confit pur\u00e9e and stir with pasta fork to distribute. Continue cooking to glaze in the liquid to sauce consistency.",
+        "Taste for doneness \u2014 add more pasta water and cook longer if needed.",
         "Add the whole confit garlic cloves and heat through. Drizzle in EVOO and sprinkle parsley.",
         "Twist pasta on a fork into a serving dish. Spoon remaining garlic and sauce over. Finish with EVOO, lemon zest, and grated bottarga.",
         "Without bottarga: garlic confit + lemon zest still finishes the dish beautifully."
       ],
-      "notes": "Uses dried spaghetti alla chitarra from the prior recipe and garlic confit from earlier in the workbook. Bottarga di muggine is salt-cured mullet roe — it brings a briny umami punch."
+      "notes": "Uses dried spaghetti alla chitarra from the prior recipe and garlic confit from earlier in the workbook. Bottarga di muggine is salt-cured mullet roe \u2014 it brings a briny umami punch."
     },
     {
       "id": "r114",
       "name": "Potato Gnocchi",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -10160,11 +10160,11 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 350°F. Pierce potatoes with a fork. Pour a generous mound of salt on a baking sheet, set potatoes on top to stabilize.",
+        "Preheat oven to 350\u00b0F. Pierce potatoes with a fork. Pour a generous mound of salt on a baking sheet, set potatoes on top to stabilize.",
         "Bake 1 hour, test with paring knife for done-ness. Soft and fully cooked. Brush off excess salt.",
         "While potatoes are still hot, scoop flesh from jackets and push through a ricer onto a pasta board.",
         "Form a well, sprinkle with flour. Add egg yolks, season with salt, sprinkle more flour. Use a bench scraper to mix.",
-        "Gently form a ball — do not knead (gluten → gummy gnocchi). Dough should be soft and hold a fingerprint.",
+        "Gently form a ball \u2014 do not knead (gluten \u2192 gummy gnocchi). Dough should be soft and hold a fingerprint.",
         "With fingers (not palms), roll dough into a rope of your desired diameter. Cut into pieces and roll each into a ball.",
         "Gently roll each ball on a gnocchi paddle to form ridged, ovular gnocchi; let pieces fall onto a sheet pan.",
         "Season simmering water with salt. Test one gnocchi.",
@@ -10177,7 +10177,7 @@
     {
       "id": "r115",
       "name": "Gnocchi with Pomodoro Sauce",
-      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "source": "Thomas Keller MasterClass \u2014 Cooking Techniques I",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
       "mealType": [
@@ -10258,10 +10258,10 @@
         }
       ],
       "instructions": [
-        "Cut tomatoes in half on the equator, squeeze out seeds, and grate the seeded tomatoes on the fine side of a box grater into a bowl, leaving the skin behind (technique from Chef José Andrés).",
-        "Heat sauté pan over high heat. Add enough oil to barely coat the bottom.",
+        "Cut tomatoes in half on the equator, squeeze out seeds, and grate the seeded tomatoes on the fine side of a box grater into a bowl, leaving the skin behind (technique from Chef Jos\u00e9 Andr\u00e9s).",
+        "Heat saut\u00e9 pan over high heat. Add enough oil to barely coat the bottom.",
         "When you see faint smoke, carefully add gnocchi and shake gently to prevent sticking. Let them lightly caramelize. Use the sloped edge of the pan to make them jump for even caramelization.",
-        "Season with salt. Remove pan from heat and grate in garlic. Return to heat and lightly sauté the garlic.",
+        "Season with salt. Remove pan from heat and grate in garlic. Return to heat and lightly saut\u00e9 the garlic.",
         "Add grated fresh tomatoes. Season with more salt and a bit of vinegar to taste (Parmesan will add salt later).",
         "Remove from heat and top with torn basil. Spoon gnocchi and sauce onto a serving dish; finish with microplaned Parmesan."
       ],
@@ -10321,7 +10321,7 @@
           "pantryKey": "salt"
         },
         {
-          "name": "ají paste",
+          "name": "aj\u00ed paste",
           "qty": 1,
           "unit": "tbsp",
           "pantryKey": "aji-paste"
@@ -10393,7 +10393,7 @@
           "pantryKey": "fresno-chili"
         },
         {
-          "name": "red jalapeño slices",
+          "name": "red jalape\u00f1o slices",
           "qty": null,
           "unit": "",
           "pantryKey": "jalapeno"
@@ -10409,9 +10409,9 @@
         "Start with the avocado puree. Cut the avocado in quarters. Take out the pit and use a spoon to scrape out the contents. Pass it through a tamis, or blend it in a small blender. Squeeze in the lemon juice and season with salt.",
         "Make the vinaigrette. Combine the chili paste and orange juice in a small bowl. Stir well. Season with salt.",
         "Make the ponzu sauce. In another small bowl, add the soy sauce. Grate in ginger using a microplane. Squeeze in lemon juice. Mix together.",
-        "Salad: slice fennel bulb and apple on a mandolin. Julienne the slices and place in a bowl. Cut mesclun greens and add. Season with salt. Immediately dress with the ají chili vinaigrette to prevent browning.",
+        "Salad: slice fennel bulb and apple on a mandolin. Julienne the slices and place in a bowl. Cut mesclun greens and add. Season with salt. Immediately dress with the aj\u00ed chili vinaigrette to prevent browning.",
         "Cut the tuna on an angle into pieces about 1/8 inch thick. Put 1/2 tsp ginger on each slice of tuna and roll up.",
-        "To plate: spread avocado puree across half the plate. Place 5 tuna pieces on the puree, drizzle ponzu. Pile salad in the center. Scatter radishes, jalapeños, daikon sprouts, edible flowers. Garnish by breaking pieces of broiled rice paper around the salad. Drizzle vinaigrette."
+        "To plate: spread avocado puree across half the plate. Place 5 tuna pieces on the puree, drizzle ponzu. Pile salad in the center. Scatter radishes, jalape\u00f1os, daikon sprouts, edible flowers. Garnish by breaking pieces of broiled rice paper around the salad. Drizzle vinaigrette."
       ],
       "notes": "Wolfgang suggests yellowtail, bigeye, or farm-raised bluefin as alternatives."
     },
@@ -10505,10 +10505,10 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 500°F. Roast veal bones on a roasting pan for 45 min. Add celery, carrots, onions, garlic, peppercorns, thyme, rosemary, bay leaves; roast another 20 min.",
+        "Preheat oven to 500\u00b0F. Roast veal bones on a roasting pan for 45 min. Add celery, carrots, onions, garlic, peppercorns, thyme, rosemary, bay leaves; roast another 20 min.",
         "Deglaze pan with red wine; add tomato paste. Transfer everything (including wine and pan scrapings) to stockpot.",
         "Pressure cooker: add 4 qt water; lock and cook 1 hr 30 min, let sit 20 min.",
-        "Stockpot: add 4 qt water; simmer on low 5–6 hrs.",
+        "Stockpot: add 4 qt water; simmer on low 5\u20136 hrs.",
         "Demi-glace: strain stock into saucepot. Simmer uncovered over medium-high until reduced by half. Transfer to containers or ice cube trays."
       ],
       "notes": "Yields ~2 qt stock, 1 qt demi-glace. Foundation for many sauces."
@@ -10604,10 +10604,10 @@
         }
       ],
       "instructions": [
-        "Combine raisins and red wine in a sauté pan over medium heat to plump the raisins.",
+        "Combine raisins and red wine in a saut\u00e9 pan over medium heat to plump the raisins.",
         "Crush all peppercorns in a ziplock bag. Pour onto a plate.",
         "Cut steaks (thicker for rare, thinner for well-done). Season both sides with salt; coat with crushed peppercorns.",
-        "Heat large sauté pan on high; add olive oil and bring to light smoke. Sear steaks 3–4 min per side. Rest on baking rack in warm oven.",
+        "Heat large saut\u00e9 pan on high; add olive oil and bring to light smoke. Sear steaks 3\u20134 min per side. Rest on baking rack in warm oven.",
         "Pan sauce: pour the wine-raisin mixture into the hot pan, reduce. Add demi-glace, whisk. Lower heat; add heavy cream, whisk and reduce until it coats the back of a spoon. Season with salt.",
         "To plate: slice steak into 8 pieces, fan onto plate. Watercress alongside; drizzle with olive oil and spoon sauce over and around."
       ],
@@ -10740,8 +10740,8 @@
         }
       ],
       "instructions": [
-        "Farro: combine water, farro, 2 tsp salt in a saucepan. Boil, then reduce and simmer covered 15–20 min until tender. Drain and cool in a bowl.",
-        "Carrots: preheat oven to 450°F. Heat olive oil in sauté pan, add shallot and garlic. Add carrots; squeeze lemon over. Toss. Roast 15–18 min. Cool, then halve or third.",
+        "Farro: combine water, farro, 2 tsp salt in a saucepan. Boil, then reduce and simmer covered 15\u201320 min until tender. Drain and cool in a bowl.",
+        "Carrots: preheat oven to 450\u00b0F. Heat olive oil in saut\u00e9 pan, add shallot and garlic. Add carrots; squeeze lemon over. Toss. Roast 15\u201318 min. Cool, then halve or third.",
         "Vinaigrette: in a bowl combine greek yogurt, shallot, blood orange peel, carrot tops (or mint). Add blood orange juice and lemon juice. Season; thin with more juice if needed. Pour into farro.",
         "To plate: spoon farro down center. Top with roasted carrots, blood orange and orange segments, watercress, edible flowers, carrot ribbons."
       ],
@@ -10849,9 +10849,9 @@
         }
       ],
       "instructions": [
-        "Preheat oven to 500°F. Season chicken with salt and pepper. Heat sauté pan over medium-high, coat with olive oil. Sear chicken skin-side down 3–4 min.",
-        "When skin is golden, transfer pan to oven 8–12 min, until internal temp hits 165°F.",
-        "Back on stovetop, flip chicken. Add garlic and thyme. Baste until skin is golden and temp confirms 165°F. Rest on rack; remove thyme and garlic.",
+        "Preheat oven to 500\u00b0F. Season chicken with salt and pepper. Heat saut\u00e9 pan over medium-high, coat with olive oil. Sear chicken skin-side down 3\u20134 min.",
+        "When skin is golden, transfer pan to oven 8\u201312 min, until internal temp hits 165\u00b0F.",
+        "Back on stovetop, flip chicken. Add garlic and thyme. Baste until skin is golden and temp confirms 165\u00b0F. Rest on rack; remove thyme and garlic.",
         "Sauce: deglaze pan with port wine. Reduce. Add veal demi-glace, whisk, reduce ~1 min. Off heat, whisk in whole grain and Dijon mustards. Season.",
         "Salad: combine dandelion greens, broccolini, parsley. Drizzle lemon juice and olive oil. Toss; season.",
         "Plate chicken skin-side up; sauce on top and around; salad alongside."
@@ -10860,7 +10860,7 @@
     },
     {
       "id": "r121",
-      "name": "Béchamel Sauce, Mac & Cheese, and Creamed Spinach",
+      "name": "B\u00e9chamel Sauce, Mac & Cheese, and Creamed Spinach",
       "source": "Wolfgang Puck MasterClass",
       "sourceUrl": null,
       "dateAdded": "2026-06-13",
@@ -10883,7 +10883,7 @@
       "cookTime": null,
       "ingredients": [
         {
-          "name": "unsalted butter (béchamel)",
+          "name": "unsalted butter (b\u00e9chamel)",
           "qty": 5,
           "unit": "tbsp",
           "pantryKey": "butter"
@@ -10937,7 +10937,7 @@
           "pantryKey": "mozzarella"
         },
         {
-          "name": "béchamel",
+          "name": "b\u00e9chamel",
           "qty": 2,
           "unit": "cups",
           "pantryKey": null
@@ -10974,14 +10974,14 @@
         }
       ],
       "instructions": [
-        "Béchamel: melt butter in saucepot over medium. Add flour gradually, stir smooth; cook 2–3 min. Heat milk separately just below boil. Add hot milk to butter-flour 1/2 cup at a time, whisking constantly. Cook 12 min, stirring. Off heat, whisk in egg yolks one at a time. Season with salt and nutmeg.",
-        "Mac and Cheese: preheat oven to 500°F. Coat cooked macaroni with béchamel (don't drown). Add cheddar and mozzarella, toss. Season.",
-        "Transfer to cast iron skillet. Top with breadcrumbs and dots of butter. Bake 8–12 min until golden.",
-        "Creamed Spinach: sauté spinach in olive oil in batches until just wilted. Shock in ice bath, wring out, chop finely.",
-        "Warm béchamel; fold spinach in to taste, thinning with milk if needed. Season.",
+        "B\u00e9chamel: melt butter in saucepot over medium. Add flour gradually, stir smooth; cook 2\u20133 min. Heat milk separately just below boil. Add hot milk to butter-flour 1/2 cup at a time, whisking constantly. Cook 12 min, stirring. Off heat, whisk in egg yolks one at a time. Season with salt and nutmeg.",
+        "Mac and Cheese: preheat oven to 500\u00b0F. Coat cooked macaroni with b\u00e9chamel (don't drown). Add cheddar and mozzarella, toss. Season.",
+        "Transfer to cast iron skillet. Top with breadcrumbs and dots of butter. Bake 8\u201312 min until golden.",
+        "Creamed Spinach: saut\u00e9 spinach in olive oil in batches until just wilted. Shock in ice bath, wring out, chop finely.",
+        "Warm b\u00e9chamel; fold spinach in to taste, thinning with milk if needed. Season.",
         "Fry eggs in butter; season. Place one on top of each portion of creamed spinach."
       ],
-      "notes": "Béchamel is one of the five French mother sauces; becomes Mornay when cheese is added."
+      "notes": "B\u00e9chamel is one of the five French mother sauces; becomes Mornay when cheese is added."
     },
     {
       "id": "r122",
@@ -11105,8 +11105,8 @@
       ],
       "instructions": [
         "Herb crust: pulse breadcrumbs, parsley, rosemary, thyme, tarragon, chives in food processor until herbs are minced and breadcrumbs are green. Transfer to baking sheet.",
-        "Preheat oven to 550°F or broil. Oil a baking sheet. Brush fillets with olive oil, season. Press meat-side into the breadcrumbs to coat. Lay skin-side down; cook 5–8 min.",
-        "Beurre blanc: olive oil in sauté pan over medium. Sauté shallots until translucent. Deglaze with white wine; add tarragon. Reduce. Add lemon juice (thin with water if over-reduced). Whisk in butter gradually. Season. Add capers, tomatoes, parsley, lemon segments; whisk to combine.",
+        "Preheat oven to 550\u00b0F or broil. Oil a baking sheet. Brush fillets with olive oil, season. Press meat-side into the breadcrumbs to coat. Lay skin-side down; cook 5\u20138 min.",
+        "Beurre blanc: olive oil in saut\u00e9 pan over medium. Saut\u00e9 shallots until translucent. Deglaze with white wine; add tarragon. Reduce. Add lemon juice (thin with water if over-reduced). Whisk in butter gradually. Season. Add capers, tomatoes, parsley, lemon segments; whisk to combine.",
         "Plate fillet skin-side down; spoon sauce around."
       ],
       "notes": "Branzino is Mediterranean sea bass. Wolfgang loves tarragon for fish."
@@ -11226,7 +11226,7 @@
           "pantryKey": "morels"
         },
         {
-          "name": "snap peas, cut at a 45° angle",
+          "name": "snap peas, cut at a 45\u00b0 angle",
           "qty": 1,
           "unit": "cups",
           "pantryKey": "snap-peas"
@@ -11245,10 +11245,10 @@
         }
       ],
       "instructions": [
-        "Vegetable stock: in stockpot over medium-high, sauté leek, carrots, celery in olive oil. Add thyme and cover with water. Simmer 1 hr. Strain through chinois. Keep hot.",
-        "Risotto: coat saucepot with olive oil over medium-high. Sauté shallots and garlic without browning. Add oats; coat in fat. Deglaze with white wine. Slowly add hot stock one ladle at a time, stirring constantly, until creamy with slight firmness. Season.",
+        "Vegetable stock: in stockpot over medium-high, saut\u00e9 leek, carrots, celery in olive oil. Add thyme and cover with water. Simmer 1 hr. Strain through chinois. Keep hot.",
+        "Risotto: coat saucepot with olive oil over medium-high. Saut\u00e9 shallots and garlic without browning. Add oats; coat in fat. Deglaze with white wine. Slowly add hot stock one ladle at a time, stirring constantly, until creamy with slight firmness. Season.",
         "Pea puree: boil 4 cups salted water; add peas until they float. Blanch in ice water for color. Puree in blender (add blanching liquid as needed) until smooth.",
-        "Vegetables: quarter morels; submerge in water, lift out by hand to leave grit. Heat olive oil in sauté pan, add morels, salt, pepper, thyme, shallots, garlic. Cook until water evaporates. Add snap peas briefly to keep crunch. Season.",
+        "Vegetables: quarter morels; submerge in water, lift out by hand to leave grit. Heat olive oil in saut\u00e9 pan, add morels, salt, pepper, thyme, shallots, garlic. Cook until water evaporates. Add snap peas briefly to keep crunch. Season.",
         "Fold a small amount of pea puree into the risotto just before serving for color. Freeze the rest.",
         "Plate: scoop risotto into the center, shake to spread. Spoon morels in the center. Top with pea tendrils, mint, a squeeze of lemon, drizzle of olive oil."
       ],
@@ -11399,7 +11399,7 @@
         }
       ],
       "instructions": [
-        "Clam stock: in stockpot over medium-high, heat olive oil. Add vegetables and tarragon. Deglaze with ~2 cups white wine. Reduce by half, add washed clams, cover. Steam until clams open, 8–12 min. Strain juice through fine sieve over ice. Remove clams.",
+        "Clam stock: in stockpot over medium-high, heat olive oil. Add vegetables and tarragon. Deglaze with ~2 cups white wine. Reduce by half, add washed clams, cover. Steam until clams open, 8\u201312 min. Strain juice through fine sieve over ice. Remove clams.",
         "Tomato broth: in a bowl combine tomatoes, paprika, cayenne, sherry vinegar, olive oil, salt (can marinate overnight). Pass through food mill or blend and sieve. Add 2 cups clam juice; whisk. Taste.",
         "Plate: arrange lobster pieces in the center of the bowl with cucumber slices. Pour ~1 cup soup. Place a shelled clam in the center. Garnish with cherry tomato slices, kumquats, gooseberries, grape slices, clam meat, diced celery, celery leaves. Squeeze lemon. Drizzle olive oil."
       ],
@@ -11624,7 +11624,7 @@
       "instructions": [
         "Pour peach puree into a pitcher with ice. Slowly pour in champagne, stir gently. Taste.",
         "Strain into glasses; top with more sparkling wine if desired.",
-        "Peach puree: blanch peaches 15–20 sec, shock, peel. Halve, pit, chop. Combine with lemon juice and sugar; blend; pass through a fine sieve."
+        "Peach puree: blanch peaches 15\u201320 sec, shock, peel. Halve, pit, chop. Combine with lemon juice and sugar; blend; pass through a fine sieve."
       ],
       "notes": "Veneto-region summer cocktail."
     },
@@ -11658,7 +11658,7 @@
           "pantryKey": "tomatoes"
         },
         {
-          "name": "jalapeño slices",
+          "name": "jalape\u00f1o slices",
           "qty": 2,
           "unit": "",
           "pantryKey": "jalapeno"
@@ -11713,11 +11713,400 @@
         }
       ],
       "instructions": [
-        "Place tomatoes and jalapeño slices in a shaker. Salt and pepper. Add simple syrup, lemon juice, horseradish. Muddle.",
+        "Place tomatoes and jalape\u00f1o slices in a shaker. Salt and pepper. Add simple syrup, lemon juice, horseradish. Muddle.",
         "Add vodka and ice. Shake.",
         "Ice in glass; top with strained Bloody Mary. Garnish with celery stalk and a skewered lemon wedge + cherry tomato."
       ],
       "notes": "Inspired by farmers' market tomatoes."
+    },
+    {
+      "name": "Grilled Steak and Broccolini",
+      "source": "Aaron Franklin MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "beef"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Steak (Aaron uses strip or similar)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "strip-steak"
+        },
+        {
+          "name": "Broccolini",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "broccolini"
+        },
+        {
+          "name": "Grapeseed oil (neutral, high smoke point)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "grapeseed-oil"
+        },
+        {
+          "name": "Kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Flaky sea salt (Maldon), for finishing",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "flaky-salt"
+        }
+      ],
+      "instructions": [
+        "Build a charcoal fire and create different temperature zones: keep coals confined to one area of the grill, with a 'cool zone' on the other side (placing a log on the bottom and dumping coals next to it works well).",
+        "Drizzle a little grapeseed oil on the steak, then season generously with kosher salt well in advance of cooking so it can form a brine and tenderize the muscle.",
+        "Place steak directly over the coals to sear. Flip frequently and move around the grill according to how each side is responding; don't let one side cook unattended for too long.",
+        "If the exterior has a perfect sear but the interior is still spongy, move the steak off the coals into the cool zone to finish via indirect heat. (Or reverse-sear: cook over the cool zone first, then sear over coals at the end.)",
+        "Cook the broccolini on a grate over the coals in a chimney starter (concentrated heat in a small area). Keep the stems over the fire while the more delicate crowns sit unscathed; once the stems are tender, flip the broccolini around and quickly char the crowns.",
+        "Pull the steak at your target internal temperature (120\u00b0F rare, 130\u00b0F medium-rare, 140\u00b0F medium, 150\u00b0F medium-well, 160\u00b0F well done) using an instant-read thermometer.",
+        "Rest the steak a few minutes to reabsorb juices. Slice against the grain.",
+        "Season the slices once more with flaky sea salt before serving alongside the broccolini."
+      ],
+      "notes": "Different temperature zones are the secret. Aaron recommends regular flipping rather than the 'sear-once' school. Maillard browning kicks in above 300\u00b0F exterior temp, while internal target for rare-to-medium is 120-140\u00b0F.",
+      "id": "r129",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Smoked Pork Butt",
+      "source": "Aaron Franklin MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "pork"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": null,
+      "cookTime": "10 hours",
+      "ingredients": [
+        {
+          "name": "Bone-in pork butt, 8-10 pounds",
+          "qty": 8,
+          "unit": "lbs",
+          "pantryKey": "pork-butt"
+        },
+        {
+          "name": "Yellow mustard or hot sauce, for slather",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "yellow-mustard"
+        },
+        {
+          "name": "Kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "16-mesh 'caf\u00e9 grind' black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Paprika, small amount for color",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "paprika"
+        },
+        {
+          "name": "Water, beer, or apple cider vinegar, for spritzing",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "apple-cider-vinegar"
+        }
+      ],
+      "instructions": [
+        "If the pork butt was sold with the skin on, remove it (the skin blocks smoke and rub). Don't bother trimming surface fat \u2014 the pork will be shredded.",
+        "Mix the rub: equal parts kosher salt and 16-mesh black pepper with a small amount of paprika for color. You'll need about 1/2 cup for an 8-10 lb butt.",
+        "Slather the non-presentation side with mustard or hot sauce, then sprinkle the rub in an even layer from side to side. Cup your hand along the sides to press rub onto them.",
+        "Flip butt fat side up. Slather and rub the presentation side. Let rest 30-40 minutes at room temp.",
+        "STAGE 1 (3 hrs): Get smoker to a consistent 270\u00b0F with clean smoke. Place pork butt fat cap up and cook undisturbed.",
+        "STAGE 2 (5 hrs): Spritz thoroughly with water, beer, or apple cider vinegar. Continue at 270\u00b0F for ~5 more hours, spritzing once per hour. Watch for the bark on the fat cap to split as the meat shrinks \u2014 that's the cue to wrap.",
+        "STAGE 3 (wrap, ~8 hr mark): Lay two overlapping wide sheets of aluminum foil shiny side up. Place pork fat side up about 8 inches from the bottom edge. Spritz once more, then spritz the foil. Tightly fold bottom over top, fold sides at obtuse angles, then roll the butt over to encase. Tuck excess foil and feel for air pockets.",
+        "STAGE 4 (2 hrs): Return wrapped butt to smoker. Cook 1 hour at 270\u00b0F, then raise to 295\u00b0F for 1 final hour.",
+        "STAGE 5: After ~10 hours total, internal temp should be just over 200\u00b0F. The meat should feel squishy and soft in your hands. Rest wrapped at room temp for 1 hour.",
+        "Carefully unwrap, saving the juices. Pour juices over the pork and shred with fingers or tongs. Discard or save the bone. Remove or chop in any big unrendered fat pockets. Serve."
+      ],
+      "notes": "Bone-in gives more uniform shape. Pork butt is almost impossible to over-season since the bark will be torn apart and mixed with interior meat.",
+      "id": "r130",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Smoked Pork Spare Ribs",
+      "source": "Aaron Franklin MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "pork"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": null,
+      "cookTime": "6 hours",
+      "ingredients": [
+        {
+          "name": "Rack of pork spare ribs, 3.5-4.5 pounds",
+          "qty": 4,
+          "unit": "lbs",
+          "pantryKey": "spare-ribs"
+        },
+        {
+          "name": "Yellow mustard or hot sauce, for slather",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "yellow-mustard"
+        },
+        {
+          "name": "Kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "16-mesh 'caf\u00e9 grind' black pepper (2:1 pepper-to-salt for ribs)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Paprika, small amount for color",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "paprika"
+        },
+        {
+          "name": "Aaron's rib sauce (see notes)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "Apple cider vinegar, for thinning sauce and spritzing",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "apple-cider-vinegar"
+        }
+      ],
+      "instructions": [
+        "TRIM: Lay rack parallel to cutting board edge. Identify top (straight) and bottom (curved) edges, and presentation (outside) vs inside.",
+        "Remove the sternum and the thick cartilage behind it: cut it off at an angle, then clean the bottom edge with a thin slice along the length, leaving a smooth slightly-curved edge. Round off the far end so the rack has an aerodynamic shape.",
+        "Trim the skirt (diagonal flap on the inside) if still attached. Silverskin is optional \u2014 Aaron leaves it. Feel around and remove any stray bone bits or excess fat.",
+        "RUB: Mix kosher salt and black pepper at a 2:1 ratio (pepper-heavy for ribs) with a small amount of paprika. You'll need ~1/4 cup per rack.",
+        "Slather the inside with mustard or hot sauce, then sprinkle rub from side to side parallel to the bones. Flip and repeat on the presentation side. Go a little heavier with slather and rub on the fattier portions. Let rest at room temp while building the fire.",
+        "STAGE 1 (3 hrs): Get smoker to consistent 265-270\u00b0F with clean smoke. Place ribs in chamber with the thickest part closest to the fire. Spritz edges with water, beer, or apple cider vinegar at the end of hours 1 and 2 as needed.",
+        "STAGE 2 (sauce, ~2.5 hrs in): Mix equal parts warm rib sauce and apple cider vinegar in a squeeze bottle. Spritz the rack thoroughly. Squeeze the diluted sauce on top in an even layer parallel to the bones; work it around with your hand until the entire presentation side is coated. Light spritz again, close lid for ~10 min. Flip and sauce the other side, then close for another 10 min.",
+        "STAGE 3 (wrap): Remove rack by hand (not tongs). Pull out any emerging bone chunks so they don't puncture the foil. Cut a sheet of wide foil twice as long as the rack, shiny side up. Spritz foil and spread a little more sauce on it; lay ribs presentation side DOWN on the sauce about 3 inches from the bottom edge. Spritz the top.",
+        "Wrap: fold both ends over so they overlap in the center. Tuck the foil tight around the bottom edge to conform. Fold over each diagonal corner where the sternum was, then tuck along the top. Fold the top edge over and fold both sides in tightly at obtuse angles.",
+        "STAGE 4 (3 hrs): Return wrapped ribs to smoker with seam facing up; cook 3 more hours at 265-270\u00b0F.",
+        "STAGE 5: Remove and let rest in foil, seam up, for 30-40 minutes. Feel around the sternum for the third rib bone \u2014 soft and pliable means done.",
+        "SERVE: Unwrap, careful not to spill juices. With bottom of ribs facing away, lift the far end of foil and flip the ribs toward you onto the cutting board, presentation side up with juices pouring over. Slice between each bone."
+      ],
+      "notes": "Aaron does a '3-3' cook (3 hrs on, 3 hrs wrapped) rather than the classic '3-2-1'. The diluted sauce reduces sugar that would otherwise burn in the smoker. If the fat looks like it's rendering before you wrap, reduce smoker temp \u2014 render should happen after wrapping so it emulsifies with the sauce. See 'Aaron's Rib Sauce' recipe.",
+      "id": "r131",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Aaron's Rib Sauce",
+      "source": "Aaron Franklin MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": null,
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "Fat (beef tallow, vegetable oil, lard, or bacon fat)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "Large yellow or white onion, roughly chopped",
+          "qty": 0.33,
+          "unit": "",
+          "pantryKey": "yellow-onion"
+        },
+        {
+          "name": "Cloves garlic, roughly chopped",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Light brown sugar",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "brown-sugar"
+        },
+        {
+          "name": "Apple cider vinegar",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "apple-cider-vinegar"
+        },
+        {
+          "name": "Organic or all-natural ketchup",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "ketchup"
+        },
+        {
+          "name": "Smoked paprika",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "smoked-paprika"
+        },
+        {
+          "name": "Mustard powder",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "mustard-powder"
+        },
+        {
+          "name": "Fine sea salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Black pepper",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Worcestershire sauce (4 dashes)",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "worcestershire"
+        }
+      ],
+      "instructions": [
+        "Heat a saucepan over medium heat and add the fat. Once it shimmers, add the onion and cook until soft and translucent, 6-8 minutes. Add the garlic and continue cooking until the onion has browned and the garlic has started turning crisp, about 3 minutes more.",
+        "Add the brown sugar and cook, stirring frequently, until the sugar melts and starts to form a glaze, 2-3 minutes.",
+        "Stir in apple cider vinegar, ketchup, smoked paprika, mustard powder, salt, and pepper. Bring to a simmer and cook 3-5 minutes until thickened slightly. Add 4 dashes of Worcestershire and simmer 1 more minute.",
+        "Transfer to a blender and blend at high speed until smooth and orange-hued, about 1 minute. Pulse once or twice before going to full blend (hot liquids splatter).",
+        "Transfer to a heat-resistant container and cool to room temperature. Store refrigerated up to 1 month."
+      ],
+      "notes": "Worcestershire is measured in dashes (4 dashes). Aaron prefers organic/all-natural ketchup without high-fructose corn syrup \u2014 lower sugar content makes the sauce less likely to burn in the smoker.",
+      "id": "r132",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Smoked Texas-Style Brisket",
+      "source": "Aaron Franklin MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "beef"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": null,
+      "cookTime": "12 hours",
+      "ingredients": [
+        {
+          "name": "Packer-cut brisket (point and flat), ~12 pounds",
+          "qty": 12,
+          "unit": "lbs",
+          "pantryKey": "brisket"
+        },
+        {
+          "name": "Yellow mustard, hot sauce, or water, for slather",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "yellow-mustard"
+        },
+        {
+          "name": "Kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "16-mesh 'caf\u00e9 grind' black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Water, beer, or apple cider vinegar, for spritzing",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "apple-cider-vinegar"
+        }
+      ],
+      "instructions": [
+        "TRIM (cold from fridge): Use a stiff 8-inch boning knife. Remove ~1/2 inch from each long edge (rough/discolored split side) with long smooth strokes to expose the flat. Trim the thin end of the flat if needed so it survives the long cook.",
+        "Lay brisket fat-cap up. Find the dimples where the cap likely ends. Slice into the fat at a curved angle, peeling back the top waxy layer with your other hand. Shave upper layers until a pillowy ~1/4-inch layer of soft white fat remains. Trim some hardened fat from the side of the point. Leave the thick seam-fat pocket under the point in place for now.",
+        "Flip fat-down. Slice off the exposed seam fat at the flat/point junction. Remove the deckle if present (thick hard fat that connected to the rib cage), any silverskin, and stray bits of muscle.",
+        "RUB: Mix equal parts kosher salt and 16-mesh black pepper (~1/2 cup total for a 12 lb brisket). Optionally go a little salt-heavier on the point and pepper-heavier on the flat.",
+        "Slather meat side (fat down) lightly with mustard, hot sauce, or water \u2014 just enough to be tacky. Shake rub across in even side-to-side layers; avoid filling deep pockets. Gently pat in. Cup hand along each edge and pour rub directly into your hand as you move along, pressing onto the side.",
+        "Flip fat side up, slather and rub. Pat in. Let brisket rest at room temp 30-40 minutes.",
+        "STAGE 1 (3 hrs): Bring smoker to a steady 255\u00b0F with clean, bluish smoke. Place brisket point closest to fire, lid closed, undisturbed. This sets the flavor base.",
+        "STAGE 2 (3 hrs): Open and check. Should be mahogany with consistent bark. Spritz dryer/vulnerable edges. Raise temp to 260-265\u00b0F. Cook 3 more hours, checking and spritzing once per hour.",
+        "STAGE 3 (stall, ~hr 6, ~1 hr): At ~165\u00b0F internal the brisket hits the stall (evaporative cooling). Ramp temp to 280-285\u00b0F to push through. After ~1 hour, lift the brisket \u2014 if it bends at the edges, you're through the stall.",
+        "STAGE 4 (wrap): The flat is your barometer \u2014 when it's firm but a little floppy at the edge, and the bark is starting to crack, it's ready. Lay two overlapping wide sheets of butcher paper (preferred) or foil, four times as long as the brisket is wide. Place brisket presentation side up, ~1 foot from bottom edge. Spritz brisket and the paper. Wrap: fold bottom edge over the top tightly, conforming to the shape. Fold one side tightly across the flat at an obtuse angle. Tuck the opposite side under the point, then fold over the top. Roll brisket over once, fold sides again. Fold top end over to double thickness, then roll brisket one more time so presentation side is up with double layer beneath.",
+        "STAGE 5 (~3-4 hrs): Return wrapped brisket to smoker, point closest to fire. Smoke quality no longer matters \u2014 focus on temp. Cook undisturbed at 275-285\u00b0F for ~3 hours, then gradually let temp taper off for the final hour.",
+        "STAGE 6: Check tenderness with hands (use a towel) every ~15 minutes. When the brisket feels loose, soft, and a bit jiggly, pull it. Better too soon than too late.",
+        "REST in the wrap until internal temp drops to 140-150\u00b0F \u2014 at least 30 min, up to 1-2 hours. Carryover cooking continues.",
+        "SLICE just before serving with a long-bladed knife (Aaron uses a 12-inch serrated bread knife). Slice the FLAT first against the grain, starting opposite the point, pencil-width slices, gradually tapering thickness.",
+        "For the POINT: cut off and discard the thick seam-fat pocket beneath one side. Slice the point in half lengthwise (the 'money shot'). Slice ~3/8-inch thick across the grain, tapering on the side closest to you. Trim the second seam-fat pocket from the other half. Reserve the final flat piece and the ridge ('burnt ends'): chop the flat piece for beans or chopped beef, and cut the ridge into bite-size burnt-end snacks."
+      ],
+      "notes": "Look for prime > choice > select grading and good marbling. A thick hard fat cap can signal industrial raising. Trim cold; rub at room temp; smoke at 255\u00b0F \u2192 260-265\u00b0F \u2192 280-285\u00b0F. Butcher paper > foil for breathability and bark. Aaron's preferred slicing knife is an inexpensive 12-inch serrated bread knife.",
+      "id": "r133",
+      "dateAdded": "2026-06-13"
     }
   ],
   "pantryItems": [
@@ -11843,7 +12232,7 @@
     },
     {
       "key": "beef-bouillon",
-      "name": "Beef bouillon/consommé",
+      "name": "Beef bouillon/consomm\u00e9",
       "category": "pantry-staple"
     },
     {
@@ -12103,7 +12492,7 @@
     },
     {
       "key": "jalapeno",
-      "name": "Jalapeño",
+      "name": "Jalape\u00f1o",
       "category": "produce"
     },
     {
@@ -12793,7 +13182,7 @@
     },
     {
       "key": "creme-fraiche",
-      "name": "Crème fraîche",
+      "name": "Cr\u00e8me fra\u00eeche",
       "category": "dairy"
     },
     {
@@ -12813,7 +13202,7 @@
     },
     {
       "key": "aji-paste",
-      "name": "Ají paste",
+      "name": "Aj\u00ed paste",
       "category": "pantry-staple"
     },
     {
@@ -13035,6 +13424,51 @@
       "key": "leeks",
       "name": "Leeks",
       "category": "produce"
+    },
+    {
+      "key": "strip-steak",
+      "name": "Strip steak",
+      "category": "protein"
+    },
+    {
+      "key": "pork-butt",
+      "name": "Pork butt (Boston butt)",
+      "category": "protein"
+    },
+    {
+      "key": "spare-ribs",
+      "name": "Pork spare ribs",
+      "category": "protein"
+    },
+    {
+      "key": "brisket",
+      "name": "Beef brisket",
+      "category": "protein"
+    },
+    {
+      "key": "yellow-mustard",
+      "name": "Yellow mustard",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "hot-sauce",
+      "name": "Hot sauce",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "grapeseed-oil",
+      "name": "Grapeseed oil",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "smoked-paprika",
+      "name": "Smoked paprika",
+      "category": "spice"
+    },
+    {
+      "key": "mustard-powder",
+      "name": "Mustard powder",
+      "category": "spice"
     }
   ],
   "pantryState": {}
