@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastUpdated": "2026-06-13",
-    "recipeCount": 151
+    "recipeCount": 157
   },
   "recipes": [
     {
@@ -13864,6 +13864,797 @@
       "notes": "Serves 2 to 4. A zesty crunchy pickle that doubles as a snack, side dish, or topping.",
       "id": "r151",
       "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Poached Egg & Mushrooms on Brioche",
+      "source": "Gordon Ramsay MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "breakfast"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "1 cup diced thick-cut, smoked bacon",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "bacon"
+        },
+        {
+          "name": "4 cups roughly chopped wild mushrooms (chanterelles, oyster, hen of the woods, trumpet)",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "mushrooms"
+        },
+        {
+          "name": "2 tablespoons butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "4 thick slices brioche, toasted",
+          "qty": 4,
+          "unit": "slices",
+          "pantryKey": "brioche"
+        },
+        {
+          "name": "2 tablespoons white wine vinegar",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "white-wine-vinegar"
+        },
+        {
+          "name": "4 eggs",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        }
+      ],
+      "instructions": [
+        "Fill a medium-size sauce pot with water and bring to a gentle boil.",
+        "Heat a large skillet and cook bacon until lightly browned, about 3 minutes. Add mushrooms to bacon and stir, coating mushrooms with rendered bacon fat. Season with salt and pepper, and cook until moisture releases (about 5 minutes). Add butter, melt and saute mushroom mixture while the butter browns, 1-2 minutes. Transfer to a paper-towel-lined plate.",
+        "Press toasted brioche slices into the leftover pan grease, then arrange on plates. Top each with mushroom and bacon.",
+        "Season boiling water with salt and add white wine vinegar. Stir water with a whisk until swirling. Crack eggs into individual small bowls, lower each in and gently drop into water. Turn heat to a simmer. After 2 minutes, check eggs; if firm to touch, remove; if they wobble, give another 10 seconds. Drain on paper towel. Place eggs presentation side up on the toasts, season with salt, pepper, and a drizzle of mushroom-pan juices. Serve immediately."
+      ],
+      "notes": "If you don't eat bacon, sub finely chopped shallots and sun-dried tomatoes. Any sturdy bread works in place of brioche.",
+      "id": "r152",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Elevated Scrambled Eggs with Sea Urchin & White Truffle",
+      "source": "Gordon Ramsay MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "breakfast"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "seafood",
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "5 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "5 eggs",
+          "qty": 5,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "2 tablespoons butter",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "5 sea urchin tongues",
+          "qty": 5,
+          "unit": "",
+          "pantryKey": "sea-urchin"
+        },
+        {
+          "name": "1 teaspoon chopped chives",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "chives"
+        },
+        {
+          "name": "1 teaspoon creme fraiche",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "creme-fraiche"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "Shaved white truffle or truffle oil (optional)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "white-truffle"
+        }
+      ],
+      "instructions": [
+        "Crack and add eggs to a nonstick skillet or saucepan. Do not beat or season yet. Add butter and place pan over medium heat. Use a rubber spatula to constantly stir and turn the eggs until they start to thicken, scraping the bottom and sides. Remove from heat and continue stirring; cook off heat 20 seconds, then on heat 90 seconds until eggs are soft but not runny, about 4 minutes total.",
+        "Add 1 sea urchin tongue and stir, chopping slightly. Fold in chives, creme fraiche, salt, and pepper. Taste and adjust. Place one sea urchin tongue at the bottom of each plate, divide eggs over, top with remaining tongues, and shave white truffle on top. Serve immediately."
+      ],
+      "notes": "Gordon's rules: no salt before cooking, no whisking. Truffle oil is a fine substitute for white truffle.",
+      "id": "r153",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Chicken Supreme with Root Vegetables",
+      "source": "Gordon Ramsay MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "20 min",
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "12 baby carrots",
+          "qty": 12,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "8 baby turnips",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "turnips"
+        },
+        {
+          "name": "4 baby golden beets",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "beets"
+        },
+        {
+          "name": "4 baby red beets",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "beets"
+        },
+        {
+          "name": "1 small bunch rosemary",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "rosemary"
+        },
+        {
+          "name": "1/2 small bunch thyme",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "1 bunch parsley",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "Sea salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "4 boneless, skin-on chicken breasts",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "chicken-breast"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "3 tablespoons grapeseed oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "grapeseed-oil"
+        },
+        {
+          "name": "4 garlic cloves, crushed",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Remaining half bunch thyme",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "1 stick butter",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "2 shallots, thinly sliced",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "1/4 cup brandy (or splash of apple juice)",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "brandy"
+        },
+        {
+          "name": "3/4 cup veal demi-glace",
+          "qty": 0.75,
+          "unit": "cups",
+          "pantryKey": "demi-glace"
+        },
+        {
+          "name": "Shaved white truffle (optional)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "white-truffle"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 425 F. Remove chicken from refrigerator to come to room temperature; season well with salt and pepper.",
+        "Wash and dry all vegetables. Form a bed of rosemary, thyme, and parsley in a roasting pan. Lay vegetables on top, season with salt, seal tightly with foil shiny-side up. Place pan over medium heat on the stovetop until you hear crackling (about 1 minute), then transfer to oven. Cook 30-40 minutes until knife-tender.",
+        "Meanwhile, place a large skillet over high heat with grapeseed oil. Lower heat to medium, add garlic and thyme, then chicken skin-side down. Don't move chicken until skin releases and browns, about 4 minutes. Sear sides 10 seconds each. Flip and add 6 tablespoons butter; baste continuously about 3 minutes until skin is golden.",
+        "Flip back skin-side down and transfer pan to oven for about 10 minutes until juices run clear. Rest chicken on a plate; drain excess fat.",
+        "Return skillet to medium heat with shallots and the remaining 2 tablespoons butter. Return garlic and thyme. Stir frequently until shallots caramelize, about 4 minutes. Lower heat and carefully add brandy (watch for flambe). Scrape pan clean. Add demi-glace, season, simmer a few minutes, then strain into a small saucepot, pressing solids. Reduce about 5 minutes.",
+        "Halve vegetables and arrange on plates. Slice chicken breasts and arrange. Drizzle sauce around the chicken, careful not to wet the crispy skin. Grate truffle over plates if using."
+      ],
+      "notes": "Sub apple juice for brandy to skip the flambe.",
+      "id": "r154",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Salmon with Shellfish Minestrone",
+      "source": "Gordon Ramsay MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian",
+        "French"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "40 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "name": "10 oz mussels",
+          "qty": 10,
+          "unit": "oz",
+          "pantryKey": "mussels"
+        },
+        {
+          "name": "10 oz cockles or littleneck clams",
+          "qty": 10,
+          "unit": "oz",
+          "pantryKey": "clams"
+        },
+        {
+          "name": "2 tablespoons extra-virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "1 rib celery, diced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "1 carrot, peeled and diced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "1 shallot, roughly chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "1 sprig lemon thyme",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "1 lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "1 1/2 cups dry white wine (Sauvignon Blanc)",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": "white-wine"
+        },
+        {
+          "name": "2 cups unsalted chicken stock",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "chicken-broth"
+        },
+        {
+          "name": "Fennel fronds",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "fennel"
+        },
+        {
+          "name": "1 small zucchini, diced 1/4\"",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "zucchini"
+        },
+        {
+          "name": "1 small bulb fennel with fronds, diced 1/4\"",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "fennel"
+        },
+        {
+          "name": "2/3 cup fresh English peas (or frozen)",
+          "qty": 0.66,
+          "unit": "cups",
+          "pantryKey": "english-peas"
+        },
+        {
+          "name": "2/3 cup canned white beans, rinsed",
+          "qty": 0.66,
+          "unit": "cups",
+          "pantryKey": "white-beans"
+        },
+        {
+          "name": "1/2 cup elbow macaroni",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "elbow-pasta"
+        },
+        {
+          "name": "4 (4.5-5 oz) center-cut salmon filets, skin on",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "salmon"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "2 tablespoons extra-virgin olive oil (for salmon)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Make the shellfish broth: scrub mussels and clams under cold running water for 10 minutes; debeard mussels; discard any open shells. Heat oil in a medium pot over medium-high. Add diced carrot, celery, shallot, thyme, and 1 lemon slice (reserve rest of lemon). Season with salt; sweat 30 seconds. Add shellfish and cover; cook 30 seconds. Add wine, cover, cook another 30 seconds. Add chicken stock, cover, increase heat to high; cook 5-7 minutes until shellfish open. Strain broth into a clean pot. Pick meat from shells; discard any unopened.",
+        "Vegetables and pasta: bring a salted pot of water to a boil. Blanch zucchini and fennel for 2 minutes; remove with a slotted spoon and rinse under cold water. Add to a bowl with the white beans. Boil pasta 7-8 minutes until just al dente; rinse cold and add to the vegetables and beans.",
+        "Salmon: score the skin and season both sides with salt and pepper. Heat olive oil in a large nonstick pan over medium-high. Place salmon skin-side down; cook 6-7 minutes, turning occasionally. Rest on a plate.",
+        "To serve: bring shellfish broth back to a boil, then reduce to a simmer. Add fennel fronds and zest from reserved lemon. Add shellfish, vegetables, beans, and pasta; warm through. Season with salt and a squeeze of lemon juice. Ladle minestrone into bowls, top with salmon skin-side up, drizzle with olive oil."
+      ],
+      "notes": "Gluten-free pastas work as a sub. Tarragon or chervil substitute for fennel.",
+      "id": "r155",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Lobster Ravioli",
+      "source": "Gordon Ramsay MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian",
+        "French"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "90 min",
+      "cookTime": "60 min",
+      "ingredients": [
+        {
+          "name": "1/4 pound salmon, skin and bones removed",
+          "qty": 0.25,
+          "unit": "lbs",
+          "pantryKey": "salmon"
+        },
+        {
+          "name": "1 egg white",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1 heaping cup cooked lobster meat (shells reserved)",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "lobster"
+        },
+        {
+          "name": "1 tablespoon thinly sliced basil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "basil"
+        },
+        {
+          "name": "Zest and juice of 1 lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Lobster shells (reserved)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "2 tablespoons olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "1 carrot, diced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "1 onion, diced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "1 stick celery, diced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "celery"
+        },
+        {
+          "name": "1 garlic clove, crushed",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "1 stick lemongrass, halved and bruised",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemongrass"
+        },
+        {
+          "name": "1 teaspoon tomato paste",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "tomato-paste"
+        },
+        {
+          "name": "1 tablespoon brandy",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "brandy"
+        },
+        {
+          "name": "2 cups veal stock",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "veal-stock"
+        },
+        {
+          "name": "4 cups chicken stock",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "chicken-broth"
+        },
+        {
+          "name": "1 to 2 tablespoons heavy cream",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "heavy-cream"
+        },
+        {
+          "name": "4 plum tomatoes",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "Olive oil (for chutney)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "1 tablespoon thinly sliced basil (for chutney)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "basil"
+        },
+        {
+          "name": "1 tablespoon lemon juice",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "4 tablespoons extra virgin olive oil (vinaigrette)",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Fresh pasta dough",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "1 egg yolk, whisked",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "Microgreens (micro basil, micro sorrel) for garnish",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        }
+      ],
+      "instructions": [
+        "Make the filling: in a food processor, coarsely grind the salmon. Slowly add egg white while pulsing until paste forms. Transfer to a bowl, season with salt and pepper. Add 1 heaping cup diced lobster and gently fold. Add basil, lemon zest and juice, salt, pepper. Refrigerate at least 10 minutes.",
+        "Preheat oven to 400 F. Roast lobster shells on a baking sheet until dry but not brown, about 20 minutes.",
+        "Poaching stock: in a stockpot, heat olive oil and sweat carrot, onion, celery, garlic, and lemongrass until soft, about 4 minutes. Add lobster shells and tomato paste; cook 2 minutes. Deglaze with brandy, cook 30 seconds. Add veal and chicken stocks; bring to a boil, then simmer 30-40 minutes. Strain. Reserve half for poaching; reduce remaining half about 30 minutes until thickened. Off heat, stir in heavy cream. Keep warm.",
+        "Tomato chutney: bring a pot of water to a boil. Core and score tomatoes; blanch 30 seconds, then transfer to ice water 30 seconds. Peel and dice. In a skillet over medium heat, add 2 tablespoons olive oil and tomatoes; stew 20 minutes, stirring. Finish with basil; check seasoning.",
+        "Lemon vinaigrette: whisk lemon juice, olive oil, and salt until emulsified.",
+        "Ravioli: roll pasta dough into thin sheets and cut 10 cm rounds. Place a heaping tablespoon of filling on half the rounds; brush edges with egg yolk wash. Top with another round; press to seal, molding around filling with no air gaps. Dust with flour and keep covered.",
+        "Bring poaching lobster stock to a gentle boil. Drop ravioli (in batches if needed), gently rotating the pot. Cook 90 seconds. Add half the vinaigrette to a mixing bowl; transfer ravioli to the bowl, season lightly with salt and lemon zest.",
+        "On each plate, spoon 3 dollops of tomato chutney, top each with 1 ravioli. Drizzle with lobster sauce and remaining vinaigrette. Garnish with microgreens."
+      ],
+      "notes": "Use the cheaper claw, knuckle, and leg meat from two 1.5 lb lobsters, or all the meat from one lobster. This is still on the menu at Restaurant Gordon Ramsay.",
+      "id": "r156",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Beef Wellington",
+      "source": "Gordon Ramsay MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "British",
+        "French"
+      ],
+      "protein": [
+        "beef"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": "60 min",
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "3 tablespoons olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "2 portobello mushrooms, finely diced (about 4 cups)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "mushrooms"
+        },
+        {
+          "name": "Salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "1 teaspoon thyme leaves",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "2 eggs",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "1 cup flour, lightly packed",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "1 cup milk",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "1 teaspoon chopped chives",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "chives"
+        },
+        {
+          "name": "1 teaspoon thyme flowers",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "Pinch salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "Nonstick cooking spray",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "1 pound center-cut beef tenderloin, room temperature",
+          "qty": 1,
+          "unit": "lbs",
+          "pantryKey": "beef-tenderloin"
+        },
+        {
+          "name": "1 tablespoon grapeseed oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "grapeseed-oil"
+        },
+        {
+          "name": "1 tablespoon Dijon mustard",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "dijon-mustard"
+        },
+        {
+          "name": "4 slices prosciutto",
+          "qty": 4,
+          "unit": "slices",
+          "pantryKey": "prosciutto"
+        },
+        {
+          "name": "1 9.6 oz sheet puff pastry, thawed",
+          "qty": 9.6,
+          "unit": "oz",
+          "pantryKey": "puff-pastry"
+        },
+        {
+          "name": "2 egg yolks",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        }
+      ],
+      "instructions": [
+        "Mushroom duxelle: place a medium saute pan over medium-high heat. Add olive oil; when hot, add mushrooms. Season with salt and pepper; add thyme. Stir frequently until all moisture has evaporated, about 10 minutes. Cool.",
+        "Chive crepes: in a bowl combine eggs, flour, milk, chives, thyme flowers, and salt; whisk until smooth. Refrigerate at least 30 minutes. Lightly spray a 10-inch nonstick pan over low heat. Add 1/4 cup batter; swirl to coat. Cook 25-30 seconds until set; flip and cook a few seconds more (no browning). Repeat, making about 5 crepes; layer with parchment.",
+        "Season beef liberally with salt and pepper on all sides, rolling into a tight cylinder. Heat a cast iron skillet with grapeseed oil; sear beef 60 seconds per side. Transfer to a tray, pour pan juices over, brush all over with Dijon while hot. Rest.",
+        "Moisten cutting board with a damp towel. Layer three pieces of plastic wrap. Lay 2-3 crepes trimmed into squares the length of the tenderloin vertically on the plastic. Layer prosciutto over crepes. Spread mushroom duxelle over the ham; season with salt and pepper. Pour resting juices over the mushrooms, then place beef at the bottom of the crepe. Use the plastic to roll the beef up tightly, twisting the ends. Refrigerate 20 minutes.",
+        "Preheat convection oven to 425 F (or 450 F non-convection).",
+        "Layer fresh plastic on a damp board. Place puff pastry in center; roll to 1/8 inch, trimming to fit beef. Unwrap beef and place on the pastry 1/3 of the way up. Brush pastry lightly with egg wash; season with salt and pepper. Lift the plastic to roll pastry over beef until edges meet; smooth and seal the seam. Twist plastic to compact, cut off ends. Unwrap, smooth ends, brush with egg wash. Score decoratively with the back of a knife. Season with more salt, place on parchment-lined tray, insert a thyme sprig. Refrigerate 5 minutes.",
+        "Bake in the center of the oven 18-20 minutes until golden brown. Rest 5 minutes before slicing."
+      ],
+      "notes": "Gluten-free puff pastry available online. Porcini and ceps work mid-season.",
+      "id": "r157",
+      "dateAdded": "2026-06-13"
     }
   ],
   "pantryItems": [
@@ -15426,6 +16217,56 @@
       "key": "rice-cakes",
       "name": "Korean Rice Cakes (Duk Boki)",
       "category": "grain"
+    },
+    {
+      "key": "mussels",
+      "name": "Mussels",
+      "category": "protein"
+    },
+    {
+      "key": "sea-urchin",
+      "name": "Sea Urchin",
+      "category": "protein"
+    },
+    {
+      "key": "white-truffle",
+      "name": "White Truffle",
+      "category": "produce"
+    },
+    {
+      "key": "turnips",
+      "name": "Turnips",
+      "category": "produce"
+    },
+    {
+      "key": "demi-glace",
+      "name": "Demi-Glace",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "brandy",
+      "name": "Brandy",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "lemongrass",
+      "name": "Lemongrass",
+      "category": "produce"
+    },
+    {
+      "key": "veal-stock",
+      "name": "Veal Stock",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "prosciutto",
+      "name": "Prosciutto",
+      "category": "protein"
+    },
+    {
+      "key": "puff-pastry",
+      "name": "Puff Pastry",
+      "category": "pantry-staple"
     }
   ],
   "pantryState": {}
