@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-01",
-    "recipeCount": 89
+    "lastUpdated": "2026-06-13",
+    "recipeCount": 115
   },
   "recipes": [
     {
@@ -8265,6 +8265,2007 @@
         "Transfer to a rack to dry. Store in airtight container."
       ],
       "notes": "SHUK cookbook, p.189. Used as topping for Persian Tahdig Rice (r083). Check p.189 for full quantities."
+    },
+    {
+      "id": "r090",
+      "name": "Glazed Carrots",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French",
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "10 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "sweet or fresh-garden carrots, peeled, oblique cut",
+          "qty": 454,
+          "unit": "g",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "room temperature butter",
+          "qty": 5,
+          "unit": "g",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "sugar (to start)",
+          "qty": 5,
+          "unit": "g",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "water (enough to cover carrots)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "water"
+        },
+        {
+          "name": "white wine vinegar",
+          "qty": 2,
+          "unit": "drops",
+          "pantryKey": "white-wine-vinegar"
+        },
+        {
+          "name": "parsley, chopped (for garnish)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        }
+      ],
+      "instructions": [
+        "Add carrots to the pan in a single layer and swirl the pan to create even spacing.",
+        "Add sugar (start with ~5 g / 1 tsp) and enough water to barely cover. Add butter, set heat to high.",
+        "Move the pan throughout cooking to keep carrots evenly spaced so each is individually glazed. Listen for the boil to turn into a crackle as the water evaporates.",
+        "When reduction is nearly complete, check doneness — carrots should have very little resistance to the tooth without being mushy. If still firm, add more water and cook to desired texture.",
+        "Lower heat to medium and finish. You're looking for the butter to emulsify and form a shiny glaze.",
+        "If caramelization begins on the bottom of the pan or the sheen disappears, add a little water and two drops of white wine vinegar and quickly reduce again.",
+        "Toss carrots with chopped parsley. Plate and sprinkle with finishing salt."
+      ],
+      "notes": "Keller's glazing technique. Avoid overcooking past glaze into caramelization. Cooking too much leaves the dish oily; too little leaves the liquid milky."
+    },
+    {
+      "id": "r091",
+      "name": "Blanched & Peeled Tomatoes (Concasse)",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side",
+        "appetizer"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "assortment of tomatoes (Roma, Green Zebra, cherry, heirloom)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        }
+      ],
+      "instructions": [
+        "Fill stockpot with water and bring to a boil.",
+        "Score the bottom of each tomato with a paring knife in a cross pattern. Avoid cutting deeply into the flesh. Remove the woody green stem.",
+        "Submerge tomatoes in boiling water. After ~10 seconds, remove one and check whether the skin slips easily from the flesh at the score. If still firmly attached, continue 5–10 more seconds.",
+        "Once skins slip easily, transfer to an ice bath. A slight curl along the score lines is a sign of doneness.",
+        "Peel each tomato with a paring knife.",
+        "For concassé: slice each peeled tomato on its 'equator,' gently squeeze out seeds, dice. To dry further, drain in a strainer (reserve the flavorful liquid)."
+      ],
+      "notes": "Refinement technique — blanching is to enable peeling, not to cook. Apply to sandwiches, salads, or as the base for Tomato Tartare."
+    },
+    {
+      "id": "r092",
+      "name": "Artichokes Barigoule",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side",
+        "dinner"
+      ],
+      "cuisine": [
+        "French",
+        "Provençal"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "45 min",
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "lemons",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lemon"
+        },
+        {
+          "name": "second-press olive oil",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "carrots, chopped",
+          "qty": 120,
+          "unit": "g",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "fennel, sliced",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "fennel"
+        },
+        {
+          "name": "onions, chopped",
+          "qty": 300,
+          "unit": "g",
+          "pantryKey": "onion"
+        },
+        {
+          "name": "shallots, minced",
+          "qty": 75,
+          "unit": "g",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "garlic, minced",
+          "qty": 10,
+          "unit": "g",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "chicken or vegetable stock (or water)",
+          "qty": 1,
+          "unit": "l",
+          "pantryKey": "stock"
+        },
+        {
+          "name": "sauvignon blanc",
+          "qty": 500,
+          "unit": "g",
+          "pantryKey": "white-wine"
+        },
+        {
+          "name": "bouquet garni: 3 leek leaves, 5 Italian parsley sprigs, 5 thyme sprigs, 2 bay leaves (in cheesecloth)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "bouquet-garni"
+        },
+        {
+          "name": "artichokes, turned and trimmed",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "artichokes"
+        },
+        {
+          "name": "parsley (for garnish)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "chive blossoms (optional garnish)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "chive-blossoms"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        }
+      ],
+      "instructions": [
+        "Prep artichokes: snap off leaves working from stem up to the heart. Cut off top two thirds with paring knife. Trim dark green base. Peel stem, scrape choke with a spoon. Squeeze lemon over each and submerge in acidulated water while you work the others.",
+        "Make bouquet garni by wrapping leek leaves, parsley, thyme, and bay leaves in cheesecloth and tying like an asparagus bundle.",
+        "Sweat the vegetables on low: olive oil, carrots, fennel, onions, shallots. Soften without caramelizing. Stir in garlic and cook until fragrant.",
+        "Place artichokes heart-down on top of the vegetables. Add bouquet garni, wine, stock, and enough water to cover.",
+        "Bring to a gentle simmer. Cover artichokes with a clean kitchen towel to keep them submerged. Simmer about 30 minutes, testing with a paring knife for very little resistance.",
+        "Transfer artichokes to a storage dish in a single layer, spoon vegetables on top, pour braising liquid over. Cool to let flavors mature.",
+        "For classic barigoule: cut artichokes into wedges, serve with braising vegetables, garnish with parsley or basil."
+      ],
+      "notes": "Flavors improve after a few days. Serve as a stew, side with chicken, or a salad component. Use leftover braising liquid for Keller's Barigoule Vinaigrette (French Laundry Cookbook p.152)."
+    },
+    {
+      "id": "r093",
+      "name": "Potato Purée (Pommes Purée)",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "15 min",
+      "cookTime": "40 min",
+      "ingredients": [
+        {
+          "name": "cream, hot",
+          "qty": 190,
+          "unit": "g",
+          "pantryKey": "cream"
+        },
+        {
+          "name": "cold butter, cubed",
+          "qty": 225,
+          "unit": "g",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "clarified butter (optional)",
+          "qty": 50,
+          "unit": "g",
+          "pantryKey": "clarified-butter"
+        },
+        {
+          "name": "Yukon Gold potatoes",
+          "qty": 750,
+          "unit": "g",
+          "pantryKey": "yukon-gold-potatoes"
+        },
+        {
+          "name": "warm water (as needed)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "water"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "butter for finishing",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Maldon salt for finishing",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "maldon-salt"
+        }
+      ],
+      "instructions": [
+        "Place whole, unpeeled potatoes in a 3-quart saucepot and cover by 2 inches with cold water. Slowly bring to a gentle simmer (whole potatoes prevent water absorption and allow more butter/cream to be incorporated later).",
+        "Cook until extremely tender when tested with a paring knife.",
+        "One at a time, remove a potato, split in half on the tamis, and press the flesh through the screen with a stiff bowl scraper, leaving skins behind. Use parchment underneath to collect pulp.",
+        "Transfer passed potato to a 4-quart saucepan over medium-low heat. Use a stiff rubber spatula to incorporate 1/3 of the hot cream, then beat in cubes of butter until emulsified.",
+        "Drizzle in a little clarified butter for more intense butter flavor. Continue adding cream, butter, and clarified butter to build a creamy purée.",
+        "Ideal pommes purée has a milky, creamy appearance. If it looks oily (emulsion breaking), add hot water periodically and regulate heat.",
+        "Season with salt, transfer to serving bowl, top with a pat of butter and a sprinkle of Maldon."
+      ],
+      "notes": "La Ratte fingerlings are ideal (more refined); Yukon Gold is the readily-available stand-in. Not the same as mashed potatoes — more luxurious, more technical. Pass through tamis (finest mesh)."
+    },
+    {
+      "id": "r094",
+      "name": "Quick Pickled Vegetables",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side",
+        "snack"
+      ],
+      "cuisine": [
+        "American"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "15 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "sugar",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "water",
+          "qty": 400,
+          "unit": "g",
+          "pantryKey": "water"
+        },
+        {
+          "name": "white wine vinegar",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "white-wine-vinegar"
+        },
+        {
+          "name": "thyme sprigs",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "mustard seeds",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "mustard-seeds"
+        },
+        {
+          "name": "garlic cloves, peeled and lightly crushed",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "cauliflower florets",
+          "qty": 85,
+          "unit": "g",
+          "pantryKey": "cauliflower"
+        },
+        {
+          "name": "red pearl onions, halved",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "pearl-onions"
+        },
+        {
+          "name": "cucumbers, oblique cut",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "cucumber"
+        },
+        {
+          "name": "radishes, quartered",
+          "qty": 75,
+          "unit": "g",
+          "pantryKey": "radishes"
+        },
+        {
+          "name": "jingle bell peppers (or small variety)",
+          "qty": 35,
+          "unit": "g",
+          "pantryKey": "bell-peppers"
+        }
+      ],
+      "instructions": [
+        "Cut vegetables to a uniform size for even pickling.",
+        "Add mixed vegetables to a canning jar.",
+        "Combine water, vinegar, sugar, thyme, mustard seeds, and garlic in a saucepot and bring to a simmer.",
+        "Pour the hot pickling liquid over the vegetables to submerge. Seal the jar.",
+        "Chill and store in the refrigerator."
+      ],
+      "notes": "Quantities of vegetables are proportional to jar size — vary to need. Encouraged to experiment with seasonal spices/herbs."
+    },
+    {
+      "id": "r095",
+      "name": "Parsnip Purée",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "parsnips, peeled, ½-inch dice",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "parsnips"
+        },
+        {
+          "name": "unsalted butter",
+          "qty": 15,
+          "unit": "g",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "cream",
+          "qty": 250,
+          "unit": "g",
+          "pantryKey": "cream"
+        },
+        {
+          "name": "water (additional may be needed)",
+          "qty": 120,
+          "unit": "g",
+          "pantryKey": "water"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        }
+      ],
+      "instructions": [
+        "Place parsnips, cream, and water in a saucepot. Add additional water as needed to cover the parsnips.",
+        "Bring to a simmer and cook until parsnips have no resistance to a paring knife.",
+        "Transfer parsnips and thickened liquid to a blender. Start low, then gradually increase speed.",
+        "With blender running, add butter and a conservative pinch of salt. Process until extremely smooth.",
+        "Check seasoning and consistency; adjust with salt and/or additional water to preference."
+      ],
+      "notes": "Unlike potato purée: parsnips are cooked in the cream itself. Technique transfers to rutabaga, carrot, celeriac, and sunchokes."
+    },
+    {
+      "id": "r096",
+      "name": "Eggplant & Garlic Confit",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side",
+        "appetizer"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "30 min",
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "Chinese eggplants",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "eggplant"
+        },
+        {
+          "name": "garlic cloves, peeled, stems trimmed",
+          "qty": 12,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "neutral-flavored plant-based oil",
+          "qty": 2,
+          "unit": "l",
+          "pantryKey": "neutral-oil"
+        },
+        {
+          "name": "bouquet garni (see Artichokes Barigoule)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "bouquet-garni"
+        },
+        {
+          "name": "aged balsamic vinegar",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "balsamic-vinegar"
+        },
+        {
+          "name": "fresh oregano",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "oregano"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "Maldon sea salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "maldon-salt"
+        }
+      ],
+      "instructions": [
+        "Remove tops and bottoms of eggplants, cut in half lengthwise.",
+        "Score flesh in a crosshatch pattern and lightly salt to draw out moisture and bitterness. Rest flesh-side down on a paper-towel–lined sheet pan for 25 minutes.",
+        "Lay eggplants flesh-side down in a baking dish. Add garlic and bouquet garni.",
+        "Heat oil to 250°F and carefully ladle it over the eggplants. If they float, weight them with a wire cake rack to keep submerged.",
+        "Bake in a 300°F oven, check for tenderness after 45 minutes. Ideal texture is creamy with no resistance.",
+        "To serve immediately: drain on paper towels, arrange with confit garlic, drizzle with balsamic, finish with oregano and Maldon.",
+        "To store: keep eggplant submerged in oil in an airtight container in the fridge up to 1 week."
+      ],
+      "notes": "Leftover oil is great in vinaigrettes or sautéing — hasn't reached its smoke point. Try the smashed-garlic-on-toast move for a snack."
+    },
+    {
+      "id": "r097",
+      "name": "Pan-Roasted Zucchini with Vierge Sauce",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side",
+        "dinner"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "10 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "zucchini (Pan-roasted Zucchini)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "zucchini"
+        },
+        {
+          "name": "extra virgin olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "herbs (e.g., basil, parsley, tarragon)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "herbs"
+        },
+        {
+          "name": "garlic",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "tomato concassé",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "tomato"
+        },
+        {
+          "name": "lemon juice or vinegar",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "lemon"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        }
+      ],
+      "instructions": [
+        "Pan-roast zucchini in olive oil until golden, about 5 minutes.",
+        "Add herbs or garlic and immediately remove from heat to prevent burning.",
+        "Spoon vierge sauce (warm olive oil + tomato concassé + lemon + herbs) over plated zucchini."
+      ],
+      "notes": "Workbook ingredient list is partial — flesh out with standard ratios when cooking. Vierge sauce pairs broadly with vegetables and fish."
+    },
+    {
+      "id": "r098",
+      "name": "Baked Beets",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "American",
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "10 min",
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "red beets, leaves and stems removed",
+          "qty": 454,
+          "unit": "g",
+          "pantryKey": "beets"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "canola oil",
+          "qty": 15,
+          "unit": "g",
+          "pantryKey": "canola-oil"
+        },
+        {
+          "name": "shallots, minced",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "aged balsamic",
+          "qty": 15,
+          "unit": "g",
+          "pantryKey": "balsamic-vinegar"
+        },
+        {
+          "name": "Maldon sea salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "maldon-salt"
+        },
+        {
+          "name": "extra virgin olive oil",
+          "qty": 30,
+          "unit": "g",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "chives, minced",
+          "qty": 2,
+          "unit": "bunches",
+          "pantryKey": "chives"
+        }
+      ],
+      "instructions": [
+        "Wash and dry trimmed beets. Place on aluminum foil, shiny side up. Drizzle with oil and season with kosher salt.",
+        "Fold foil into a pouch and place in a baking dish, folded side up.",
+        "Bake at 350°F for ~45 minutes. Test with a paring knife for no resistance.",
+        "Peel while still warm under running water or with gloves over parchment (beets stain).",
+        "Cut into wedges or preferred shape.",
+        "In a mixing bowl, combine beets, minced shallot, Maldon, balsamic, EVOO, and most of the chives. Reserve a sprinkle of chives for garnish.",
+        "Spoon dressed beets into a serving bowl and finish with the reserved chives."
+      ],
+      "notes": "Use true balsamic (DOP-certified Modena/Emilia-Romagna). Season while warm so beets absorb the marinade. Technique works for golden and Chioggia beets — vary the vinegar."
+    },
+    {
+      "id": "r099",
+      "name": "Mayonnaise",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": "0 min",
+      "ingredients": [
+        {
+          "name": "egg yolk",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "egg-yolk"
+        },
+        {
+          "name": "Dijon mustard",
+          "qty": 5,
+          "unit": "g",
+          "pantryKey": "dijon-mustard"
+        },
+        {
+          "name": "neutral-flavored plant-based oil",
+          "qty": 350,
+          "unit": "g",
+          "pantryKey": "neutral-oil"
+        },
+        {
+          "name": "white wine vinegar",
+          "qty": 7,
+          "unit": "g",
+          "pantryKey": "white-wine-vinegar"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 7,
+          "unit": "g",
+          "pantryKey": "lemon"
+        },
+        {
+          "name": "kosher salt to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        }
+      ],
+      "instructions": [
+        "Separate yolk from white and remove the chalazae (white string).",
+        "Wrap a damp twisted kitchen towel around the base of the mixing bowl to stabilize.",
+        "Whisk the yolk; add Dijon (flavor + emulsifier).",
+        "Whisking continuously, slowly drizzle in oil. As mayo thickens, add small amounts of water, vinegar, and lemon juice (strain lemon for seeds).",
+        "If it breaks: add more Dijon to re-emulsify.",
+        "Whisking speed can increase as the emulsion volume grows.",
+        "Stop adding oil at the desired viscosity (peaks form) and quantity. Finish with salt and acid to taste. Store in a glass jar in the fridge."
+      ],
+      "notes": "The building block for aiolis, remoulades, dressings, and sauces. McGee's principle: a yolk absorbs near-infinite fat as long as moisture stays balanced."
+    },
+    {
+      "id": "r100",
+      "name": "Remoulade",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "10 min",
+      "cookTime": "0 min",
+      "ingredients": [
+        {
+          "name": "mayonnaise (see recipe)",
+          "qty": 400,
+          "unit": "g",
+          "pantryKey": "mayonnaise"
+        },
+        {
+          "name": "capers, minced",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "capers"
+        },
+        {
+          "name": "shallots, minced",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "cornichons, minced",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "cornichons"
+        },
+        {
+          "name": "fines herbes (parsley, chives, tarragon — equal parts, minced)",
+          "qty": 10,
+          "unit": "g",
+          "pantryKey": "fines-herbes"
+        },
+        {
+          "name": "kosher salt",
+          "qty": 4,
+          "unit": "g",
+          "pantryKey": "kosher-salt"
+        }
+      ],
+      "instructions": [
+        "Starting with 400 g mayonnaise, add capers, cornichons, fines herbes, shallots, and salt.",
+        "Stir with a rubber spatula to combine.",
+        "Capers are salty — taste before adding the full salt amount."
+      ],
+      "notes": "Keller: would rather you skip the recipe than use dried herbs. Serve as a side sauce with fish or roast chicken."
+    },
+    {
+      "id": "r101",
+      "name": "Hollandaise",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "breakfast",
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "10 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "butter (for clarifying)",
+          "qty": 1,
+          "unit": "kg",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "egg yolks (~3)",
+          "qty": 60,
+          "unit": "g",
+          "pantryKey": "egg-yolk"
+        },
+        {
+          "name": "water",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "water"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 15,
+          "unit": "g",
+          "pantryKey": "lemon"
+        },
+        {
+          "name": "clarified butter, held at 165°F",
+          "qty": 250,
+          "unit": "g",
+          "pantryKey": "clarified-butter"
+        },
+        {
+          "name": "kosher salt to taste",
+          "qty": 4,
+          "unit": "g",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "poached eggs (for plating)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "toast (for plating)",
+          "qty": 1,
+          "unit": "slice",
+          "pantryKey": "bread"
+        },
+        {
+          "name": "black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "finishing salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "finishing-salt"
+        }
+      ],
+      "instructions": [
+        "Quick clarified butter: seal butter in a heavy-duty bag, set in simmering water in a stockpot until melted. Transfer to fridge with one corner of the bag at the lowest position. Once solidified, snip the bottom corner over a bowl to drain milk solids. Rinse the block briefly, dry, and reserve.",
+        "Hollandaise: fill saucepot with 1 inch of water and bring to a gentle simmer.",
+        "Whisk 3 egg yolks in mixing bowl with 25 g water. Place bowl over simmering water.",
+        "Whisk in a figure-eight, rotating the bowl and removing from heat as needed for gentle, constant heat. About 2½ minutes total. Look for thickened, ribbon-consistency yolks with a pale yellow color.",
+        "Remove from heat. While whisking, add juice of half a lemon and slowly drizzle in warmed clarified butter. Add water as needed to maintain emulsion.",
+        "Season with additional lemon and salt to taste.",
+        "Plate: set 2 poached eggs on toast and spoon hollandaise to envelope each egg. Finish with black pepper and finishing salt."
+      ],
+      "notes": "If sauce breaks: return to heat to fully break the yolks to curd, then add a little fresh yolk, warm it, and slowly drizzle the broken sauce back in. Break causes: too much heat, rushing, not enough water."
+    },
+    {
+      "id": "r102",
+      "name": "Béarnaise",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "20 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "shallots, peeled and sliced thin (for reduction)",
+          "qty": 75,
+          "unit": "g",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "white wine (for reduction)",
+          "qty": 250,
+          "unit": "g",
+          "pantryKey": "white-wine"
+        },
+        {
+          "name": "champagne vinegar (for reduction)",
+          "qty": 50,
+          "unit": "g",
+          "pantryKey": "champagne-vinegar"
+        },
+        {
+          "name": "black peppercorn, coarsely ground",
+          "qty": 5,
+          "unit": "g",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "tarragon leaves, minced (for reduction)",
+          "qty": 30,
+          "unit": "g",
+          "pantryKey": "tarragon"
+        },
+        {
+          "name": "bay leaf",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "bay-leaf"
+        },
+        {
+          "name": "egg yolks (~4)",
+          "qty": 85,
+          "unit": "g",
+          "pantryKey": "egg-yolk"
+        },
+        {
+          "name": "béarnaise reduction",
+          "qty": 85,
+          "unit": "g",
+          "pantryKey": "bearnaise-reduction"
+        },
+        {
+          "name": "heavy cream",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "cream"
+        },
+        {
+          "name": "clarified butter",
+          "qty": 350,
+          "unit": "g",
+          "pantryKey": "clarified-butter"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 5,
+          "unit": "g",
+          "pantryKey": "lemon"
+        },
+        {
+          "name": "tarragon, minced (finish)",
+          "qty": 4,
+          "unit": "g",
+          "pantryKey": "tarragon"
+        },
+        {
+          "name": "shallots, peeled and finely minced (finish)",
+          "qty": 10,
+          "unit": "g",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "kosher salt",
+          "qty": 5,
+          "unit": "g",
+          "pantryKey": "kosher-salt"
+        }
+      ],
+      "instructions": [
+        "Béarnaise reduction: place shallots, wine, vinegar, peppercorn, tarragon, and bay leaf in a saucepan. Reduce the liquids by one third. Remove bay leaf. Cool and reserve.",
+        "Béarnaise: place yolks, cream, and reduction in a 2-quart saucier; whisk over low heat until yolks expand to ribbon consistency.",
+        "Apply hollandaise technique — constant whisking, regulating heat to avoid scrambling.",
+        "Slowly drizzle in clarified butter, whisking to form an emulsion. Once incorporated, whisk in lemon juice, tarragon, shallots, and salt. Serve warm."
+      ],
+      "notes": "For béarnaise mousseline: gently fold whipped cream into the béarnaise. For sauce choron: whisk ~50 g warmed tomato purée into ~500 g béarnaise. Classic pairings: béarnaise on eggs benedict; mousseline with steak and brussels sprouts."
+    },
+    {
+      "id": "r103",
+      "name": "Crème Anglaise (Vanilla)",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "vanilla bean, split and scraped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "vanilla-bean"
+        },
+        {
+          "name": "cream",
+          "qty": 500,
+          "unit": "g",
+          "pantryKey": "cream"
+        },
+        {
+          "name": "milk",
+          "qty": 500,
+          "unit": "g",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "sugar",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "egg yolks",
+          "qty": 10,
+          "unit": "",
+          "pantryKey": "egg-yolk"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        }
+      ],
+      "instructions": [
+        "Combine milk, cream, and the scraped vanilla bean and pod in a saucepot over medium-low heat. Stir gently with rubber spatula and bring to a simmer.",
+        "Beat yolks until homogenous. Add sugar and a pinch of kosher salt; whisk to combine.",
+        "Temper: gradually ladle the hot milk/cream mixture into the yolks, whisking continuously. After ~4 ladles, the yolks reach the milk's temperature.",
+        "Whisk the tempered mixture back into the saucepot with the remaining vanilla cream.",
+        "Switch to a flat-bottom wooden spoon and stir as you cook to 185°F. Coat should be thick enough that a swipe across the back of the spoon remains.",
+        "Strain through a chinois into a mixing bowl set in an ice bath. Remove vanilla pod for another use. Whisk to cool to room temperature."
+      ],
+      "notes": "If it curdles, recover by blending. Variations: chocolate (strain hot sauce over chocolate to melt); coffee (add grounds while cooking, then strain). Save the vanilla pod for vanilla sugar."
+    },
+    {
+      "id": "r104",
+      "name": "Swiss Meringue with Macerated Strawberries",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "30 min",
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "strawberries, quartered",
+          "qty": 1,
+          "unit": "pint",
+          "pantryKey": "strawberries"
+        },
+        {
+          "name": "sugar (for macerating, start at 25 g)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "lemon, juiced",
+          "qty": 0.25,
+          "unit": "",
+          "pantryKey": "lemon"
+        },
+        {
+          "name": "egg whites",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "egg-white"
+        },
+        {
+          "name": "granulated sugar",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "powdered sugar, sifted",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "powdered-sugar"
+        },
+        {
+          "name": "kosher salt",
+          "qty": 1,
+          "unit": "g",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "vanilla bean",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "vanilla-bean"
+        },
+        {
+          "name": "crème anglaise (for plating)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "creme-anglaise"
+        },
+        {
+          "name": "lime zest (garnish)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "lime"
+        },
+        {
+          "name": "whole strawberries (garnish)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "strawberries"
+        }
+      ],
+      "instructions": [
+        "Macerated strawberries & coulis: add quartered strawberries to a bowl and mix in sugar (start at 25 g, add as needed). Place half the macerated berries and lemon juice in a beaker, blend with an immersion blender, strain the purée and reserve. Set aside the other half for garnish.",
+        "Meringue: combine egg whites, granulated sugar, and vanilla in a mixing bowl. Place over simmering water and whisk to 150°F.",
+        "Transfer to stand mixer bowl. Whip low → medium-high, then add sifted powdered sugar and whip on high.",
+        "Whip ~15 minutes until glossy with stiff peaks.",
+        "Arrange a silpat-lined sheet pan. Keep a quenelle spoon in the hot water — sticky meringue slides off cleanly. Form 6 quenelles.",
+        "Bake at 180°F for 45 minutes. Look for a crackly exterior crust and a soft, creamy interior.",
+        "Lightly torch the peaks to caramelize, dust with confectioners' sugar.",
+        "Plate with macerated strawberries, strawberry purée, whole strawberries, crème anglaise, and a pop of lime zest."
+      ],
+      "notes": "Swiss meringue technique: gently beat whites + sugar over a bain-marie before whipping. Stable, silky, ideal for buttercream too."
+    },
+    {
+      "id": "r105",
+      "name": "Soft-Boiled Eggs",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "breakfast",
+        "snack"
+      ],
+      "cuisine": [
+        "American",
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 1,
+      "prepTime": "2 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "eggs",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "extra virgin olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "Maldon salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "maldon-salt"
+        }
+      ],
+      "instructions": [
+        "Place eggs in a saucepot, cover with cold water by at least ½ inch, bring to a gentle boil.",
+        "Once boiling, lower heat to maintain the boil and start a 5-minute timer.",
+        "After 5 minutes, run cold water over the eggs until just cool enough to handle (peels easier while warm).",
+        "Peel in a cool water bath, removing the thin membrane under the shell.",
+        "Top with EVOO and finishing salt (fleur de sel or Maldon)."
+      ],
+      "notes": "Keller's daily morning ritual. Times vary with egg size, pot size, and burner — find your timing (try 4/5/6/7 min)."
+    },
+    {
+      "id": "r106",
+      "name": "Scrambled Eggs (American & French Style)",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "breakfast"
+      ],
+      "cuisine": [
+        "American",
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "5 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "eggs (American style)",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "brioche toast",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "brioche"
+        },
+        {
+          "name": "butter",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "crème fraîche",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "creme-fraiche"
+        },
+        {
+          "name": "Italian parsley, minced",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "Maldon salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "maldon-salt"
+        },
+        {
+          "name": "eggs (French style)",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "brioche toast, cut into soldiers",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "brioche"
+        }
+      ],
+      "instructions": [
+        "Both styles: crack each egg into a small bowl first to catch shell, then transfer to mixing bowl. Season with kosher salt. Whisk. For more refinement, blend then pass through a chinois.",
+        "American style: heat nonstick pan over very low heat. Add ~2 Tbsp (32 g) butter. Pour in eggs and gently scramble with rubber spatula as they set.",
+        "Remove pan before eggs are fully done — they continue cooking. Stir in 25 g crème fraîche and spoon onto a plate. Finish with parsley and Maldon.",
+        "French style (oeufs brouillés): set saucier over low heat. Add ~3 Tbsp (48 g) butter, pour in eggs. Whisk slowly and continuously to emulsify the butter and gently cook.",
+        "When eggs are semi-liquid but resemble porridge, turn off heat. Look for small curds pulling from the bottom and sides.",
+        "Whisk in ~½ Tbsp butter, 1 Tbsp crème fraîche, and parsley to taste. Spoon into a serving bowl, finish with Maldon, serve with brioche soldiers."
+      ],
+      "notes": "Slow heat is essential to both. Refinement step (blend + chinois) elevates texture."
+    },
+    {
+      "id": "r107",
+      "name": "Poached Eggs",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "breakfast"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 1,
+      "prepTime": "5 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "eggs",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "distilled white vinegar",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "white-vinegar"
+        },
+        {
+          "name": "brioche, sliced",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "brioche"
+        }
+      ],
+      "instructions": [
+        "Bring water and vinegar to a gentle simmer (taste for slightly acidic).",
+        "Crack each egg into its own small bowl.",
+        "Create a vortex by swirling vigorously around the edges of the pot. Slip an egg into the center; it sets into a teardrop shape.",
+        "Reinvigorate the vortex; add the next egg. Poach only 2–3 at a time.",
+        "After 2 minutes, gently lift with a slotted spoon and check yolk softness. Return if too soft.",
+        "Drain on paper towel; trim stringy whites with kitchen scissors. Serve on sliced brioche."
+      ],
+      "notes": "Vinegar helps set the white. For batch poaching: poach ahead, ice bath, then reheat in simmering water 30–45 sec."
+    },
+    {
+      "id": "r108",
+      "name": "French Omelet",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "breakfast",
+        "brunch"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 1,
+      "prepTime": "5 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "eggs",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "beurre pommade (room-temp soft butter)",
+          "qty": 100,
+          "unit": "g",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "crème fraîche",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "creme-fraiche"
+        },
+        {
+          "name": "fines herbes (parsley, chives, tarragon, minced)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "fines-herbes"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "Maldon sea salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "maldon-salt"
+        }
+      ],
+      "instructions": [
+        "Crack each egg into a small bowl, then transfer to a beaker. Blend with immersion blender and pass through a chinois.",
+        "Brush nonstick pan with beurre pommade; set over lowest heat. Pour in eggs.",
+        "When eggs start to set at the edges, transfer to a 250°F oven for 3–4 minutes — eggs begin to set and thicken but are not fully set.",
+        "Spread crème fraîche down the center, sprinkle with fines herbes and finishing salt.",
+        "Roll one edge to the center, continue rolling until you can slide the omelet seam-side down onto a plate.",
+        "Brush lightly with beurre pommade for sheen, finish with more fines herbes and Maldon."
+      ],
+      "notes": "Mantra: slow, slow, slow. Beurre pommade is butter at mayonnaise-soft texture. Fillings to try: sautéed mushrooms, melted leeks, diced bacon (warmed first)."
+    },
+    {
+      "id": "r109",
+      "name": "Fresh Egg Pasta Dough (Tipo 00)",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "30 min",
+      "cookTime": "0 min",
+      "ingredients": [
+        {
+          "name": "Tipo 00 flour",
+          "qty": 500,
+          "unit": "g",
+          "pantryKey": "tipo-00-flour"
+        },
+        {
+          "name": "egg yolks (ideally Jidori hens)",
+          "qty": 250,
+          "unit": "g",
+          "pantryKey": "egg-yolk"
+        },
+        {
+          "name": "whole egg",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "milk",
+          "qty": 22,
+          "unit": "g",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "extra virgin olive oil",
+          "qty": 25,
+          "unit": "g",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Mound flour on a pasta board. With a bench scraper, set aside about 1/6 of the flour (easier to add flour to wet dough than liquid to dry).",
+        "Make a large well. Pour in yolks, the whole egg, milk, olive oil, and salt.",
+        "With two fingers, swirl the ingredients, incorporating flour gradually until it becomes a thick paste.",
+        "Use the bench scraper to fold flour over the paste and cut it in. Knead until the dough is a smooth ball.",
+        "If sticky, add small amounts of reserved flour as needed.",
+        "Seal in plastic bag and refrigerate at least 4–5 hours (or overnight) to let gluten relax."
+      ],
+      "notes": "Right consistency matters more than exact measurements — flour moisture and humidity vary. Italian grandmothers test the dough by feeling for the suppleness of their earlobe. Refrigerate at least 4–5 hours, or make a day ahead."
+    },
+    {
+      "id": "r110",
+      "name": "Pea & Mascarpone Agnolotti",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "90 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "frozen peas",
+          "qty": 300,
+          "unit": "g",
+          "pantryKey": "peas"
+        },
+        {
+          "name": "brioche crumbs",
+          "qty": 50,
+          "unit": "g",
+          "pantryKey": "brioche-crumbs"
+        },
+        {
+          "name": "mascarpone cheese",
+          "qty": 150,
+          "unit": "g",
+          "pantryKey": "mascarpone"
+        },
+        {
+          "name": "kosher salt",
+          "qty": 4,
+          "unit": "g",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "egg pasta dough (1 recipe)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "pasta-dough"
+        },
+        {
+          "name": "Tipo 00 flour for dusting",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "tipo-00-flour"
+        }
+      ],
+      "instructions": [
+        "Pea farce: trim crusts from brioche, cube, process to fine crumbs.",
+        "Blanch peas in heavily salted water until soft, drain. Squeeze excess water in a lint-free towel while warm.",
+        "Process peas to smooth, add mascarpone and brioche crumbs, blend until homogeneous. Season with salt.",
+        "Pass farce through a tamis into a shallow container. Press plastic wrap on surface to prevent skin. Chill.",
+        "Pipe farce: insert 9/16-inch piping tip in bag, snip plastic to edge of tip, fill bag (don't overfill).",
+        "Shape agnolotti: cut a piece of dough slightly smaller than a stick of butter. Flatten to ~⅜ inch, run through pasta machine at widest setting. Fold in half and run through again, feeding folded edge first. Repeat 3–4 more times to develop a smooth texture.",
+        "Decrease pasta roller width to next setting, run dough through twice. Repeat, progressively reducing thickness, until the dough is very thin and translucent. Use as little flour as possible.",
+        "Lightly flour the pasta board. Lay dough sheet down. Pipe a bead of farce down the length of the center. Fold dough over the top.",
+        "Use your thumb to compress dough around the farce, then again to tighten. Pinch the bead between forefingers and thumbs to compress into ~⅝-inch wide pillows. Compress once more to seal.",
+        "With fluted pasta wheel, trim along the dough leaving ⅜ inch at the edge of the pillows. Starting from one end, with a quick decisive motion, roll through the middle of the pinched area between pillows to separate.",
+        "Inspect each agnolotti to ensure sealed edges; pinch as needed. Line up on an offset palette knife and transfer to a parchment-lined sheet pan in evenly spaced rows.",
+        "Refrigerate, or freeze on the tray and transfer to a sealed bag for storage."
+      ],
+      "notes": "Work in small batches so dough doesn't dry. Piedmont-region pasta — pillows trap sauce in the rolled-over pocket. Pairs with the Agnolotti with Peas and Bacon finish (next recipe)."
+    },
+    {
+      "id": "r111",
+      "name": "Agnolotti with Peas and Bacon",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "pork"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 1,
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "agnolotti",
+          "qty": 9,
+          "unit": "",
+          "pantryKey": "agnolotti"
+        },
+        {
+          "name": "frozen peas",
+          "qty": 20,
+          "unit": "g",
+          "pantryKey": "peas"
+        },
+        {
+          "name": "bacon, diced and rendered",
+          "qty": 20,
+          "unit": "g",
+          "pantryKey": "bacon"
+        },
+        {
+          "name": "Parmesan cheese",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "parmesan"
+        },
+        {
+          "name": "chicken stock",
+          "qty": 75,
+          "unit": "g",
+          "pantryKey": "stock"
+        },
+        {
+          "name": "butter",
+          "qty": 50,
+          "unit": "g",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "champagne vinegar to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "champagne-vinegar"
+        }
+      ],
+      "instructions": [
+        "Parmesan crisp: finely grate Parmesan. Heat nonstick pan over medium. Sprinkle Parmesan in even ⅛-inch layer across the bottom. Cook until golden and lacy. Remove with small offset palette knife and drape over a small cup while hot. Cool. (Can be made up to 1 hour ahead.)",
+        "Bring a stockpot of water to a simmer, season with salt.",
+        "Heat sauté pan over medium. Add chicken stock and a splash of water; simmer.",
+        "Add butter, season with salt and champagne vinegar (vinegar cuts the fat and elevates flavor).",
+        "Drop agnolotti in the pasta water; stir gently to prevent sticking. Cook until they float (time depends on size and whether frozen). Pasta finishes in the sauce.",
+        "Transfer floating agnolotti to the sauté pan with a skimmer. Swirl to coat. Adjust consistency with more stock if needed; add a little more butter to tighten the emulsion.",
+        "Add peas and bacon; cook until heated through.",
+        "Spoon into a serving dish and top with the Parmesan crisp."
+      ],
+      "notes": "Single portion — stock/butter don't scale linearly for larger batches and may need a wider pan. Base technique applies to any flavor combo you'd build into a butter sauce."
+    },
+    {
+      "id": "r112",
+      "name": "Spaghetti alla Chitarra & Cavatelli (Shaping)",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "60 min",
+      "cookTime": "0 min",
+      "ingredients": [
+        {
+          "name": "pasta dough, rolled to 1/16 inch",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "pasta-dough"
+        },
+        {
+          "name": "Tipo 00 flour for dusting",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "tipo-00-flour"
+        }
+      ],
+      "instructions": [
+        "Spaghetti alla chitarra: roll pasta sheet to slightly less than the thickness of a spaghetti noodle.",
+        "Trim sheet to fit over the chitarra strings. Allow the sheet to dry a few minutes — keeps strands separated.",
+        "Roll a rolling pin over the sheet to push it through the steel strings.",
+        "Spread noodles on a parchment-lined baking sheet to dry.",
+        "Cavatelli: roll dough into 1/16-inch sheet. Cut into ⅜-inch wide ribbons. Cut ribbons into 1-inch pieces.",
+        "Place each rectangle on the ridged side of a gnocchi paddle. With the edge of a butter knife, press the edge closest to you. Push down with your thumb and roll forward to curl the dough into the cavatelli shape (tightly rolled 'C')."
+      ],
+      "notes": "Two shaping techniques. Storage: dry pasta on sheet pan or as nests (keeps up to 1 month); or freeze on sheet pan and transfer to bag (up to 2 weeks)."
+    },
+    {
+      "id": "r113",
+      "name": "Spaghetti Aglio e Olio (with Garlic Confit & Bottarga)",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "seafood",
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 1,
+      "prepTime": "10 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "dried spaghetti alla chitarra",
+          "qty": 60,
+          "unit": "g",
+          "pantryKey": "spaghetti"
+        },
+        {
+          "name": "garlic confit, puréed",
+          "qty": 20,
+          "unit": "g",
+          "pantryKey": "garlic-confit"
+        },
+        {
+          "name": "garlic confit cloves (6–8 medium)",
+          "qty": 20,
+          "unit": "g",
+          "pantryKey": "garlic-confit"
+        },
+        {
+          "name": "Italian parsley, émincer",
+          "qty": 1,
+          "unit": "pinch",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "extra virgin olive oil (spicy profile)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemon"
+        },
+        {
+          "name": "bottarga di muggine",
+          "qty": 1,
+          "unit": "piece",
+          "pantryKey": "bottarga"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        }
+      ],
+      "instructions": [
+        "Bring water to a simmer in a pasta pentola; lightly season with salt (water will form the sauce base — don't over-season).",
+        "Blanch dried pasta until it bends but is still very al dente.",
+        "Lift pasta to a 2-quart saucier with a strainer basket. Ladle enough pasta water to cover and bring to a simmer.",
+        "Spoon in garlic confit purée and stir with pasta fork to distribute. Continue cooking to glaze in the liquid to sauce consistency.",
+        "Taste for doneness — add more pasta water and cook longer if needed.",
+        "Add the whole confit garlic cloves and heat through. Drizzle in EVOO and sprinkle parsley.",
+        "Twist pasta on a fork into a serving dish. Spoon remaining garlic and sauce over. Finish with EVOO, lemon zest, and grated bottarga.",
+        "Without bottarga: garlic confit + lemon zest still finishes the dish beautifully."
+      ],
+      "notes": "Uses dried spaghetti alla chitarra from the prior recipe and garlic confit from earlier in the workbook. Bottarga di muggine is salt-cured mullet roe — it brings a briny umami punch."
+    },
+    {
+      "id": "r114",
+      "name": "Potato Gnocchi",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "30 min",
+      "cookTime": "1 hr 15 min",
+      "ingredients": [
+        {
+          "name": "russet potatoes, ~11 oz each",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "russet-potatoes"
+        },
+        {
+          "name": "kosher salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "flour",
+          "qty": 87,
+          "unit": "g",
+          "pantryKey": "flour"
+        },
+        {
+          "name": "egg yolks",
+          "qty": 35,
+          "unit": "g",
+          "pantryKey": "egg-yolk"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 350°F. Pierce potatoes with a fork. Pour a generous mound of salt on a baking sheet, set potatoes on top to stabilize.",
+        "Bake 1 hour, test with paring knife for done-ness. Soft and fully cooked. Brush off excess salt.",
+        "While potatoes are still hot, scoop flesh from jackets and push through a ricer onto a pasta board.",
+        "Form a well, sprinkle with flour. Add egg yolks, season with salt, sprinkle more flour. Use a bench scraper to mix.",
+        "Gently form a ball — do not knead (gluten → gummy gnocchi). Dough should be soft and hold a fingerprint.",
+        "With fingers (not palms), roll dough into a rope of your desired diameter. Cut into pieces and roll each into a ball.",
+        "Gently roll each ball on a gnocchi paddle to form ridged, ovular gnocchi; let pieces fall onto a sheet pan.",
+        "Season simmering water with salt. Test one gnocchi.",
+        "If it falls apart: more flour and a bit more working of the dough. If heavy/dense: note it for next batch.",
+        "Gnocchi float when done. Skim into an ice bath, drain on paper towels.",
+        "Serve immediately, refrigerate up to 2 days, or freeze on a lightly oiled parchment-lined sheet pan, then transfer to airtight freezer bag."
+      ],
+      "notes": "Russet (starchy, floury) is best. Use potato flesh while still hot and moist. Italian-style gnocchi originates in Lombardy."
+    },
+    {
+      "id": "r115",
+      "name": "Gnocchi with Pomodoro Sauce",
+      "source": "Thomas Keller MasterClass — Cooking Techniques I",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Italian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "gnocchi",
+          "qty": 325,
+          "unit": "g",
+          "pantryKey": "gnocchi"
+        },
+        {
+          "name": "Parmesan cheese",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "parmesan"
+        },
+        {
+          "name": "extra virgin olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "basil sprigs",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "basil"
+        },
+        {
+          "name": "tomato, grated",
+          "qty": 200,
+          "unit": "g",
+          "pantryKey": "tomato"
+        },
+        {
+          "name": "garlic, grated",
+          "qty": 10,
+          "unit": "g",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "light olive oil",
+          "qty": 35,
+          "unit": "g",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "basil leaves",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "basil"
+        },
+        {
+          "name": "kosher salt, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "champagne vinegar, to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "champagne-vinegar"
+        }
+      ],
+      "instructions": [
+        "Cut tomatoes in half on the equator, squeeze out seeds, and grate the seeded tomatoes on the fine side of a box grater into a bowl, leaving the skin behind (technique from Chef José Andrés).",
+        "Heat sauté pan over high heat. Add enough oil to barely coat the bottom.",
+        "When you see faint smoke, carefully add gnocchi and shake gently to prevent sticking. Let them lightly caramelize. Use the sloped edge of the pan to make them jump for even caramelization.",
+        "Season with salt. Remove pan from heat and grate in garlic. Return to heat and lightly sauté the garlic.",
+        "Add grated fresh tomatoes. Season with more salt and a bit of vinegar to taste (Parmesan will add salt later).",
+        "Remove from heat and top with torn basil. Spoon gnocchi and sauce onto a serving dish; finish with microplaned Parmesan."
+      ],
+      "notes": "Pomodoro = fresh, quick sauce. Use canned San Marzanos when tomatoes are out of season. Pairs with frozen gnocchi without thawing."
     }
   ],
   "pantryItems": [
