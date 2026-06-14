@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastUpdated": "2026-06-13",
-    "recipeCount": 347
+    "recipeCount": 377
   },
   "recipes": [
     {
@@ -33015,6 +33015,2845 @@
       "notes": "Cut vegetables to uniform size for even pickling. Great with poultry, fish, or eggs.",
       "id": "r347",
       "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Garam Masala",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "5 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "cinnamon sticks (2 inches each), broken into pieces",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "cinnamon-sticks"
+        },
+        {
+          "name": "whole nutmeg, broken into shards",
+          "qty": 0.33,
+          "unit": "",
+          "pantryKey": "nutmeg"
+        },
+        {
+          "name": "green cardamom seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "green-cardamom"
+        },
+        {
+          "name": "black cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "black-cumin"
+        },
+        {
+          "name": "whole black peppercorns",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "whole cloves",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "whole-cloves"
+        }
+      ],
+      "instructions": [
+        "Combine all of the spices in a clean coffee grinder or spice grinder.",
+        "Pulse first, then grind until you have a fine powder.",
+        "Transfer the powder to an airtight container. Store in a cool, dark place."
+      ],
+      "notes": "Makes about 1/4 cup. Madhur's six-spice blend: cardamom, cloves, black peppercorns, cumin, nutmeg, and cinnamon.",
+      "id": "r348",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Roasted Cumin Powder",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "2 min",
+      "cookTime": "3 min",
+      "ingredients": [
+        {
+          "name": "whole cumin seeds",
+          "qty": 0.33,
+          "unit": "cups",
+          "pantryKey": "cumin"
+        }
+      ],
+      "instructions": [
+        "Warm a small cast-iron skillet over medium-low heat.",
+        "When hot, add cumin seeds and roast, stirring continuously, until seeds are a shade darker and just beginning to smoke, 2 to 3 minutes.",
+        "Remove pan from heat and quickly transfer seeds to a bowl or paper towel-lined plate to cool.",
+        "Grind seeds to a fine powder in a clean coffee or spice grinder.",
+        "Store in an airtight container for up to 2 months."
+      ],
+      "notes": "Makes about 2 tablespoons. Used as a garnish over raita or vegetables in North India.",
+      "id": "r349",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Potato a Thousand Ways",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side",
+        "breakfast"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": "10 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "name": "large waxy potatoes (red or Yukon Gold)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "yukon-gold-potatoes"
+        },
+        {
+          "name": "vegetable or peanut oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "whole cumin seeds (for cumin version)",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "salt to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "whole brown mustard seeds (for southern)",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "mustard-seeds"
+        },
+        {
+          "name": "dried red chilies (for southern)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "dried-red-chilies"
+        },
+        {
+          "name": "fresh curry leaves (for southern)",
+          "qty": 10,
+          "unit": "",
+          "pantryKey": "curry-leaves"
+        },
+        {
+          "name": "water (for southern)",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "whole black mustard seeds (for northern)",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "mustard-seeds"
+        },
+        {
+          "name": "sesame seeds (for northern)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "cayenne pepper (for northern)",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "lemon juice (for northern)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "chana dal (for Dosa)",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "chana-dal"
+        },
+        {
+          "name": "urad dal (for Dosa)",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "urad-dal"
+        },
+        {
+          "name": "chopped onion (for Dosa)",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "fresh ginger (for Dosa)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "fresh hot green chilies (for Dosa)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "ground turmeric (for Dosa)",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "chopped fresh cilantro (for Dosa)",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "cilantro"
+        }
+      ],
+      "instructions": [
+        "Boil potatoes whole until easily pierced, 15-20 minutes. Drain, cool, peel and dice into 1/2-inch chunks (or mash coarsely for Dosa).",
+        "Cumin version: Heat oil over medium-high; sizzle cumin seeds 30 seconds. Add potatoes, season with salt; stir-fry until golden, 5-7 minutes.",
+        "Southern version: Pop mustard seeds in oil; add broken red chilies, toast 1 minute, add curry leaves. Add potatoes and water, season with salt; cook covered until water evaporates, 5-7 minutes.",
+        "Northern version: Pop cumin and black mustard seeds in oil; add sesame seeds. Add potatoes, stir-fry until golden; add cayenne. Season with salt and lemon juice.",
+        "Dosa version: Toast chana then urad dal in oil; add black mustard seeds. Once popping, add curry leaves, then onion, ginger, green chilies. Stir 2-3 min, splash of water. Cover, cook until onions soft. Add potatoes, stir 2-3 min adding water for loose consistency. Stir in turmeric and salt; finish with cilantro."
+      ],
+      "notes": "Four regional variations from a single base. Each serves 2.",
+      "id": "r350",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Cherry Tomato and Cucumber Salad",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "10 min",
+      "cookTime": "5 min",
+      "ingredients": [
+        {
+          "name": "medium cucumbers (Kirby) or 1 large English cucumber",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "cucumbers"
+        },
+        {
+          "name": "halved cherry or grape tomatoes",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "juice of lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "kosher salt and freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "cayenne pepper",
+          "qty": 0.125,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "roasted cumin powder",
+          "qty": 0.33,
+          "unit": "tsp",
+          "pantryKey": null
+        },
+        {
+          "name": "olive or peanut oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "whole brown mustard seeds",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "mustard-seeds"
+        },
+        {
+          "name": "fresh curry leaves",
+          "qty": 10,
+          "unit": "",
+          "pantryKey": "curry-leaves"
+        }
+      ],
+      "instructions": [
+        "Peel cucumbers; cut into quarters lengthwise then crosswise. Arrange on a plate with tomatoes.",
+        "Drizzle with lemon juice; season with salt, pepper, cayenne. Sprinkle roasted cumin over top.",
+        "Heat oil over medium-high; add mustard seeds. When sputtering stops, add curry leaves until glossy (a few seconds); pour the tadka over the salad and serve."
+      ],
+      "notes": "A tadka-finished salad. Mustard seeds reach optimum flavor when sputtering stops.",
+      "id": "r351",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Goan Shrimp",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "olive oil or canola oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "medium shallots, finely chopped",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "cayenne pepper",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "paprika or Kashmiri red chili powder",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "kashmiri-chili-powder"
+        },
+        {
+          "name": "freshly ground black pepper",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "ground turmeric",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "coconut milk",
+          "qty": 1.25,
+          "unit": "cups",
+          "pantryKey": "coconut-milk"
+        },
+        {
+          "name": "large or medium shrimp, peeled and deveined",
+          "qty": 1,
+          "unit": "lbs",
+          "pantryKey": "shrimp"
+        },
+        {
+          "name": "salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "plain basmati rice, for serving",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "basmati-rice"
+        }
+      ],
+      "instructions": [
+        "Warm oil in a medium saute pan over medium heat. Add shallots; fry until golden brown and crispy, a few minutes.",
+        "Remove pan from heat; add cayenne, paprika, black pepper, and turmeric. Stir into a smooth paste.",
+        "Shake coconut milk vigorously; return pan to heat and add 1 1/4 cups milk. Bring to a rolling simmer, scraping up bits.",
+        "Reduce heat to low; add shrimp. Season with salt and lemon juice. Cook until shrimp are pink and opaque. Serve with rice."
+      ],
+      "notes": "Spicy coconut shrimp curry from Goa.",
+      "id": "r352",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Kerala-Style Fish",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "10 min",
+      "cookTime": "25 min",
+      "ingredients": [
+        {
+          "name": "skin-on wild sea bass fillet, 1/2- to 3/4-in thick, cut into 3-in slices",
+          "qty": 1.25,
+          "unit": "lbs",
+          "pantryKey": "sea-bass"
+        },
+        {
+          "name": "salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "olive or canola oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "large shallots, finely sliced",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "grated ginger",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "garlic, grated or crushed",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "water",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "ground turmeric",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "cayenne pepper",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "paprika",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "paprika"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "freshly ground black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "canned coconut milk",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "coconut-milk"
+        },
+        {
+          "name": "basmati or jasmine rice, for serving",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "basmati-rice"
+        }
+      ],
+      "instructions": [
+        "Season fish with salt, set aside.",
+        "Heat oil in a frying pan over medium-high; saute shallots until edges brown.",
+        "Add ginger and garlic; stir-fry until fragrant, 1 minute. Add water, turmeric, cayenne, paprika, lemon juice; season with salt and pepper. Bring to simmer.",
+        "Reduce heat to low; simmer 5 minutes. Add 1/2 cup coconut milk.",
+        "Return sauce to simmer; arrange fish in even layer. Cook 5-6 minutes, bathing fish with sauce. Serve with rice."
+      ],
+      "notes": "One-pot meen moilee. Substitute haddock, halibut, salmon, or kingfish.",
+      "id": "r353",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "South Indian Mixed Vegetable Kurma",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "75 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "name": "chopped raw cashews",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "cashews"
+        },
+        {
+          "name": "medium tomatoes, peeled and chopped (canned is fine)",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "salt, divided",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "fresh hot green chilies (bird's eye)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "garam masala",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "garam-masala"
+        },
+        {
+          "name": "chopped cilantro",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "peanut or olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "peanut-oil"
+        },
+        {
+          "name": "whole black mustard seeds",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "mustard-seeds"
+        },
+        {
+          "name": "hulled urad dal",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "urad-dal"
+        },
+        {
+          "name": "dried hot red chili",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "dried-red-chilies"
+        },
+        {
+          "name": "fresh curry leaves",
+          "qty": 15,
+          "unit": "",
+          "pantryKey": "curry-leaves"
+        },
+        {
+          "name": "carrots, peeled and cut into 1/2-in rounds",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "shelled green peas (fresh or thawed)",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "peas"
+        },
+        {
+          "name": "small head cauliflower, cut into 3/4-in florets",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "cauliflower"
+        },
+        {
+          "name": "green beans, trimmed and cut into 3/4-in pieces",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "green-beans"
+        },
+        {
+          "name": "water",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "canned coconut milk",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "coconut-milk"
+        },
+        {
+          "name": "basmati rice or rice noodles, for serving",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "basmati-rice"
+        }
+      ],
+      "instructions": [
+        "Cover cashews with hot water; after 1 hour, drain and transfer to blender.",
+        "Add tomatoes, 1/2 tsp salt, green chilies, and garam masala; blend smooth. Add cilantro; pulse. Reserve.",
+        "Warm oil in a saucepan over medium-high. Add mustard seeds and urad dal. When sputtering, add red chili; swirl, then add curry leaves.",
+        "Add carrots, peas, cauliflower, green beans. Reduce to medium, season with remaining salt; saute 5 minutes. Add 1/2 cup water; simmer, cover; cook 3-4 minutes.",
+        "Add cashew-tomato mixture; bring to boil. Cover, lower heat. Cook 3-5 minutes until tender.",
+        "Stir in 1/2 cup coconut milk; cook 1 minute. Serve over rice or rice noodles."
+      ],
+      "notes": "Cashew-based curry from Tamil Nadu. Cashews soak 1 hour.",
+      "id": "r354",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Butter Chicken",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "tomato paste",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "tomato-paste"
+        },
+        {
+          "name": "water",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "grated ginger",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "heavy cream",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "heavy-cream"
+        },
+        {
+          "name": "garam masala",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "garam-masala"
+        },
+        {
+          "name": "salt",
+          "qty": 0.75,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "fresh hot green chili (bird's eye), finely chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "cayenne pepper or red chili powder",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "finely chopped fresh cilantro",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 4,
+          "unit": "tsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "roasted cumin powder",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "unsalted butter",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "boneless tandoori-style chicken (or store-bought)",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "tandoori-chicken"
+        }
+      ],
+      "instructions": [
+        "Combine tomato paste and water in a measuring cup. Whisk; add ginger, cream, garam masala, salt, sugar, green chili, cayenne, cilantro, lemon juice, and cumin. Stir.",
+        "Melt butter in a large pan over medium heat. Add tomato-cream mixture; simmer, stirring.",
+        "Add chicken; turn often to coat. Transfer to a warm platter and spoon sauce over top."
+      ],
+      "notes": "North Indian dish where chicken is roasted tandoori-style first, then simmered in butter-cream-tomato sauce. Serve with rice or naan.",
+      "id": "r355",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Aloo Gosht (Pakistani Potato and Goat)",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "lamb"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "15 min",
+      "cookTime": "120 min",
+      "ingredients": [
+        {
+          "name": "olive oil, canola oil, or ghee",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "ghee"
+        },
+        {
+          "name": "cinnamon stick (4 inches), broken into pieces",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "cinnamon-sticks"
+        },
+        {
+          "name": "green cardamom pods, crushed",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "green-cardamom"
+        },
+        {
+          "name": "large red onion, halved and thinly sliced",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "red-onion"
+        },
+        {
+          "name": "garlic, crushed",
+          "qty": 3,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "finely chopped fresh ginger",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "goat meat, mix of bone-in and boneless, cut into 1 1/2-in pieces",
+          "qty": 3,
+          "unit": "lbs",
+          "pantryKey": "goat"
+        },
+        {
+          "name": "ground turmeric",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "ground coriander",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "coriander"
+        },
+        {
+          "name": "cayenne pepper",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "water, divided",
+          "qty": 5,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "egg-size potatoes, peeled",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "potatoes"
+        },
+        {
+          "name": "salt",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "garam masala",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "garam-masala"
+        }
+      ],
+      "instructions": [
+        "Heat oil/ghee in heavy pot over medium-high. Add cinnamon, cardamom, onion; saute until onions are light brown at edges, 5-7 minutes. Add garlic and ginger.",
+        "After 1 minute, add goat, turmeric, coriander, cayenne. Stir; add 1 cup water. Boil, reduce to medium, cover. Cook 10 minutes until liquid evaporated. Uncover, cook 3-4 minutes to brown.",
+        "Add remaining 4 cups water; boil. Reduce to low, cover, cook 1 hour.",
+        "Add potatoes; season with salt. Boil, reduce to low, cover. Cook 30 minutes until meat is fall-apart tender.",
+        "Stir in garam masala; serve."
+      ],
+      "notes": "Madhur recommends a marrow bone. Lamb shoulder substitutes for goat. Serve with chapati and dal, or rice.",
+      "id": "r356",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Lemony Chicken With Coriander (Cilantro)",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "15 min",
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "water, divided",
+          "qty": 0.875,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "knob fresh ginger, peeled and roughly chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "vegetable oil",
+          "qty": 6,
+          "unit": "tbsp",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "chicken: skinless thighs, breasts, drumsticks",
+          "qty": 2.5,
+          "unit": "lbs",
+          "pantryKey": "chicken"
+        },
+        {
+          "name": "garlic, finely chopped",
+          "qty": 5,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "fresh cilantro leaves, roughly chopped",
+          "qty": 7,
+          "unit": "oz",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "fresh hot green chilies (bird's eye), finely chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "cayenne pepper",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "ground cumin",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "ground coriander",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "coriander"
+        },
+        {
+          "name": "ground turmeric",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        }
+      ],
+      "instructions": [
+        "Combine 4 tbsp water with ginger in food processor; pulse to paste.",
+        "Heat oil in a lidded saute pan over medium-high. Brown chicken in batches; transfer to bowl.",
+        "Fry garlic until browning. Add ginger paste, stir-fry 1 minute. Add cilantro, green chili, cayenne, cumin, coriander, turmeric. Season with salt; cook 1 minute.",
+        "Return chicken and juices; add remaining water and lemon juice. Boil, reduce to low, cover.",
+        "Cook 15 minutes; flip pieces. Cover, cook 10-15 minutes until chicken is done."
+      ],
+      "notes": "Bright chicken curry with cilantro and ginger. Serve with basmati rice.",
+      "id": "r357",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Baked Lamb Shami Kebabs",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "lamb"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "60 min",
+      "cookTime": "55 min",
+      "ingredients": [
+        {
+          "name": "medium onions: 1 thinly sliced, 1 finely chopped",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "fresh hot green chilies (bird's eye), finely chopped",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "fresh mint leaves, chopped, plus sprigs for garnish",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "mint"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "salt, plus 1 tsp",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "blanched slivered almonds",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "almonds"
+        },
+        {
+          "name": "white poppy seeds",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "white-poppy-seeds"
+        },
+        {
+          "name": "ground lamb (twice-ground if possible)",
+          "qty": 1,
+          "unit": "lbs",
+          "pantryKey": "ground-lamb"
+        },
+        {
+          "name": "ground cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "garam masala",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "garam-masala"
+        },
+        {
+          "name": "cayenne pepper",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "plain yogurt",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "yogurt"
+        },
+        {
+          "name": "unsalted butter, for greasing",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        }
+      ],
+      "instructions": [
+        "Submerge onion rings in ice water; refrigerate 1-5 hours.",
+        "Combine chopped onion, chilies, mint, lemon juice; season with salt. Rest 20 minutes.",
+        "Toast almonds 3-4 minutes; cool. Toast poppy seeds 1-2 minutes; cool.",
+        "Grind almonds, then poppy seeds to fine powder. Combine with lamb, cumin, garam masala, cayenne, yogurt, 1 tsp salt, and onion-mint mixture. Knead into a ball.",
+        "Preheat 350F. Butter 8x8 baking dish. Press meat into even layer.",
+        "Bake 50 minutes. Drain liquid; broil 1 minute.",
+        "Drain pickled onions; dry on towel.",
+        "Slice patty into 1-inch squares; arrange with chilled onions and mint sprigs."
+      ],
+      "notes": "Sheet-pan kebabs spiced with cumin, garam masala, cayenne.",
+      "id": "r358",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Cauliflower and Potatoes With Cumin and Asafetida",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner",
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 3,
+      "prepTime": "10 min",
+      "cookTime": "25 min",
+      "ingredients": [
+        {
+          "name": "large red potato",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "red-potatoes"
+        },
+        {
+          "name": "ground cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "ground coriander",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "coriander"
+        },
+        {
+          "name": "ground turmeric",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "red chili powder",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "red-chili-powder"
+        },
+        {
+          "name": "salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "peanut or olive oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "peanut-oil"
+        },
+        {
+          "name": "ground asafetida",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "asafetida"
+        },
+        {
+          "name": "cumin seeds",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "medium head cauliflower, broken into florets",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "cauliflower"
+        },
+        {
+          "name": "water",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Boil potato whole until pierced, 10 minutes. Cool, peel, dice into 1-inch cubes.",
+        "Combine cumin, coriander, turmeric, chili powder, and salt.",
+        "Warm oil in pan/wok over medium. Add asafetida then cumin seeds. When sizzling, add cauliflower and potato; saute 6-8 minutes until golden.",
+        "Add spice mixture; toss. Add water; cover, reduce to low. Cook 5-7 minutes until cauliflower is tender."
+      ],
+      "notes": "Punjabi aloo gobi. Cut cauliflower to match potato size for even cooking.",
+      "id": "r359",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Okra With Shallots",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "10 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "fresh okra pods, stems and tips removed",
+          "qty": 12,
+          "unit": "oz",
+          "pantryKey": "okra"
+        },
+        {
+          "name": "olive, canola, or peanut oil",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "cumin seeds",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "large shallots, halved and sliced",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "ground coriander",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "coriander"
+        },
+        {
+          "name": "crushed red pepper flakes",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "red-pepper-flakes"
+        },
+        {
+          "name": "salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "lemon-juice"
+        }
+      ],
+      "instructions": [
+        "Slice okra on bias into 3-4 pieces.",
+        "Warm oil in pan over medium-high. Add cumin seeds; sizzle. Add okra; saute 5 minutes.",
+        "Add shallots; fry 3 minutes.",
+        "Reduce heat; add coriander, red pepper flakes, salt. Stir-fry 7-9 minutes. Add lemon juice."
+      ],
+      "notes": "Keep okra dry before cooking to avoid sliminess.",
+      "id": "r360",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Eggplant Bharta",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner",
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": "10 min",
+      "cookTime": "60 min",
+      "ingredients": [
+        {
+          "name": "large eggplant",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "eggplant"
+        },
+        {
+          "name": "medium onion, coarsely chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "fresh ginger, peeled and chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "garlic, chopped",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "water",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "water"
+        },
+        {
+          "name": "14-oz can whole tomatoes",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "vegetable oil",
+          "qty": 5,
+          "unit": "tbsp",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "ground turmeric",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "fresh hot green chili, finely chopped (optional)",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "roughly chopped cilantro, plus more for garnish",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "garam masala",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "garam-masala"
+        }
+      ],
+      "instructions": [
+        "Roast eggplant: broil until evenly charred, OR char on gas burner 25-40 minutes.",
+        "Run cool water over eggplant; remove charred skin. Coarsely chop flesh.",
+        "Blend onion, ginger, garlic, 3 tbsp water into paste. Chop 2 canned tomatoes; reserve.",
+        "Warm oil in skillet over medium. Add paste and turmeric; stir-fry 5 minutes. Add green chili and cilantro; cook 1 minute. Add tomatoes.",
+        "Reduce to low; cook 10 minutes. Add eggplant; cook 10-15 minutes. Season with salt, lemon juice, garam masala.",
+        "Garnish with cilantro."
+      ],
+      "notes": "Traditional smoky eggplant with onion, ginger, and tomato.",
+      "id": "r361",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Plain Basmati Rice",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": "35 min",
+      "cookTime": "40 min",
+      "ingredients": [
+        {
+          "name": "uncooked basmati rice",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "basmati-rice"
+        },
+        {
+          "name": "water",
+          "qty": 1.33,
+          "unit": "cups",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 325F.",
+        "Cover rice with cold water; agitate, drain. Rinse 3-4 more times. Soak 30 minutes.",
+        "Drain; add to heavy ovenproof pot. Add 1 1/3 cups water; bring to boil over medium.",
+        "Cover with foil and lid; bake 30 minutes.",
+        "Rest 10 minutes; fluff and serve."
+      ],
+      "notes": "Oven-steamed method ensures separate grains.",
+      "id": "r362",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Lamb Biryani",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "lamb"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "210 min",
+      "cookTime": "150 min",
+      "ingredients": [
+        {
+          "name": "best-quality basmati rice",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "basmati-rice"
+        },
+        {
+          "name": "water, divided",
+          "qty": 12.5,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "salt, divided",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "whole milk, warmed",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "saffron threads",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "saffron"
+        },
+        {
+          "name": "medium onions",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "garlic",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "knob fresh ginger, peeled and chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "blanched slivered almonds, divided",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "almonds"
+        },
+        {
+          "name": "vegetable oil, divided",
+          "qty": 13,
+          "unit": "tbsp",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "golden raisins",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "raisins"
+        },
+        {
+          "name": "boneless lamb shoulder, diced into 1-inch cubes",
+          "qty": 1.5,
+          "unit": "lbs",
+          "pantryKey": "lamb-shoulder"
+        },
+        {
+          "name": "plain yogurt",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "yogurt"
+        },
+        {
+          "name": "whole cloves",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "whole-cloves"
+        },
+        {
+          "name": "whole black peppercorns",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "cumin seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "coriander seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "coriander-seeds"
+        },
+        {
+          "name": "cinnamon stick",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "cinnamon-sticks"
+        },
+        {
+          "name": "fresh ground nutmeg",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "nutmeg"
+        },
+        {
+          "name": "cayenne pepper",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "unsalted butter, cut into 8 pieces",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "hard-boiled eggs",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "eggs"
+        }
+      ],
+      "instructions": [
+        "Rinse rice; soak in 7 cups water with 1 tbsp salt for 3 hours.",
+        "Toast saffron in dry pan; crumble into warm milk. Steep 3 hours.",
+        "Slice 2 onions; reserve. Blend remaining onion with garlic, ginger, 2 tbsp almonds, 3 tbsp water into thick paste.",
+        "Fry sliced onions in 6 tbsp oil until golden and crispy; drain. Fry raisins until plump; drain. Fry remaining almonds; drain.",
+        "Brown lamb in batches; reserve.",
+        "Add 7 more tbsp oil. Fry garlic-ginger paste until medium brown, splashing water as needed.",
+        "Return lamb; stir in yogurt 1 tbsp at a time. Season with 1 1/4 tsp salt; add 1/2 cup water. Simmer covered on low 30 minutes.",
+        "Grind cloves, peppercorns, cumin, coriander, cinnamon, nutmeg.",
+        "Add spice blend and cayenne to lamb; cover, cook 30 minutes.",
+        "Increase to medium; cook until juices reduce to about 1 cup. Transfer meat to lidded casserole; cover.",
+        "Preheat 300F. Boil 12 cups salted water. Drain soaked rice; cook 6 minutes at rapid boil; drain.",
+        "Pile rice over meat in hill shape; chopstick a 1-inch opening down center. Drizzle saffron milk; rest butter pieces around. Sprinkle with 2 tbsp fried onions.",
+        "Cover tightly; bake 1 hour.",
+        "Gently fold rice and meat together; transfer to platter. Garnish with eggs, raisins, almonds, remaining onions."
+      ],
+      "notes": "Madhur's celebration biryani. 3-hour soaks essential.",
+      "id": "r363",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Chapatis",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "200 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "ata (Indian whole wheat flour), plus extra for dusting",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "atta-flour"
+        },
+        {
+          "name": "lukewarm water",
+          "qty": 0.625,
+          "unit": "cups",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Combine flour and water; knead 10-15 minutes into soft dough.",
+        "Cover with damp towel; rest 3 hours.",
+        "Knead again. Divide into 6 pieces; ball and flatten. Cover.",
+        "Warm cast-iron skillet over medium.",
+        "Roll a chapati to 6-inch round; slap onto skillet. Cook 20-30 seconds.",
+        "Flip; cook 20-30 seconds. Flip; press with dry towel, rotating, until chapati puffs.",
+        "Transfer to towel-lined plate. Repeat with remaining dough."
+      ],
+      "notes": "Chapati means 'to slap.' Make right before serving.",
+      "id": "r364",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Moong Dal Cheela (Pancake)",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "breakfast"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "360 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "hulled moong dal (split mung beans)",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "moong-dal"
+        },
+        {
+          "name": "fresh ginger, finely chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "garlic, chopped",
+          "qty": 2,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "ground turmeric",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "water, plus 3 tbsp",
+          "qty": 0.75,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "fresh hot green chilies (bird's eye), finely chopped",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "fresh cilantro, finely chopped",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "large shallots: 1 finely chopped, 1 sliced into rings",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "olive or peanut oil for frying",
+          "qty": 6,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "julienned red peppers",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "bell-pepper"
+        },
+        {
+          "name": "salt and pepper to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "red chili powder (optional)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "red-chili-powder"
+        },
+        {
+          "name": "chutneys, pickles, yogurt relishes for serving",
+          "qty": null,
+          "unit": "",
+          "pantryKey": null
+        }
+      ],
+      "instructions": [
+        "Soak moong dal in cool water 5-6 hours. Drain.",
+        "Blend with ginger, garlic, turmeric, salt, 3/4 cup water until fine. Add chilies and cilantro; pulse. Stir in chopped shallots and 3 tbsp water.",
+        "Warm 1 tsp oil in nonstick pan over medium-low. Spoon 1/3 cup batter; spread with measuring cup base to 5 inches. Brush wet batter from center toward edges.",
+        "When 7-8 inches across, spread 1 tbsp each sliced shallots and red peppers, pressing in. Drizzle oil around rim. Sprinkle salt, pepper, chili powder. Cover; cook 2 minutes.",
+        "Flip; cook 1 more minute.",
+        "Serve with chutneys, pickles, relishes."
+      ],
+      "notes": "Flourless gluten-free pancakes from North India.",
+      "id": "r365",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Plain Square Paratha",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "breakfast",
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "60 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "name": "ata (Indian whole wheat flour), plus more for dusting",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "atta-flour"
+        },
+        {
+          "name": "salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "peanut or vegetable oil, plus 5-6 tbsp (or ghee)",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "ghee"
+        },
+        {
+          "name": "lukewarm water",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "water"
+        }
+      ],
+      "instructions": [
+        "Combine ata and salt; stir in 1 tsp oil. Add lukewarm water, knead to soft dough. Knead 10 minutes; coat with oil, cover, rest 30-60 min.",
+        "Divide dough into 6 portions; ball them. Cover.",
+        "Warm cast-iron skillet over medium until smoking; remove.",
+        "Roll a ball to 6-inch round. Brush with oil/ghee; fold upper third to center, brush; fold lower third, brush. Fold each end to center to make a square; brush folds.",
+        "Press flat; roll into 6-inch square.",
+        "Heat pan, slap paratha onto skillet.",
+        "Cook 1 minute. Flip; brush with oil. Cook 1 minute; flip and brush.",
+        "Turn 4 final times waiting 3-4 seconds between, until golden.",
+        "Repeat with remaining dough."
+      ],
+      "notes": "Flaky pastry-like flatbread with oil/ghee folded between layers.",
+      "id": "r366",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Aloo Paratha",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "breakfast"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "75 min",
+      "cookTime": "40 min",
+      "ingredients": [
+        {
+          "name": "medium red potatoes",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "red-potatoes"
+        },
+        {
+          "name": "ata (Indian whole wheat flour), plus more for dusting",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "atta-flour"
+        },
+        {
+          "name": "salt (for dough)",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "peanut oil, plus 5-6 tbsp (or ghee)",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "ghee"
+        },
+        {
+          "name": "lukewarm water",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "cayenne pepper or red chili powder",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "garam masala",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "garam-masala"
+        },
+        {
+          "name": "coarsely ground coriander seeds",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "coriander-seeds"
+        },
+        {
+          "name": "amchoor (dry mango powder)",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "amchoor"
+        },
+        {
+          "name": "fresh hot green chilies (bird's eye), finely chopped",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "fresh cilantro leaves, roughly chopped",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "salt (for stuffing)",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Boil potatoes until tender, 15-20 minutes. Drain, cool, refrigerate to dry.",
+        "Mix ata and salt; stir in 1 tsp oil. Add water, knead to dough. Knead 10 minutes; coat with oil, cover, rest 30-60 min.",
+        "Divide dough into 6 balls. Cover.",
+        "Peel potatoes; break into small pieces. Mix with cayenne, garam masala, coriander seeds, amchoor, chilies, cilantro.",
+        "Heat skillet over medium until smoking; remove.",
+        "Season potatoes with 1 tsp salt; divide into 6 balls.",
+        "Roll dough ball to 5 1/2-6 inch round; brush with oil. Place potato ball in center; pinch closed and twist top. Flatten with palm.",
+        "Roll out to 7-7 1/2 inches, flipping and dusting.",
+        "Slap onto skillet. Cook 1 minute. Flip, brush with oil. Cook 1 minute, flip and brush.",
+        "Turn 4 final times. Remove to towel-lined plate.",
+        "Repeat with remaining dough."
+      ],
+      "notes": "Stuffed potato paratha for North Indian breakfast. Dry potatoes thoroughly.",
+      "id": "r367",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Besan Cheela (Chickpea Pancake)",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "breakfast"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": "125 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "name": "chickpea flour (besan)",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "chickpea-flour"
+        },
+        {
+          "name": "salt",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "ground cumin",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "ground turmeric",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "garam masala",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "garam-masala"
+        },
+        {
+          "name": "ground asafetida",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "asafetida"
+        },
+        {
+          "name": "water",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "large tomato, peeled, seeded, finely chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "finely chopped shallot",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "fresh hot green chili (bird's eye), finely chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "olive or peanut oil, divided",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Sift chickpea flour, salt, cumin, turmeric, garam masala, asafetida. Stir in water to a thin pourable batter.",
+        "Add tomato, shallot, green chili. Rest 2 hours.",
+        "Heat 1/2 tsp oil in 6-inch nonstick pan over medium. Stir batter; ladle ~1/4 cup. Tilt to spread to edges. Cook 2 minutes.",
+        "Flip; cook 2 minutes pressing gently.",
+        "Repeat with remaining batter."
+      ],
+      "notes": "Indian chickpea omelet pancakes.",
+      "id": "r368",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Moong Dal and Red Lentils With Browned Onions",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 7,
+      "prepTime": "10 min",
+      "cookTime": "60 min",
+      "ingredients": [
+        {
+          "name": "moong dal (split mung beans)",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "moong-dal"
+        },
+        {
+          "name": "masoor dal (split red lentils)",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "masoor-dal"
+        },
+        {
+          "name": "water",
+          "qty": 6.5,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "ground turmeric",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "salt",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "oil or ghee",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "ghee"
+        },
+        {
+          "name": "ground asafetida",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "asafetida"
+        },
+        {
+          "name": "cumin seeds",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "dried hot red chilies",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "dried-red-chilies"
+        },
+        {
+          "name": "small onion, sliced into thin half-rings",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        }
+      ],
+      "instructions": [
+        "Combine dals; rinse until water runs clear.",
+        "Transfer to lidded pot with 6 1/2 cups water; simmer over medium. Skim froth. Add turmeric. Cover partially, reduce to low.",
+        "Cook 40-50 minutes until tender. Season with salt.",
+        "For tadka: heat oil/ghee in skillet over high. Add asafetida and cumin seeds. When sizzling, add red chilies. Add onion; fry until reddish brown and crispy.",
+        "Pour hot tadka over dal; cover immediately."
+      ],
+      "notes": "Two-dal blend with classic asafetida-cumin-chili tadka.",
+      "id": "r369",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Chickpeas in Simple Northern-Style",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": "10 min",
+      "cookTime": "45 min",
+      "ingredients": [
+        {
+          "name": "olive or peanut oil",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "medium onion, finely chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "grated ginger",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "garlic, crushed",
+          "qty": 3,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "fresh hot green chilies (bird's eye), finely chopped",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "ground coriander",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "coriander"
+        },
+        {
+          "name": "ground cumin",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "ground turmeric",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "turmeric"
+        },
+        {
+          "name": "tomato paste",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "tomato-paste"
+        },
+        {
+          "name": "15-oz cans organic chickpeas, drained, liquid reserved",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "chickpeas"
+        },
+        {
+          "name": "salt",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Heat oil over medium. Add onions; saute 7-8 minutes until browning. Add ginger, garlic, chilies; fry until onions golden.",
+        "Add coriander, cumin, turmeric. Add tomato paste.",
+        "Add chickpeas, 2 1/4 cups soaking liquid or water, salt. Simmer covered on low 30 minutes."
+      ],
+      "notes": "Punjabi chole. Traditionally served with bhatura or naan.",
+      "id": "r370",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Green Chutney",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "lemon or lime juice",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "finely chopped tomato",
+          "qty": 0.75,
+          "unit": "cups",
+          "pantryKey": "tomatoes"
+        },
+        {
+          "name": "roughly chopped fresh mint leaves",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "mint"
+        },
+        {
+          "name": "roughly chopped fresh cilantro leaves",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "fresh hot green chilies (bird's eye)",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "sugar",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "salt",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Blend lemon juice, tomato, mint, cilantro, chilies, sugar to smooth paste.",
+        "Add salt; pulse. Store in airtight container in refrigerator."
+      ],
+      "notes": "Pairs with kebabs, chaat, and more.",
+      "id": "r371",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Tamarind Chutney",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": "720 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "name": "seedless tamarind paste brick",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "tamarind-paste"
+        },
+        {
+          "name": "hot water",
+          "qty": 0.67,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "sugar",
+          "qty": 6,
+          "unit": "tbsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "salt",
+          "qty": 0.75,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "roasted cumin powder",
+          "qty": 1.5,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "cayenne pepper",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "powdered ginger",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "powdered-ginger"
+        },
+        {
+          "name": "chopped fresh mint leaves",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "mint"
+        }
+      ],
+      "instructions": [
+        "Break off ~1/3 cup tamarind into smaller pieces.",
+        "Cover with hot water; soak overnight. Mash with fingers.",
+        "Strain pulp through coarse mesh strainer.",
+        "Add sugar, salt, cumin, cayenne, ginger, mint. Stir to heavy pourable cream consistency.",
+        "Refrigerate up to 7 days or freeze."
+      ],
+      "notes": "Sweet-sour-spicy condiment from tamarind brick.",
+      "id": "r372",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Punjabi-Style Sweet-and-Sour Mixed Vegetable Pickle",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "30 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "carrot, peeled and cut into matchsticks",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "turnips, peeled and diced",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "turnips"
+        },
+        {
+          "name": "head of cauliflower, cut into florets",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "cauliflower"
+        },
+        {
+          "name": "mustard oil",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "mustard-oil"
+        },
+        {
+          "name": "brown sugar, packed",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "brown-sugar"
+        },
+        {
+          "name": "distilled white vinegar",
+          "qty": 0.67,
+          "unit": "cups",
+          "pantryKey": "white-vinegar"
+        },
+        {
+          "name": "whole brown or yellow mustard seeds",
+          "qty": 6,
+          "unit": "tbsp",
+          "pantryKey": "mustard-seeds"
+        },
+        {
+          "name": "garlic, crushed",
+          "qty": 5,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "grated ginger",
+          "qty": 2.5,
+          "unit": "tbsp",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "ground cayenne pepper",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "salt",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Boil water in large pot. Add carrots, turnips, cauliflower; return to boil. Drain. Cool.",
+        "Warm mustard oil in skillet over medium until smoky. Cool to room temp.",
+        "Combine brown sugar and vinegar; stir to dissolve. Grind mustard seeds; add with garlic, ginger, cayenne, salt.",
+        "Add vegetables; toss to coat. Transfer to a glass jar. Top with mustard oil; seal and shake.",
+        "Place in sunny spot 10-15 days, shaking daily.",
+        "Refrigerate between uses."
+      ],
+      "notes": "Makes 1 1/2 quarts. Sun-cured Punjabi pickle.",
+      "id": "r373",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Pickled Green Chilies",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": null,
+      "prepTime": "30 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "fresh hot green chilies (bird's eye, Thai, or serrano)",
+          "qty": 0.5,
+          "unit": "lbs",
+          "pantryKey": "bird-eye-chilies"
+        },
+        {
+          "name": "black mustard seeds",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "mustard-seeds"
+        },
+        {
+          "name": "salt",
+          "qty": 4,
+          "unit": "tsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "cayenne powder",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "fresh ginger, peeled and finely chopped",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "mustard oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "mustard-oil"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        }
+      ],
+      "instructions": [
+        "Wipe chilies clean. Arrange in single layer in sunny spot to dry.",
+        "Wearing gloves, slice off stems and finely slice chilies.",
+        "Grind mustard seeds. Add to chilies with salt, cayenne, ginger.",
+        "Warm mustard oil until smoking; cool to room temp. Add to chili mixture.",
+        "Transfer to glass jar; seal. Place in sun 24 hours, shaking occasionally.",
+        "Add lemon juice; seal and shake. Mature in sun 3-7 days until chilies lose color. Refrigerate."
+      ],
+      "notes": "Makes 1 1/2 cups. Madhur's family recipe.",
+      "id": "r374",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Cucumber Raita",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "10 min",
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "5-inch cucumber",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "cucumbers"
+        },
+        {
+          "name": "full-fat plain yogurt",
+          "qty": 2.5,
+          "unit": "cups",
+          "pantryKey": "yogurt"
+        },
+        {
+          "name": "finely chopped fresh mint leaves",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "mint"
+        },
+        {
+          "name": "ground cumin",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "cayenne pepper",
+          "qty": 0.25,
+          "unit": "tsp",
+          "pantryKey": "cayenne"
+        },
+        {
+          "name": "salt and pepper to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Grate cucumber finely.",
+        "Whisk yogurt smooth. Add cucumber, mint, cumin, cayenne; season. Mix.",
+        "Refrigerate covered until ready to use."
+      ],
+      "notes": "Cooling yogurt condiment. Pairs with biryani or kebabs.",
+      "id": "r375",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Masala Chai",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "breakfast",
+        "snack"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": "5 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "ground cinnamon",
+          "qty": 0.125,
+          "unit": "tsp",
+          "pantryKey": "cinnamon"
+        },
+        {
+          "name": "ground cloves",
+          "qty": 0.125,
+          "unit": "tsp",
+          "pantryKey": "ground-cloves"
+        },
+        {
+          "name": "ground cardamom (or 8 green cardamom pods)",
+          "qty": 0.125,
+          "unit": "tsp",
+          "pantryKey": "ground-cardamom"
+        },
+        {
+          "name": "ground ginger",
+          "qty": 0.125,
+          "unit": "tsp",
+          "pantryKey": "powdered-ginger"
+        },
+        {
+          "name": "freshly ground black peppercorns",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-pepper"
+        },
+        {
+          "name": "bags black tea (Assam or Darjeeling)",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "black-tea"
+        },
+        {
+          "name": "water",
+          "qty": 6,
+          "unit": "cups",
+          "pantryKey": "water"
+        },
+        {
+          "name": "whole milk",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "milk"
+        },
+        {
+          "name": "sugar",
+          "qty": 8,
+          "unit": "tsp",
+          "pantryKey": "sugar"
+        }
+      ],
+      "instructions": [
+        "Combine cinnamon, cloves, cardamom, ginger, black pepper, tea bags, water in a pot. Boil over medium.",
+        "Cover; reduce to low. Simmer 10 minutes.",
+        "Add milk and sugar; simmer 1 minute.",
+        "Strain through fine-mesh strainer. Serve."
+      ],
+      "notes": "Customize spices; double sugar for sweeter.",
+      "id": "r376",
+      "dateAdded": "2026-06-13"
+    },
+    {
+      "name": "Dahi Puri Chaat",
+      "source": "Madhur Jaffrey MasterClass",
+      "sourceUrl": null,
+      "mealType": [
+        "appetizer",
+        "snack"
+      ],
+      "cuisine": [
+        "Indian"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 6,
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "name": "small red potatoes",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "red-potatoes"
+        },
+        {
+          "name": "plain yogurt or curd, plus 6 tbsp",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "yogurt"
+        },
+        {
+          "name": "pani puris (small puffed breads), store-bought",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "pani-puri"
+        },
+        {
+          "name": "cooked chickpeas",
+          "qty": 0.33,
+          "unit": "cups",
+          "pantryKey": "chickpeas"
+        },
+        {
+          "name": "tamarind chutney",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "roasted cumin powder",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "cumin"
+        },
+        {
+          "name": "red chili powder",
+          "qty": 0.5,
+          "unit": "tsp",
+          "pantryKey": "red-chili-powder"
+        },
+        {
+          "name": "salt to taste",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "green chutney",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": null
+        },
+        {
+          "name": "sev (chickpea noodles), store-bought",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "sev"
+        }
+      ],
+      "instructions": [
+        "Boil potatoes until tender, 10-15 minutes. Drain, cool, peel, roughly chop.",
+        "Whisk yogurt smooth.",
+        "Poke a hole through top of each puri. Add 3-4 pieces potato, then 4-5 chickpeas. Spoon tamarind chutney; top with yogurt.",
+        "Sprinkle each puri with cumin powder, chili powder, salt.",
+        "Drizzle with green chutney; sprinkle with sev. Serve immediately."
+      ],
+      "notes": "Street food chaat. Best assembled a la minute.",
+      "id": "r377",
+      "dateAdded": "2026-06-13"
     }
   ],
   "pantryItems": [
@@ -35741,6 +38580,201 @@
     {
       "key": "belgian-endive",
       "name": "Belgian endive",
+      "category": "produce"
+    },
+    {
+      "key": "green-cardamom",
+      "name": "Green Cardamom Pods",
+      "category": "spice"
+    },
+    {
+      "key": "black-cardamom",
+      "name": "Black Cardamom",
+      "category": "spice"
+    },
+    {
+      "key": "black-cumin",
+      "name": "Black Cumin Seeds",
+      "category": "spice"
+    },
+    {
+      "key": "coriander",
+      "name": "Ground Coriander",
+      "category": "spice"
+    },
+    {
+      "key": "asafetida",
+      "name": "Asafetida (Hing)",
+      "category": "spice"
+    },
+    {
+      "key": "curry-leaves",
+      "name": "Fresh Curry Leaves",
+      "category": "produce"
+    },
+    {
+      "key": "garam-masala",
+      "name": "Garam Masala",
+      "category": "spice"
+    },
+    {
+      "key": "red-chili-powder",
+      "name": "Indian Red Chili Powder",
+      "category": "spice"
+    },
+    {
+      "key": "dried-red-chilies",
+      "name": "Dried Red Chilies",
+      "category": "spice"
+    },
+    {
+      "key": "bird-eye-chilies",
+      "name": "Fresh Bird's Eye Green Chilies",
+      "category": "produce"
+    },
+    {
+      "key": "amchoor",
+      "name": "Amchoor (Dry Mango Powder)",
+      "category": "spice"
+    },
+    {
+      "key": "tamarind-paste",
+      "name": "Tamarind Paste (Brick)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "mustard-oil",
+      "name": "Mustard Oil",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "atta-flour",
+      "name": "Ata (Indian Whole Wheat Flour)",
+      "category": "grain"
+    },
+    {
+      "key": "chickpea-flour",
+      "name": "Chickpea Flour (Besan)",
+      "category": "grain"
+    },
+    {
+      "key": "moong-dal",
+      "name": "Moong Dal (Split Mung Beans)",
+      "category": "grain"
+    },
+    {
+      "key": "masoor-dal",
+      "name": "Masoor Dal (Red Lentils)",
+      "category": "grain"
+    },
+    {
+      "key": "urad-dal",
+      "name": "Urad Dal (Split Black Lentils)",
+      "category": "grain"
+    },
+    {
+      "key": "chana-dal",
+      "name": "Chana Dal (Split Chickpeas)",
+      "category": "grain"
+    },
+    {
+      "key": "white-poppy-seeds",
+      "name": "White Poppy Seeds",
+      "category": "spice"
+    },
+    {
+      "key": "goat",
+      "name": "Goat Meat",
+      "category": "protein"
+    },
+    {
+      "key": "lamb-shoulder",
+      "name": "Lamb Shoulder",
+      "category": "protein"
+    },
+    {
+      "key": "ground-lamb",
+      "name": "Ground Lamb",
+      "category": "protein"
+    },
+    {
+      "key": "sea-bass",
+      "name": "Wild Sea Bass Fillet",
+      "category": "protein"
+    },
+    {
+      "key": "chicken-thighs",
+      "name": "Chicken Thighs",
+      "category": "protein"
+    },
+    {
+      "key": "tandoori-chicken",
+      "name": "Tandoori-Style Chicken",
+      "category": "protein"
+    },
+    {
+      "key": "yogurt",
+      "name": "Plain Yogurt",
+      "category": "dairy"
+    },
+    {
+      "key": "okra",
+      "name": "Okra",
+      "category": "produce"
+    },
+    {
+      "key": "green-beans",
+      "name": "Green Beans",
+      "category": "produce"
+    },
+    {
+      "key": "cashews",
+      "name": "Raw Cashews",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "red-pepper-flakes",
+      "name": "Crushed Red Pepper Flakes",
+      "category": "spice"
+    },
+    {
+      "key": "black-tea",
+      "name": "Black Tea Bags",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "pani-puri",
+      "name": "Pani Puri (Small Puffed Breads)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "sev",
+      "name": "Sev (Chickpea Noodles)",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "powdered-ginger",
+      "name": "Powdered Ginger",
+      "category": "spice"
+    },
+    {
+      "key": "ground-cloves",
+      "name": "Ground Cloves",
+      "category": "spice"
+    },
+    {
+      "key": "ground-cardamom",
+      "name": "Ground Cardamom",
+      "category": "spice"
+    },
+    {
+      "key": "whole-cloves",
+      "name": "Whole Cloves",
+      "category": "spice"
+    },
+    {
+      "key": "red-potatoes",
+      "name": "Red Potatoes",
       "category": "produce"
     }
   ],
