@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastUpdated": "2026-06-13",
-    "recipeCount": 377
+    "recipeCount": 389
   },
   "recipes": [
     {
@@ -35854,6 +35854,1641 @@
       "notes": "Street food chaat. Best assembled a la minute.",
       "id": "r377",
       "dateAdded": "2026-06-13"
+    },
+    {
+      "id": "r378",
+      "name": "Red Wine Poached Egg, Sautéed Asparagus, and Purée with King Trumpet Mushrooms",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "appetizer",
+        "dinner"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Meyer lemons",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Maldon salt",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "maldon-salt"
+        },
+        {
+          "name": "thick green asparagus",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "asparagus"
+        },
+        {
+          "name": "white asparagus",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "asparagus"
+        },
+        {
+          "name": "olive oil",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "unsalted butter",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "vegetable stock",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "stock"
+        },
+        {
+          "name": "shallot, small dice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "garlic clove, chopped",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "lemon thyme sprigs",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "lemon-thyme"
+        },
+        {
+          "name": "heavy cream",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "heavy-cream"
+        },
+        {
+          "name": "king trumpet mushrooms",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "king-trumpet-mushrooms"
+        },
+        {
+          "name": "garlic cloves, crushed",
+          "qty": 6,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "thyme sprigs",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "red wine (cabernet or burgundy)",
+          "qty": 1.5,
+          "unit": "l",
+          "pantryKey": "red-wine"
+        },
+        {
+          "name": "large eggs, at room temperature",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "bay leaves",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-peppercorns"
+        }
+      ],
+      "instructions": [
+        "Make lemon salt: zest Meyer lemons into a mortar and pestle with Maldon salt. Crush together until fragrant.",
+        "Trim woody ends from asparagus. Cut thin slices off the trimmed ends and reserve for purée; cut remaining spears to about 5 inches.",
+        "Heat cast-iron pan over medium-high. Season asparagus with black pepper and lemon salt. Add olive oil; sauté spears 90 seconds. Flip, add butter, char another 90 seconds.",
+        "Deglaze with vegetable stock; cover with foil and steam 2 to 5 minutes until knife slides through. Reserve.",
+        "For purée: melt butter in shallow saucepan over medium-low. Add shallots, chopped garlic, and 1 tbsp olive oil; sauté 3 minutes without color. Add reserved asparagus slices, salt, pepper, and lemon thyme; cook 3-5 minutes until softened.",
+        "Deglaze with vegetable stock to submerge; bring to simmer, cover, rest 2½ minutes.",
+        "Return heat to medium, add cream, boil 1-2 minutes. Blend on increasing speed until silky. Pass into squeeze bottle.",
+        "For mushrooms: heat olive oil in skillet. Slice trumpet mushrooms in half lengthwise and score cut sides in a crosshatch. Sear cut-side down 3-5 minutes until golden. Flip, add crushed garlic and thyme; cook 2 minutes. Drain on paper towels.",
+        "For poached eggs: bring red wine, bay leaves, and crushed garlic to a rolling boil. Use a whisk to create a whirlpool, then drop one egg in. Poach 2 to 2½ minutes. Test by examining shape on slotted spoon. Repeat for remaining eggs.",
+        "To plate: lay 3-5 asparagus spears (both colors) in a V on the plate. Place mushrooms randomly. Squeeze dots of asparagus purée around the edge. Top with poached egg and finish with lemon salt."
+      ],
+      "notes": "Beverage pairing: Gordon's Street Spritz. Asparagus stems can be saved for stock. Substitute regular thyme + lemon zest for lemon thyme if needed."
+    },
+    {
+      "id": "r379",
+      "name": "Crispy Five-Spice Duck with Black Cherry Glaze, Caramelized Red Endive, and Sautéed Spinach",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "French",
+        "Asian"
+      ],
+      "protein": [
+        "duck"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "star anise seeds",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "star-anise"
+        },
+        {
+          "name": "cinnamon seeds",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "cinnamon"
+        },
+        {
+          "name": "fennel seed",
+          "qty": 0.5,
+          "unit": "tbsp",
+          "pantryKey": "fennel-seed"
+        },
+        {
+          "name": "whole cloves",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "cloves"
+        },
+        {
+          "name": "Szechuan peppercorns (or black peppercorns)",
+          "qty": 0.5,
+          "unit": "tbsp",
+          "pantryKey": "szechuan-peppercorns"
+        },
+        {
+          "name": "kosher salt",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "navel oranges",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "navel-orange"
+        },
+        {
+          "name": "Maldon salt",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "maldon-salt"
+        },
+        {
+          "name": "duck breasts, 9 oz each",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "duck-breast"
+        },
+        {
+          "name": "thyme sprigs",
+          "qty": 16,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "garlic cloves, crushed",
+          "qty": 6,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "red endive heads",
+          "qty": 6,
+          "unit": "",
+          "pantryKey": "red-endive"
+        },
+        {
+          "name": "powdered sugar",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "powdered-sugar"
+        },
+        {
+          "name": "aged balsamic vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "balsamic-vinegar"
+        },
+        {
+          "name": "orange (for zest and juice)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "oranges"
+        },
+        {
+          "name": "olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "chicken stock",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "stock"
+        },
+        {
+          "name": "honey",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "honey"
+        },
+        {
+          "name": "soy sauce",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "soy-sauce"
+        },
+        {
+          "name": "red wine vinegar",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "red-wine-vinegar"
+        },
+        {
+          "name": "chicken stock",
+          "qty": 6,
+          "unit": "oz",
+          "pantryKey": "stock"
+        },
+        {
+          "name": "black cherries, pitted and halved",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "cherries"
+        },
+        {
+          "name": "spinach",
+          "qty": 4,
+          "unit": "cups",
+          "pantryKey": "spinach"
+        },
+        {
+          "name": "shallots, minced",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "garlic clove, minced",
+          "qty": 1,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-peppercorns"
+        }
+      ],
+      "instructions": [
+        "Five-spice: toast each spice individually in a pan or 375°F oven 4-8 minutes until fragrant. Cool and grind in mortar and pestle; mix with salt.",
+        "Orange salt: zest oranges into mortar with Maldon salt and crush together.",
+        "Preheat oven to 375°F. Trim excess skin on duck. Score skin in a crosshatch pattern. Coat in salt and five-spice; rest 2 minutes.",
+        "Heat cast-iron pan on low 3 minutes. Lay duck skin-down, increase to medium. Add skin trimmings. Sear 3-5 minutes until skin is golden and fat rendered.",
+        "Add thyme and garlic; sauté 1 minute. Place aromatics on top of duck skin-side-down and roast 8-10 minutes to 135°F internal. Rest 8-10 minutes.",
+        "Endive: trim stems and halve lengthwise. Sprinkle with salt and powdered sugar, drizzle aged balsamic, finish with orange zest. Caramelize cut-side-down in olive oil 1-2 minutes. Flip, deglaze with orange juice, add remaining olive oil and zest. Braise 2-3 minutes.",
+        "Black cherry glaze: drain duck pan, add honey, caramelize 2 minutes. Deglaze with red wine vinegar. Once syrupy, add chicken stock and reduce 3-5 minutes. Add soy sauce, reduce. Add cherries; cook 1-2 minutes.",
+        "Spinach: heat olive oil over medium-high. Add salt, spinach, more salt and pepper. After 10 seconds add garlic and shallots; toss until just wilted (no more than 20 seconds total).",
+        "Plate: fan three endive across the top of the plate. Add a spoonful of spinach below. Slice duck and shingle over spinach. Spoon cherries around bottom; spoon glaze over. Finish with orange salt."
+      ],
+      "notes": "Beverage pairing: Bird of Paradise (vodka, Chambord, Cointreau). Make 5-spice in bulk; keeps 6 months airtight. Substitute tamari for soy sauce for gluten-free."
+    },
+    {
+      "id": "r380",
+      "name": "Pomme Purée (Gordon Ramsay)",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 10,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "heavy cream",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": "heavy-cream"
+        },
+        {
+          "name": "nutmeg",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "nutmeg"
+        },
+        {
+          "name": "bay leaves",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "bay-leaves"
+        },
+        {
+          "name": "garlic cloves, crushed",
+          "qty": 12,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "Yukon Gold potatoes, peeled and diced",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "yukon-gold-potatoes"
+        },
+        {
+          "name": "salt",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "salt"
+        },
+        {
+          "name": "unsalted butter, cubed and chilled",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "scallions, thinly sliced",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "chives, thinly sliced",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "chives"
+        },
+        {
+          "name": "extra virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-peppercorns"
+        },
+        {
+          "name": "olive oil (with cream)",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "olive-oil"
+        }
+      ],
+      "instructions": [
+        "Infused cream: bring heavy cream, bay, oil, garlic, and nutmeg to a boil; reduce by one fourth (3-5 min). Season with salt. Strain through a sieve, smashing garlic for flavor.",
+        "Submerge diced potatoes in cold water with 1 tbsp salt. Cover and bring to a boil. Reduce to a simmer; cook 7-8 minutes until a potato smashes easily.",
+        "Drain potatoes and return to pot covered over medium heat 1-2 minutes to dry. Pass through a ricer.",
+        "Fold in a third of the infused cream, then a third more. Fold in cubed butter a knob at a time. Whip lightly, taste, adjust seasoning.",
+        "Fold in scallions. Spoon into serving bowls, sprinkle generously with chives and finish with a drizzle of extra virgin olive oil."
+      ],
+      "notes": "Can substitute Kennebec or other waxy potato. Try infusing cream with basil for serving with steak. Gluten-free and vegetarian."
+    },
+    {
+      "id": "r381",
+      "name": "Charred Cauliflower Steak with Olive Pistou and Porcini Mushrooms",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Mediterranean"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "medium heads cauliflower",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "cauliflower"
+        },
+        {
+          "name": "olive oil",
+          "qty": 11,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "harissa powder",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "harissa-powder"
+        },
+        {
+          "name": "lemon, for juice and zest",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "unsalted butter, cubed",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "vegetable stock",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "stock"
+        },
+        {
+          "name": "extra virgin olive oil",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "navel orange (juice and zest)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "navel-orange"
+        },
+        {
+          "name": "Castelvetrano green olives, pitted and quartered",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "olives"
+        },
+        {
+          "name": "Niçoise or Kalamata olives, pitted and quartered",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "olives"
+        },
+        {
+          "name": "flat-leaf parsley, rough chopped",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "porcini mushrooms",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "porcini-mushrooms"
+        },
+        {
+          "name": "garlic cloves, thinly sliced",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "shallots",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "shallots"
+        },
+        {
+          "name": "olive oil (mushrooms)",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "unsalted butter (mushrooms)",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "mint leaves",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "mint"
+        },
+        {
+          "name": "nonpareil capers",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "capers"
+        },
+        {
+          "name": "Meyer lemon (for zest/juice)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "garlic or chive blossoms",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": null
+        },
+        {
+          "name": "Maldon salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "maldon-salt"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 325°F. Trim cauliflower leaves and base. Wet a chef's knife and cut two 1-inch steaks from each head.",
+        "Drizzle sheet tray with 8 tbsp olive oil, sprinkle 2 tbsp harissa and salt. Rub one side of steaks in the mix; flip and dress the other side similarly. Finish with Maldon.",
+        "Heat two cast-iron skillets on medium-high with 1 tbsp olive oil in each. Sear steaks 90 seconds; flip, add 2 tbsp butter per pan, baste. Add vegetable stock to bubble. Roast 8-10 minutes until tender.",
+        "Olive pistou: mix quartered olives with extra virgin olive oil, orange juice and zest, lemon juice and zest, and parsley. Season.",
+        "Porcini: heat olive oil in sauté pan. Slice porcini lengthwise. Cook porcini 3-5 minutes, season. Add sliced shallots and garlic; cook 5 minutes until translucent. Zest lemon and stir in olive pistou.",
+        "Lower heat, add chiffonade mint and capers. Adjust seasoning.",
+        "Plate two steaks with cores facing each other. Spoon pistou and mushrooms over. Finish with extra virgin olive oil, lemon zest, juice, and chive/garlic blossoms."
+      ],
+      "notes": "Beverage pairing: dirty martini. Gluten-free and vegetarian. Substitute olive oil for butter to make vegan. Harissa can vary in heat."
+    },
+    {
+      "id": "r382",
+      "name": "Basil Crusted Rack of Lamb with Glazed Thumbelina Carrots, New Potatoes, and Mint Yogurt Sauce",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "French",
+        "British"
+      ],
+      "protein": [
+        "lamb"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "basil leaves, packed",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "basil"
+        },
+        {
+          "name": "flat-leaf parsley, packed",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "parsley"
+        },
+        {
+          "name": "panko bread crumbs",
+          "qty": 8,
+          "unit": "oz",
+          "pantryKey": "panko"
+        },
+        {
+          "name": "kosher salt",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "kosher-salt"
+        },
+        {
+          "name": "Parmesan, grated",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "parmesan"
+        },
+        {
+          "name": "New Zealand rack of lamb (14-16 oz each)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lamb-chops"
+        },
+        {
+          "name": "grapeseed oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "grapeseed-oil"
+        },
+        {
+          "name": "garlic cloves, crushed",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "thyme",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "thyme"
+        },
+        {
+          "name": "butter, cubed",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Dijon mustard",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "dijon-mustard"
+        },
+        {
+          "name": "Thumbelina carrots, peeled",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "carrots"
+        },
+        {
+          "name": "Tokyo turnips, peeled",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "tokyo-turnips"
+        },
+        {
+          "name": "star anise",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "star-anise"
+        },
+        {
+          "name": "cinnamon sticks",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "cinnamon-sticks"
+        },
+        {
+          "name": "honey",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "honey"
+        },
+        {
+          "name": "unsalted butter, cubed (carrots)",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "chicken stock",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "stock"
+        },
+        {
+          "name": "new potatoes",
+          "qty": 8,
+          "unit": "",
+          "pantryKey": "new-potatoes"
+        },
+        {
+          "name": "olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "unsalted butter, cubed (potatoes)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "Greek yogurt",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "greek-yogurt"
+        },
+        {
+          "name": "mint leaves",
+          "qty": 12,
+          "unit": "",
+          "pantryKey": "mint"
+        },
+        {
+          "name": "lemon (zest and juice)",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Maldon salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "maldon-salt"
+        }
+      ],
+      "instructions": [
+        "Basil crust: pulse basil, parsley, panko, salt, and Parmesan in a food processor until bright green and even.",
+        "Preheat oven 375°F. Season lamb racks with salt and pepper. Heat cast-iron pans on medium-high with grapeseed oil. Sear racks 60 seconds each side. Add thyme, garlic, butter; baste another minute. Roast 4-5 minutes to 125°F. Rest.",
+        "Brush flesh side with Dijon, rest 2 minutes, repeat. Dip into basil crust to coat.",
+        "Blanch carrots 2 minutes in salted boiling water; shock in ice bath. Repeat with turnips. Dry on paper towels.",
+        "Heat olive oil in large sauté pan over medium. Add cinnamon sticks, star anise, honey, and salt. Once honey bubbles, add blanched vegetables; toss 3 minutes. Add butter; let froth, then deglaze with chicken stock. Cook 2-3 minutes until glazed.",
+        "Boil new potatoes in salted water 10 minutes; drain and cool. Halve; sauté cut-side-down in olive oil 3-5 minutes until brown. Flip, add butter, cook 3 minutes more.",
+        "Mint yogurt: chiffonade then rough chop mint. Mix with yogurt, lemon zest, salt, and a squeeze of lemon juice.",
+        "Plate: spoon yogurt at 6 o'clock spread to 8. Lay carrots and turnips alternating; garnish with star anise and cinnamon stick. Fan potatoes. Slice rack into chops; shingle over plate. Finish with Maldon."
+      ],
+      "notes": "Beverage pairing: young Bordeaux-style red. Substitute fingerlings or small Yukons for new potatoes; baby carrots for Thumbelina; diced turnips for Tokyo. Gluten-free with GF panko."
+    },
+    {
+      "id": "r383",
+      "name": "Roasted Turkish Spiced Eggplant with Basil and Feta",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "side",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Mediterranean",
+        "Turkish"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 8,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "medium Italian eggplants",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggplant"
+        },
+        {
+          "name": "garlic cloves, halved lengthwise",
+          "qty": 10,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "olive oil",
+          "qty": 6,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "large white onion, small dice",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "cracked black pepper",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "black-peppercorns"
+        },
+        {
+          "name": "fresh ginger, grated",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "ground cumin",
+          "qty": 4,
+          "unit": "tsp",
+          "pantryKey": "ground-cumin"
+        },
+        {
+          "name": "ground coriander",
+          "qty": 3,
+          "unit": "tsp",
+          "pantryKey": "coriander"
+        },
+        {
+          "name": "ground cardamom",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "ground-cardamom"
+        },
+        {
+          "name": "28 oz cans crushed San Marzano tomatoes",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "canned-whole-tomatoes"
+        },
+        {
+          "name": "fresh basil leaves",
+          "qty": 10,
+          "unit": "",
+          "pantryKey": "basil"
+        },
+        {
+          "name": "feta cheese, crumbled",
+          "qty": 4,
+          "unit": "oz",
+          "pantryKey": "feta"
+        },
+        {
+          "name": "micro sorrel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "microgreens"
+        },
+        {
+          "name": "extra virgin olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "salt",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "salt"
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 350°F. Drain canned tomatoes in a sieve over a bowl 30 minutes.",
+        "Halve eggplants lengthwise. Score cut sides in crosshatch. Salt heavily; rest cut-side-down on rack 10 minutes; pat dry. Insert garlic halves into score marks. Drizzle each half with olive oil; season with pepper.",
+        "Heat two cast-iron pans medium-high with 1 tbsp olive oil each. Sear eggplants cut-side-down 3-5 minutes until dark golden brown. Roast 20-30 minutes until tender. Cool to handle.",
+        "Scoop eggplant flesh from skins. Mince eggplant and roasted garlic into a paste.",
+        "Add 2 tbsp olive oil to a large nonstick pan over medium. Sweat onions 2-3 minutes. Season generously with salt and 1 tbsp cracked pepper. Add cumin, coriander, cardamom; cook 2 minutes.",
+        "Add eggplant; stir with wooden spoon, lower to medium-low, cook 3-4 minutes. Add grated ginger; cook 2 minutes. Add drained tomatoes; cook 5-10 minutes until reduced.",
+        "Chiffonade basil; stir in and cook 1 more minute.",
+        "Transfer to serving bowls. Top with feta, drizzle of olive oil, and micro sorrel."
+      ],
+      "notes": "Beverage pairing: light red wine like pinot noir. Gluten-free; can be vegan without feta. Substitute regular canned tomatoes if no San Marzano."
+    },
+    {
+      "id": "r384",
+      "name": "Grilled Baby Leeks, Warm Miso Broth, and Citrus Caviar Vinaigrette",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "appetizer"
+      ],
+      "cuisine": [
+        "Asian",
+        "French"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "baby leeks",
+          "qty": 18,
+          "unit": "",
+          "pantryKey": "baby-leeks"
+        },
+        {
+          "name": "olive oil",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "lemon for zest",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "vegetable stock",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "stock"
+        },
+        {
+          "name": "white miso",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "white-miso"
+        },
+        {
+          "name": "extra virgin olive oil",
+          "qty": 4,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "fresh lemon juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "lemon-juice"
+        },
+        {
+          "name": "large lemon for zest",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "chives, thin sliced",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "chives"
+        },
+        {
+          "name": "Osetra caviar",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "caviar"
+        },
+        {
+          "name": "grated egg whites (hard-boiled)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "grated egg yolks (hard-boiled)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "micro mustard greens",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "microgreens"
+        },
+        {
+          "name": "black pepper",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "black-peppercorns"
+        }
+      ],
+      "instructions": [
+        "Trim leeks; leave stalks intact. Toss with olive oil, salt, and pepper.",
+        "Preheat grill pan over medium-high. Grill leeks perpendicular to grill lines with weight (plates) for 30 seconds; cook 2 more minutes for marks. Flip and repeat.",
+        "Drizzle grilled leeks with olive oil and zest of lemon over the top.",
+        "Miso broth: bring vegetable stock to a boil; whisk in white miso. Reduce until it thinly coats a spoon. Add leeks and poach covered on low 8-10 minutes.",
+        "Remove leeks; reduce broth for a few more minutes until twice as thick as poaching liquid.",
+        "Vinaigrette: combine 4 tbsp reduced miso broth, salt, pepper. Whisk in olive oil, lemon juice, lemon zest. Stir in chives, grated egg whites and yolks, fold in caviar.",
+        "Plate: fan leeks on a platter. Brush with miso broth. Layer more leeks and brush again. Spoon vinaigrette on both sides; top with micro mustard greens."
+      ],
+      "notes": "Beverage pairing: Gordon's gin and tonic. Use sweet (white/yellow) miso; dark miso would overpower. Substitute spring onions or thick scallions for baby leeks. Push hard-boiled egg whites/yolks separately through a sieve."
+    },
+    {
+      "id": "r385",
+      "name": "Szechuan Pepper Roasted Whole Chicken Stuffed with Lemon, Fennel, Onion, and Thai Basil",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Asian",
+        "American"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "black peppercorns, crushed",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "black-peppercorns"
+        },
+        {
+          "name": "Szechuan peppercorns, crushed",
+          "qty": 1.5,
+          "unit": "tbsp",
+          "pantryKey": "szechuan-peppercorns"
+        },
+        {
+          "name": "Meyer lemons (for lemon salt)",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Maldon salt",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "maldon-salt"
+        },
+        {
+          "name": "whole chicken (3 lb), cleaned",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "whole-chicken"
+        },
+        {
+          "name": "white onion, peeled and halved",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "onions"
+        },
+        {
+          "name": "lemon, halved lengthwise",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "fennel bulb, halved lengthwise",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "fennel-bulb"
+        },
+        {
+          "name": "Thai basil sprigs",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "thai-basil"
+        },
+        {
+          "name": "egg yolks (for egg wash)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "eggs"
+        }
+      ],
+      "instructions": [
+        "Szechuan pepper mix: crush black and Szechuan peppercorns; combine.",
+        "Lemon salt: zest Meyer lemons into mortar; crush with Maldon salt until fragrant.",
+        "Preheat oven 400°F. Bring chicken to room temp. Stand neck-down; season cavity with 1-2 tbsp lemon salt. Stuff with onion, lemon, fennel wedges, then Thai basil center.",
+        "Whisk egg yolks; brush over all visible skin (not back). Sprinkle 3 tbsp Szechuan pepper mix and 4 tbsp lemon salt evenly over the chicken.",
+        "Truss with butcher's twine: wrap lengthwise, cross at the ankles, bring legs close. Tie off in a bow.",
+        "Place on a wire rack on a sheet tray; roast center rack 60 minutes to 165°F in leg joint. Rest 10 minutes; remove twine.",
+        "Drain juices through a sieve into a bowl and reserve (used for Szechuan Chicken Breast / Udon).",
+        "Carve: remove legs at joint by dislocating; separate breast with knife following sternum; remove breast/wing in one piece. Separate thigh from drumstick. Reserve carcass for stock."
+      ],
+      "notes": "Beverage pairing not listed. Pepper mix keeps 3 years airtight. Szechuan pepper isn't spicy — numbing with lemony notes. Reserved chicken juices and breasts are used in the udon noodle recipe."
+    },
+    {
+      "id": "r386",
+      "name": "Hoisin Glazed Crispy Shredded Chicken Salad with Pickled Daikon and Honey Mustard Vinaigrette",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner",
+        "lunch"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 5,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "roasted chicken thighs and legs, shredded (skins julienned)",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "chicken-thighs"
+        },
+        {
+          "name": "cornstarch",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "cornstarch"
+        },
+        {
+          "name": "rice flour",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "rice-flour"
+        },
+        {
+          "name": "vegetable oil for frying",
+          "qty": 1,
+          "unit": "l",
+          "pantryKey": "vegetable-oil"
+        },
+        {
+          "name": "hoisin sauce",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "hoisin-sauce"
+        },
+        {
+          "name": "rice wine vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "Meyer lemon",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "chives, sliced",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "chives"
+        },
+        {
+          "name": "daikon, peeled and julienned",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "daikon"
+        },
+        {
+          "name": "fresh ginger, peeled and julienned",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "sugar",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "rice wine vinegar (pickle)",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "water",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "honey",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "honey"
+        },
+        {
+          "name": "Dijon mustard",
+          "qty": 1,
+          "unit": "tsp",
+          "pantryKey": "dijon-mustard"
+        },
+        {
+          "name": "lemon for juice",
+          "qty": 0.25,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "extra virgin olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "scallions, sliced on the bias",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "Bibb or butter lettuce head",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "butter-lettuce"
+        }
+      ],
+      "instructions": [
+        "Shred chicken meat into ¼-inch pieces. Mix cornstarch and rice flour; sift over chicken and toss.",
+        "Heat 1 inch vegetable oil in a wok to 350°F. Shake dredged chicken on a spider; fry small batches 2-4 minutes until golden. Drain. Fry julienned skin without dredge for about 2 minutes.",
+        "Mix hoisin and rice wine vinegar; toss with crispy chicken. Finish with lemon zest and chives.",
+        "Pickled daikon and ginger: heat 1 cup each water, sugar, and rice wine vinegar to a boil. Pour hot pickle over julienned daikon and ginger in separate bowls; soak 20 minutes then refrigerate.",
+        "Vinaigrette: whisk honey, Dijon, lemon juice; whisk in olive oil.",
+        "Lettuce flower: lay lettuce core-down, pry layers open. Drizzle with vinaigrette. Spoon chicken into the leaves. Garnish with pickled daikon, ginger, scallions, and more vinaigrette."
+      ],
+      "notes": "Beverage pairing: New Zealand Pinot Gris. Use tamari for gluten-free. Substitute scallions for chives. Substitute green leaf/romaine/iceberg for bibb (presented as cups)."
+    },
+    {
+      "id": "r387",
+      "name": "Szechuan Crusted Chicken Breast with Udon Noodles, Bok Choy, and Ramen Broth",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner"
+      ],
+      "cuisine": [
+        "Asian"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "effort": "project",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 2,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "Meyer lemons",
+          "qty": 3,
+          "unit": "",
+          "pantryKey": "lemons"
+        },
+        {
+          "name": "Maldon salt",
+          "qty": 3,
+          "unit": "tbsp",
+          "pantryKey": "maldon-salt"
+        },
+        {
+          "name": "dried udon noodles",
+          "qty": 9,
+          "unit": "oz",
+          "pantryKey": "udon-noodles"
+        },
+        {
+          "name": "sesame oil",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "sesame-oil"
+        },
+        {
+          "name": "olive oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "unsalted butter, cubed",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "butter"
+        },
+        {
+          "name": "shiitake mushrooms, julienned",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "shiitake-mushrooms"
+        },
+        {
+          "name": "bok choy, chiffonade",
+          "qty": 0.5,
+          "unit": "cups",
+          "pantryKey": "baby-bok-choy"
+        },
+        {
+          "name": "sugar snap peas, sliced on bias",
+          "qty": 0.25,
+          "unit": "cups",
+          "pantryKey": "snap-peas"
+        },
+        {
+          "name": "scallions, rough chopped",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "scallions"
+        },
+        {
+          "name": "chicken stock",
+          "qty": 3,
+          "unit": "cups",
+          "pantryKey": "stock"
+        },
+        {
+          "name": "roasted chicken juices (reserved)",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "lemongrass stalk, rough chop",
+          "qty": 0.25,
+          "unit": "",
+          "pantryKey": "lemongrass"
+        },
+        {
+          "name": "fresh ginger, rough chop",
+          "qty": 0.5,
+          "unit": "",
+          "pantryKey": "ginger"
+        },
+        {
+          "name": "garlic cloves, crushed",
+          "qty": 4,
+          "unit": "cloves",
+          "pantryKey": "garlic"
+        },
+        {
+          "name": "cilantro plus 3 sprigs",
+          "qty": 0.25,
+          "unit": "",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "soy sauce",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "soy-sauce"
+        },
+        {
+          "name": "rice wine vinegar",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "sesame oil (broth finish)",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "sesame-oil"
+        },
+        {
+          "name": "roasted Szechuan crusted chicken breasts (from Ch 9)",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "chicken-breast"
+        },
+        {
+          "name": "scallions, thinly sliced on the bias (garnish)",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "scallions"
+        }
+      ],
+      "instructions": [
+        "Lemon salt: zest Meyer lemons with Maldon and crush in mortar.",
+        "Heat 2 tsp olive oil in large sauté pan medium-high. Sauté shiitake 3 minutes with sesame oil. Add bok choy and butter, sauté 1 minute. Add snap peas and scallions; toss and cook 2 minutes. Reserve.",
+        "Boil 2 qts salted water; cook udon 8 minutes to al dente. Strain, toss with 1 tbsp olive oil. Combine with vegetables.",
+        "Ramen broth: simmer chicken stock with reserved chicken juices, lemongrass, ginger, cilantro, and garlic over medium 5 minutes. Add soy sauce and rice wine vinegar; reduce 20 minutes by half. Strain. Add picked cilantro leaves and 2 tsp sesame oil.",
+        "Plate: thread half noodles on a meat fork, twist into a nest in a 10-12 inch bowl. Repeat. Top with half the vegetables. Slice chicken breast into 4 pieces; lay over noodles. Ladle broth around to half-inch from top of noodles. Finish with scallions and lemon salt."
+      ],
+      "notes": "Beverage pairing: IPA. Use tamari and GF noodles for gluten-free. Re-warm reserved breasts skin-up in stock under foil at 350°F until 165°F."
+    },
+    {
+      "id": "r388",
+      "name": "Sesame Seed Crusted Tuna Loin with Pickled Cucumber Salad and Yuzu-Sesame Dressing",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dinner",
+        "appetizer"
+      ],
+      "cuisine": [
+        "Japanese",
+        "Asian"
+      ],
+      "protein": [
+        "seafood"
+      ],
+      "effort": "weeknight",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "tuna blocks, 4-5 oz each",
+          "qty": 4,
+          "unit": "",
+          "pantryKey": "sushi-tuna"
+        },
+        {
+          "name": "untoasted white sesame seeds",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "black sesame seeds",
+          "qty": 2,
+          "unit": "cups",
+          "pantryKey": "sesame-seeds"
+        },
+        {
+          "name": "egg whites",
+          "qty": 1,
+          "unit": "cups",
+          "pantryKey": "eggs"
+        },
+        {
+          "name": "limes for zest",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "lime-juice"
+        },
+        {
+          "name": "grapeseed oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "grapeseed-oil"
+        },
+        {
+          "name": "English cucumbers",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "cucumbers"
+        },
+        {
+          "name": "rice wine vinegar",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": "rice-vinegar"
+        },
+        {
+          "name": "sugar",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "water",
+          "qty": 1.5,
+          "unit": "cups",
+          "pantryKey": null
+        },
+        {
+          "name": "coriander seeds",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "coriander-seeds"
+        },
+        {
+          "name": "cilantro leaves, rough chopped",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "French Breakfast radishes, thinly sliced",
+          "qty": 2,
+          "unit": "",
+          "pantryKey": "radishes"
+        },
+        {
+          "name": "lime juice and zest",
+          "qty": 1,
+          "unit": "",
+          "pantryKey": "lime-juice"
+        },
+        {
+          "name": "yuzu juice",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "yuzu-juice"
+        },
+        {
+          "name": "white sesame oil",
+          "qty": 1,
+          "unit": "tbsp",
+          "pantryKey": "sesame-oil"
+        },
+        {
+          "name": "olive oil",
+          "qty": 2,
+          "unit": "tbsp",
+          "pantryKey": "olive-oil"
+        },
+        {
+          "name": "cilantro leaves (dressing)",
+          "qty": 2,
+          "unit": "tsp",
+          "pantryKey": "cilantro"
+        },
+        {
+          "name": "micro chives, arugula, celery, radish, ruby sorrel",
+          "qty": null,
+          "unit": "",
+          "pantryKey": "microgreens"
+        }
+      ],
+      "instructions": [
+        "Mix white and black sesame seeds. Season tuna with salt and pepper. Whisk egg whites to stiff peaks; brush onto tuna. Zest lime over tuna. Roll tuna in sesame seeds to coat; press evenly.",
+        "Heat grapeseed oil in nonstick pan over medium 3 minutes — not smoking. Sear one tuna at a time, tilting pan to create an oil reservoir and cooking each side until seeds toast but tuna stays rare.",
+        "Pickled cucumber: spiralize cucumbers (skin on); salt lightly. Heat water, sugar, vinegar, and coriander seeds until sugar dissolves; cool. Pour ¾ pickling liquid plus cilantro over cucumbers; marinate 5+ minutes. Marinate radish slices in remaining liquid 1-2 minutes before plating.",
+        "Dressing: whisk yuzu, lime juice, and lime zest. Slowly whisk in sesame oil and olive oil. Season and stir in cilantro.",
+        "Plate: drain marinated cucumbers; nest into center of plate using meat fork. Slice tuna into 5 pieces each; shingle over cucumber. Spoon dressing around and over. Scatter pickled radish. Top with microgreens."
+      ],
+      "notes": "Beverage pairing: Botanical Sling Cocktail. Source sushi-grade tuna from a fishmonger; never freeze. Substitute lime+lemon (2:1) for yuzu."
+    },
+    {
+      "id": "r389",
+      "name": "Raspberry Coulis (Gordon Ramsay)",
+      "source": "Gordon Ramsay MasterClass — Cooking II",
+      "sourceUrl": null,
+      "dateAdded": "2026-06-13",
+      "mealType": [
+        "dessert"
+      ],
+      "cuisine": [
+        "French"
+      ],
+      "protein": [
+        "vegetarian"
+      ],
+      "effort": "quick",
+      "status": "to-try",
+      "favorite": false,
+      "servings": 4,
+      "prepTime": null,
+      "cookTime": null,
+      "ingredients": [
+        {
+          "name": "fresh or frozen raspberries",
+          "qty": 600,
+          "unit": "g",
+          "pantryKey": "raspberries"
+        },
+        {
+          "name": "granulated sugar",
+          "qty": 6,
+          "unit": "tbsp",
+          "pantryKey": "sugar"
+        },
+        {
+          "name": "water",
+          "qty": 6,
+          "unit": "tbsp",
+          "pantryKey": null
+        }
+      ],
+      "instructions": [
+        "Combine raspberries, sugar, and water in a medium saucepan. Cover and steam 5-8 minutes until berries break down.",
+        "Uncover and reduce 5 minutes until syrupy. Do not let liquid brown.",
+        "Blend on low, increasing to high, 1 minute until jam-like.",
+        "Pass through a sieve into a bowl. Reserve 100 g for soufflé base; keep remaining warm or room temp for plating."
+      ],
+      "notes": "Sub frozen raspberry purée (Boiron brand) if short on time. Coulis is French for a strained fruit/vegetable purée used as a sauce."
     }
   ],
   "pantryItems": [
@@ -38775,6 +40410,66 @@
     {
       "key": "red-potatoes",
       "name": "Red Potatoes",
+      "category": "produce"
+    },
+    {
+      "key": "king-trumpet-mushrooms",
+      "name": "King Trumpet Mushrooms",
+      "category": "produce"
+    },
+    {
+      "key": "red-endive",
+      "name": "Red Endive",
+      "category": "produce"
+    },
+    {
+      "key": "szechuan-peppercorns",
+      "name": "Szechuan Peppercorns",
+      "category": "spice"
+    },
+    {
+      "key": "thai-basil",
+      "name": "Thai Basil",
+      "category": "produce"
+    },
+    {
+      "key": "harissa-powder",
+      "name": "Harissa Powder",
+      "category": "spice"
+    },
+    {
+      "key": "caviar",
+      "name": "Caviar",
+      "category": "protein"
+    },
+    {
+      "key": "udon-noodles",
+      "name": "Udon Noodles",
+      "category": "grain"
+    },
+    {
+      "key": "hoisin-sauce",
+      "name": "Hoisin Sauce",
+      "category": "pantry-staple"
+    },
+    {
+      "key": "porcini-mushrooms",
+      "name": "Porcini Mushrooms",
+      "category": "produce"
+    },
+    {
+      "key": "new-potatoes",
+      "name": "New Potatoes",
+      "category": "produce"
+    },
+    {
+      "key": "baby-leeks",
+      "name": "Baby Leeks",
+      "category": "produce"
+    },
+    {
+      "key": "navel-orange",
+      "name": "Navel Orange",
       "category": "produce"
     }
   ],
